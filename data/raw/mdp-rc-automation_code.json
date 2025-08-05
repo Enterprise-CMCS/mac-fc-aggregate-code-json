@@ -1,0 +1,75 @@
+{
+  "name": "mdp-rc-automation",
+  "description": "",
+  "longDescription": "Automated testing framework used to run after the MDP Rebate Calculation process completes to validate the results of the run.",
+  "status": "Ideation",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "n/a"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/mdp-rc-automation",
+  "projectURL": "portal.cms.gov",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 9055,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [
+    "mac",
+    "linux"
+  ],
+  "categories": [
+    "test-management"
+  ],
+  "softwareType": "addon",
+  "languages": [
+    "JavaScript",
+    "Groovy"
+  ],
+  "maintenance": "internal",
+  "contractNumber": "47QTCA20D000W:75FCMC24F0189",
+  "date": {
+    "created": "2023-06-12T16:03:38Z",
+    "lastModified": "2025-07-07T17:04:52Z",
+    "metaDataLastUpdated": "2025-07-07T17:06:30.508Z"
+  },
+  "tags": [
+    "testing"
+  ],
+  "contact": {
+    "email": "stephanie.hauf@cms.hhs.gov",
+    "name": "Stephanie Hauf"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/mdp-rc-automation/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "tools",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "Digital Services Group",
+  "projects": [
+    "Medicaid Drug Program"
+  ],
+  "systems": [
+    "Medicaid Drug Program"
+  ],
+  "upstream": "none",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

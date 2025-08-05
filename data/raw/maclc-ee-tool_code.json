@@ -1,0 +1,75 @@
+{
+  "name": "maclc-ee-tool",
+  "description": "Code to support automated generated of the Medicaid and CHIP Eligibility Operations and Enrollment Snapshot for MACLC Task 5.7",
+  "longDescription": "This repository houses code for the Eligibilty and Enrollment (E&E) Tool, which generates the Medicaid and CHIP Enrollment Operations and Eligibility (E&E) Snapshot in the DataConnect environment. ",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "None"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-ee-tool",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 4074,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics",
+    "data-visualization"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "date": {
+    "created": "2024-07-24T19:17:50Z",
+    "lastModified": "2025-07-17T20:34:07Z",
+    "metaDataLastUpdated": "2025-07-17T20:35:57.034Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "Enrollment and Eligibility"
+  ],
+  "contact": {
+    "email": "eward@mathematica-mpr.com",
+    "name": "Eva Ward"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/maclc-ee-tool/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS",
+  "projects": [
+    "None"
+  ],
+  "systems": [
+    "DataConnect"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

@@ -1,0 +1,81 @@
+{
+  "name": "tmsis-infra",
+  "app_id": "tmsis-infra",
+  "description": "This repository contains terragrunt and terraform modules for TMSIS infrastructure.",
+  "longDescription": "This repository contains terragrunt and terraform modules for TMSIS infrastructure as well as container definitions for clamav-scan and github-runner",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "https://github.com/Enterprise-CMCS/tmsis-infra/blob/main/README.md"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-infra/",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 3440,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "mac",
+    "linux",
+    "other"
+  ],
+  "categories": [
+    "cloud-management"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [
+    "Terragrunt",
+    "Terraform",
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
+  "date": {
+    "created": "2024-05-09T00:00:00-05:00",
+    "lastModified": "2025-06-05T00:00:00-05:00",
+    "metaDataLastUpdated": ""
+  },
+  "tags": [
+    "Terragrunt",
+    "Terraform",
+    "Python",
+    "Docker",
+    "TMSIS",
+    "CMS"
+  ],
+  "contact": {
+    "email": "cms_IT_service_desk@cms.hhs.gov",
+    "name": ""
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/tmsis-infra/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "tools",
+  "userInput": false,
+  "fismaLevel": "Low",
+  "group": "CMS",
+  "projects": [
+    "TMSIS"
+  ],
+  "systems": [],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Operational",
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 3
+}

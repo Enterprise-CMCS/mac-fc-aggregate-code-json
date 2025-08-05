@@ -1,0 +1,76 @@
+{
+  "name": "da-bh-databook",
+  "description": "",
+  "longDescription": "This repo contains all code needed to generate the Behavioral Health Data Book; including reading in codeset Excel workbooks, processing TAF DE and claims, flagging treatment for and service use related to substance use and mental health disorders, and generating output tables for reporting. Note: For 2022 BH Data Book, source code is in individual SUD and MH repos (archived).",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "None"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/da-bh-databook",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 8112,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "date": {
+    "created": "2025-02-20T19:34:25Z",
+    "lastModified": "2025-07-28T16:57:47Z",
+    "metaDataLastUpdated": "2025-08-01T00:18:20.006Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "Behavioral Health",
+    "Mental Health",
+    "Substance Use"
+  ],
+  "contact": {
+    "email": "amims@mathematica-mpr.com",
+    "name": ""
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/da-bh-databook/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "none"
+  ],
+  "systems": [
+    "DataConnect"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

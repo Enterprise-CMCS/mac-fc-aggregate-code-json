@@ -1,0 +1,74 @@
+{
+  "name": "maclc-shared-utils",
+  "description": "Code for shared utilities to be used within DataConnect Databricks for MACLC",
+  "longDescription": "This repository houses code for shared Databricks utilities that can be used across tasks on MACLC.",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "None"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-shared-utils",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 1657,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "date": {
+    "created": "2024-07-16T14:46:32Z",
+    "lastModified": "2025-07-18T19:23:02Z",
+    "metaDataLastUpdated": "2025-07-18T19:24:45.847Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "Enrollment and Eligibility"
+  ],
+  "contact": {
+    "email": "eward@mathematica-mpr.com",
+    "name": "Eva Ward"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/maclc-shared-utils/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS",
+  "projects": [
+    "None"
+  ],
+  "systems": [
+    "DataConnect"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

@@ -1,0 +1,73 @@
+{
+  "name": "maclc-ctac-monthly",
+  "description": "CTAC Monthly System",
+  "longDescription": "Contains files required to run the monthly CTAC data pipeline.",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-ctac-monthly",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 1071,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "date": {
+    "created": "2024-10-24T14:46:44Z",
+    "lastModified": "2025-07-09T12:11:38Z",
+    "metaDataLastUpdated": "2025-08-01T00:15:15.021Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data"
+  ],
+  "contact": {
+    "email": "kserrano@mathematica-mpr.com",
+    "name": "Kyle Serrano"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/maclc-ctac-monthly/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "MACLC",
+    "CTAC"
+  ],
+  "systems": [
+    "DataConnect",
+    "CCW VRDC"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

@@ -1,0 +1,75 @@
+{
+  "name": "da-equity-analytics",
+  "description": "",
+  "longDescription": "This repository contains the code to generate the datasets that support the Health Equity Dashboard and Issue briefs",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "N/A"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/da-equity-analytics",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 10760,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "Python",
+    "SAS",
+    "Batchfile"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "date": {
+    "created": "2023-07-10T20:21:51Z",
+    "lastModified": "2025-07-10T14:26:56Z",
+    "metaDataLastUpdated": "2025-07-10T14:30:40.034Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data"
+  ],
+  "contact": {
+    "email": "amims@mathematica-mpr.com",
+    "name": "Amanda Mims"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/da-equity-analytics/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "N/A"
+  ],
+  "systems": [
+    "DataConnect"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

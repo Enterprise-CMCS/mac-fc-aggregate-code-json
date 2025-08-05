@@ -1,0 +1,75 @@
+{
+  "name": "da-taf-ivv",
+  "description": "",
+  "longDescription": "This repo contains code to generate subsets of TAF and then compare those subsets to the production component. This serves as an independent check on implementation correctness for changes in TAF business logic.",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/da-taf-ivv",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 10901,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "Python",
+    "Jupyter Notebook"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "date": {
+    "created": "2024-03-21T12:46:12Z",
+    "lastModified": "2025-07-18T18:26:00Z",
+    "metaDataLastUpdated": "2025-08-01T00:04:00.011Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "TAF QC"
+  ],
+  "contact": {
+    "email": "yzheng@mathematica-mpr.com",
+    "name": "Yuhong Zheng"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/da-taf-ivv/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "None"
+  ],
+  "systems": [
+    "DataConnect"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

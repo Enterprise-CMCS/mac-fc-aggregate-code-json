@@ -1,0 +1,75 @@
+{
+  "name": "macdc-databricks-notebooks",
+  "description": "This repository contains Databricks-compatible artifacts including notebooks, scripts, and execution modules required for DataConnect's data processing pipeline implementation and analytics workflows.",
+  "longDescription": "This repository is for DataConnect's internal use to house Notebooks and other code that we need to run in Databricks.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "CC0-1.0",
+        "URL": "https://github.com/Enterprise-CMCS/macdc-databricks-notebooks/blob/main/LICENSE"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-databricks-notebooks",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 4467,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "cloud-management",
+    "data-analytics"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [
+    "Python",
+    "Shell"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC21F0108",
+  "date": {
+    "created": "2023-01-05T18:41:41Z",
+    "lastModified": "2025-07-24T20:48:35Z",
+    "metaDataLastUpdated": "2025-08-01T00:30:41.774Z"
+  },
+  "tags": [
+    "AWS",
+    "Lambda",
+    "DataConnect",
+    "MAC_DC"
+  ],
+  "contact": {
+    "email": "dataconnect@cmsdataconnect.us",
+    "name": "Zach Holden"
+  },
+  "feedbackMechanisms": [
+    "github.com/Enterprise-CMCS/macdc-databricks-notebooks/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "application",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS",
+  "projects": [
+    "DataConnect"
+  ],
+  "systems": [],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

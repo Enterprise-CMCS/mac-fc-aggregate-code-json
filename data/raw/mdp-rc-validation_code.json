@@ -1,0 +1,75 @@
+{
+  "name": "mdp-rc-validation",
+  "description": "",
+  "longDescription": "The main goal of this repo is to validate the outputs of the RC and BPD process and evaluate the data quality of the inputs using sqlmesh",
+  "status": "Ideation",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "n/a"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/mdp-rc-validation",
+  "projectURL": "portal.cms.gov",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 5316,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [
+    "mac",
+    "linux"
+  ],
+  "categories": [
+    "test-management"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "Jupyter Notebook",
+    "Shell",
+    "Python"
+  ],
+  "maintenance": "internal",
+  "contractNumber": "47QTCA20D000W:75FCMC24F0189",
+  "date": {
+    "created": "2023-06-12T16:04:52Z",
+    "lastModified": "2025-07-03T18:37:13Z",
+    "metaDataLastUpdated": "2025-07-03T18:38:58.337Z"
+  },
+  "tags": [
+    "sql",
+    "sqlmesh"
+  ],
+  "contact": {
+    "email": "stephanie.hauf@cms.hhs.gov",
+    "name": "Stephanie Hauf"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/mdp-rc-validation/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "tools",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "Digital Services Group",
+  "projects": [
+    "Medicaid Drug Program"
+  ],
+  "systems": [],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

@@ -1,0 +1,72 @@
+{
+  "name": "mac-fc-embedded",
+  "description": "This repo is used to test different CDK and Security Sync Proof-Of-Concepts (POCs) for MACBIS teams.",
+  "longDescription": "This repo is used to test different CDK and Security Sync Proof-Of-Concepts (POCs) for MACBIS teams.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/mac-fc-embedded",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 11521,
+  "reuseFrequency": {
+    "forks": 790
+  },
+  "platforms": [
+    "linux"
+  ],
+  "categories": [
+    "it-development"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [
+    "Javascript"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "47QTCA21D00AC",
+  "date": {
+    "created": "2023-03-23T16:40:53Z",
+    "lastModified": "2025-05-29T18:09:46Z",
+    "metaDataLastUpdated": "2025-06-01T00:18:04.619Z"
+  },
+  "tags": [
+    "mac-fc-embedded",
+    "mac-fc-embedded POCs",
+    "POCs"
+  ],
+  "contact": {
+    "email": "yonas@samtek.io",
+    "name": "Samtek"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/mac-fc-embedded/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "tools",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "MACBIS Embedded"
+  ],
+  "systems": [],
+  "upstream": [],
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

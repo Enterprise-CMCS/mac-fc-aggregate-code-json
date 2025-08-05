@@ -1,0 +1,75 @@
+{
+  "name": "macdc-dqe",
+  "description": "Python Adaptive Library Engineering Toolkit",
+  "longDescription": "Python Adaptive Library Engineering Toolkit. The DataConnect Query Engine was created to aid users in creating curated data ready for analysis. The Query Engine allows users to quickly and easily use existing modules to create custom queries and create meaningful datasets that can power analyses and dashboards.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "CC0-1.0",
+        "URL": "https://github.com/Enterprise-CMCS/macdc-dqe?tab=CC0-1.0-1-ov-file"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-dqe",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 12807,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 151
+  },
+  "platforms": [
+    "windows",
+    "mac",
+    "linux"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "library",
+  "languages": [
+    "Python",
+    "Shell",
+    "Makefile"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC21F0108",
+  "date": {
+    "created": "2021-11-15T17:21:09Z",
+    "lastModified": "2025-07-24T20:50:11Z",
+    "metaDataLastUpdated": "2025-08-01T00:03:15.705Z"
+  },
+  "tags": [
+    "dqe"
+  ],
+  "contact": {
+    "email": "dataconnect@cmsdataconnect.us",
+    "name": "Zach Holden"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/macdc-dqe/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "libraries",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "DataConnect",
+  "projects": [
+    "DataConnect"
+  ],
+  "systems": [],
+  "upstream": "https://github.com/Enterprise-CMCS/macdc-dqe/network/dependencies",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

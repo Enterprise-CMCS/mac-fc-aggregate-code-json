@@ -1,0 +1,78 @@
+{
+  "name": "tmsis-devsecops-tools",
+  "app_id": "tmsis-devsecops-tools",
+  "description": "This repository contains devops used tools.",
+  "longDescription": "This repository contains tools used for DevSecOps in the TMSIS project.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "https://github.com/Enterprise-CMCS/tmsis-devsecops-tools/blob/main/README.md"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-devsecops-tools/",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 3440,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "mac",
+    "linux",
+    "other"
+  ],
+  "categories": [
+    "cloud-management"
+  ],
+  "softwareType": "tools",
+  "languages": [
+    "Python",
+    "Makefile"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
+  "date": {
+    "created": "2024-05-09T00:00:00-05:00",
+    "lastModified": "2025-06-05T00:00:00-05:00",
+    "metaDataLastUpdated": ""
+  },
+  "tags": [
+    "Github Actions",
+    "Python",
+    "TMSIS",
+    "CMS"
+  ],
+  "contact": {
+    "email": "cms_IT_service_desk@cms.hhs.gov",
+    "name": ""
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/tmsis-devsecops-tools/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "tools",
+  "userInput": false,
+  "fismaLevel": "Low",
+  "group": "CMS",
+  "projects": [
+    "TMSIS"
+  ],
+  "systems": [],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Operational",
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 3
+}

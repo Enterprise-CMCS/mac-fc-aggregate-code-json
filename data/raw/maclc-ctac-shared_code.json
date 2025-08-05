@@ -1,0 +1,73 @@
+{
+  "name": "maclc-ctac-shared",
+  "description": "CTAC Shared Programs",
+  "longDescription": "Contains global functions and shared code used by the analytics systems in the CTAC project.",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-ctac-shared",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 1071,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "date": {
+    "created": "2025-02-26T15:22:01Z",
+    "lastModified": "2025-07-10T19:03:21Z",
+    "metaDataLastUpdated": "2025-08-01T00:27:31.576Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data"
+  ],
+  "contact": {
+    "email": "kserrano@mathematica-mpr.com",
+    "name": "Kyle Serrano"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/maclc-ctac-shared/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "MACLC",
+    "CTAC"
+  ],
+  "systems": [
+    "DataConnect",
+    "CCW VRDC"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

@@ -1,0 +1,82 @@
+{
+  "name": "macpro-mmdl",
+  "description": "A web-based platform for state submissions and management of various Medicaid programs including Health Home State Plan Amendments, Recovery Audit Contractor Reports, and Payment Suspensions.",
+  "longDescription": "The Medicaid Model Data Lab (MMDL) is a comprehensive web-based platform that enables state Medicaid programs to prepare, submit, and review various types of submissions and reports. The application includes modules for Health Home State Plan Amendment (HHS), Medicaid Recovery Audit Contractor (RAC) Reports, Medicaid Payment Suspensions - State Annual Reports, and Balancing Incentive Program (BIP) submissions. Built with Java/J2EE technology stack including JSP, Struts, EJB, and Oracle database, MMDL provides a centralized portal for state users to access documentation, training materials, and submit required Medicaid program data to CMS.",
+  "status": "Active",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "CC0-1.0",
+        "URL": "https://github.com/Enterprise-CMCS/macpro-mmdl/blob/master/LICENSE.md"
+      }
+    ],
+    "usageType": "openSource",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macpro-mmdl",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "Private",
+  "vcs": "git",
+  "laborHours": 29986,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [
+    "web"
+  ],
+  "categories": [
+    "compliance-management",
+    "healthcare"
+  ],
+  "softwareType": "standalone/web",
+  "languages": [
+    "Java",
+    "HTML",
+    "PLSQL",
+    "CSS",
+    "Shell",
+    "JavaScript"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "GS-35F-115GA:75FCMC22F0093",
+  "date": {
+    "created": "2023-10-28T01:40:04Z",
+    "lastModified": "2025-07-16T17:04:17Z",
+    "metaDataLastUpdated": "2025-07-16T17:50:33.818Z"
+  },
+  "tags": [
+    "medicaid",
+    "state submissions",
+    "healthcare reporting",
+    "web application",
+    "oracle database"
+  ],
+  "contact": {
+    "email": "angel.frett@cms.hhs.gov",
+    "name": "Angel Frett"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/macpro-mmdl/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "application",
+  "userInput": true,
+  "fismaLevel": "Moderate",
+  "group": "CMS/CMCS/DSG/DIS",
+  "projects": [
+    "MACPRO"
+  ],
+  "systems": [],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government",
+    "States"
+  ],
+  "maturityModelTier": 2
+}

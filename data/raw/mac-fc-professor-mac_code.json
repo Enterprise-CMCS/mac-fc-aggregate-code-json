@@ -1,0 +1,85 @@
+{
+  "name": "mac-fc-professor-mac",
+  "description": "A multi-functional DevSecFinOps (DSFO) observability tool for MACBIS product teams and CMS stakeholders",
+  "longDescription": "ProfessorMAC is a centralized observability tool empowering government leaders and technology contractors to seamlessly monitor and optimize cost, security, and DevOps maturity across diverse infrastructure landscapes. By bridging the gaps in visibility across teams, ProfessorMAC empowers CMS to deliver MACBIS products at lower costs with informed, data-driven decisions. ProfessorMAC provides insight into Cost Management, Security, and DevSecOps. ",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/mac-fc-professor-mac",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "internal",
+  "vcs": "git",
+  "laborHours": 11521,
+  "reuseFrequency": {
+    "forks": 790
+  },
+  "platforms": [
+    "web"
+  ],
+  "categories": [
+    "budgeting",
+    "it-security"
+  ],
+  "softwareType": "standalone/web",
+  "languages": [
+    "Go",
+    "TypeScript",
+    "HCL",
+    "Shell",
+    "Python",
+    "Dockerfile",
+    "CSS",
+    "HTML",
+    "JavaScript"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "47QTCA21D00AC",
+  "date": {
+    "created": "2023-03-23T16:40:53Z",
+    "lastModified": "2025-05-29T18:09:46Z",
+    "metaDataLastUpdated": "2025-06-01T00:18:04.619Z"
+  },
+  "tags": [
+    "security",
+    "devsecops",
+    "budgeting",
+    "cost management"
+  ],
+  "contact": {
+    "email": "cms-macfc@corbalt.com",
+    "name": "Corbalt"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/mac-fc-professor-mac/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "website",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "ProfessorMAC"
+  ],
+  "systems": [
+    "CMS Microsoft Entra ID",
+    "CMS Design System"
+  ],
+  "upstream": [],
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

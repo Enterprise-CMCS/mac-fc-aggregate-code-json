@@ -1,0 +1,81 @@
+{
+  "name": "mac-fc-teams-api",
+  "description": "An API with endpoints for current MACBIS teams, accounts, users, and roles.",
+  "longDescription": "An API that is used by MAC-FC applications to manage and retrieve information about teams, accounts, users, and roles within the MACBIS system. It is a centralized service for accessing and manipulating team-related data.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/mac-fc-teams-api",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "internal",
+  "vcs": "git",
+  "laborHours": 0,
+  "reuseFrequency": {
+    "forks": 790
+  },
+  "platforms": [
+    "linux"
+  ],
+  "categories": [
+    "budgeting",
+    "it-security"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [
+    "Go",
+    "TypeScript",
+    "HCL",
+    "Shell",
+    "CSS",
+    "HTML",
+    "JavaScript"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "47QTCA21D00AC",
+  "date": {
+    "created": "2024-11-24T16:38:00Z",
+    "lastModified": "",
+    "metaDataLastUpdated": ""
+  },
+  "tags": [
+    "teams",
+    "users",
+    "accounts"
+  ],
+  "contact": {
+    "email": "cms-macfc@corbalt.com",
+    "name": "Corbalt"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/mac-fc-teams-api/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "tools",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "Teams API"
+  ],
+  "systems": [
+    "CMS Design System"
+  ],
+  "upstream": [],
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

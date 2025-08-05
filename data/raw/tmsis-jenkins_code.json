@@ -1,0 +1,82 @@
+{
+  "name": "tmsis-jenkins",
+  "description": "Jenkins Job Definitions and Scripts",
+  "longDescription": "Jenkins Job Definitions and Scripts for TMSIS",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "https://github.com/Enterprise-CMCS/tmsis-jenkins/blob/main/README.md"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-jenkins/",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 1829,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "mac",
+    "linux",
+    "other"
+  ],
+  "categories": [
+    "cloud-management"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [
+    "Groovy",
+    "Python",
+    "Bash",
+    "Terraform"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
+  "date": {
+    "created": "2023-04-06T00:00:00-05:00",
+    "lastModified": "2025-07-07T00:00:00-05:00",
+    "metaDataLastUpdated": ""
+  },
+  "tags": [
+    "Python",
+    "Groovy",
+    "Terraform",
+    "Bash",
+    "Jenkins",
+    "TMSIS",
+    "CMS"
+  ],
+  "contact": {
+    "email": "cms_IT_service_desk@cms.hhs.gov",
+    "name": ""
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/tmsis-jenkins/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "tools",
+  "userInput": false,
+  "fismaLevel": "High",
+  "group": "CMS",
+  "projects": [
+    "TMSIS"
+  ],
+  "systems": [],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Operational",
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

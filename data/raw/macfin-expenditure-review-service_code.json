@@ -1,0 +1,87 @@
+{
+  "name": "macfin-expenditure-review-service",
+  "description": "Review of Expenditures for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid and CHIP.",
+  "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "https://github.com/Enterprise-CMCS/macfin-expenditure-review-service/blob/develop/LICENSE"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macfin-expenditure-review-service",
+  "projectURL": "https://portal.cms.gov/portal/",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 14861,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 25
+  },
+  "platforms": [
+    "web",
+    "windows",
+    "linux"
+  ],
+  "categories": [
+    "accounting",
+    "budgeting",
+    "financial-reporting",
+    "it-development",
+    "workflow-management",
+    "email-management"
+  ],
+  "softwareType": "standalone/web",
+  "languages": [
+    "Gherkin",
+    "Java",
+    "HTML",
+    "PLpgSQL"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "GS-35F-303GA",
+  "date": {
+    "created": "2023-08-28T20:45:12Z",
+    "lastModified": "2025-06-26T13:40:07Z",
+    "metaDataLastUpdated": "2025-07-01T00:28:18.815Z"
+  },
+  "tags": [
+    "#macfin",
+    "#budgeting",
+    "#expenditure",
+    "#financial",
+    "#financial-management",
+    "#financial-systems",
+    "#financial-management-software"
+  ],
+  "contact": {
+    "email": "MACFinHelpDesk@cms.hhs.gov",
+    "name": "MACFin HelpDesk"
+  },
+  "feedbackMechanisms": [
+    "Emails"
+  ],
+  "localisation": false,
+  "repositoryType": "APIs",
+  "userInput": true,
+  "fismaLevel": "Moderate",
+  "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
+  "projects": [
+    "MACFin"
+  ],
+  "systems": "",
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 3
+}

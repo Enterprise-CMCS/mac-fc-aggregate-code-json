@@ -1,0 +1,74 @@
+{
+  "name": "da-dq-atlas-automation",
+  "description": "",
+  "longDescription": "This is a package to calculate data quality measures on T-MSIS Analytic Files (TAF) using SAS",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "n/a"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/da-dq-atlas-automation",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 8400,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "SAS"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "date": {
+    "created": "2023-07-10T15:14:17Z",
+    "lastModified": "2025-07-09T17:11:13Z",
+    "metaDataLastUpdated": "2025-08-01T00:02:31.166Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "Medicaid Data Quality"
+  ],
+  "contact": {
+    "email": "xbarry@mathematica-mpr.com",
+    "name": "Xiao Barry"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/da-dq-atlas-automation/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "none"
+  ],
+  "systems": [
+    "DataConnect"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

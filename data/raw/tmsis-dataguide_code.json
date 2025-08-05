@@ -1,0 +1,83 @@
+{
+  "name": "tmsis-dataguide",
+  "description": "CMS for TMSIS Data Guide, enabling editing and static site publishing. Supports V3 & V4, each in separate codebases.",
+  "longDescription": "Wagtail CMS centralizes TMSIS Data Guide content from multiple sources. Editors manage content via an admin portal. Uses Wagtail Bakery & Django Bakery to generate and publish static sites to S3. V3 and V4 are maintained in separate folders; updates must be applied to both as needed.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "https://github.com/Enterprise-CMCS/tmsis-dataguide/blob/main/README.md"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-dataguide/",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 4270,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "mac",
+    "linux",
+    "other"
+  ],
+  "categories": [
+    "cloud-management"
+  ],
+  "softwareType": "standalone/web",
+  "languages": [
+    "JavaScript",
+    "Python",
+    "HTML",
+    "Terraform",
+    "CSS"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
+  "date": {
+    "created": "2022-02-15T00:00:00-05:00",
+    "lastModified": "2025-06-18T00:00:00-05:00",
+    "metaDataLastUpdated": ""
+  },
+  "tags": [
+    "JavaScript",
+    "Python",
+    "HTML",
+    "Terraform",
+    "CSS",
+    "TMSIS",
+    "CMS"
+  ],
+  "contact": {
+    "email": "cms_IT_service_desk@cms.hhs.gov",
+    "name": ""
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/tmsis-dataguide/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "website",
+  "userInput": true,
+  "fismaLevel": "Low",
+  "group": "CMS",
+  "projects": [
+    "TMSIS"
+  ],
+  "systems": [],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Operational",
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

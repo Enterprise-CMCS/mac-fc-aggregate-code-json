@@ -1,0 +1,76 @@
+{
+  "name": "maclc-ctac-sandbox",
+  "description": "CTAC Sandbox",
+  "longDescription": "",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-ctac-sandbox",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 2572,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "Python",
+    "Jupyter Notebook"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "date": {
+    "created": "2025-02-27T22:01:17Z",
+    "lastModified": "2025-07-10T19:04:33Z",
+    "metaDataLastUpdated": "2025-08-01T00:43:20.177Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data"
+  ],
+  "contact": {
+    "email": "kserrano@mathematica-mpr.com",
+    "name": "Kyle Serrano"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/maclc-ctac-sandbox/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "MACLC",
+    "CTAC"
+  ],
+  "systems": [
+    "DataConnect",
+    "CCW VRDC"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

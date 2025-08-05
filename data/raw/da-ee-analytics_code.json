@@ -1,0 +1,77 @@
+{
+  "name": "da-ee-analytics",
+  "description": "a centralized location to build analytics projects from Unwinding, Performance Indicators, and CTAC data",
+  "longDescription": "The Eligibility and Enrollment repository is a centralized location to build analytics projects from the following data sources: COVID Unwinding Data, State Performance Indicators, and Coverage Transition Analysis Capabilities (CTAC). Current projects contained are: Renewals Compliance",
+  "status": "Ideation",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "None"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/da-ee-analytics",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 480,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "web"
+  ],
+  "categories": [
+    "compliance-management",
+    "data-analytics",
+    "data-visualization"
+  ],
+  "softwareType": "standalone/web",
+  "languages": [
+    "python"
+  ],
+  "maintenance": "none",
+  "contractNumber": "47QTCA23D007S",
+  "date": {
+    "created": "2025-02-10T00:00:00-05:00",
+    "lastModified": "2025-04-11T00:00:00-04:00",
+    "metaDataLastUpdated": "2025-04-11T00:00:00-04:00"
+  },
+  "tags": [
+    "compliance",
+    "eligibility",
+    "enrollment",
+    "unwinding"
+  ],
+  "contact": {
+    "email": "cmcs-stride@forpeople.us",
+    "name": "STRIDE"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/da-ee-analytics/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "website",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "Renewals Compliance"
+  ],
+  "systems": [
+    "DataConnect"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

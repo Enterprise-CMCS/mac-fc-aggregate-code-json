@@ -1,0 +1,78 @@
+{
+  "name": "macdc-etl",
+  "description": "This repository maintains the source code for DataConnect's extract-transform-load operations, including data transformation modules, pipeline definitions, and associated orchestration processes.",
+  "longDescription": "This repository is where DataConnect is putting all of its ETL code and processes.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "CC0-1.0",
+        "URL": "https://github.com/Enterprise-CMCS/macdc-etl/blob/main/LICENSE"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-etl",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 18559,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "cloud-management",
+    "data-analytics"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [
+    "Python",
+    "HiveQL",
+    "Jupyter Notebook",
+    "Shell",
+    "Makefile"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC21F0108",
+  "date": {
+    "created": "2023-01-26T18:37:29Z",
+    "lastModified": "2025-07-30T16:57:31Z",
+    "metaDataLastUpdated": "2025-08-01T00:13:34.208Z"
+  },
+  "tags": [
+    "AWS",
+    "Lambda",
+    "DataConnect",
+    "MAC_DC"
+  ],
+  "contact": {
+    "email": "dataconnect@cmsdataconnect.us",
+    "name": "Zach Holden"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/macdc-etl/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "application",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS",
+  "projects": [
+    "DataConnect"
+  ],
+  "systems": [],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

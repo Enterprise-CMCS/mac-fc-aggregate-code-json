@@ -1,0 +1,76 @@
+{
+  "name": "da-macdc-support-team-data-requests",
+  "description": "This repository will contain an archive of code and methodology documentation used to respond to DataConnect support desk analytic requests. The purpose of this repository is to promote open sharing of prior request methods to enhance productivity on answering future requests.",
+  "longDescription": "Repository containing supporting materials (code, technical specifications) for DataConnect Support Team data request tickets.",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/da-macdc-support-team-data-requests",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 10560,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "HTML",
+    "SAS",
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091:75FCMC21F0001",
+  "date": {
+    "created": "2023-06-29T16:45:01Z",
+    "lastModified": "2025-07-18T15:38:42Z",
+    "metaDataLastUpdated": "2025-08-01T00:28:08.397Z"
+  },
+  "tags": [
+    "Medicaid",
+    " Medicaid Data",
+    " Data Request"
+  ],
+  "contact": {
+    "email": "dwinsor@mathematica-mpr.com",
+    "name": "Derek Winsor"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/da-macdc-support-team-data-requests/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "none"
+  ],
+  "systems": [
+    "DataConnect"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

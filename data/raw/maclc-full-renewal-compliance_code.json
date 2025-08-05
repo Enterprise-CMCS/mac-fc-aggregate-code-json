@@ -1,0 +1,74 @@
+{
+  "name": "maclc-full-renewal-compliance",
+  "description": "",
+  "longDescription": "This repo houses code for digesting and cleaning compliance report data submitted by states. This is done using python, funneled through Databricks, and can be run on an ad hoc basis using src/run_submission_pipeline.py.",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "None"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-full-renewal-compliance",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 3897,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091/75FCMC23F0001",
+  "date": {
+    "created": "2025-01-23T14:11:41Z",
+    "lastModified": "2025-07-16T16:33:46Z",
+    "metaDataLastUpdated": "2025-08-01T00:04:17.639Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "Full Renewal Compliance"
+  ],
+  "contact": {
+    "email": "cmcshane@mathematica-mpr.com",
+    "name": "Claire McShane"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/maclc-full-renewal-compliance/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS",
+  "projects": [
+    "None"
+  ],
+  "systems": [
+    "DataConnect"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

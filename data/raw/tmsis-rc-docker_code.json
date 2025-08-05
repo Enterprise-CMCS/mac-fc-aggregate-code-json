@@ -1,0 +1,81 @@
+{
+  "name": "tmsis-rc-docker",
+  "description": "Receipt and Control is the system for detecting new T-MSIS files in S3.",
+  "longDescription": "Receipt and Control is the system for detecting new T-MSIS files in S3. It then ingests them into the system for later processing and generates ACK reports. The reports verify the basic formatting of the file and send back information about the file that was received to the state that submitted it.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "https://github.com/Enterprise-CMCS/tmsis-rc-docker/blob/main/README.md"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-rc-docker/",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 1714,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "mac",
+    "linux",
+    "other"
+  ],
+  "categories": [
+    "cloud-management"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [
+    "Python",
+    "Java",
+    "Terraform",
+    "Bash"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
+  "date": {
+    "created": "2021-02-05T00:00:00-05:00",
+    "lastModified": "2025-07-03T00:00:00-05:00",
+    "metaDataLastUpdated": ""
+  },
+  "tags": [
+    "Python",
+    "Java",
+    "Terraform",
+    "Bash",
+    "TMSIS",
+    "CMS"
+  ],
+  "contact": {
+    "email": "cms_IT_service_desk@cms.hhs.gov",
+    "name": ""
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/tmsis-rc-docker/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Low",
+  "group": "CMS",
+  "projects": [
+    "TMSIS"
+  ],
+  "systems": [],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Operational",
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

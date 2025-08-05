@@ -1,0 +1,75 @@
+{
+  "name": "MACScorecard",
+  "description": "The Scorecard aims improve public transparency about the administration and outcomes of the Medicaid and CHIP programs.",
+  "longDescription": "The Centers for Medicare & Medicaid Services (CMS) developed the Medicaid and Children’s Health Insurance Program (CHIP) Scorecard to improve public transparency about the administration and outcomes of these programs. States and CMS can use the Medicaid and CHIP (MAC) Scorecard to drive improvements in areas such as state and federal alignment, beneficiary health outcomes, and program administration.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "na"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/MACScorecard",
+  "projectURL": "https://www.medicaid.gov/state-overviews/scorecard/main",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 7047,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "windows"
+  ],
+  "categories": [
+    "data-processing",
+    "data-visualization"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [
+    "SAS"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC20F0002:75FCMC20F0002",
+  "date": {
+    "created": "2025-03-17T16:49:53Z",
+    "lastModified": "2025-07-17T18:24:29Z",
+    "metaDataLastUpdated": "2025-08-01T00:44:26.195Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "data-visualization",
+    "data-processing"
+  ],
+  "contact": {
+    "email": "abhurwitz@mathematica-mpr.com",
+    "name": "Alison Hurwitz"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/MACScorecard/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/IAPSS",
+  "projects": [],
+  "systems": [
+    "Medicaid.gov",
+    "DKAN"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

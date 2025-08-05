@@ -1,0 +1,75 @@
+{
+  "name": "macfc-cdk-construct",
+  "description": "A collection of enterprise-ready AWS CDK constructs developed by MACFC for secure, compliant, and efficient cloud infrastructure deployment.",
+  "longDescription": "A collection of enterprise-ready AWS CDK constructs developed by MACFC for secure, compliant, and efficient cloud infrastructure deployment.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macfc-cdk-construct",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "internal",
+  "vcs": "git",
+  "laborHours": 0,
+  "reuseFrequency": {
+    "forks": 790
+  },
+  "platforms": [
+    "linux"
+  ],
+  "categories": [
+    "it-development",
+    "it-security"
+  ],
+  "softwareType": "library",
+  "languages": [
+    "Typescript",
+    "JavaScript"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "47QTCA21D00AC",
+  "date": {
+    "created": "2024-11-24T16:38:00Z",
+    "lastModified": "",
+    "metaDataLastUpdated": ""
+  },
+  "tags": [
+    "MACBIS embedded",
+    "CDK",
+    "CDK constructs",
+    "CDK library"
+  ],
+  "contact": {
+    "email": "yonas@samtek.io",
+    "name": "Samtek"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/macfc-cdk-construct/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "libraries",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "MACBIS CDK Constructs"
+  ],
+  "systems": [],
+  "upstream": [],
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

@@ -1,0 +1,74 @@
+{
+  "name": "da-mfp-quarterly-reports",
+  "description": "",
+  "longDescription": "This repository contains the code to generate the Money Follows the Person (MFP) Transition Report output",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "N/A"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/da-mfp-quarterly-reports",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 3861,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "date": {
+    "created": "2024-02-20T16:41:18Z",
+    "lastModified": "2025-07-18T19:46:06Z",
+    "metaDataLastUpdated": "2025-07-18T19:48:07.996Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "MFP"
+  ],
+  "contact": {
+    "email": "amims@mathematica-mpr.com",
+    "name": "Amanda Mims"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/da-mfp-quarterly-reports/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "N/A"
+  ],
+  "systems": [
+    "DataConnect"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

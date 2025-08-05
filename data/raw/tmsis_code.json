@@ -1,0 +1,83 @@
+{
+  "name": "tmsis",
+  "app_id": "tmsis",
+  "description": "T-MSIS collects state Medicaid data, validates it, and processes it in EMR after successful receipt and control checks.",
+  "longDescription": "The [Transformed Medicaid Statistical Information} System](https://www.medicaid.gov/medicaid/data-and-systems/macbis/tmsis/index.html) (T-MSIS) receives claims and eligibility data from states via EFT, acknowledges the receipt and reports any errors via Receipt and Control, then kicks off a processing pipeline in Elastic Map Reduce (EMR) if all R+C checks are successful.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "https://github.com/Enterprise-CMCS/tmsis/blob/develop/README.md"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis/",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 19962,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "mac",
+    "linux",
+    "other"
+  ],
+  "categories": [
+    "cloud-management"
+  ],
+  "softwareType": "library",
+  "languages": [
+    "html",
+    "Java",
+    "Python",
+    "JavaScript",
+    "HCL",
+    "Bash"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
+  "date": {
+    "created": "2016-02-15T00:00:00-05:00",
+    "lastModified": "2025-07-07T00:00:00-05:00",
+    "metaDataLastUpdated": ""
+  },
+  "tags": [
+    "Java",
+    "Github Actions",
+    "Python",
+    "TMSIS",
+    "CMS"
+  ],
+  "contact": {
+    "email": "cms_IT_service_desk@cms.hhs.gov",
+    "name": ""
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/tmsis/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "application",
+  "userInput": true,
+  "fismaLevel": "High",
+  "group": "CMS",
+  "projects": [
+    "TMSIS"
+  ],
+  "systems": [],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Operational",
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 4
+}

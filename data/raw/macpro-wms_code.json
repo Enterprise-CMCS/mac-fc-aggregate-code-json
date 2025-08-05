@@ -1,0 +1,72 @@
+{
+  "name": "macpro-wms",
+  "description": "Waiver Management System (WMS) for managing Section 1915(c) Home and Community Based Services (HCBS) waivers and Section 1915(b) waivers for state Medicaid agencies.",
+  "longDescription": "The Waiver Management System (WMS) is a comprehensive web-based application that supports the complete lifecycle management of Medicaid waivers under Section 1915(c) and 1915(b) of the Social Security Act. The system enables state Medicaid agencies to create, submit, and manage waiver applications for Home and Community Based Services (HCBS) that allow individuals to receive long-term care services in their homes and communities rather than in institutional settings. Built on Java/J2EE technology with JSP web interfaces and Oracle database backend, the system provides sophisticated workflow management for waiver applications, amendments, and renewals. It supports multiple user types including state users, CMS Regional Office staff, and CMS Central Office reviewers, each with role-based permissions and access controls. Key features include comprehensive waiver application forms based on CMS templates, electronic submission and approval workflows, mandatory annual CMS-372 reporting capabilities, document version control, audit trails, and extensive reporting and analytics. The system ensures compliance with federal regulations while streamlining the complex process of waiver management for both states and CMS reviewers.",
+  "status": "Active",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "CC0-1.0",
+        "URL": "https://github.com/Enterprise-CMCS/macpro-wms/blob/master/LICENSE.md"
+      }
+    ],
+    "usageType": "openSource",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macpro-wms",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 31978,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": ["web"],
+  "categories": ["compliance-management", "healthcare", "data-management", "workflow-management"],
+  "softwareType": "standalone/web",
+  "languages": [
+    "Java",
+    "HTML",
+    "PLSQL",
+    "CSS",
+    "JavaScript"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "GS-35F-115GA:75FCMC22F0093",
+  "date": {
+    "created": "2023-04-28T19:57:05Z",
+    "lastModified": "2025-07-16T17:04:58Z",
+    "metaDataLastUpdated": "2025-07-16T17:09:37.480Z"
+  },
+  "tags": [
+    "medicaid",
+    "waiver-management",
+    "hcbs",
+    "1915c",
+    "1915b",
+    "cms-372-reporting",
+    "long-term-care",
+    "state-medicaid-agencies"
+  ],
+  "contact": {
+    "email": "angel.frett@cms.hhs.gov",
+    "name": "Angel Frett"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/macpro-wms/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "application",
+  "userInput": true,
+  "fismaLevel": "Moderate",
+  "group": "CMS/CMCS/DSG/DIS",
+  "projects": ["MACPRO"],
+  "systems": [],
+  "upstream": "",
+  "subsetInHealthcare": ["Medicaid"],
+  "userType": ["Government", "States"],
+  "maturityModelTier": 2
+}

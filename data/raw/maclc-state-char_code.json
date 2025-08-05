@@ -1,0 +1,74 @@
+{
+  "name": "maclc-state-char",
+  "description": "",
+  "longDescription": "This repo houses code run in Databricks to put together the State Characteristics table from different files Mathematica tracks for state context. This work is organized under subtask 5.2 of Mathematica's MACLC contract. ",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-state-char",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 2269,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091/75FCMC23F0001",
+  "date": {
+    "created": "2024-08-23T15:05:38Z",
+    "lastModified": "2025-07-28T19:29:28Z",
+    "metaDataLastUpdated": "2025-08-01T00:33:34.926Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "State Characteristics"
+  ],
+  "contact": {
+    "email": "hhuntzinger@mathematica-mpr.com",
+    "name": "Holden Huntzinger"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/maclc-state-char/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS",
+  "projects": [
+    "none"
+  ],
+  "systems": [
+    "DataConnect"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

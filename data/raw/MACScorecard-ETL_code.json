@@ -1,0 +1,75 @@
+{
+  "name": "MACScorecard-ETL",
+  "description": "The Scorecard aims improve public transparency about the administration and outcomes of the Medicaid and CHIP programs",
+  "longDescription": "The Centers for Medicare & Medicaid Services (CMS) developed the Medicaid and Children’s Health Insurance Program (CHIP) Scorecard to improve public transparency about the administration and outcomes of these programs. States and CMS can use the Medicaid and CHIP (MAC) Scorecard to drive improvements in areas such as state and federal alignment, beneficiary health outcomes, and program administration. This code takes data input and adds that to data.medicaid.gov, which is the data repository for the MAC Scorecard.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "na"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/MACScorecard-ETL",
+  "projectURL": "https://www.medicaid.gov/state-overviews/scorecard/main",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 32245,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "web"
+  ],
+  "categories": [
+    "data-visualization"
+  ],
+  "softwareType": "standalone/web",
+  "languages": [
+    "Python",
+    "Shell",
+    "Dockerfile"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091:75FCMC21F0001",
+  "date": {
+    "created": "2023-03-09T19:42:24Z",
+    "lastModified": "2025-07-09T18:08:12Z",
+    "metaDataLastUpdated": "2025-07-09T18:28:35.034Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "data-visualization"
+  ],
+  "contact": {
+    "email": "bhunscher@mathematica-mpr.com",
+    "name": "Brian Hunscher"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/MACScorecard-ETL/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "website",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [],
+  "systems": [
+    "Medicaid.gov",
+    "DKAN"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

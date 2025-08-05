@@ -1,0 +1,8 @@
+{  
+"name": "macpro-appian",  
+"description": "MACPro System Submission Portal",  
+"longDescription": "This the code repo for the MACPro System Submission Portal. This code repo is for the Appian based BPM that supports the MACPro System. This Submission portal is for the data entry and submission of SPAs to CMS.",  
+"status": "Production",  
+"permissions": {"licenses": [{"name": "Apache-2.0","URL": "https://github.com/Enterprise-CMCS/macpro-appian?tab=Apache-2.0-1-ov-file"}],"usageType": "governmentWideReuse","exemptionText": ""  },  
+"organization": "Centers for Medicare & Medicaid Services"
+}

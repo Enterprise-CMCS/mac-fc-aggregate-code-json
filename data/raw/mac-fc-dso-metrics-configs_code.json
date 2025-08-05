@@ -1,0 +1,80 @@
+{
+  "name": "mac-fc-dso-metrics-configs",
+  "description": "This repo stores configuration files for gathering DSO Metrics events for CMCS teams. Config files for each team are located in configs/<team>/<app>/<config-name>.yml. Each team chooses whatever app names are convenient for the organization of your configs.",
+  "longDescription": "This repo stores the program cmd/process-config that takes 1 config file as an input. Config files for each team are located in configs/<team>/<app>/<config-name>.yml. The program runs the command scan-github wh which must be available via $PATH.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/mac-fc-dso-metrics-configs",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 100,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 5
+  },
+  "platforms": [
+    "linux"
+  ],
+  "categories": [
+    "it-management",
+    "it-development",
+    "data-collection"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [
+    "golang",
+    "yaml"
+  ],
+  "maintenance": "internal",
+  "contractNumber": "47QTCA21D00AC",
+  "date": {
+    "created": "2025-01-30T00:00:00-05:00",
+    "lastModified": "2025-05-01T00:00:00-04:00",
+    "metaDataLastUpdated": ""
+  },
+  "tags": [
+    "mac-fc-dso-metrics",
+    "mac-fc-dso-metrics-configs",
+    "dso-metrics"
+  ],
+  "contact": {
+    "email": "cms-macfc+archive@corbalt.com",
+    "name": "Ben Harvey"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/mac-fc-dso-metrics-configs/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "tools",
+  "userInput": true,
+  "fismaLevel": "Moderate",
+  "group": "DSG/Enterprise-CMCS/MACBIS",
+  "projects": [
+    "mac-fc-dso-metrics",
+    "mac-fc-report-dso-event"
+  ],
+  "systems": [
+    "GitHub Rest API"
+  ],
+  "upstream": "https://github.com/Enterprise-CMCS/mac-fc-dso-metrics-configs/network/dependencies",
+  "subsetInHealthcare": [
+    "Operational",
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

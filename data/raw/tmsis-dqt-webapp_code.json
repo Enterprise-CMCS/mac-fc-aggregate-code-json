@@ -1,0 +1,84 @@
+{
+  "name": "tmsis-dqt-webapp",
+  "description": "This repository contains frontend for the Data Quality Tool application.",
+  "longDescription": "This repository contains the Generic Export pipeline.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "https://github.com/Enterprise-CMCS/tmsis-dqt-webapp/blob/main/README.md"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-dqt-webapp",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 26182,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "mac",
+    "linux",
+    "other"
+  ],
+  "categories": [
+    "cloud-management"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "HCL",
+    "Python",
+    "JavaScript",
+    "Dockerfile",
+    "PowerShell",
+    "Batchfile"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
+  "date": {
+    "created": "2025-01-22T17:55:34Z",
+    "lastModified": "2025-07-03T16:23:39Z",
+    "metaDataLastUpdated": "2025-07-30T20:39:34.614Z"
+  },
+  "tags": [
+    "Basic",
+    "Python",
+    "TMSIS",
+    "CMS"
+  ],
+  "contact": {
+    "email": "cms_IT_service_desk@cms.hhs.gov",
+    "name": ""
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/tmsis-dqt-webapp/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "tools",
+  "userInput": false,
+  "fismaLevel": "Low",
+  "group": "CMS",
+  "projects": [
+    "TMSIS"
+  ],
+  "systems": [],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Operational",
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

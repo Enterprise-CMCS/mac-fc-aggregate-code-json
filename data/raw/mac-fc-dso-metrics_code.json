@@ -1,0 +1,72 @@
+{
+  "name": "mac-fc-dso-metrics",
+  "description": "This repo contains code related to DSO metrics reporting.",
+  "longDescription": "This repo contains code related to DSO metrics reporting. It is part of the MAC-FC project, which aims to enhance the visibility of security metrics within the MACBIS organization.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/mac-fc-dso-metrics",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "internal",
+   "vcs": "git",
+  "laborHours": 0,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "linux"
+  ],
+  "categories": [
+    "application-development",
+    "data-collection",
+    "it-development"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [
+    "JavaScript"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "47QTCA21D00AC",
+  "date": {
+    "created": "",
+    "lastModified": "",
+    "metaDataLastUpdated": ""
+  },
+  "tags": [
+    "dso-metrics",
+    "dora-metrics"
+  ],
+  "contact": {
+    "email": "cms-macfc@corbalt.com",
+    "name": "Corbalt"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/mac-fc-dso-metrics/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "tools",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "DSO Metrics Reporting Service"
+      ],
+  "upstream": [],
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

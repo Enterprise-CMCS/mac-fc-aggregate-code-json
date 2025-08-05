@@ -1,0 +1,76 @@
+{
+  "name": "macdc-terraform",
+  "description": "This repository functions as the centralized infrastructure-as-code repository containing all Terraform modules, configurations, and deployment specifications for the DataConnect project infrastructure stack.",
+  "longDescription": "This repository serves as the central hub for all Terraform configurations related to the DataConnect project.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "CC0-1.0",
+        "URL": "https://github.com/Enterprise-CMCS/macdc-terraform/blob/main/LICENSE"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-terraform",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 14221,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "cloud-management",
+    "data-analytics"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [
+    "HCL",
+    "Python",
+    "Go",
+    "Shell"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC21F0108",
+  "date": {
+    "created": "2022-07-19T20:33:51Z",
+    "lastModified": "2025-07-31T21:01:34Z",
+    "metaDataLastUpdated": "2025-08-01T00:37:26.806Z"
+  },
+  "tags": [
+    "AWS",
+    "DataConnect",
+    "MAC_DC"
+  ],
+  "contact": {
+    "email": "dataconnect@cmsdataconnect.us",
+    "name": "Zach Holden"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/macdc-terraform/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "application",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS",
+  "projects": [
+    "DataConnect"
+  ],
+  "systems": [],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

@@ -1,0 +1,49 @@
+{
+  "name": "MLR",
+  "description": "Abt code for data pipeline to create MLR-related dashboards. ",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "repositoryURL": "private",
+  "repositoryVisibility": "private",
+  "laborHours": 500,
+  "reuseFrequency": {
+    "clones": 4
+  },
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0080",
+  "tags": [
+    "accounting",
+    " appointment-scheduling",
+    " budgeting",
+    " business-intelligence",
+    " business-process-management",
+    " communications",
+    " compliance-management",
+    " contact-management",
+    " customer-service-and-support",
+    " data-analytics",
+    " data-collection",
+    " data-visualization",
+    " document-management",
+    " feedback-and-reviews-management",
+    " financial-reporting",
+    " regulations-and-directives",
+    " workflow-management"
+  ],
+  "contact": {
+    "email": "jenna.harder@cms.hhs.gov",
+    "name": "Jenna Harder"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/mmcc-mlr"
+  ],
+  "AIUseCaseInventory": false
+}

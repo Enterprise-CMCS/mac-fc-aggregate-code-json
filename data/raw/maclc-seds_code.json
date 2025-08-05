@@ -1,0 +1,73 @@
+{
+  "name": "maclc-seds",
+  "description": "",
+  "longDescription": "This repository contains the code to produce the SEDS data quality review output",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "N/A"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-seds",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 0,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091:75FCMC23F0001",
+  "date": {
+    "created": "2025-05-08T20:21:51Z",
+    "lastModified": "2025-07-14T14:26:56Z",
+    "metaDataLastUpdated": "2025-07-15T14:30:40.034Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data", "CHIP", "SEDS"
+  ],
+  "contact": {
+    "email": "amims@mathematica-mpr.com",
+    "name": "Amanda Mims"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/maclc-seds/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/CAHPG",
+  "projects": [
+    "N/A"
+  ],
+  "systems": [
+    "DataConnect"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

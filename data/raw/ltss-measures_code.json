@@ -1,0 +1,75 @@
+{
+  "name": "ltss-measures",
+  "description": "",
+  "longDescription": "The LTSS Measures repository contains code for producing the user and exenditure counts for the LTSS Analytics and Reporting project.",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/ltss-measures",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 7704,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091:75FCMC24F0194",
+  "date": {
+    "created": "2025-04-28T15:07:40Z",
+    "lastModified": "2025-07-18T20:45:16Z",
+    "metaDataLastUpdated": "2025-08-01T00:16:54.887Z"
+  },
+  "tags": [
+    "Medicaid",
+    " Medicaid Data",
+    " LTSS Users and Expenditures"
+  ],
+  "contact": {
+    "email": "calva@mathematica-mpr.com",
+    "name": "Christina Alva"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/ltss-measures/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DCST",
+  "projects": [
+    "none"
+  ],
+  "systems": [
+    "DataConnect"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicare",
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

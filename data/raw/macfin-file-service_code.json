@@ -1,0 +1,86 @@
+{
+  "name": "macfin-file-service",
+  "description": "File Service for MACFin which maintains budget and expenses for States & Fed Govt. for Medicaid and CHIP. ",
+  "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "https://github.com/Enterprise-CMCS/macfin-file-service/blob/develop/LICENSE"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macfin-file-service",
+  "projectURL": "https://portal.cms.gov/portal/",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 5025,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 6
+  },
+  "platforms": [
+    "web",
+    "windows",
+    "linux"
+  ],
+  "categories": [
+    "accounting",
+    "budgeting",
+    "data-collection",
+    "data-visualization"
+  ],
+  "softwareType": "standalone/web",
+  "languages": [
+    "Java",
+    "PLpgSQL"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "GS-35F-303GA",
+  "date": {
+    "created": "2023-08-28T20:45:27Z",
+    "lastModified": "2025-06-04T15:55:44Z",
+    "metaDataLastUpdated": "2025-07-01T00:30:39.819Z"
+  },
+  "tags": [
+    "#devsecops",
+    "#macfin",
+    "#configurations",
+    "#ops",
+    "#budget",
+    "#budgetsubmission",
+    "#supplemental",
+    "#CMS-37"
+  ],
+  "contact": {
+    "email": "MACFinHelpDesk@cms.hhs.gov",
+    "name": "MACFin HelpDesk"
+  },
+  "feedbackMechanisms": [
+    "Emails"
+  ],
+  "localisation": false,
+  "repositoryType": "APIs",
+  "userInput": true,
+  "fismaLevel": "Moderate",
+  "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
+  "projects": [
+    "MACFin"
+  ],
+  "systems": [
+    "HiGlas"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 3
+}

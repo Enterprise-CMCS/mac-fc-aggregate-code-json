@@ -1,0 +1,74 @@
+{
+  "name": "maclc-e14-analysis",
+  "description": "Code to support e14 analysis for MACLC Task 5.7",
+  "longDescription": "This repository contains Python/PySpark code designed to build analytical tables for evaluating various renewal and disenrollment outcomes following state implementation of strategies related to unwinding, as authorized under section 1902(e)(14)(A) (commonly referred to as e14 waivers). The goal is to assess the effectiveness of these waivers in enhancing beneficiary renewal success.",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "None"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-e14-analysis",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 3062,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "date": {
+    "created": "2025-01-23T19:18:31Z",
+    "lastModified": "2025-07-17T12:12:55Z",
+    "metaDataLastUpdated": "2025-07-17T12:23:44.924Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "Enrollment and Eligibility"
+  ],
+  "contact": {
+    "email": "eward@mathematica-mpr.com",
+    "name": "Eva Ward"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/maclc-e14-analysis/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS",
+  "projects": [
+    "None"
+  ],
+  "systems": [
+    "DataConnect"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

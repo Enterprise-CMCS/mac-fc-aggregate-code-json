@@ -1,0 +1,73 @@
+{
+  "name": "da-taf-dd-sttm",
+  "description": "",
+  "longDescription": "This repo generates a metadata output file used by some downstream TAF ingestors, containing information on source and output variable mappings within TAF. This process also serves as a tertiary QC of TAF Data Dictionary changes",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "N/A"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/da-taf-dd-sttm",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 3168,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "date": {
+    "created": "2025-03-26T19:37:10Z",
+    "lastModified": "2025-07-18T16:42:32Z",
+    "metaDataLastUpdated": "2025-07-18T16:45:20.261Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "STTM",
+    "TAF"
+  ],
+  "contact": {
+    "email": "sgreiner@mathematica-mpr.com",
+    "name": "Scott Greiner"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/da-taf-dd-sttm/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "N/A"
+  ],
+  "systems": [],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}

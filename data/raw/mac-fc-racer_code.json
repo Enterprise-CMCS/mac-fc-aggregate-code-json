@@ -1,0 +1,73 @@
+{
+  "name": "mac-fc-racer",
+  "description": "Racer is a tool designed to manage temporary access to private codebases for companies bidding on a contract.",
+  "longDescription": "Racer is a tool designed to manage temporary access to private codebases for companies bidding on a contract. It creates isolated copies of repositories for each bidder while removing sensitive historical information..",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/mac-fc-racer",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 11521,
+  "reuseFrequency": {
+    "forks": 790
+  },
+  "platforms": [
+    "linux"
+  ],
+  "categories": [
+    "it-development"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [
+    "Python",
+    "Shell"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "47QTCA21D00AC",
+  "date": {
+    "created": "2023-03-23T16:40:53Z",
+    "lastModified": "2025-05-29T18:09:46Z",
+    "metaDataLastUpdated": "2025-06-01T00:18:04.619Z"
+  },
+  "tags": [
+    "racer",
+    "contract bidding",
+    "contract proposal"
+  ],
+  "contact": {
+    "email": "cms-macfc@corbalt.com",
+    "name": "Corbalt"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/mac-fc-racer/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "tools",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "MACBIS racer"
+  ],
+  "systems": [],
+  "upstream": [],
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

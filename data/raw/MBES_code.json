@@ -1,0 +1,88 @@
+{
+  "name": "MBES",
+  "description": "MBES maintains expenditure information for States and Federal Govt. for Medicaid program and Children’s Health Insurance Program (CHIP).",
+  "longDescription": "The Medicaid and CHIP Budget and Expenditure System (MBES/CBES) is a legally mandated system that was created to enable the states to submit budget and expenditure data to CMS for Medicaid and the Children’s Health Insurance Program (CHIP). MBES/CBES contains the following forms that the states submit quarterly to CMS: Form CMS-64, required under Title XIX of the Social Security Act (SSA), is an accounting statement that contains the following information: o	Amount of Medicaid grant funds that have been dispersed for a given quarter, as well as past fiscal years, o	Recovery of funds or refunds provided, o	Income earned on grant funds. Form CMS-21 is an accounting statement that shows a state’s recorded expenditures and disposition of Federal funds.  Most of the expenditures reported on this form are associated with starting and expanding health insurance coverage to include uninsured, low-income children through CHIP.  States are entitled to Federal reimbursement based on the actual expenditures shown in this form.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "https://github.com/Enterprise-CMCS/mbes/blob/develop/LICENSE"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/mbes",
+  "projectURL": "https://mbescbes.medicaid.gov",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 22188,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [
+    "web",
+    "windows"
+  ],
+  "categories": [
+    "it-security",
+    "it-service-management",
+    "accounting",
+    "data-analytics",
+    "data-collection",
+    "email-management",
+    "identity-management",
+    "workflow-management"
+  ],
+  "softwareType": "standalone/web",
+  "languages": [
+    "Microsoft SQL Server",
+    "C#",
+    "HTML",
+    "Visual Studio 2022"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "GS-35F-303GA",
+  "date": {
+    "created": "2023-08-28T20:43:19Z",
+    "lastModified": "2025-06-17T17:04:38Z",
+    "metaDataLastUpdated": "2025-06-17T20:12:40.073Z"
+  },
+  "tags": [
+    "#mbes",
+    "#macfin",
+    "#mbescbes",
+    "#ops",
+    "#expenditures",
+    "#expendituresubmission",
+    "#CMS-21",
+    "#CMS-64"
+  ],
+  "contact": {
+    "email": "MACFinHelpDesk@cms.hhs.gov",
+    "name": "MACFin HelpDesk"
+  },
+  "feedbackMechanisms": [
+    "Emails"
+  ],
+  "localisation": false,
+  "repositoryType": "website",
+  "userInput": true,
+  "fismaLevel": "Moderate",
+  "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
+  "projects": [
+    "MACFin"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 3
+}

@@ -1,0 +1,74 @@
+{
+  "name": "maclc-maf-data-production",
+  "description": "Code to support automated generation of CMCS internal monitoring data products related to eligibility operations and enrollment for MACLC Task 5.7",
+  "longDescription": "This repository houses code for generation of analytic files and Excel-based reports using performance indicator (PI) and eligiblity processing (EP) data in the DataConnect environment.",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "None"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-maf-data-production",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 7282,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "data-analytics"
+  ],
+  "softwareType": "standalone/other",
+  "languages": [
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "date": {
+    "created": "2024-07-12T17:44:13Z",
+    "lastModified": "2025-07-17T20:55:41Z",
+    "metaDataLastUpdated": "2025-07-17T20:57:22.961Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "Enrollment and Eligibility"
+  ],
+  "contact": {
+    "email": "eward@mathematica-mpr.com",
+    "name": "Eva Ward"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/maclc-maf-data-production/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS",
+  "projects": [
+    "None"
+  ],
+  "systems": [
+    "DataConnect"
+  ],
+  "upstream": "",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 0
+}
