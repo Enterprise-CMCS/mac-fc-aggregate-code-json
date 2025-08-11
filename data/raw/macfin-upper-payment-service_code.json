@@ -1,6 +1,6 @@
 {
   "name": "macfin-upper-payment-service",
-  "description": "",
+  "description": "Upper Limit of MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid and CHIP.",
   "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
   "status": "Production",
   "permissions": {
@@ -53,8 +53,8 @@
   "contractNumber": "GS-35F-303GA",
   "date": {
     "created": "2023-08-28T20:49:25Z",
-    "lastModified": "2025-05-27T12:36:55Z",
-    "metaDataLastUpdated": "2025-06-01T00:36:06.343Z"
+    "lastModified": "2025-06-04T18:51:25Z",
+    "metaDataLastUpdated": "2025-08-01T00:37:16.375Z"
   },
   "tags": [
     "#devsecops",

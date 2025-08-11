@@ -1,6 +1,6 @@
 {
-  "name": "MACFin",
-  "description": "MACFin maintains budget and expenses for States and Federal Govt. for Medicaid program and Children’s Health Insurance Program (CHIP).",
+  "name": "macfin-disallowance-service",
+  "description": "",
   "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
   "status": "Development",
   "permissions": {
@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 1000,
+  "laborHours": 4972,
   "reuseFrequency": {
     "forks": 0,
     "clones": 25
@@ -37,19 +37,20 @@
   ],
   "softwareType": "standalone/web",
   "languages": [
-    "java",
-    "sql"
+    "Java",
+    "Gherkin",
+    "PLpgSQL"
   ],
   "maintenance": "contract",
   "contractNumber": "GS-35F-303GA",
   "date": {
-    "created": "2025-05-20T00:00:00-04:00",
-    "lastModified": "2025-05-20T00:00:00-04:00",
-    "metaDataLastUpdated": "2025-05-20T00:00:00-04:00"
+    "created": "2024-07-30T18:17:56Z",
+    "lastModified": "2025-05-21T21:06:09Z",
+    "metaDataLastUpdated": "2025-06-01T00:23:50.788Z"
   },
   "tags": [
     "#macfin",
-     "#expenditure",
+    "#expenditure",
     "#financial",
     "#financial-management",
     "#financial-systems",
@@ -60,7 +61,7 @@
     "name": "MACFin HelpDesk"
   },
   "feedbackMechanisms": [
-    "Emails"
+    "https://github.com/Enterprise-CMCS/macfin-disallowance-service/issues"
   ],
   "localisation": false,
   "repositoryType": "APIs",

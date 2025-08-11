@@ -1,6 +1,6 @@
 {
   "name": "pi-dashboard-pipeline",
-  "description": "This repository contains the code for the data pipeline that produces the data for the Performance Indicators Dashboard.",
+  "description": "",
   "longDescription": "This repository contains the code for the data pipeline that produces the data for the Performance Indicators Dashboard. This pipeline runs in the CMCS DataConnect Databricks environment. The output data is consumed by DataConnect QuickSight for use in the dashboard.  See CMS Enterprise Confluence for more information about this dashboard, https://confluenceent.cms.gov/pages/viewpage.action?spaceKey=DATC&title=Performance+Indicator+%28PI%29+Dashboard.",
   "status": "Development",
   "permissions": {
@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 0,
+  "laborHours": 2026,
   "reuseFrequency": {
     "forks": 0
   },
@@ -32,14 +32,14 @@
   ],
   "softwareType": "standalone/other",
   "languages": [
-    "python"
+    "Python"
   ],
   "maintenance": "contract",
   "contractNumber": "75FCMC19D0091:75FCMC21F0001",
   "date": {
-    "created": "2024-10-15T00:00:00-04:00",
-    "lastModified": "2025-04-14T00:00:00-04:00",
-    "metaDataLastUpdated": "2025-07-10T00:00:00-04:00"
+    "created": "2024-10-15T20:16:11Z",
+    "lastModified": "2025-07-11T16:20:35Z",
+    "metaDataLastUpdated": "2025-08-01T00:32:33.399Z"
   },
   "tags": [
     "Medicaid",

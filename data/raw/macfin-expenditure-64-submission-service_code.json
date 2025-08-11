@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 20951,
+  "laborHours": 21058,
   "reuseFrequency": {
     "forks": 0,
     "clones": 25
@@ -47,8 +47,8 @@
   "contractNumber": "GS-35F-303GA",
   "date": {
     "created": "2023-08-28T20:44:55Z",
-    "lastModified": "2025-06-30T21:03:22Z",
-    "metaDataLastUpdated": "2025-07-01T00:41:50.367Z"
+    "lastModified": "2025-07-31T20:50:45Z",
+    "metaDataLastUpdated": "2025-08-01T00:44:01.474Z"
   },
   "tags": [
     "#macfin",

@@ -1,6 +1,6 @@
 {
   "name": "tmsis-dqt-webservices",
-  "description": "DQT WebService",
+  "description": "",
   "longDescription": "DQT WebService is a web service that provides access to the Data Quality Tool (DQT) database. It allows users to query and retrieve data from the DQT database, which contains information about the quality of Medicaid and CHIP data submitted by states.",
   "status": "Production",
   "permissions": {
@@ -14,12 +14,12 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-dqt-webservices/",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-dqt-webservices",
   "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 2406,
+  "laborHours": 10986,
   "reuseFrequency": {
     "forks": 0
   },
@@ -34,16 +34,21 @@
   "softwareType": "standalone/web",
   "languages": [
     "C#",
-    "Terraform",
+    "HCL",
     "TSQL",
-    "Go"
+    "HTML",
+    "Dockerfile",
+    "Go",
+    "Shell",
+    "Mermaid",
+    "CSS"
   ],
   "maintenance": "contract",
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
-    "created": "2022-12-14T00:00:00-05:00",
-    "lastModified": "2025-07-03T00:00:00-05:00",
-    "metaDataLastUpdated": ""
+    "created": "2025-01-22T17:52:01Z",
+    "lastModified": "2025-07-25T18:19:37Z",
+    "metaDataLastUpdated": "2025-08-01T00:27:53.543Z"
   },
   "tags": [
     "C#",
