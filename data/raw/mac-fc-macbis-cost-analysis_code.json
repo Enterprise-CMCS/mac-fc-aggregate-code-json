@@ -1,6 +1,6 @@
 {
   "name": "mac-fc-macbis-cost-analysis",
-  "description": "This repo contains tools that process and analyze cost data for the MACBIS program.",
+  "description": "",
   "longDescription": "This repo contains tools that process and analyze cost data for the MACBIS program. The data drives the Cost Analysis Dashboard (CAD) and the GitHub Actions Minutes dashboard.",
   "status": "Production",
   "permissions": {
@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 11521,
+  "laborHours": 6517,
   "reuseFrequency": {
     "forks": 790
   },
@@ -31,13 +31,18 @@
     "it-development"
   ],
   "softwareType": "standalone/backend",
-  "languages": [],
+  "languages": [
+    "Go",
+    "HCL",
+    "Shell",
+    "Dockerfile"
+  ],
   "maintenance": "contract",
   "contractNumber": "47QTCA21D00AC",
   "date": {
-    "created": "2023-03-23T16:40:53Z",
-    "lastModified": "2025-05-29T18:09:46Z",
-    "metaDataLastUpdated": "2025-06-01T00:18:04.619Z"
+    "created": "2021-08-11T14:17:29Z",
+    "lastModified": "2025-07-31T18:10:49Z",
+    "metaDataLastUpdated": "2025-08-01T00:43:57.694Z"
   },
   "tags": [
     "cost-analysis",

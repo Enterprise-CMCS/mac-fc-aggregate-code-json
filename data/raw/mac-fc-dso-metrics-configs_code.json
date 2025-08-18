@@ -1,6 +1,6 @@
 {
   "name": "mac-fc-dso-metrics-configs",
-  "description": "This repo stores configuration files for gathering DSO Metrics events for CMCS teams. Config files for each team are located in configs/<team>/<app>/<config-name>.yml. Each team chooses whatever app names are convenient for the organization of your configs.",
+  "description": "",
   "longDescription": "This repo stores the program cmd/process-config that takes 1 config file as an input. Config files for each team are located in configs/<team>/<app>/<config-name>.yml. The program runs the command scan-github wh which must be available via $PATH.",
   "status": "Production",
   "permissions": {
@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 100,
+  "laborHours": 2222,
   "reuseFrequency": {
     "forks": 0,
     "clones": 5
@@ -34,15 +34,14 @@
   ],
   "softwareType": "standalone/backend",
   "languages": [
-    "golang",
-    "yaml"
+    "Go"
   ],
   "maintenance": "internal",
   "contractNumber": "47QTCA21D00AC",
   "date": {
-    "created": "2025-01-30T00:00:00-05:00",
-    "lastModified": "2025-05-01T00:00:00-04:00",
-    "metaDataLastUpdated": ""
+    "created": "2025-01-30T21:07:21Z",
+    "lastModified": "2025-08-01T21:21:27Z",
+    "metaDataLastUpdated": "2025-08-06T20:17:35.811Z"
   },
   "tags": [
     "mac-fc-dso-metrics",
