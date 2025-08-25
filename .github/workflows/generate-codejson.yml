@@ -1,0 +1,24 @@
+name: Generate code.json
+on:
+  schedule:
+   - cron: "0 0 1 * *" # monthly
+
+permissions:
+  contents: write      # Required for code.json generation and PR creation
+  pull-requests: write # Required to create a PR
+  issues: write        # Required to apply labels to the PR
+
+jobs:
+  update-code-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update code.json
+        uses: DSACMS/automated-codejson-generator@v1.1.0
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: "main"
