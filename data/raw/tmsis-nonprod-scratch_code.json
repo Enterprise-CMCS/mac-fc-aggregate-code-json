@@ -1,6 +1,6 @@
 {
   "name": "tmsis-nonprod-scratch",
-  "description": "Experimental code and handy common snippets",
+  "description": "Experimental code and handy common snippets for AREMAC, T-MSIS and related projects",
   "longDescription": "Experimental code and handy common snippets",
   "status": "Development",
   "permissions": {
@@ -14,12 +14,12 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-nonprod-scratch/",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-nonprod-scratch",
   "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 17762,
+  "laborHours": 82397,
   "reuseFrequency": {
     "forks": 0
   },
@@ -34,18 +34,31 @@
   "softwareType": "standalone/other",
   "languages": [
     "JavaScript",
-    "Jupyter",
+    "Jupyter Notebook",
     "Python",
     "CSS",
     "VBA",
-    "HTML"
+    "HTML",
+    "HCL",
+    "Shell",
+    "Java",
+    "Dockerfile",
+    "Groovy",
+    "Scala",
+    "Rich Text Format",
+    "SCSS",
+    "Go",
+    "Ruby",
+    "Makefile",
+    "TypeScript",
+    "Smarty"
   ],
   "maintenance": "contract",
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
-    "created": "2018-07-19T00:00:00-05:00",
-    "lastModified": "2025-03-05T00:00:00-05:00",
-    "metaDataLastUpdated": ""
+    "created": "2018-07-20T02:52:16Z",
+    "lastModified": "2025-08-19T17:19:31Z",
+    "metaDataLastUpdated": "2025-08-19T18:29:39.976Z"
   },
   "tags": [
     "JavaScript",

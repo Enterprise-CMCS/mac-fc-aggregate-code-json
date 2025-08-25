@@ -14,12 +14,12 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-mwaa/",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-mwaa",
   "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 658,
+  "laborHours": 2996,
   "reuseFrequency": {
     "forks": 0
   },
@@ -33,16 +33,17 @@
   ],
   "softwareType": "library",
   "languages": [
-    "Terraform",
+    "HCL",
     "Python",
-    "Bash"
+    "Makefile",
+    "Shell"
   ],
   "maintenance": "contract",
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
-    "created": "2025-05-20T00:00:00-05:00",
-    "lastModified": "2025-07-02T00:00:00-05:00",
-    "metaDataLastUpdated": ""
+    "created": "2025-05-22T15:50:32Z",
+    "lastModified": "2025-08-19T18:15:26Z",
+    "metaDataLastUpdated": "2025-08-19T18:17:10.909Z"
   },
   "tags": [
     "Terraform",

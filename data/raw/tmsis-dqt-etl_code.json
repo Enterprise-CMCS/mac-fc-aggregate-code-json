@@ -1,6 +1,6 @@
 {
   "name": "tmsis-dqt-etl",
-  "description": "",
+  "description": "The ETL program processes files from the Mathematica team and updates the Data Quality Tool database with the new data.",
   "longDescription": "The ETL program processes files from the Mathematica team and updates the Data Quality Tool database with the new data.",
   "status": "Production",
   "permissions": {
@@ -43,8 +43,8 @@
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
     "created": "2025-01-28T18:17:30Z",
-    "lastModified": "2025-07-15T17:53:03Z",
-    "metaDataLastUpdated": "2025-08-01T00:29:17.914Z"
+    "lastModified": "2025-08-18T23:25:37Z",
+    "metaDataLastUpdated": "2025-08-18T23:30:01.551Z"
   },
   "tags": [
     "C#",

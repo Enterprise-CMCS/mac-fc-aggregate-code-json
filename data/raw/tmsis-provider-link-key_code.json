@@ -1,6 +1,6 @@
 {
   "name": "tmsis-provider-link-key",
-  "description": "Provider link key",
+  "description": "TMSIS scala code for provider-link-key",
   "longDescription": "This contains a variety of pipeline action runners such as; container-deploy, container-scanner, linters, notify-slack, run-all-linters, sonarqube",
   "status": "Production",
   "permissions": {
@@ -14,12 +14,12 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-provider-link-key/",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-provider-link-key",
   "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 640,
+  "laborHours": 2914,
   "reuseFrequency": {
     "forks": 0
   },
@@ -38,9 +38,9 @@
   "maintenance": "contract",
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
-    "created": "2022-06-17T00:00:00-05:00",
-    "lastModified": "2025-05-28T00:00:00-05:00",
-    "metaDataLastUpdated": ""
+    "created": "2022-06-06T21:56:11Z",
+    "lastModified": "2025-08-19T18:04:11Z",
+    "metaDataLastUpdated": "2025-08-19T18:05:56.144Z"
   },
   "tags": [
     "Scala",

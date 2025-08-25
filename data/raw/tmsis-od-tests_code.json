@@ -1,6 +1,6 @@
 {
   "name": "tmsis-od-tests",
-  "description": "OD Tests",
+  "description": "OD Tests for TMSIS",
   "longDescription": "OD Tests for TMSIS",
   "status": "Development",
   "permissions": {
@@ -14,12 +14,12 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-od-tests/",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-od-tests",
   "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 1613,
+  "laborHours": 7401,
   "reuseFrequency": {
     "forks": 0
   },
@@ -33,14 +33,16 @@
   ],
   "softwareType": "standalone/other",
   "languages": [
-    "Python"
+    "Python",
+    "CSS",
+    "Makefile"
   ],
   "maintenance": "contract",
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
-    "created": "2023-10-30T00:00:00-05:00",
-    "lastModified": "2025-07-01T00:00:00-05:00",
-    "metaDataLastUpdated": ""
+    "created": "2023-10-30T15:30:35Z",
+    "lastModified": "2025-08-18T23:28:16Z",
+    "metaDataLastUpdated": "2025-08-18T23:29:57.124Z"
   },
   "tags": [
     "Python",

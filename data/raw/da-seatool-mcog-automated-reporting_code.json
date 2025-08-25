@@ -1,7 +1,7 @@
 {
-  "name": "da-taf-post-production",
+  "name": "da-seatool-mcog-automated-reporting",
   "description": "",
-  "longDescription": "This project holds post-production QC code used to generate QC materials for a TAF run. It produces a variety of output meant to be reviewed by policy SMEs to QC that the TAF run was analytically successful and identify input data anomalies for further investigation.",
+  "longDescription": "This repository contains the code to generate the SEATool MCOG Automated Reporting dashboard data",
   "status": "Development",
   "permissions": {
     "licenses": [
@@ -14,12 +14,12 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/da-taf-post-production",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/da-seatool-mcog-automated-reporting",
   "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 7673,
+  "laborHours": 1071,
   "reuseFrequency": {
     "forks": 0
   },
@@ -30,28 +30,24 @@
     "data-analytics"
   ],
   "softwareType": "standalone/other",
-  "languages": [
-    "Python",
-    "SAS"
-  ],
+  "languages": [],
   "maintenance": "contract",
   "contractNumber": "75FCMC19D0091/75FCMC21F0001",
   "date": {
-    "created": "2024-09-05T13:18:57Z",
-    "lastModified": "2025-07-25T21:02:58Z",
-    "metaDataLastUpdated": "2025-08-01T00:44:30.483Z"
+    "created": "2025-08-14T16:51:37Z",
+    "lastModified": "2025-08-21T17:47:46Z",
+    "metaDataLastUpdated": "2025-08-21T19:20:36.035Z"
   },
   "tags": [
     "Medicaid",
-    "Medicaid Data",
-    "TAF QC"
+    "Medicaid Data"
   ],
   "contact": {
-    "email": "sgreiner@mathematica-mpr.com",
-    "name": "Scott Greiner"
+    "email": "amims@mathematica-mpr.com",
+    "name": "Amanda Mims"
   },
   "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/da-taf-post-production/issues"
+    "https://github.com/Enterprise-CMCS/da-seatool-mcog-automated-reporting/issues"
   ],
   "localisation": false,
   "repositoryType": "data",

@@ -1,6 +1,6 @@
 {
   "name": "tmsis-databricks",
-  "description": "Project to manage the Databricks environment for the TMSIS application",
+  "description": "Project to manage the Databricks environment for the TMSIS application.",
   "longDescription": "Project to manage the Databricks environment for the TMSIS application",
   "status": "Release Candidate",
   "permissions": {
@@ -14,12 +14,12 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-databricks/",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-databricks",
   "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 2147,
+  "laborHours": 9926,
   "reuseFrequency": {
     "forks": 0
   },
@@ -33,16 +33,19 @@
   ],
   "softwareType": "standalone/other",
   "languages": [
-    "Terraform",
+    "HCL",
     "Python",
-    "Jupyter"
+    "Jupyter Notebook",
+    "Shell",
+    "Makefile",
+    "Dockerfile"
   ],
   "maintenance": "contract",
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
-    "created": "2025-01-22T00:00:00-05:00",
-    "lastModified": "2025-06-27T00:00:00-05:00",
-    "metaDataLastUpdated": ""
+    "created": "2025-01-22T17:53:40Z",
+    "lastModified": "2025-08-19T17:11:41Z",
+    "metaDataLastUpdated": "2025-08-19T17:13:22.327Z"
   },
   "tags": [
     "Terraform",

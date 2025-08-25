@@ -14,12 +14,12 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-iq-metrics/",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-iq-metrics",
   "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 3440,
+  "laborHours": 4581,
   "reuseFrequency": {
     "forks": 0
   },
@@ -39,9 +39,9 @@
   "maintenance": "contract",
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
-    "created": "2021-10-11T00:00:00-05:00",
-    "lastModified": "2025-05-0800:00:00-05:00",
-    "metaDataLastUpdated": ""
+    "created": "2021-10-18T15:00:32Z",
+    "lastModified": "2025-08-19T17:42:31Z",
+    "metaDataLastUpdated": "2025-08-19T17:44:08.307Z"
   },
   "tags": [
     "Scala",

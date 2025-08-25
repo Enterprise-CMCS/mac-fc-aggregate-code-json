@@ -14,12 +14,12 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-od/",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-od",
   "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 16766.4,
+  "laborHours": 76494,
   "reuseFrequency": {
     "forks": 0
   },
@@ -33,17 +33,21 @@
   ],
   "softwareType": "standalone/web",
   "languages": [
+    "HTML",
     "Python",
-    "HTML/CSS",
-    "Javascript",
-    "Terraform"
+    "JavaScript",
+    "HCL",
+    "CSS",
+    "Shell",
+    "SCSS",
+    "Dockerfile"
   ],
   "maintenance": "contract",
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
-    "created": "2023-05-03T00:00:00-05:00",
-    "lastModified": "2024-01-17T00:00:00-05:00",
-    "metaDataLastUpdated": ""
+    "created": "2023-05-03T19:45:18Z",
+    "lastModified": "2025-08-19T18:13:41Z",
+    "metaDataLastUpdated": "2025-08-19T18:15:49.241Z"
   },
   "tags": [
     "Python",

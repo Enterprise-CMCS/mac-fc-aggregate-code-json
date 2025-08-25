@@ -47,7 +47,6 @@
   "tags": [
     "cost-analysis",
     "github-actions-minutes",
-    "gatherer",
     "alerter",
     "code-json-lambda"
   ],
@@ -67,7 +66,6 @@
     "MACBIS Cost Analysis Dashboard",
     "MACBIS Alerter",
     "MACBIS GitHub Actions Minutes",
-    "MACBIS Gatherer",
     "MACBIS code.json lambda"
   ],
   "systems": [],

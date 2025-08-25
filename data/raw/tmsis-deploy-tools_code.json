@@ -14,12 +14,12 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-deploy-tools/",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-deploy-tools",
   "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 1191,
+  "laborHours": 5056,
   "reuseFrequency": {
     "forks": 0
   },
@@ -34,14 +34,15 @@
   "softwareType": "standalone/backend",
   "languages": [
     "Python",
-    "Bash"
+    "Shell",
+    "Dockerfile"
   ],
   "maintenance": "contract",
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
-    "created": "2014-10-27T00:00:00-05:00",
-    "lastModified": "2025-04-11T00:00:00-05:00",
-    "metaDataLastUpdated": ""
+    "created": "2024-02-22T18:50:14Z",
+    "lastModified": "2025-08-19T17:53:24Z",
+    "metaDataLastUpdated": "2025-08-19T17:55:06.143Z"
   },
   "tags": [
     "Python",

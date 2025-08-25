@@ -14,12 +14,12 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-security-hub-jira-reporter/",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-security-hub-jira-reporter",
   "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 578,
+  "laborHours": 2520,
   "reuseFrequency": {
     "forks": 0
   },
@@ -34,14 +34,14 @@
   "softwareType": "standalone/backend",
   "languages": [
     "Python",
-    "Terraform"
+    "HCL"
   ],
   "maintenance": "contract",
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
     "created": "2024-09-10T16:18:57Z",
-    "lastModified": "2025-04-14T17:57:52Z",
-    "metaDataLastUpdated": "2025-07-15T18:39:25.693Z"
+    "lastModified": "2025-08-19T18:00:25Z",
+    "metaDataLastUpdated": "2025-08-19T18:02:04.506Z"
   },
   "tags": [
     "Python",

@@ -1,6 +1,5 @@
 {
   "name": "tmsis-alerter",
-  "app_id": "tmsis-alerter",
   "description": "The alerter is an application that is passed in alert data.",
   "longDescription": "The alerter is an application that is passed in alert data.  It will then read in a list of subscription documents from a data source (see below).  The application will combine the alert and relative subscription information and pass it to a sender that will send out a formatted message to whereever it is suppose to, currently Slack.",
   "status": "Production",
@@ -15,12 +14,12 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-alerter/",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-alerter",
   "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 1141,
+  "laborHours": 4899,
   "reuseFrequency": {
     "forks": 0
   },
@@ -36,14 +35,16 @@
   "languages": [
     "Python",
     "HCL",
-    "Makefile"
+    "Makefile",
+    "Dockerfile",
+    "Shell"
   ],
   "maintenance": "contract",
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
-    "created": "2023-08-28T00:00:00-05:00",
-    "lastModified": "2025-06-05T00:00:00-05:00",
-    "metaDataLastUpdated": ""
+    "created": "2023-08-28T20:39:31Z",
+    "lastModified": "2025-08-19T17:10:55Z",
+    "metaDataLastUpdated": "2025-08-19T17:12:53.587Z"
   },
   "tags": [
     "Python",
@@ -76,5 +77,6 @@
   "userType": [
     "Government"
   ],
-  "maturityModelTier": 2
+  "maturityModelTier": 2,
+  "app_id": "tmsis-alerter"
 }

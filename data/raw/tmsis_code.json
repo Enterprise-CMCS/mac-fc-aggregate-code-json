@@ -1,7 +1,6 @@
 {
   "name": "tmsis",
-  "app_id": "tmsis",
-  "description": "T-MSIS collects state Medicaid data, validates it, and processes it in EMR after successful receipt and control checks.",
+  "description": "File processing pipeline, web dashboard and core libraries for the Transformed-Medicaid Statistical Information System (T-MSIS)",
   "longDescription": "The [Transformed Medicaid Statistical Information} System](https://www.medicaid.gov/medicaid/data-and-systems/macbis/tmsis/index.html) (T-MSIS) receives claims and eligibility data from states via EFT, acknowledges the receipt and reports any errors via Receipt and Control, then kicks off a processing pipeline in Elastic Map Reduce (EMR) if all R+C checks are successful.",
   "status": "Production",
   "permissions": {
@@ -15,12 +14,12 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis/",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis",
   "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 19962,
+  "laborHours": 91105,
   "reuseFrequency": {
     "forks": 0
   },
@@ -34,19 +33,29 @@
   ],
   "softwareType": "library",
   "languages": [
-    "html",
+    "HTML",
     "Java",
     "Python",
     "JavaScript",
     "HCL",
-    "Bash"
+    "Thrift",
+    "Shell",
+    "Scala",
+    "Groovy",
+    "CSS",
+    "Dockerfile",
+    "Rich Text Format",
+    "Go",
+    "Ruby",
+    "SCSS",
+    "Makefile"
   ],
   "maintenance": "contract",
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
-    "created": "2016-02-15T00:00:00-05:00",
-    "lastModified": "2025-07-07T00:00:00-05:00",
-    "metaDataLastUpdated": ""
+    "created": "2016-02-13T07:02:20Z",
+    "lastModified": "2025-08-18T19:53:13Z",
+    "metaDataLastUpdated": "2025-08-18T23:21:09.836Z"
   },
   "tags": [
     "Java",
@@ -79,5 +88,6 @@
   "userType": [
     "Government"
   ],
-  "maturityModelTier": 4
+  "maturityModelTier": 4,
+  "app_id": "tmsis"
 }

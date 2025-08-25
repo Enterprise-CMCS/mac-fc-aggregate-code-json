@@ -1,6 +1,6 @@
 {
-  "name": "tmsis_regresison_tests",
-  "description": "This repository contains regression tests for TMSIS.",
+  "name": "tmsis_regression_tests",
+  "description": "Regression Testing Framework for the T-MSIS Project",
   "longDescription": "This repository contains regression tests for TMSIS. It is used to ensure that the TMSIS system works correctly and efficiently after changes or updates.",
   "status": "Production",
   "permissions": {
@@ -14,12 +14,12 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis_regresison_tests/",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis_regression_tests",
   "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 2698,
+  "laborHours": 12310,
   "reuseFrequency": {
     "forks": 0
   },
@@ -41,9 +41,9 @@
   "maintenance": "contract",
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
-    "created": "2018-06-13T00:00:00-05:00",
-    "lastModified": "2024-07-31T00:00:00-05:00",
-    "metaDataLastUpdated": ""
+    "created": "2018-04-04T23:32:47Z",
+    "lastModified": "2025-07-15T19:28:33Z",
+    "metaDataLastUpdated": "2025-08-01T00:14:52.391Z"
   },
   "tags": [
     "Python",

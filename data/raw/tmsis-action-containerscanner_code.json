@@ -1,7 +1,6 @@
 {
   "name": "tmsis-action-containerscanner",
-  "app_id": "tmsis-action-containerscanner",
-  "description": "Deprecated container scanner",
+  "description": "Deprecated container scanner.",
   "longDescription": "Deprecated container scanner. Look for tmsis-container-vulnerability-scanner",
   "status": "Archival",
   "permissions": {
@@ -15,12 +14,12 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-action-containerscanner/",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-action-containerscanner",
   "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 8,
+  "laborHours": 9042,
   "reuseFrequency": {
     "forks": 0
   },
@@ -34,16 +33,15 @@
   ],
   "softwareType": "tools",
   "languages": [
-    "yaml",
     "TypeScript",
     "JavaScript"
   ],
   "maintenance": "contract",
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
-    "created": "2024-03-20T00:00:00-05:00",
-    "lastModified": "2024-03-20T00:00:00-05:00",
-    "metaDataLastUpdated": ""
+    "created": "2024-03-18T16:07:55Z",
+    "lastModified": "2025-08-19T17:43:57Z",
+    "metaDataLastUpdated": "2025-08-19T17:45:47.408Z"
   },
   "tags": [
     "JavaScript",
@@ -74,5 +72,6 @@
   "userType": [
     "Government"
   ],
-  "maturityModelTier": 0
+  "maturityModelTier": 0,
+  "app_id": "tmsis-action-containerscanner"
 }
