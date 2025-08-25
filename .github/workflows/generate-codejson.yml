@@ -2,7 +2,7 @@ name: Generate code.json
 on:
   push: # TODO remove
     branches:
-      - bharvye-add-code-json
+      - bharvey-add-code-json
   schedule:
    - cron: "0 0 1 * *" # monthly
 
