@@ -1,0 +1,50 @@
+{
+  "name": "mac-fc-aggregate-code-json",
+  "description": "",
+  "longDescription": "This repo is the target for automation that collects all MACBIS code.json files from non-public repos",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/mac-fc-aggregate-code-json",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "public",
+  "vcs": "git",
+  "softwareType": "standalone/backend",
+  "languages": ["YAML"],
+  "maintenance": "contract",
+  "contractNumber": "47QTCA21D00AC",
+  "date": {
+    "created": "2021-08-11T14:17:29Z",
+    "lastModified": "2025-07-31T18:10:49Z",
+    "metaDataLastUpdated": "2025-08-01T00:43:57.694Z"
+  },
+  "tags": ["SHARE IT"],
+  "contact": {
+    "email": "cms-macfc@corbalt.com",
+    "name": "Corbalt"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/mac-fc-aggregate-code-json/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "tools",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": ["SHARE IT Compliance"],
+  "systems": [],
+  "upstream": [],
+  "subsetInHealthcare": ["Medicaid"],
+  "userType": ["Government"],
+  "maturityModelTier": 2
+}
