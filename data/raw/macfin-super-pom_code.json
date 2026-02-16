@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 1813,
+  "laborHours": 1835,
   "reuseFrequency": {
     "forks": 0,
     "clones": 25
@@ -41,17 +41,13 @@
   "contractNumber": "GS-35F-303GA",
   "date": {
     "created": "2023-08-28T20:49:08Z",
-    "lastModified": "2025-06-04T15:59:00Z",
-    "metaDataLastUpdated": "2025-08-01T00:11:52.997Z"
+    "lastModified": "2025-08-29T14:54:11Z",
+    "metaDataLastUpdated": "2025-09-01T00:11:20.567Z"
   },
   "tags": [
-    "#macfin",
-    "#budget",
-    "#expenditure",
-    "#financial",
-    "#financial-management",
-    "#financial-systems",
-    "#financial-management-software"
+    "budget-app",
+    "federal-government",
+    "technology"
   ],
   "contact": {
     "email": "MACFinHelpDesk@cms.hhs.gov",

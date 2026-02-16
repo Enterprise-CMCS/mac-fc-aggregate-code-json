@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 3318,
+  "laborHours": 3311,
   "reuseFrequency": {
     "forks": 0
   },
@@ -42,8 +42,8 @@
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
     "created": "2024-08-27T12:15:57Z",
-    "lastModified": "2025-08-19T17:56:18Z",
-    "metaDataLastUpdated": "2025-08-19T17:59:44.068Z"
+    "lastModified": "2025-10-09T22:17:57Z",
+    "metaDataLastUpdated": "2026-01-01T00:40:35.914Z"
   },
   "tags": [
     "Terraform",

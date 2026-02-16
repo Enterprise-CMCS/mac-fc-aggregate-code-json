@@ -17,23 +17,35 @@
   "repositoryURL": "https://github.com/Enterprise-CMCS/bigmac",
   "projectURL": "https://turbo-spork-b025ece3.pages.github.io/",
   "repositoryHost": "github.com/Enterprise-CMCS",
-  "repositoryVisibility": "public",
+  "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 6040,
+  "laborHours": 8646,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
   },
-  "platforms": ["web", "linux", "other"],
-  "categories": ["data-analytics", "data-collection", "data-visualization"],
+  "platforms": [
+    "web",
+    "linux",
+    "other"
+  ],
+  "categories": [
+    "data-analytics",
+    "data-collection",
+    "data-visualization"
+  ],
   "softwareType": "standalone/backend",
-  "languages": ["TypeScript", "JavaScript", "Shell"],
+  "languages": [
+    "TypeScript",
+    "JavaScript",
+    "Shell"
+  ],
   "maintenance": "contract",
   "contractNumber": "75FCMC24F0027",
   "date": {
     "created": "2020-08-27T20:20:29Z",
-    "lastModified": "2025-06-17T17:50:44Z",
-    "metaDataLastUpdated": "2025-06-17T17:54:21.563Z"
+    "lastModified": "2025-09-13T23:59:40Z",
+    "metaDataLastUpdated": "2025-09-14T02:32:05.913Z"
   },
   "tags": [
     "kafka",
@@ -49,16 +61,34 @@
     "email": "bpaige@gswell.com",
     "name": "Benjamin Paige"
   },
-  "feedbackMechanisms": ["https://github.com/Enterprise-CMCS/bigmac/issues"],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/bigmac/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "application",
   "userInput": false,
   "fismaLevel": "Moderate",
   "group": "MACPRO Platform Team",
-  "projects": ["bigmac"],
-  "systems": ["AWS MSK", "Apache Kafka", "AWS Lambda", "AWS CloudFormation"],
+  "projects": [
+    "bigmac"
+  ],
+  "systems": [
+    "AWS MSK",
+    "Apache Kafka",
+    "AWS Lambda",
+    "AWS CloudFormation"
+  ],
   "upstream": "https://github.com/Enterprise-CMCS/bigmac/network/dependencies",
-  "subsetInHealthcare": ["Policy", "Operational", "Medicare", "Medicaid"],
-  "userType": ["Government"],
-  "maturityModelTier": 3
+  "subsetInHealthcare": [
+    "Policy",
+    "Operational",
+    "Medicare",
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 3,
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/bigmac/issues"
+  ]
 }

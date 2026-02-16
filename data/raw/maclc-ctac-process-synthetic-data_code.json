@@ -1,5 +1,6 @@
 {
   "name": "maclc-ctac-process-synthetic-data",
+  "version": "",
   "description": "CTAC Synthetic Data Import",
   "longDescription": "Ingests .csv files containing synthetic data and loads them into corresponding Databricks tables.  Includes code to create test tables if they do not exist.",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-ctac-process-synthetic-data",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 7434,
+  "laborHours": 7463,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -31,15 +36,20 @@
   ],
   "softwareType": "standalone/other",
   "languages": [
-    "Python",
-    "Jupyter Notebook"
+    "Python"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC22F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/maclc-ctac-process-synthetic-data/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-02-24T16:12:36Z",
-    "lastModified": "2025-07-24T20:57:20Z",
-    "metaDataLastUpdated": "2025-08-01T00:18:47.286Z"
+    "lastModified": "2025-12-05T19:44:43Z",
+    "metadataLastUpdated": "2026-01-01T00:19:09.663Z"
   },
   "tags": [
     "Medicaid",
@@ -49,9 +59,8 @@
     "email": "kserrano@mathematica-mpr.com",
     "name": "Kyle Serrano"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/maclc-ctac-process-synthetic-data/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-ctac-process-synthetic-data/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -65,7 +74,6 @@
     "DataConnect",
     "CCW VRDC"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

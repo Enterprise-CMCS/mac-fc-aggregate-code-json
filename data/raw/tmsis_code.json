@@ -1,5 +1,6 @@
 {
   "name": "tmsis",
+  "version": "",
   "description": "File processing pipeline, web dashboard and core libraries for the Transformed-Medicaid Statistical Information System (T-MSIS)",
   "longDescription": "The [Transformed Medicaid Statistical Information} System](https://www.medicaid.gov/medicaid/data-and-systems/macbis/tmsis/index.html) (T-MSIS) receives claims and eligibility data from states via EFT, acknowledges the receipt and reports any errors via Receipt and Control, then kicks off a processing pipeline in Elastic Map Reduce (EMR) if all R+C checks are successful.",
   "status": "Production",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis",
-  "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 91105,
+  "laborHours": 90988,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "mac",
@@ -45,32 +50,32 @@
     "CSS",
     "Dockerfile",
     "Rich Text Format",
-    "Go",
     "Ruby",
     "SCSS",
     "Makefile"
   ],
   "maintenance": "contract",
-  "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
+  "contractNumber": [
+    "47QTCA19D00KH: 75FCMC22F0123"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/tmsis/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2016-02-13T07:02:20Z",
-    "lastModified": "2025-08-18T19:53:13Z",
-    "metaDataLastUpdated": "2025-08-18T23:21:09.836Z"
+    "lastModified": "2025-12-31T03:20:31Z",
+    "metadataLastUpdated": "2026-01-01T00:12:39.193Z"
   },
   "tags": [
-    "Java",
-    "Github Actions",
-    "Python",
-    "TMSIS",
-    "CMS"
+    "tmsis"
   ],
   "contact": {
     "email": "cms_IT_service_desk@cms.hhs.gov",
     "name": ""
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/tmsis/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/tmsis/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "application",
   "userInput": true,
@@ -80,7 +85,6 @@
     "TMSIS"
   ],
   "systems": [],
-  "upstream": "",
   "subsetInHealthcare": [
     "Operational",
     "Medicaid"
@@ -88,6 +92,5 @@
   "userType": [
     "Government"
   ],
-  "maturityModelTier": 4,
-  "app_id": "tmsis"
+  "maturityModelTier": 4
 }

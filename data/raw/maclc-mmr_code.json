@@ -1,5 +1,6 @@
 {
   "name": "maclc-mmr",
+  "version": "",
   "description": "CTAC MMR",
   "longDescription": "Contains code to generate the Medicaid Market Place Report (MMR)",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-mmr",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 5796,
+  "laborHours": 6311,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -34,11 +39,17 @@
     "Python"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC22F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/maclc-mmr/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-03-24T20:38:05Z",
-    "lastModified": "2025-07-24T13:09:06Z",
-    "metaDataLastUpdated": "2025-08-01T00:04:37.017Z"
+    "lastModified": "2026-01-23T15:19:31Z",
+    "metadataLastUpdated": "2026-02-01T00:05:31.244Z"
   },
   "tags": [
     "Medicaid",
@@ -48,9 +59,8 @@
     "email": "kserrano@mathematica-mpr.com",
     "name": "Kyle Serrano"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/maclc-mmr/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-mmr/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -64,7 +74,6 @@
     "DataConnect",
     "CCW VRDC"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

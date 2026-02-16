@@ -1,7 +1,8 @@
 {
   "name": "tmsis-dqt-webservices",
+  "version": "",
   "description": "DQT WebService is a web service that provides access to the Data Quality Tool (DQT) database.",
-  "longDescription": "DQT WebService is a web service that provides access to the Data Quality Tool (DQT) database. It allows users to query and retrieve data from the DQT database, which contains information about the quality of Medicaid and CHIP data submitted by states.",
+  "longDescription": "DQT Web Services is a Web API service that provides access to Data Quality Tool (DQT) data. It allows users to query and retrieve data from the DQT database, which contains information about the quality of Medicaid and CHIP data submitted by states.",
   "status": "Production",
   "permissions": {
     "licenses": [
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-dqt-webservices",
-  "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 10986,
+  "laborHours": 10477,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "mac",
@@ -38,17 +43,22 @@
     "TSQL",
     "HTML",
     "Dockerfile",
-    "Go",
     "Shell",
     "Mermaid",
     "CSS"
   ],
   "maintenance": "contract",
-  "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
+  "contractNumber": [
+    "47QTCA19D00KH: 75FCMC22F0123"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/tmsis-dqt-webservices/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-01-22T17:52:01Z",
-    "lastModified": "2025-08-18T23:20:09Z",
-    "metaDataLastUpdated": "2025-08-18T23:21:35.591Z"
+    "lastModified": "2026-01-12T14:01:07Z",
+    "metadataLastUpdated": "2026-01-12T17:16:09.852Z"
   },
   "tags": [
     "C#",
@@ -62,9 +72,8 @@
     "email": "cms_IT_service_desk@cms.hhs.gov",
     "name": ""
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/tmsis-dqt-webservices/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/tmsis-dqt-webservices/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "application",
   "userInput": false,
@@ -74,7 +83,6 @@
     "TMSIS"
   ],
   "systems": [],
-  "upstream": "",
   "subsetInHealthcare": [
     "Operational",
     "Medicaid"

@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 7047,
+  "laborHours": 7048,
   "reuseFrequency": {
     "forks": 0
   },
@@ -38,8 +38,8 @@
   "contractNumber": "75FCMC20F0002:75FCMC20F0002",
   "date": {
     "created": "2025-03-17T16:49:53Z",
-    "lastModified": "2025-07-17T18:24:29Z",
-    "metaDataLastUpdated": "2025-08-01T00:44:26.195Z"
+    "lastModified": "2026-01-01T00:44:37Z",
+    "metaDataLastUpdated": "2026-02-01T00:54:44.190Z"
   },
   "tags": [
     "Medicaid",

@@ -1,25 +1,35 @@
 {
   "name": "demos-qa-automation",
-  "description": "The Demonstration Evaluation and Management Oversight System (DEMOS) supports the administration of the Medicaid Section 1115 demonstration program",
+  "version": "",
+  "description": "",
   "longDescription": "The Demonstration Evaluation and Management Oversight System (DEMOS) supports the administration of the demonstration program under Medicaid Section 1115 of the Social Security Act (also known as ‘1115 waivers’). The system collects and produces data and descriptive information about Section 1115 applications submitted by states, and supports CMS’ review and approval of the applications, as well as monitoring and evaluation of approved demonstrations and budget neutrality.",
   "status": "Development",
   "permissions": {
-    "licenses": [{ "name": "None" }],
+    "licenses": [
+      {
+        "name": "None"
+      }
+    ],
     "usageType": "governmentWideReuse",
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/demos-qa-automation",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 0,
+  "laborHours": 4065,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
   },
-  "platforms": ["other"],
+  "platforms": [
+    "other"
+  ],
   "categories": [
     "applicant-tracking",
     "business-intelligence",
@@ -28,29 +38,51 @@
     "financial-reporting"
   ],
   "softwareType": "standalone/web",
-  "languages": ["TypeScript", "JavaScript"],
+  "languages": [
+    "TypeScript",
+    "Gherkin"
+  ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC24F0232",
+  "contractNumber": [
+    "75FCMC24F0232"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/demos-qa-automation/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
-    "created": "2025-05-08T12:52:27Z",
-    "lastModified": "2025-06-26T18:00:39Z",
-    "metaDataLastUpdated": "2025-06-27T15:40:53.183Z"
+    "created": "2025-05-08T12:53:36Z",
+    "lastModified": "2026-01-27T17:01:49Z",
+    "metadataLastUpdated": "2026-02-02T17:24:25.518Z"
   },
-  "tags": ["PMDA", "DEMOS", "1115 Waivers", "Medicaid", "budget neutrality", "Medicaid demonstration"],
+  "tags": [
+    "PMDA",
+    "DEMOS",
+    "1115 Waivers",
+    "Medicaid",
+    "budget neutrality",
+    "Medicaid demonstration"
+  ],
   "contact": {
     "email": "dl-pmda@globalalliantinc.com",
     "name": ""
   },
-  "feedbackMechanisms": ["https://github.com/Enterprise-CMCS/demos-qa-automation/issues", "Help Desk"],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/demos-qa-automation/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "tools",
   "userInput": false,
   "fismaLevel": "Moderate",
   "group": "CMCS",
-  "projects": ["demos"],
+  "projects": [
+    "demos"
+  ],
   "systems": [],
-  "upstream": "https://github.com/Enterprise-CMCS/demos-qa-automation/network/dependencies",
-  "subsetInHealthcare": ["Medicaid"],
-  "userType": ["Government"],
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
   "maturityModelTier": 0
 }

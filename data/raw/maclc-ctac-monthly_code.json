@@ -1,5 +1,6 @@
 {
   "name": "maclc-ctac-monthly",
+  "version": "",
   "description": "CTAC Monthly System",
   "longDescription": "Contains files required to run the monthly CTAC data pipeline.",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-ctac-monthly",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 1071,
+  "laborHours": 7361,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -30,13 +35,22 @@
     "data-analytics"
   ],
   "softwareType": "standalone/other",
-  "languages": [],
+  "languages": [
+    "Python",
+    "Jupyter Notebook"
+  ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC22F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/maclc-ctac-monthly/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2024-10-24T14:46:44Z",
-    "lastModified": "2025-07-09T12:11:38Z",
-    "metaDataLastUpdated": "2025-08-01T00:15:15.021Z"
+    "lastModified": "2026-01-22T14:21:38Z",
+    "metadataLastUpdated": "2026-02-01T00:18:23.177Z"
   },
   "tags": [
     "Medicaid",
@@ -46,9 +60,8 @@
     "email": "kserrano@mathematica-mpr.com",
     "name": "Kyle Serrano"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/maclc-ctac-monthly/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-ctac-monthly/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -62,7 +75,6 @@
     "DataConnect",
     "CCW VRDC"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],
@@ -70,6 +82,4 @@
     "Government"
   ],
   "maturityModelTier": 0
-
 }
-

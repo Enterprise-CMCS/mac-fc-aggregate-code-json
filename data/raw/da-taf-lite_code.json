@@ -1,0 +1,75 @@
+{
+  "name": "da-taf-lite",
+  "version": "0.1.0",
+  "description": "Enterprise Data Mart for TMSIS Analytic Files",
+  "longDescription": "",
+  "status": "Beta",
+  "permissions": {
+    "licenses": [
+      {
+        "URL": "None",
+        "name": "None"
+      }
+    ],
+    "usageType": [
+      "governmentWideReuse"
+    ]
+  },
+  "organization": "CMCS",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/da-taf-lite",
+
+  "repositoryHost": "github",
+  "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
+
+  "vcs": "git",
+  "laborHours": 8813,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [],
+  "categories": [],
+  "softwareType": "",
+  "languages": [
+    "Jupyter Notebook",
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": [
+    "47QTCA23D007S:75FCMC24FJ00"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/da-taf-lite/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
+  "date": {
+    "created": "2025-10-30T19:18:37Z",
+    "lastModified": "2025-12-18T16:15:28Z",
+    "metadataLastUpdated": "2026-01-01T00:08:41.758Z"
+  },
+  "tags": [
+    "TAF",
+    "EDM",
+    "STRIDE"
+  ],
+  "contact": {
+    "email": "natalie.korn@forpeople.us",
+    "name": "Natalie Johanna Korn"
+  },
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-taf-lite/issues",
+  "AIUseCaseID": "0",
+  "localisation": false,
+  "repositoryType": "",
+  "userInput": false,
+  "fismaLevel": "",
+  "group": "",
+  "projects": [],
+  "systems": [],
+  "subsetInHealthcare": [],
+  "userType": [],
+  "maturityModelTier": 0
+}

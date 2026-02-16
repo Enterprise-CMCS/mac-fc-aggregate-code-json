@@ -1,5 +1,6 @@
 {
   "name": "macfin-chip-expenditure-21-submission-service",
+  "version": "",
   "description": "CMS-21 Children's Health Insurance Program (CHIP) forms capture state reported expenditures for services provided under the state CHIP program.",
   "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
   "status": "Development",
@@ -15,11 +16,14 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/macfin-chip-expenditure-21-submission-service",
-  "projectURL": "https://portal.cms.gov/portal/",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 10348,
+  "laborHours": 13188,
   "reuseFrequency": {
     "forks": 0,
     "clones": 25
@@ -39,32 +43,37 @@
   "languages": [
     "Gherkin",
     "Java",
+    "HTML",
     "PLpgSQL"
   ],
   "maintenance": "contract",
-  "contractNumber": "GS-35F-303GA",
+  "contractNumber": [
+    "GS-35F-303GA"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/macfin-chip-expenditure-21-submission-service/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2024-07-08T17:29:25Z",
-    "lastModified": "2025-08-01T00:32:22Z",
-    "metaDataLastUpdated": "2025-08-01T00:36:31.542Z"
+    "lastModified": "2026-01-27T21:05:23Z",
+    "metadataLastUpdated": "2026-02-01T00:44:41.231Z"
   },
   "tags": [
-    "#macfin",
-    "#CHIP-expenditure",
-    "#21-expenditure",
-    "#expenditure",
-    "#financial",
-    "#financial-management",
-    "#financial-systems",
-    "#financial-management-software"
+    "budget",
+    "chip",
+    "expenditure",
+    "finance-management",
+    "financial",
+    "financial-data",
+    "medical"
   ],
   "contact": {
     "email": "MACFinHelpDesk@cms.hhs.gov",
     "name": "MACFin HelpDesk"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/macfin-chip-expenditure-21-submission-service/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macfin-chip-expenditure-21-submission-service/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "APIs",
   "userInput": true,
@@ -74,7 +83,6 @@
     "MACFin"
   ],
   "systems": "",
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

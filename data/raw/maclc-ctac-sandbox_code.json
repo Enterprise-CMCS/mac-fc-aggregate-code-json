@@ -1,5 +1,6 @@
 {
   "name": "maclc-ctac-sandbox",
+  "version": "",
   "description": "CTAC Sandbox",
   "longDescription": "",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-ctac-sandbox",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 2572,
+  "laborHours": 2581,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -35,11 +40,17 @@
     "Jupyter Notebook"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC22F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/maclc-ctac-sandbox/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-02-27T22:01:17Z",
-    "lastModified": "2025-07-10T19:04:33Z",
-    "metaDataLastUpdated": "2025-08-01T00:43:20.177Z"
+    "lastModified": "2026-01-01T00:43:37Z",
+    "metadataLastUpdated": "2026-02-01T00:53:25.014Z"
   },
   "tags": [
     "Medicaid",
@@ -49,9 +60,8 @@
     "email": "kserrano@mathematica-mpr.com",
     "name": "Kyle Serrano"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/maclc-ctac-sandbox/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-ctac-sandbox/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -65,7 +75,6 @@
     "DataConnect",
     "CCW VRDC"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

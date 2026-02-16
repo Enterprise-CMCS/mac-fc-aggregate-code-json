@@ -1,5 +1,6 @@
 {
   "name": "macdc-etl",
+  "version": "",
   "description": "This repository maintains the source code for DataConnect's extract-transform-load operations, including data transformation modules, pipeline definitions, and associated orchestration processes.",
   "longDescription": "This repository is where DataConnect is putting all of its ETL code and processes.",
   "status": "Production",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-etl",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 18559,
+  "laborHours": 19502,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -34,16 +39,21 @@
   "languages": [
     "Python",
     "HiveQL",
-    "Jupyter Notebook",
-    "Shell",
-    "Makefile"
+    "Makefile",
+    "Shell"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC21F0108",
+  "contractNumber": [
+    "75FCMC21F0108"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/macdc-etl/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2023-01-26T18:37:29Z",
-    "lastModified": "2025-07-30T16:57:31Z",
-    "metaDataLastUpdated": "2025-08-01T00:13:34.208Z"
+    "lastModified": "2026-01-30T21:22:38Z",
+    "metadataLastUpdated": "2026-02-01T00:42:24.844Z"
   },
   "tags": [
     "AWS",
@@ -55,9 +65,8 @@
     "email": "dataconnect@cmsdataconnect.us",
     "name": "Zach Holden"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/macdc-etl/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-etl/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "application",
   "userInput": false,
@@ -67,7 +76,6 @@
     "DataConnect"
   ],
   "systems": [],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

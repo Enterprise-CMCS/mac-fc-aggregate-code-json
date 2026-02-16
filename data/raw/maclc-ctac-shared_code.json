@@ -1,5 +1,6 @@
 {
   "name": "maclc-ctac-shared",
+  "version": "",
   "description": "CTAC Shared Programs",
   "longDescription": "Contains global functions and shared code used by the analytics systems in the CTAC project.",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-ctac-shared",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 1071,
+  "laborHours": 3643,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -30,13 +35,21 @@
     "data-analytics"
   ],
   "softwareType": "standalone/other",
-  "languages": [],
+  "languages": [
+    "Python"
+  ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC22F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/maclc-ctac-shared/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-02-26T15:22:01Z",
-    "lastModified": "2025-07-10T19:03:21Z",
-    "metaDataLastUpdated": "2025-08-01T00:27:31.576Z"
+    "lastModified": "2026-01-30T21:30:59Z",
+    "metadataLastUpdated": "2026-02-01T00:33:41.109Z"
   },
   "tags": [
     "Medicaid",
@@ -46,9 +59,8 @@
     "email": "kserrano@mathematica-mpr.com",
     "name": "Kyle Serrano"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/maclc-ctac-shared/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-ctac-shared/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -62,7 +74,6 @@
     "DataConnect",
     "CCW VRDC"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

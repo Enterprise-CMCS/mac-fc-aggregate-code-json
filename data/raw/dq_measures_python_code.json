@@ -1,6 +1,7 @@
 {
   "name": "dq_measures_python",
-  "description": "Python Implementation of T-MSIS Data Quality Measures ",
+  "version": "",
+  "description": "Python Implementation of Data Quality Measures for Databricks",
   "longDescription": "This is a Python Library for the maintenance and processing of T-MSIS Data Quality (DQ) Measures",
   "status": "Development",
   "permissions": {
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/dq_measures_python",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 0,
+  "laborHours": 18477,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -31,14 +36,22 @@
   ],
   "softwareType": "standalone/other",
   "languages": [
-    "Python"
+    "Python",
+    "Jupyter Notebook",
+    "Shell"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC21F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/dq_measures_python/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
-    "created": "2021-10-26T00:00:00-04:00",
-    "lastModified": "2025-05-29T00:00:00-04:00",
-    "metaDataLastUpdated": "2025-06-23T00:00:00-04:00"
+    "created": "2021-10-14T14:15:04Z",
+    "lastModified": "2025-11-21T17:43:22Z",
+    "metadataLastUpdated": "2026-01-01T00:24:06.108Z"
   },
   "tags": [
     "Medicaid Data Quality",
@@ -49,9 +62,8 @@
     "email": "jose.alarcon@cms.hhs.gov",
     "name": "Jose Alarcon"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/dq_measures_python/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/dq_measures_python/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -63,7 +75,6 @@
   "systems": [
     "DataConnect"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

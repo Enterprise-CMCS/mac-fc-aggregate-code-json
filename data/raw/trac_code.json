@@ -1,0 +1,86 @@
+{
+  "name": "trac",
+  "version": "",
+  "description": "This repository houses the code which is used to define the population that CMCS will be sending to USCIS's SAVE system for citizenship and immigration status verification. The primary goal in this effort is to define subpopulations that will be excluded from verification.",
+  "longDescription": "",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": [
+      "governmentWideReuse"
+    ]
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/trac",
+  "repositoryHost": "github",
+  "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
+  "vcs": "git",
+  "laborHours": 8373,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [],
+  "categories": [],
+  "softwareType": "",
+  "languages": [
+    "Jupyter Notebook",
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": [
+    "47QTCA23D007S: 75FCMC25FJ132"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/trac/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
+  "date": {
+    "created": "2025-09-17T17:56:02Z",
+    "lastModified": "2026-01-30T21:33:57Z",
+    "metadataLastUpdated": "2026-02-01T00:20:38.030Z"
+  },
+  "tags": [
+    "beneficiary",
+    "chip",
+    "citizenship",
+    "cmcs",
+    "cms",
+    "eligibility",
+    "enrollment",
+    "immigration",
+    "medicaid",
+    "save",
+    "state",
+    "taf",
+    "tmsis",
+    "trac",
+    "uscis",
+    "verification"
+  ],
+  "contact": {
+    "email": "salah.shaikh@cms.hhs.gov",
+    "name": "Salah Shaikh"
+  },
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/trac/issues",
+  "AIUseCaseID": "0",
+  "localisation": false,
+  "repositoryType": "",
+  "userInput": false,
+  "fismaLevel": "",
+  "group": "",
+  "projects": [],
+  "systems": [],
+  "subsetInHealthcare": [],
+  "userType": [],
+  "maturityModelTier": 0
+}

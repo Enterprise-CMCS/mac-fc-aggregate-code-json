@@ -1,5 +1,6 @@
 {
   "name": "maclc-ctac-adhoc",
+  "version": "",
   "description": "CTAC Ad Hoc Analytics",
   "longDescription": "Repo for ad-hoc data requests for the MACLC and CTAC teams. This repo is used to store code and documentation related to ad-hoc data requests.",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-ctac-adhoc",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 2672,
+  "laborHours": 7417,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -34,11 +39,17 @@
     "Python"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC22F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/maclc-ctac-adhoc/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-06-03T20:36:51Z",
-    "lastModified": "2025-07-07T11:14:32Z",
-    "metaDataLastUpdated": "2025-08-01T00:08:13.613Z"
+    "lastModified": "2026-01-01T00:08:56Z",
+    "metadataLastUpdated": "2026-02-01T00:10:08.805Z"
   },
   "tags": [
     "Medicaid",
@@ -48,9 +59,8 @@
     "email": "kserrano@mathematica-mpr.com",
     "name": "Kyle Serrano"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/maclc-ctac-adhoc/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-ctac-adhoc/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -64,7 +74,6 @@
     "DataConnect",
     "CCW VRDC"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

@@ -1,5 +1,6 @@
 {
   "name": "maclc-bhp-calculations",
+  "version": "",
   "description": "",
   "longDescription": "This repository contains the code to produce the BHP Calculations output",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-bhp-calculations",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 7605,
+  "laborHours": 8485,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -35,11 +40,17 @@
     "Python"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091:75FCMC23F0001",
+  "contractNumber": [
+    "75FCMC19D0091:75FCMC23F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/maclc-bhp-calculations/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-05-22T15:42:46Z",
-    "lastModified": "2025-07-21T17:35:19Z",
-    "metaDataLastUpdated": "2025-08-01T00:31:08.744Z"
+    "lastModified": "2025-12-15T19:37:41Z",
+    "metadataLastUpdated": "2026-01-01T00:31:10.027Z"
   },
   "tags": [
     "Medicaid",
@@ -50,9 +61,8 @@
     "email": "amims@mathematica-mpr.com",
     "name": "Amanda Mims"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/maclc-bhp-calculations/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-bhp-calculations/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -64,7 +74,6 @@
   "systems": [
     "DataConnect"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

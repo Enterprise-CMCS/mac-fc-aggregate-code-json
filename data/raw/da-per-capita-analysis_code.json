@@ -1,5 +1,6 @@
 {
   "name": "da-per-capita-analysis",
+  "version": "",
   "description": "",
   "longDescription": "This repository contains the code to generate the Per Capita analysis and reporting data using TAF",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/da-per-capita-analysis",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 4685,
+  "laborHours": 4801,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -34,11 +39,17 @@
     "Python"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC21F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/da-per-capita-analysis/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2023-06-12T02:09:49Z",
-    "lastModified": "2025-07-15T16:49:33Z",
-    "metaDataLastUpdated": "2025-08-01T00:41:21.141Z"
+    "lastModified": "2026-01-06T15:01:08Z",
+    "metadataLastUpdated": "2026-02-01T00:51:02.640Z"
   },
   "tags": [
     "Medicaid",
@@ -48,9 +59,8 @@
     "email": "amims@mathematica-mpr.com",
     "name": "Amanda Mims"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/da-per-capita-analysis/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-per-capita-analysis/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -62,7 +72,6 @@
   "systems": [
     "DataConnect"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

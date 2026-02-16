@@ -1,0 +1,72 @@
+{
+  "name": "mac-fc-shared",
+  "description": "",
+  "longDescription": "This repo manages account-wide resources for the MAC-FC AWS accounts.",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/mac-fc-shared",
+  "projectURL": "",
+  "repositoryHost": "github.com/CMS-Enterprise",
+  "repositoryVisibility": "internal",
+  "vcs": "git",
+  "laborHours": 0,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "linux"
+  ],
+  "categories": [
+    "application-development",
+    "it-development"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [],
+  "maintenance": "contract",
+  "contractNumber": "47QTCA21D00AC",
+  "date": {
+    "created": "2025-08-19T08:00:00Z",
+    "lastModified": "2025-08-19T08:00:00Z",
+    "metaDataLastUpdated": "2025-08-19T08:00:00Z"
+  },
+  "tags": [
+    "mac-fc aws account terraform",
+    "mac-fc aws account resources"
+  ],
+  "contact": {
+    "email": "cms-macfc@corbalt.com",
+    "name": "Corbalt"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/mac-fc-shared/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "libraries",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS/DSG",
+  "projects": [
+    "ProfessorMAC",
+    "Teams-API",
+    "Developer-Portal",
+    "DSO-Metrics"
+  ],
+  "systems": [],
+  "upstream": [],
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

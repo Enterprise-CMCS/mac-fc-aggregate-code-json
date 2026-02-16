@@ -1,5 +1,6 @@
 {
   "name": "da-dq-atlas-measures",
+  "version": "",
   "description": "",
   "longDescription": "This is a package to calculate data quality measures on T-MSIS Analytic Files (TAF) using Python",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/da-dq-atlas-measures",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 1165,
+  "laborHours": 9470,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -30,13 +35,21 @@
     "data-analytics"
   ],
   "softwareType": "standalone/other",
-  "languages": [],
+  "languages": [
+    "Python"
+  ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC21F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/da-dq-atlas-measures/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2024-10-15T20:11:50Z",
-    "lastModified": "2025-07-08T17:14:51Z",
-    "metaDataLastUpdated": "2025-08-01T00:07:47.358Z"
+    "lastModified": "2026-01-30T23:06:55Z",
+    "metadataLastUpdated": "2026-02-01T00:09:03.655Z"
   },
   "tags": [
     "Medicaid",
@@ -44,12 +57,11 @@
     "Medicaid Data Quality"
   ],
   "contact": {
-    "email": "xbarry@mathematica-mpr.com",
-    "name": "Xiao Barry"
+    "email": "angelica.parker@cms.hhs.gov",
+    "name": "Angelica Parker"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/da-dq-atlas-measures/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-dq-atlas-measures/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -61,7 +73,6 @@
   "systems": [
     "DataConnect"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

@@ -1,77 +1,61 @@
 {
   "name": "tmsis-ingest",
-  "description": "tmsis-ingest",
-  "longDescription": "tmsis-ingest",
-  "status": "Archival",
+  "description": "TMSIS ingest and file-processing pipelines",
+  "longDescription": "",
+  "status": "",
   "permissions": {
-    "licenses": [
+    "license": [
       {
-        "name": "None",
-        "URL": "https://github.com/Enterprise-CMCS/tmsis-ingest/blob/main/README.md"
+        "name": "",
+        "URL": ""
       }
     ],
-    "usageType": "governmentWideReuse",
+    "usageType": "",
     "exemptionText": ""
   },
-  "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-ingest/",
+  "organization": "",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-ingest",
   "projectURL": "",
-  "repositoryHost": "github.com/CMS-Enterprise",
-  "repositoryVisibility": "private",
+  "repositoryHost": "github",
+  "repositoryVisibility": "",
   "vcs": "git",
-  "laborHours": 6562,
+  "laborHours": 29938,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
-  "platforms": [
-    "mac",
-    "linux",
-    "other"
-  ],
-  "categories": [
-    "cloud-management"
-  ],
-  "softwareType": "standalone/backend",
+  "platforms": [],
+  "categories": [],
+  "softwareType": "",
   "languages": [
     "Java",
-    "Thrift"
+    "Thrift",
+    "Groovy"
   ],
-  "maintenance": "contract",
-  "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
+  "maintenance": "",
+  "contractNumber": "",
   "date": {
-    "created": "2023-05-02T00:00:00-05:00",
-    "lastModified": "2023-09-19T00:00:00-05:00",
-    "metaDataLastUpdated": ""
+    "created": "2023-05-02T22:43:25Z",
+    "lastModified": "2025-10-09T22:21:48Z",
+    "metaDataLastUpdated": "2026-01-01T00:41:57.422Z"
   },
-  "tags": [
-     "Java",
-    "Thrift"
-    "TMSIS",
-    "CMS"
-  ],
+  "tags": [],
   "contact": {
-    "email": "cms_IT_service_desk@cms.hhs.gov",
+    "email": "",
     "name": ""
   },
   "feedbackMechanisms": [
     "https://github.com/Enterprise-CMCS/tmsis-ingest/issues"
   ],
   "localisation": false,
-  "repositoryType": "tools",
+  "repositoryType": "",
   "userInput": false,
-  "fismaLevel": "Low",
-  "group": "CMS",
-  "projects": [
-    "TMSIS"
-  ],
+  "fismaLevel": "",
+  "group": "",
+  "projects": [],
   "systems": [],
   "upstream": "",
-  "subsetInHealthcare": [
-    "Operational",
-    "Medicaid"
-  ],
-  "userType": [
-    "Government"
-  ],
-  "maturityModelTier": 1
+  "subsetInHealthcare": [],
+  "userType": [],
+  "maturityModelTier": 0
 }

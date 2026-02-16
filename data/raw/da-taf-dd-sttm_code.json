@@ -37,8 +37,8 @@
   "contractNumber": "75FCMC19D0091/75FCMC21F0001",
   "date": {
     "created": "2025-03-26T19:37:10Z",
-    "lastModified": "2025-07-18T16:42:32Z",
-    "metaDataLastUpdated": "2025-07-18T16:45:20.261Z"
+    "lastModified": "2026-01-21T22:21:24Z",
+    "metaDataLastUpdated": "2026-02-01T00:02:44.563Z"
   },
   "tags": [
     "Medicaid",
@@ -47,8 +47,8 @@
     "TAF"
   ],
   "contact": {
-    "email": "sgreiner@mathematica-mpr.com",
-    "name": "Scott Greiner"
+    "email": "angelica.parker@cms.hhs.gov",
+    "name": "Angelica Parker"
   },
   "feedbackMechanisms": [
     "https://github.com/Enterprise-CMCS/da-taf-dd-sttm/issues"

@@ -1,5 +1,6 @@
 {
   "name": "pi-data-quality-pipeline",
+  "version": "",
   "description": "",
   "longDescription": "This repository contains the code for the performance indicator data quality pipeline that runs data quality (DQ) checks for state's monthly Performance Indicator data. This pipeline runs in the CMCS DataConnect Databricks environment. The PI DQ check output is displayed in a Databricks Dashboard and is utilized by state leads for review of monthly performance indicator data and state communication.",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/pi-data-quality-pipeline",
-  "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 3504,
+  "laborHours": 4091,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -32,15 +37,20 @@
   ],
   "softwareType": "standalone/other",
   "languages": [
-    "Python",
-    "Jupyter Notebook"
+    "Python"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091:75FCMC21F0001",
+  "contractNumber": [
+    "75FCMC19D0091:75FCMC21F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/pi-data-quality-pipeline/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-01-30T13:10:09Z",
-    "lastModified": "2025-07-31T21:23:41Z",
-    "metaDataLastUpdated": "2025-08-01T00:15:14.529Z"
+    "lastModified": "2026-01-29T21:30:24Z",
+    "metadataLastUpdated": "2026-02-01T00:18:57.259Z"
   },
   "tags": [
     "Medicaid",
@@ -52,9 +62,8 @@
     "email": "BHagen@mathematica-mpr.com",
     "name": "Brynn Hagen"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/pi-data-quality-pipeline/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/pi-data-quality-pipeline/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -66,7 +75,6 @@
   "systems": [
     "DataConnect"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

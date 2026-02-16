@@ -1,5 +1,6 @@
 {
   "name": "mdp-application",
+  "version": "",
   "description": "",
   "longDescription": "Mono repo used to host Medicaid Drug Program application, infrastructure, and testing code.",
   "status": "Production",
@@ -15,13 +16,16 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/mdp-application",
-  "projectURL": "portal.cms.gov",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 31152,
+  "laborHours": 32674,
   "reuseFrequency": {
-    "forks": 0,
+    "forks": 1,
     "clones": 0
   },
   "platforms": [
@@ -42,20 +46,28 @@
     "TypeScript",
     "PLpgSQL",
     "HTML",
+    "Visual Basic 6.0",
     "VBA",
     "JavaScript",
     "CSS",
     "SCSS",
     "Shell",
     "Dockerfile",
+    "Procfile",
     "ASL"
   ],
   "maintenance": "internal",
-  "contractNumber": "47QTCA20D000W:75FCMC24F0189",
+  "contractNumber": [
+    "47QTCA20D000W:75FCMC24F0189"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/mdp-application/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2023-06-12T16:00:05Z",
-    "lastModified": "2025-07-31T22:20:23Z",
-    "metaDataLastUpdated": "2025-08-01T00:14:10.961Z"
+    "lastModified": "2026-01-29T17:58:30Z",
+    "metadataLastUpdated": "2026-02-01T00:17:40.287Z"
   },
   "tags": [
     "java",
@@ -66,9 +78,8 @@
     "email": "stephanie.hauf@cms.hhs.gov",
     "name": "Stephanie Hauf"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/mdp-application"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/mdp-application/issues",
+  "AIUseCaseID": "0",
   "localisation": true,
   "repositoryType": "application",
   "userInput": true,
@@ -80,7 +91,6 @@
   "systems": [
     "Medicaid Drug Program"
   ],
-  "upstream": "none",
   "subsetInHealthcare": [
     "Medicaid"
   ],

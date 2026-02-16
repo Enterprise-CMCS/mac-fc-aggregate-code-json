@@ -1,5 +1,6 @@
 {
   "name": "macdc-dqe",
+  "version": "",
   "description": "Python Adaptive Library Engineering Toolkit",
   "longDescription": "Python Adaptive Library Engineering Toolkit. The DataConnect Query Engine was created to aid users in creating curated data ready for analysis. The Query Engine allows users to quickly and easily use existing modules to create custom queries and create meaningful datasets that can power analyses and dashboards.",
   "status": "Production",
@@ -15,11 +16,14 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-dqe",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 12807,
+  "laborHours": 12961,
   "reuseFrequency": {
     "forks": 0,
     "clones": 151
@@ -39,11 +43,17 @@
     "Makefile"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC21F0108",
+  "contractNumber": [
+    "75FCMC21F0108"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/macdc-dqe/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2021-11-15T17:21:09Z",
-    "lastModified": "2025-07-24T20:50:11Z",
-    "metaDataLastUpdated": "2025-08-01T00:03:15.705Z"
+    "lastModified": "2026-01-27T14:55:58Z",
+    "metadataLastUpdated": "2026-02-01T00:03:55.113Z"
   },
   "tags": [
     "dqe"
@@ -52,9 +62,8 @@
     "email": "dataconnect@cmsdataconnect.us",
     "name": "Zach Holden"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/macdc-dqe/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-dqe/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "libraries",
   "userInput": false,
@@ -64,7 +73,6 @@
     "DataConnect"
   ],
   "systems": [],
-  "upstream": "https://github.com/Enterprise-CMCS/macdc-dqe/network/dependencies",
   "subsetInHealthcare": [
     "Medicaid"
   ],

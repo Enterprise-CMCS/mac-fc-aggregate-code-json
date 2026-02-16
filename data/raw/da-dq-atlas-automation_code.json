@@ -1,5 +1,6 @@
 {
   "name": "da-dq-atlas-automation",
+  "version": "",
   "description": "",
   "longDescription": "This is a package to calculate data quality measures on T-MSIS Analytic Files (TAF) using SAS",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/da-dq-atlas-automation",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 8400,
+  "laborHours": 8401,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -35,10 +40,14 @@
   ],
   "maintenance": "contract",
   "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "SBOM": "https://github.com/Enterprise-CMCS/da-dq-atlas-automation/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2023-07-10T15:14:17Z",
-    "lastModified": "2025-07-09T17:11:13Z",
-    "metaDataLastUpdated": "2025-08-01T00:02:31.166Z"
+    "lastModified": "2025-09-25T19:00:26Z",
+    "metaDataLastUpdated": "2025-10-01T00:03:13.945Z"
   },
   "tags": [
     "Medicaid",
@@ -49,9 +58,8 @@
     "email": "xbarry@mathematica-mpr.com",
     "name": "Xiao Barry"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/da-dq-atlas-automation/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-dq-atlas-automation/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -63,12 +71,16 @@
   "systems": [
     "DataConnect"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],
   "userType": [
     "Government"
   ],
-  "maturityModelTier": 0
+  "maturityModelTier": 0,
+  "projectURL": "",
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/da-dq-atlas-automation/issues"
+  ],
+  "upstream": ""
 }

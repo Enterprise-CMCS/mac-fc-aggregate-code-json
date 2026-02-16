@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 12691,
+  "laborHours": 12742,
   "reuseFrequency": {
     "forks": 0
   },
@@ -42,8 +42,8 @@
   "contractNumber": "75FCMC19D0091/75FCMC21F0001",
   "date": {
     "created": "2023-07-11T17:59:00Z",
-    "lastModified": "2025-07-17T19:25:18Z",
-    "metaDataLastUpdated": "2025-08-01T00:03:51.632Z"
+    "lastModified": "2026-01-01T00:04:26Z",
+    "metaDataLastUpdated": "2026-02-01T00:04:13.792Z"
   },
   "tags": [
     "Medicaid",
@@ -60,8 +60,8 @@
     "Service Use"
   ],
   "contact": {
-    "email": "tfisher@mathematica-mpr.com",
-    "name": "Tyler Fisher"
+    "email": "angelica.parker@cms.hhs.gov",
+    "name": "Angelica Parker"
   },
   "feedbackMechanisms": [
     "https://github.com/Enterprise-CMCS/dq-atlas-frontend/issues"

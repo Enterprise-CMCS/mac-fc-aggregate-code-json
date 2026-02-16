@@ -1,0 +1,86 @@
+{
+  "name": "macdc-dab-deployment-framework",
+  "version": "1.0.0",
+  "description": "This repository functions as the centralized infrastructure-as-code framework and reference implementation for Databricks Asset Bundles. It includes standardized job and pipeline definitions, naming and tagging conventions, GitOps-driven deployment examples via GitHub Actions, and team guidance for onboarding new bundles.",
+  "longDescription": "This repository serves as the central hub for all metadata governance configurations, data contracts, and vocabulary definitions related to the DataConnect project, enabling standardized ingestion, transformation, access control, and compliance enforcement across the platform.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "CC0-1.0",
+        "URL": "https://github.com/Enterprise-CMCS/macdc-domi/blob/main/LICENSE"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-dab-deployment-framework",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
+  "vcs": "git",
+  "laborHours": 2107,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [
+    "AWS"
+  ],
+  "categories": [
+    "data-governance",
+    "metadata-management"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [],
+  "maintenance": "contract",
+  "contractNumber": [
+    "75FCMC21F0108"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/macdc-domi/network/dependencies",
+  "relatedCode": [
+    "https://github.com/Enterprise-CMCS/macdc-terraform",
+    "https://github.com/Enterprise-CMCS/macdc-data-contracts"
+  ],
+  "reusedCode": [],
+  "partners": [],
+  "date": {
+    "created": "2026-02-06T16:53:45Z",
+    "lastModified": "2026-02-09T15:12:38Z",
+    "metadataLastUpdated": "2026-02-09T15:15:38.282Z"
+  },
+  "tags": [
+    "AWS",
+    "DataConnect",
+    "MAC_DC",
+    "metadata-governance",
+    "data-contracts"
+  ],
+  "contact": {
+    "email": "dataconnect@cmsdataconnect.us",
+    "name": "Zach Holden"
+  },
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-domi/issues",
+  "AIUseCaseID": "0",
+  "localisation": false,
+  "repositoryType": "application",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS",
+  "projects": [
+    "DataConnect"
+  ],
+  "systems": [],
+  "subsetInHealthcare": [
+    "Medicaid",
+    "CHIP"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

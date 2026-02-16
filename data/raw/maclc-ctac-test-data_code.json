@@ -1,5 +1,6 @@
 {
   "name": "maclc-ctac-test-data",
+  "version": "",
   "description": "CTAC Test Data",
   "longDescription": "Synthetic data files created by GenRocket for testing purposes in the MACLC CTAC project. These files are used to simulate real-world data scenarios without exposing sensitive information.",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-ctac-test-data",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 13850,
+  "laborHours": 10385,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -32,11 +37,17 @@
   "softwareType": "standalone/other",
   "languages": [],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC22F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/maclc-ctac-test-data/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-02-19T15:49:10Z",
-    "lastModified": "2025-07-24T21:12:43Z",
-    "metaDataLastUpdated": "2025-08-01T00:43:59.682Z"
+    "lastModified": "2026-01-30T19:20:02Z",
+    "metadataLastUpdated": "2026-02-01T00:54:14.894Z"
   },
   "tags": [
     "Medicaid",
@@ -46,9 +57,8 @@
     "email": "kserrano@mathematica-mpr.com",
     "name": "Kyle Serrano"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/maclc-ctac-test-data/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-ctac-test-data/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -62,7 +72,6 @@
     "DataConnect",
     "CCW VRDC"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

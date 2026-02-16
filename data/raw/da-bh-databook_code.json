@@ -1,5 +1,6 @@
 {
   "name": "da-bh-databook",
+  "version": "",
   "description": "",
   "longDescription": "This repo contains all code needed to generate the Behavioral Health Data Book; including reading in codeset Excel workbooks, processing TAF DE and claims, flagging treatment for and service use related to substance use and mental health disorders, and generating output tables for reporting. Note: For 2022 BH Data Book, source code is in individual SUD and MH repos (archived).",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/da-bh-databook",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 8112,
+  "laborHours": 8110,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -34,11 +39,17 @@
     "Python"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC21F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/da-bh-databook/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-02-20T19:34:25Z",
-    "lastModified": "2025-07-28T16:57:47Z",
-    "metaDataLastUpdated": "2025-08-01T00:18:20.006Z"
+    "lastModified": "2025-12-02T15:59:09Z",
+    "metadataLastUpdated": "2026-01-01T00:18:21.241Z"
   },
   "tags": [
     "Medicaid",
@@ -51,9 +62,8 @@
     "email": "amims@mathematica-mpr.com",
     "name": ""
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/da-bh-databook/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-bh-databook/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -65,7 +75,6 @@
   "systems": [
     "DataConnect"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

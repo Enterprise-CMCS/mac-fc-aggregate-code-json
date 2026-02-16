@@ -1,7 +1,7 @@
 {
   "name": "mac-fc-dso-metrics-configs",
   "description": "",
-  "longDescription": "This repo stores the program cmd/process-config that takes 1 config file as an input. Config files for each team are located in configs/<team>/<app>/<config-name>.yml. The program runs the command scan-github wh which must be available via $PATH.",
+  "longDescription": "This repo stores configs for DSO metrics event reporting. Config files for each team are located in configs/<team>/<app>/<config-name>.yml.",
   "status": "Production",
   "permissions": {
     "licenses": [

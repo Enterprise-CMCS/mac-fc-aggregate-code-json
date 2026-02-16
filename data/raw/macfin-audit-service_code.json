@@ -1,5 +1,6 @@
 {
   "name": "macfin-audit-service",
+  "version": "",
   "description": "DSH Audit for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid program and CHIP.",
   "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
   "status": "Production",
@@ -15,13 +16,16 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/macfin-audit-service",
-  "projectURL": "https://portal.cms.gov/portal/",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 6765,
+  "laborHours": 6767,
   "reuseFrequency": {
-    "forks": 1000,
+    "forks": 0,
     "clones": 1000
   },
   "platforms": [
@@ -50,25 +54,29 @@
     "PLpgSQL"
   ],
   "maintenance": "contract",
-  "contractNumber": "GS-35F-303GA",
+  "contractNumber": [
+    "GS-35F-303GA"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/macfin-audit-service/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2023-08-28T20:42:45Z",
-    "lastModified": "2025-06-04T16:08:19Z",
-    "metaDataLastUpdated": "2025-08-01T00:39:13.437Z"
+    "lastModified": "2025-10-24T15:14:33Z",
+    "metadataLastUpdated": "2025-12-01T00:39:19.093Z"
   },
   "tags": [
-    "#devsecops",
-    "#macfin",
-    "#configurations",
-    "#ops"
+    "audit",
+    "budget-app",
+    "federal-government"
   ],
   "contact": {
     "email": "MACFinHelpDesk@cms.hhs.gov",
     "name": "MACFin HelpDesk"
   },
-  "feedbackMechanisms": [
-    "Emails"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macfin-audit-service/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "APIs",
   "userInput": true,
@@ -80,7 +88,6 @@
   "systems": [
     "HiGlas"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

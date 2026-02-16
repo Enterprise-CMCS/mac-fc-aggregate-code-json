@@ -1,5 +1,5 @@
 {
-  "name": "MACFin",
+  "name": "macfin-automation-testing",
   "description": "Automation Testing Code for MACFin - The budget application for Medicaid and CHIP",
   "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
   "status": "Production",
@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 0,
+  "laborHours": 20529,
   "reuseFrequency": {
     "forks": 0,
     "clones": 25
@@ -32,27 +32,26 @@
   "categories": [
     "accounting",
     "budgeting",
-	"test-management"
+    "test-management"
   ],
   "softwareType": "standalone/web",
   "languages": [
-    "java",
-    "sql"
+    "Java",
+    "Gherkin"
   ],
   "maintenance": "contract",
   "contractNumber": "GS-35F-303GA",
   "date": {
-    "created": "2025-05-20T00:00:00-04:00",
-    "lastModified": "2025-05-20T00:00:00-04:00",
-    "metaDataLastUpdated": "2025-05-20T00:00:00-04:00"
+    "created": "2023-08-28T20:51:23Z",
+    "lastModified": "2025-08-26T03:02:52Z",
+    "metaDataLastUpdated": "2025-09-01T00:10:11.097Z"
   },
   "tags": [
-    "#macfin",
-    "#CHIP-expenditure",
-    "#21-expenditure",
-    "#expenditure",
-    "#automation-testing",
-    "#automation"
+    "automated-testing",
+    "budget-app",
+    "expenditures",
+    "java",
+    "medicaid"
   ],
   "contact": {
     "email": "MACFinHelpDesk@cms.hhs.gov",

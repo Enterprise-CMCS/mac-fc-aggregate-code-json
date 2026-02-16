@@ -1,6 +1,6 @@
 {
   "name": "mac-fc-teams-api",
-  "description": "An API with endpoints for current MACBIS teams, accounts, users, and roles.",
+  "description": "An API with endpoints for current MACBIS teams, accounts, users, and roles",
   "longDescription": "An API that is used by MAC-FC applications to manage and retrieve information about teams, accounts, users, and roles within the MACBIS system. It is a centralized service for accessing and manipulating team-related data.",
   "status": "Production",
   "permissions": {
@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "internal",
   "vcs": "git",
-  "laborHours": 0,
+  "laborHours": 6142,
   "reuseFrequency": {
     "forks": 790
   },
@@ -32,20 +32,20 @@
   ],
   "softwareType": "standalone/backend",
   "languages": [
-    "Go",
     "TypeScript",
+    "Go",
     "HCL",
     "Shell",
+    "JavaScript",
     "CSS",
-    "HTML",
-    "JavaScript"
+    "HTML"
   ],
   "maintenance": "contract",
   "contractNumber": "47QTCA21D00AC",
   "date": {
-    "created": "2024-11-24T16:38:00Z",
-    "lastModified": "",
-    "metaDataLastUpdated": ""
+    "created": "2024-11-14T16:38:52Z",
+    "lastModified": "2025-07-30T17:05:06Z",
+    "metaDataLastUpdated": "2025-08-01T00:26:23.168Z"
   },
   "tags": [
     "teams",

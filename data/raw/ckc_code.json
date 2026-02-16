@@ -1,0 +1,52 @@
+{
+  "name": "ckc",
+  "description": "Code repository for Connecting Kids to Coverage Support Contract",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": [
+      "governmentWideReuse"
+    ]
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/ckc",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 0,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "languages": [
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC25FJ084"
+  ],
+  "date": {
+    "created": "2025-09-08T00:00:00-04:00",
+    "lastModified": "2025-09-08T00:00:00-04:00",
+    "metaDataLastUpdated": "2025-09-10T00:00:00-04:00"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "Children's Health",
+    "CHIP",
+    "Grants",
+    "Enrollment",
+    "Performance Dashboard",
+    "Progress Reports"
+  ],
+  "contact": {
+    "email": "eward@mathematica-mpr.com",
+    "name": "Eva Ward"
+  },
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/ckc/issues",
+  "AIUseCaseID": "0"
+}

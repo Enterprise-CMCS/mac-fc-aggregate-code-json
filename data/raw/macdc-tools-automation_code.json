@@ -1,5 +1,6 @@
 {
   "name": "macdc-tools-automation",
+  "version": "",
   "description": "This repository contains discrete automation modules that don't align with the macdc-terraform codebase or other specialized repositories. Each directory represents a standalone technical implementation organized for maintainability and clear separation of concerns.",
   "longDescription": "The root level of the repo should only have global config files (like .flake8 and .gitignore) and folders that each have a single purpose. The folders should be for somewhat small automation projects that don't belong in the macdc-terraform repo and don't belong in any other specific repo. CI, linting, unit tests and other automation applying to the things in this repo should be applied to each single purpose folder individually and not this repo as a whole. The reason for these folders being single purpose is portability. If you feel it's warranted, when any of these small automation projects outgrow this repo they could easily be migrated to their own dedicated repo.",
   "status": "Production",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-tools-automation",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 6203,
+  "laborHours": 6487,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "windows",
@@ -41,22 +46,27 @@
     "Shell"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC21F0108",
+  "contractNumber": [
+    "75FCMC21F0108"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/macdc-tools-automation/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2022-04-27T16:28:46Z",
-    "lastModified": "2025-07-29T21:07:17Z",
-    "metaDataLastUpdated": "2025-08-01T00:15:37.931Z"
+    "lastModified": "2026-01-29T15:38:11Z",
+    "metadataLastUpdated": "2026-02-01T00:43:25.749Z"
   },
   "tags": [
-    "macdc-tools-automation"
+    "dataconnect"
   ],
   "contact": {
     "email": "dataconnect@cmsdataconnect.us",
     "name": "Zach Holden"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/macdc-tools-automation/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-tools-automation/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "tools",
   "userInput": false,
@@ -66,7 +76,6 @@
     "DataConnect"
   ],
   "systems": [],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

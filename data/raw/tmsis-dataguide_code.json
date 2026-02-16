@@ -1,7 +1,8 @@
 {
   "name": "tmsis-dataguide",
+  "version": "",
   "description": "Operations Dashboard Dataguide supported by Wagtail, includes the web component for authoring, editing, and reviewing dataguide content.",
-  "longDescription": "Wagtail CMS centralizes TMSIS Data Guide content from multiple sources. Editors manage content via an admin portal. Uses Wagtail Bakery & Django Bakery to generate and publish static sites to S3. V3 and V4 are maintained in separate folders; updates must be applied to both as needed.",
+  "longDescription": "Wagtail CMS centralizes TMSIS Data Guide content from multiple sources. Editors manage content via an admin portal. Uses Wagtail Bakery & Django Bakery to generate and publish static sites to S3. Data Guide V3 and V4 are maintained in separate folders; updates must be applied to both as needed.",
   "status": "Production",
   "permissions": {
     "licenses": [
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-dataguide",
-  "projectURL": "",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 19319,
+  "laborHours": 18915,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "mac",
@@ -43,28 +48,27 @@
     "SCSS"
   ],
   "maintenance": "contract",
-  "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
+  "contractNumber": [
+    "47QTCA19D00KH: 75FCMC22F0123"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/tmsis-dataguide/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2022-02-15T14:44:32Z",
-    "lastModified": "2025-07-15T18:06:41Z",
-    "metaDataLastUpdated": "2025-08-01T00:37:09.670Z"
+    "lastModified": "2026-01-12T15:53:47Z",
+    "metadataLastUpdated": "2026-01-12T17:15:19.773Z"
   },
   "tags": [
-    "JavaScript",
-    "Python",
-    "HTML",
-    "Terraform",
-    "CSS",
-    "TMSIS",
-    "CMS"
+    "tmsis"
   ],
   "contact": {
     "email": "cms_IT_service_desk@cms.hhs.gov",
     "name": ""
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/tmsis-dataguide/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/tmsis-dataguide/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "website",
   "userInput": true,
@@ -74,7 +78,6 @@
     "TMSIS"
   ],
   "systems": [],
-  "upstream": "",
   "subsetInHealthcare": [
     "Operational",
     "Medicaid"

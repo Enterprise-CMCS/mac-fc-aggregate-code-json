@@ -1,5 +1,6 @@
 {
   "name": "da-pregnancy-outcomes",
+  "version": "",
   "description": "",
   "longDescription": "This repository contains the code to generate the Pregnancy Episodes and Outcomes File (PEOF)",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/da-pregnancy-outcomes",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 4741,
+  "laborHours": 5458,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -31,14 +36,21 @@
   ],
   "softwareType": "standalone/other",
   "languages": [
-    "Python"
+    "Python",
+    "R"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC21F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/da-pregnancy-outcomes/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2023-10-04T15:49:51Z",
-    "lastModified": "2025-07-15T14:24:36Z",
-    "metaDataLastUpdated": "2025-08-01T00:25:34.424Z"
+    "lastModified": "2026-01-30T20:09:08Z",
+    "metadataLastUpdated": "2026-02-01T00:31:22.413Z"
   },
   "tags": [
     "Medicaid",
@@ -49,9 +61,8 @@
     "email": "amims@mathematica-mpr.com",
     "name": "Amanda Mims"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/da-pregnancy-outcomes/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-pregnancy-outcomes/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -63,7 +74,6 @@
   "systems": [
     "DataConnect"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

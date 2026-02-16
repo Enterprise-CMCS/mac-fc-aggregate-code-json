@@ -1,5 +1,6 @@
 {
   "name": "da-seatool-mcog-automated-reporting",
+  "version": "",
   "description": "",
   "longDescription": "This repository contains the code to generate the SEATool MCOG Automated Reporting dashboard data",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/da-seatool-mcog-automated-reporting",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 1071,
+  "laborHours": 1556,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -30,13 +35,21 @@
     "data-analytics"
   ],
   "softwareType": "standalone/other",
-  "languages": [],
+  "languages": [
+    "Python"
+  ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC21F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/da-seatool-mcog-automated-reporting/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-08-14T16:51:37Z",
-    "lastModified": "2025-08-21T17:47:46Z",
-    "metaDataLastUpdated": "2025-08-21T19:20:36.035Z"
+    "lastModified": "2026-01-07T20:53:07Z",
+    "metadataLastUpdated": "2026-02-01T00:26:11.674Z"
   },
   "tags": [
     "Medicaid",
@@ -46,9 +59,8 @@
     "email": "amims@mathematica-mpr.com",
     "name": "Amanda Mims"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/da-seatool-mcog-automated-reporting/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-seatool-mcog-automated-reporting/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -60,7 +72,6 @@
   "systems": [
     "DataConnect"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

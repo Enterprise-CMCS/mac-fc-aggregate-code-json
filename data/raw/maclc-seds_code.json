@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 0,
+  "laborHours": 5341,
   "reuseFrequency": {
     "forks": 0
   },
@@ -31,18 +31,21 @@
   ],
   "softwareType": "standalone/other",
   "languages": [
-    "Python"
+    "Python",
+    "SAS"
   ],
   "maintenance": "contract",
   "contractNumber": "75FCMC19D0091:75FCMC23F0001",
   "date": {
-    "created": "2025-05-08T20:21:51Z",
-    "lastModified": "2025-07-14T14:26:56Z",
-    "metaDataLastUpdated": "2025-07-15T14:30:40.034Z"
+    "created": "2025-05-08T13:58:55Z",
+    "lastModified": "2025-08-13T13:44:09Z",
+    "metaDataLastUpdated": "2025-10-01T00:18:09.974Z"
   },
   "tags": [
     "Medicaid",
-    "Medicaid Data", "CHIP", "SEDS"
+    "Medicaid Data",
+    "CHIP",
+    "SEDS"
   ],
   "contact": {
     "email": "amims@mathematica-mpr.com",

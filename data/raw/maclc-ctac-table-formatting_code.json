@@ -1,5 +1,6 @@
 {
   "name": "maclc-ctac-table-formatting",
+  "version": "",
   "description": "Tabling programs for MACLC Unwinding CTAC",
   "longDescription": "These modules format the weekly CCIIO, weekly outreach, and weekly MEC summary tables from the weekly CTAC system.",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-ctac-table-formatting",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 5031,
+  "laborHours": 5036,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -34,11 +39,17 @@
     "Python"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC22F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/maclc-ctac-table-formatting/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-07-30T18:23:22Z",
-    "lastModified": "2025-07-31T17:10:14Z",
-    "metaDataLastUpdated": "2025-08-01T00:18:05.474Z"
+    "lastModified": "2026-01-01T00:18:29Z",
+    "metadataLastUpdated": "2026-02-01T00:22:29.060Z"
   },
   "tags": [
     "Medicaid",
@@ -48,9 +59,8 @@
     "email": "kserrano@mathematica-mpr.com",
     "name": "Kyle Serrano"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/maclc-ctac-table-formatting/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-ctac-table-formatting/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -64,7 +74,6 @@
     "DataConnect",
     "CCW VRDC"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

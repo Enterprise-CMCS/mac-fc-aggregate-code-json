@@ -1,5 +1,6 @@
 {
   "name": "macfin-file-service",
+  "version": "",
   "description": "File Service for MACFin which maintains budget and expenses for States & Fed Govt. for Medicaid and CHIP. ",
   "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
   "status": "Production",
@@ -15,11 +16,14 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/macfin-file-service",
-  "projectURL": "https://portal.cms.gov/portal/",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 5026,
+  "laborHours": 5054,
   "reuseFrequency": {
     "forks": 0,
     "clones": 6
@@ -41,29 +45,31 @@
     "PLpgSQL"
   ],
   "maintenance": "contract",
-  "contractNumber": "GS-35F-303GA",
+  "contractNumber": [
+    "GS-35F-303GA"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/macfin-file-service/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2023-08-28T20:45:27Z",
-    "lastModified": "2025-07-01T14:14:29Z",
-    "metaDataLastUpdated": "2025-08-01T00:32:17.476Z"
+    "lastModified": "2026-01-29T20:51:11Z",
+    "metadataLastUpdated": "2026-02-01T00:39:36.316Z"
   },
   "tags": [
-    "#devsecops",
-    "#macfin",
-    "#configurations",
-    "#ops",
-    "#budget",
-    "#budgetsubmission",
-    "#supplemental",
-    "#CMS-37"
+    "budget",
+    "federal-government",
+    "file-management",
+    "file-system",
+    "file-upload"
   ],
   "contact": {
     "email": "MACFinHelpDesk@cms.hhs.gov",
     "name": "MACFin HelpDesk"
   },
-  "feedbackMechanisms": [
-    "Emails"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macfin-file-service/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "APIs",
   "userInput": true,
@@ -75,7 +81,6 @@
   "systems": [
     "HiGlas"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

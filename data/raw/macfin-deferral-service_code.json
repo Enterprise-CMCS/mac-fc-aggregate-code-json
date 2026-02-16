@@ -1,5 +1,6 @@
 {
   "name": "macfin-deferral-service",
+  "version": "",
   "description": "MACFin maintains budget and expenses for States and Federal Govt. for Medicaid program and Children’s Health Insurance Program (CHIP).",
   "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
   "status": "Development",
@@ -15,11 +16,14 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/macfin-deferral-service",
-  "projectURL": "https://portal.cms.gov/portal/",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 7785,
+  "laborHours": 8668,
   "reuseFrequency": {
     "forks": 0,
     "clones": 25
@@ -43,28 +47,30 @@
     "PLpgSQL"
   ],
   "maintenance": "contract",
-  "contractNumber": "GS-35F-303GA",
+  "contractNumber": [
+    "GS-35F-303GA"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/macfin-deferral-service/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2023-08-28T20:44:36Z",
-    "lastModified": "2025-07-25T12:27:54Z",
-    "metaDataLastUpdated": "2025-08-01T00:34:57.230Z"
+    "lastModified": "2026-01-29T15:19:44Z",
+    "metadataLastUpdated": "2026-02-01T00:43:11.852Z"
   },
   "tags": [
-    "#macfin",
-    "#deferral",
-    "#expenditure",
-    "#financial",
-    "#financial-management",
-    "#financial-systems",
-    "#financial-management-software"
+    "budget",
+    "budgeting",
+    "federal",
+    "medicaid"
   ],
   "contact": {
     "email": "MACFinHelpDesk@cms.hhs.gov",
     "name": "MACFin HelpDesk"
   },
-  "feedbackMechanisms": [
-    "Emails"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macfin-deferral-service/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "APIs",
   "userInput": true,
@@ -74,7 +80,6 @@
     "MACFin"
   ],
   "systems": "",
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

@@ -1,5 +1,6 @@
 {
   "name": "da-rei-taf-companion",
+  "version": "",
   "description": "",
   "longDescription": "This repository contains the code to generate the Race/Ethnicity Imputation TAF companion file",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/da-rei-taf-companion",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 7995,
+  "laborHours": 8067,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -35,11 +40,17 @@
     "Python"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC21F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/da-rei-taf-companion/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2023-10-04T15:41:51Z",
-    "lastModified": "2025-07-25T18:44:41Z",
-    "metaDataLastUpdated": "2025-08-01T00:33:52.496Z"
+    "lastModified": "2026-01-23T21:35:12Z",
+    "metadataLastUpdated": "2026-02-01T00:41:40.852Z"
   },
   "tags": [
     "Medicaid",
@@ -49,9 +60,8 @@
     "email": "amims@mathematica-mpr.com",
     "name": "Amanda Mims"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/da-rei-taf-companion/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-rei-taf-companion/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -63,7 +73,6 @@
   "systems": [
     "DataConnect"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],
