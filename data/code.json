@@ -6297,8 +6297,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:45:41Z",
-        "lastModified": "2025-11-24T18:57:23Z",
-        "metadataLastUpdated": "2025-12-01T00:04:29.038Z"
+        "lastModified": "2026-01-29T21:33:29Z",
+        "metadataLastUpdated": "2026-02-01T00:04:59.992Z"
       },
       "description": "Grants Service for MACFin which maintains budget and expenses for States \u0026 Fed Govt. for Medicaid and CHIP. ",
       "disclaimerText": "",
@@ -6308,7 +6308,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 16816,
+      "laborHours": 16939,
       "languages": [
         "Java",
         "Gherkin",
@@ -7379,8 +7379,8 @@
       ],
       "date": {
         "created": "2025-05-22T15:42:46Z",
-        "lastModified": "2025-12-15T19:37:41Z",
-        "metadataLastUpdated": "2026-01-01T00:31:10.027Z"
+        "lastModified": "2026-01-06T15:09:37Z",
+        "metadataLastUpdated": "2026-02-01T00:38:21.757Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -7630,8 +7630,8 @@
       ],
       "date": {
         "created": "2025-10-23T17:47:37Z",
-        "lastModified": "2025-12-29T14:36:06Z",
-        "metadataLastUpdated": "2026-01-01T00:10:28.744Z"
+        "lastModified": "2026-01-01T00:10:49Z",
+        "metadataLastUpdated": "2026-02-01T00:12:45.329Z"
       },
       "description": "CTAC Healthcare Enrollment and Transitions Data Model",
       "disclaimerText": "",
@@ -8921,6 +8921,8 @@
       "version": ""
     },
     {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/maclc-seds/network/dependencies",
       "categories": [
         "data-analytics"
       ],
@@ -8928,19 +8930,23 @@
         "email": "amims@mathematica-mpr.com",
         "name": "Amanda Mims"
       },
-      "contractNumber": "75FCMC19D0091:75FCMC23F0001",
+      "contractNumber": [
+        "75FCMC19D0091:75FCMC23F0001"
+      ],
       "date": {
         "created": "2025-05-08T13:58:55Z",
-        "lastModified": "2025-08-13T13:44:09Z",
-        "metaDataLastUpdated": "2025-10-01T00:18:09.974Z"
+        "lastModified": "2025-12-15T21:50:57Z",
+        "metadataLastUpdated": "2026-01-01T00:19:50.664Z"
       },
       "description": "",
-      "feedbackMechanisms": [
-        "https://github.com/Enterprise-CMCS/maclc-seds/issues"
-      ],
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-seds/issues",
       "fismaLevel": "Moderate",
       "group": "CMCS/CAHPG",
-      "laborHours": 5341,
+      "homepageURL": "",
+      "laborHours": 5340,
       "languages": [
         "Python",
         "SAS"
@@ -8951,6 +8957,7 @@
       "maturityModelTier": 0,
       "name": "maclc-seds",
       "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
       "permissions": {
         "exemptionText": "",
         "licenses": [
@@ -8964,17 +8971,19 @@
       "platforms": [
         "other"
       ],
-      "projectURL": "",
       "projects": [
         "N/A"
       ],
+      "relatedCode": [],
       "repositoryHost": "github.com/Enterprise-CMCS",
       "repositoryType": "data",
       "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-seds",
       "repositoryVisibility": "private",
       "reuseFrequency": {
+        "clones": 0,
         "forks": 0
       },
+      "reusedCode": [],
       "softwareType": "standalone/other",
       "status": "Development",
       "subsetInHealthcare": [
@@ -8989,12 +8998,12 @@
         "CHIP",
         "SEDS"
       ],
-      "upstream": "",
       "userInput": false,
       "userType": [
         "Government"
       ],
-      "vcs": "git"
+      "vcs": "git",
+      "version": ""
     },
     {
       "categories": [
@@ -10167,8 +10176,8 @@
       ],
       "date": {
         "created": "2016-02-13T07:02:20Z",
-        "lastModified": "2025-12-31T03:20:31Z",
-        "metadataLastUpdated": "2026-01-01T00:12:39.193Z"
+        "lastModified": "2026-01-31T03:06:29Z",
+        "metadataLastUpdated": "2026-02-01T00:13:51.496Z"
       },
       "description": "File processing pipeline, web dashboard and core libraries for the Transformed-Medicaid Statistical Information System (T-MSIS)",
       "disclaimerText": "",
@@ -10178,7 +10187,7 @@
       "fismaLevel": "High",
       "group": "CMS",
       "homepageURL": "",
-      "laborHours": 90988,
+      "laborHours": 90997,
       "languages": [
         "HTML",
         "Java",
@@ -10340,8 +10349,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:39:31Z",
-        "lastModified": "2025-12-15T14:53:51Z",
-        "metadataLastUpdated": "2026-01-12T17:14:30.283Z"
+        "lastModified": "2026-01-12T18:52:26Z",
+        "metadataLastUpdated": "2026-02-01T00:07:16.608Z"
       },
       "description": "The alerter is an application that is passed in alert data.",
       "disclaimerText": "",
@@ -10673,8 +10682,8 @@
       ],
       "date": {
         "created": "2022-02-15T14:44:32Z",
-        "lastModified": "2026-01-12T15:53:47Z",
-        "metadataLastUpdated": "2026-01-12T17:15:19.773Z"
+        "lastModified": "2026-01-12T18:52:35Z",
+        "metadataLastUpdated": "2026-02-01T00:45:50.221Z"
       },
       "description": "Operations Dashboard Dataguide supported by Wagtail, includes the web component for authoring, editing, and reviewing dataguide content.",
       "disclaimerText": "",
@@ -10914,8 +10923,8 @@
       ],
       "date": {
         "created": "2025-01-28T18:17:30Z",
-        "lastModified": "2025-12-15T14:55:27Z",
-        "metadataLastUpdated": "2026-01-12T17:15:54.184Z"
+        "lastModified": "2026-01-30T21:26:40Z",
+        "metadataLastUpdated": "2026-02-01T00:36:03.432Z"
       },
       "description": "The ETL program processes files from the Mathematica team and updates the Data Quality Tool database with the new data.",
       "disclaimerText": "",
@@ -10925,7 +10934,7 @@
       "fismaLevel": "Medium",
       "group": "CMS",
       "homepageURL": "",
-      "laborHours": 6877,
+      "laborHours": 6897,
       "languages": [
         "C#",
         "HCL",
@@ -11004,8 +11013,8 @@
       ],
       "date": {
         "created": "2025-01-23T15:39:51Z",
-        "lastModified": "2025-12-15T14:55:42Z",
-        "metadataLastUpdated": "2026-01-12T17:17:43.068Z"
+        "lastModified": "2026-01-30T15:46:26Z",
+        "metadataLastUpdated": "2026-02-01T00:32:13.071Z"
       },
       "description": "T-MSIS Data Quality Measures Threshold is used to upload a spreadsheet that represents updates to the T-MSIS data quality measures metadata (called a thresholds file).",
       "disclaimerText": "",
@@ -11085,8 +11094,8 @@
       ],
       "date": {
         "created": "2025-01-22T17:55:34Z",
-        "lastModified": "2025-12-19T20:04:42Z",
-        "metadataLastUpdated": "2026-01-12T17:16:26.715Z"
+        "lastModified": "2026-01-12T18:53:14Z",
+        "metadataLastUpdated": "2026-02-01T00:48:26.804Z"
       },
       "description": "This repository contains frontend for the Data Quality Tool application.",
       "disclaimerText": "",
@@ -11178,8 +11187,8 @@
       ],
       "date": {
         "created": "2025-01-22T17:52:01Z",
-        "lastModified": "2026-01-12T14:01:07Z",
-        "metadataLastUpdated": "2026-01-12T17:16:09.852Z"
+        "lastModified": "2026-01-29T21:23:40Z",
+        "metadataLastUpdated": "2026-02-01T00:34:29.537Z"
       },
       "description": "DQT WebService is a web service that provides access to the Data Quality Tool (DQT) database.",
       "disclaimerText": "",
@@ -11189,7 +11198,7 @@
       "fismaLevel": "Low",
       "group": "CMS",
       "homepageURL": "",
-      "laborHours": 10477,
+      "laborHours": 10710,
       "languages": [
         "C#",
         "HCL",
