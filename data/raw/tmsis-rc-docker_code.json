@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 7539,
+  "laborHours": 7548,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -54,8 +54,8 @@
   "partners": [],
   "date": {
     "created": "2021-02-05T21:49:41Z",
-    "lastModified": "2025-12-30T23:12:24Z",
-    "metadataLastUpdated": "2026-01-01T00:40:26.003Z"
+    "lastModified": "2026-01-30T09:44:40Z",
+    "metadataLastUpdated": "2026-02-01T00:50:00.960Z"
   },
   "tags": [
     "tmsis"

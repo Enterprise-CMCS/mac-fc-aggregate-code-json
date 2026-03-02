@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 83502,
+  "laborHours": 83558,
   "reuseFrequency": {
     "forks": 0
   },
@@ -50,6 +50,7 @@
     "Go",
     "Ruby",
     "Makefile",
+    "Go Template",
     "TypeScript",
     "Smarty"
   ],
@@ -57,8 +58,8 @@
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
     "created": "2018-07-20T02:52:16Z",
-    "lastModified": "2025-12-02T22:27:58Z",
-    "metaDataLastUpdated": "2026-01-01T00:10:38.312Z"
+    "lastModified": "2026-01-29T03:22:43Z",
+    "metaDataLastUpdated": "2026-02-01T00:12:49.821Z"
   },
   "tags": [
     "JavaScript",
