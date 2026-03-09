@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 8668,
+  "laborHours": 8695,
   "reuseFrequency": {
     "forks": 0,
     "clones": 25
@@ -56,8 +56,8 @@
   "partners": [],
   "date": {
     "created": "2023-08-28T20:44:36Z",
-    "lastModified": "2026-01-29T15:19:44Z",
-    "metadataLastUpdated": "2026-02-01T00:43:11.852Z"
+    "lastModified": "2026-02-20T22:17:17Z",
+    "metadataLastUpdated": "2026-03-01T00:42:48.654Z"
   },
   "tags": [
     "budget",

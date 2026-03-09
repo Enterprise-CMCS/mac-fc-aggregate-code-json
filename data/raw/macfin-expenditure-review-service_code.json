@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 17906,
+  "laborHours": 18057,
   "reuseFrequency": {
     "forks": 0,
     "clones": 25
@@ -58,8 +58,8 @@
   "partners": [],
   "date": {
     "created": "2023-08-28T20:45:12Z",
-    "lastModified": "2026-01-30T20:41:04Z",
-    "metadataLastUpdated": "2026-02-01T00:36:59.546Z"
+    "lastModified": "2026-02-27T20:21:27Z",
+    "metadataLastUpdated": "2026-03-01T00:36:40.483Z"
   },
   "tags": [
     "expenditure",

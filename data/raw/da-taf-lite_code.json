@@ -17,16 +17,14 @@
   },
   "organization": "CMCS",
   "repositoryURL": "https://github.com/Enterprise-CMCS/da-taf-lite",
-
   "repositoryHost": "github",
   "repositoryVisibility": "private",
   "homepageURL": "",
   "downloadURL": "",
   "disclaimerURL": "",
   "disclaimerText": "",
-
   "vcs": "git",
-  "laborHours": 8813,
+  "laborHours": 9788,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -48,8 +46,8 @@
   "partners": [],
   "date": {
     "created": "2025-10-30T19:18:37Z",
-    "lastModified": "2025-12-18T16:15:28Z",
-    "metadataLastUpdated": "2026-01-01T00:08:41.758Z"
+    "lastModified": "2026-02-06T22:54:12Z",
+    "metadataLastUpdated": "2026-03-01T00:09:59.016Z"
   },
   "tags": [
     "TAF",

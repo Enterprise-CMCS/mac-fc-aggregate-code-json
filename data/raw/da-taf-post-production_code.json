@@ -19,7 +19,11 @@
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 7671,
+<<<<<<< code-json-1772326457402
+  "laborHours": 9610,
+=======
+  "laborHours": 9823,
+>>>>>>> main
   "reuseFrequency": {
     "forks": 0
   },
@@ -32,14 +36,20 @@
   "softwareType": "standalone/other",
   "languages": [
     "Python",
+    "Jupyter Notebook",
     "SAS"
   ],
   "maintenance": "contract",
   "contractNumber": "75FCMC19D0091/75FCMC21F0001",
   "date": {
     "created": "2024-09-05T13:18:57Z",
-    "lastModified": "2025-12-09T02:26:21Z",
-    "metaDataLastUpdated": "2026-01-01T00:44:24.084Z"
+<<<<<<< code-json-1772326457402
+    "lastModified": "2026-02-09T20:18:36Z",
+    "metaDataLastUpdated": "2026-03-01T00:54:17.401Z"
+=======
+    "lastModified": "2026-01-15T01:59:35Z",
+    "metaDataLastUpdated": "2026-02-01T00:54:51.089Z"
+>>>>>>> main
   },
   "tags": [
     "Medicaid",

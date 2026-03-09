@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 3079,
+  "laborHours": 3078,
   "reuseFrequency": {
     "forks": 0,
     "clones": 25
@@ -55,8 +55,8 @@
   "partners": [],
   "date": {
     "created": "2024-04-24T18:10:51Z",
-    "lastModified": "2025-11-26T13:56:08Z",
-    "metadataLastUpdated": "2026-01-01T00:27:07.507Z"
+    "lastModified": "2026-01-16T13:15:48Z",
+    "metadataLastUpdated": "2026-03-01T00:33:03.545Z"
   },
   "tags": [
     "data-engineering",

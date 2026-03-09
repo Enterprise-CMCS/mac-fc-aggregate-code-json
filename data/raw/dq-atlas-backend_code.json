@@ -59,7 +59,7 @@
   ],
   "contact": {
     "email": "tfisher@mathematica-mpr.com",
-    "name": "Tyler Fisher"
+    "name": ""
   },
   "feedbackMechanisms": [
     "https://github.com/Enterprise-CMCS/dq-atlas-backend/issues"
