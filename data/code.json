@@ -2154,6 +2154,79 @@
       "version": ""
     },
     {
+      "categories": [
+        "data-analytics"
+      ],
+      "contact": {
+        "email": "amims@mathematica-mpr.com",
+        "name": "Amanda Mims"
+      },
+      "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+      "date": {
+        "created": "2024-03-05T20:29:11Z",
+        "lastModified": "2025-07-15T15:58:48Z",
+        "metaDataLastUpdated": "2025-07-15T16:00:35.472Z"
+      },
+      "description": "",
+      "feedbackMechanisms": [
+        "https://github.com/Enterprise-CMCS/da-school-based-provider/issues"
+      ],
+      "fismaLevel": "Moderate",
+      "group": "CMCS/DSG",
+      "laborHours": 3636,
+      "languages": [
+        "Python"
+      ],
+      "localisation": false,
+      "longDescription": "This repository contains the code to build analytic output for the School-based Providers study using TAF",
+      "maintenance": "contract",
+      "maturityModelTier": 0,
+      "name": "da-school-based-provider",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "N/A",
+            "name": "None"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "other"
+      ],
+      "projectURL": "",
+      "projects": [
+        "N/A"
+      ],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "data",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/da-school-based-provider",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "forks": 0
+      },
+      "softwareType": "standalone/other",
+      "status": "Development",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [
+        "DataConnect"
+      ],
+      "tags": [
+        "Medicaid",
+        "Medicaid Data"
+      ],
+      "upstream": "",
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git"
+    },
+    {
       "AIUseCaseID": "0",
       "SBOM": "https://github.com/Enterprise-CMCS/da-seatool-mcog-automated-reporting/network/dependencies",
       "categories": [
@@ -2537,6 +2610,80 @@
       "userType": [],
       "vcs": "git",
       "version": "0.1.0"
+    },
+    {
+      "categories": [
+        "data-analytics"
+      ],
+      "contact": {
+        "email": "amims@mathematica-mpr.com",
+        "name": "Amanda Mims"
+      },
+      "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+      "date": {
+        "created": "2024-12-17T16:27:01Z",
+        "lastModified": "2025-07-15T16:31:50Z",
+        "metaDataLastUpdated": "2025-07-15T16:33:32.986Z"
+      },
+      "description": "",
+      "feedbackMechanisms": [
+        "https://github.com/Enterprise-CMCS/da-taf-provider-study/issues"
+      ],
+      "fismaLevel": "Moderate",
+      "group": "CMCS/DSG",
+      "laborHours": 4534,
+      "languages": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "localisation": false,
+      "longDescription": "This repository contains the code to build analytic output for the TAF Providers study",
+      "maintenance": "contract",
+      "maturityModelTier": 0,
+      "name": "da-taf-provider-study",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "N/A",
+            "name": "None"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "other"
+      ],
+      "projectURL": "",
+      "projects": [
+        "N/A"
+      ],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "data",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/da-taf-provider-study",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "forks": 0
+      },
+      "softwareType": "standalone/other",
+      "status": "Development",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [
+        "DataConnect"
+      ],
+      "tags": [
+        "Medicaid",
+        "Medicaid Data"
+      ],
+      "upstream": "",
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git"
     },
     {
       "categories": [
@@ -3733,6 +3880,74 @@
         "Government"
       ],
       "vcs": "git"
+    },
+    {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations/network/dependencies",
+      "categories": [],
+      "contact": {
+        "email": "",
+        "name": ""
+      },
+      "contractNumber": [],
+      "date": {
+        "created": "2026-03-10T14:14:55Z",
+        "lastModified": "2026-03-10T16:15:53Z",
+        "metadataLastUpdated": "2026-03-10T19:59:30.036Z"
+      },
+      "description": "This repository functions as an AI-driven agent platform that leverages state CMS regulations to power automated Q\u0026A workflows and policy update tracking for compliance operations.",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations/issues",
+      "fismaLevel": "",
+      "group": "",
+      "homepageURL": "",
+      "laborHours": 7575,
+      "languages": [
+        "Python",
+        "Makefile",
+        "Shell",
+        "Mako"
+      ],
+      "localisation": false,
+      "longDescription": "",
+      "maintenance": "",
+      "maturityModelTier": 0,
+      "name": "macdc-cms-state-regulations",
+      "organization": "",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "",
+            "name": ""
+          }
+        ],
+        "usageType": []
+      },
+      "platforms": [],
+      "projects": [],
+      "relatedCode": [],
+      "repositoryHost": "github",
+      "repositoryType": "",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "",
+      "status": "",
+      "subsetInHealthcare": [],
+      "systems": [],
+      "tags": [],
+      "userInput": false,
+      "userType": [],
+      "vcs": "git",
+      "version": ""
     },
     {
       "AIUseCaseID": "0",
@@ -8454,8 +8669,8 @@
       ],
       "date": {
         "created": "2024-07-12T17:44:13Z",
-        "lastModified": "2026-01-30T19:45:11Z",
-        "metadataLastUpdated": "2026-02-01T00:07:41.347Z"
+        "lastModified": "2026-02-27T19:27:22Z",
+        "metadataLastUpdated": "2026-03-01T00:07:40.267Z"
       },
       "description": "Code to support automated generation of CMCS internal monitoring data products related to eligibility operations and enrollment for MACLC Task 5.7",
       "disclaimerText": "",
@@ -8465,7 +8680,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 9138,
+      "laborHours": 9133,
       "languages": [
         "Python"
       ],
@@ -9175,90 +9390,6 @@
       "version": ""
     },
     {
-      "AIUseCaseID": "0",
-      "SBOM": "https://github.com/Enterprise-CMCS/macpro-mdct-hcbs/network/dependencies",
-      "categories": [
-        "data-collection"
-      ],
-      "contact": {
-        "email": "brendan.myers@coforma.com",
-        "name": "Brendan Myers"
-      },
-      "contractNumber": [
-        "75FCMC24F0027"
-      ],
-      "date": {
-        "created": "2024-05-02T18:31:28Z",
-        "lastModified": "2025-12-31T16:15:08Z",
-        "metadataLastUpdated": "2026-01-01T00:28:36.239Z"
-      },
-      "description": "HCBS is the CMCS MDCT application for collecting state data related to Home- and Community-Based Services (HCBS) programs and performance. The collected data assists CMCS in monitoring, managing, and better understanding Medicaid and CHIP programs.",
-      "disclaimerText": "",
-      "disclaimerURL": "",
-      "downloadURL": "",
-      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macpro-mdct-hcbs/issues",
-      "fismaLevel": "Moderate",
-      "group": "MDCT",
-      "homepageURL": "",
-      "laborHours": 10534,
-      "languages": [
-        "TypeScript",
-        "JavaScript",
-        "SCSS",
-        "Shell",
-        "HTML",
-        "Smarty"
-      ],
-      "localisation": false,
-      "longDescription": "Home \u0026 Community Based Services",
-      "maintenance": "contract",
-      "maturityModelTier": 3,
-      "name": "macpro-mdct-hcbs",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "partners": [],
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "https://github.com/Enterprise-CMCS/macpro-mdct-hcbs/blob/main/LICENSE",
-            "name": "CC0-1.0"
-          }
-        ],
-        "usageType": "openSource"
-      },
-      "platforms": [
-        "web"
-      ],
-      "projects": [
-        "MDCT"
-      ],
-      "relatedCode": [],
-      "repositoryHost": "github.com/Enterprise-CMCS",
-      "repositoryType": "application",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/macpro-mdct-hcbs",
-      "repositoryVisibility": "public",
-      "reuseFrequency": {
-        "clones": 0,
-        "forks": 0
-      },
-      "reusedCode": [],
-      "softwareType": "standalone/web",
-      "status": "Production",
-      "subsetInHealthcare": [
-        "Medicaid"
-      ],
-      "systems": [],
-      "tags": [
-        "mdct"
-      ],
-      "userInput": true,
-      "userType": [
-        "Government"
-      ],
-      "vcs": "git",
-      "version": ""
-    },
-    {
       "categories": [
         "compliance-management",
         "healthcare"
@@ -9590,6 +9721,90 @@
         "java",
         "angular",
         "sql"
+      ],
+      "userInput": true,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git",
+      "version": ""
+    },
+    {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/mdp-dur/network/dependencies",
+      "categories": [
+        "data-collection"
+      ],
+      "contact": {
+        "email": "brendan.myers@coforma.com",
+        "name": "Brendan Myers"
+      },
+      "contractNumber": [
+        "75FCMC24F0027"
+      ],
+      "date": {
+        "created": "2024-05-02T18:31:28Z",
+        "lastModified": "2025-12-31T16:15:08Z",
+        "metadataLastUpdated": "2026-01-01T00:28:36.239Z"
+      },
+      "description": "DUR is the CMCS MDP application for collecting state data related to Managed Care Plans' yearly Drug Utilization Review requirements.",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/mdp-dur/issues",
+      "fismaLevel": "Moderate",
+      "group": "MDCT",
+      "homepageURL": "",
+      "laborHours": 1,
+      "languages": [
+        "TypeScript",
+        "JavaScript",
+        "SCSS",
+        "Shell",
+        "HTML",
+        "Smarty"
+      ],
+      "localisation": false,
+      "longDescription": "Drug Utilization Review",
+      "maintenance": "contract",
+      "maturityModelTier": 3,
+      "name": "mdp-dur",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/mdp-dur/blob/main/LICENSE",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "platforms": [
+        "web"
+      ],
+      "projects": [
+        "MDCT"
+      ],
+      "relatedCode": [],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "application",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/mdp-dur",
+      "repositoryVisibility": "public",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "standalone/web",
+      "status": "Development",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [],
+      "tags": [
+        "mdct"
       ],
       "userInput": true,
       "userType": [
@@ -10526,8 +10741,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2025-01-22T17:53:40Z",
-        "lastModified": "2026-02-03T21:26:01Z",
-        "metaDataLastUpdated": "2026-02-20T22:29:01.350Z"
+        "lastModified": "2026-02-27T20:14:43Z",
+        "metaDataLastUpdated": "2026-03-01T00:10:34.957Z"
       },
       "description": "Project to manage the Databricks environment for the TMSIS application.",
       "feedbackMechanisms": [
@@ -10535,7 +10750,7 @@
       ],
       "fismaLevel": "Low",
       "group": "CMS",
-      "laborHours": 25706,
+      "laborHours": 26007,
       "languages": [
         "Python",
         "HCL",

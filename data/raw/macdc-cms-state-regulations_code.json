@@ -1,0 +1,68 @@
+{
+  "name": "macdc-cms-state-regulations",
+  "version": "",
+  "description": "This repository functions as an AI-driven agent platform that leverages state CMS regulations to power automated Q&A workflows and policy update tracking for compliance operations.",
+  "longDescription": "",
+  "status": "",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "",
+        "URL": ""
+      }
+    ],
+    "usageType": [],
+    "exemptionText": ""
+  },
+  "organization": "",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations",
+  "repositoryHost": "github",
+  "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
+  "vcs": "git",
+  "laborHours": 7575,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [],
+  "categories": [],
+  "softwareType": "",
+  "languages": [
+    "Python",
+    "Makefile",
+    "Shell",
+    "Mako"
+  ],
+  "maintenance": "",
+  "contractNumber": [],
+  "SBOM": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
+  "date": {
+    "created": "2026-03-10T14:14:55Z",
+    "lastModified": "2026-03-10T16:15:53Z",
+    "metadataLastUpdated": "2026-03-10T19:59:30.036Z"
+  },
+  "tags": [],
+  "contact": {
+    "email": "",
+    "name": ""
+  },
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations/issues",
+  "AIUseCaseID": "0",
+  "localisation": false,
+  "repositoryType": "",
+  "userInput": false,
+  "fismaLevel": "",
+  "group": "",
+  "projects": [],
+  "systems": [],
+  "subsetInHealthcare": [],
+  "userType": [],
+  "maturityModelTier": 0
+}

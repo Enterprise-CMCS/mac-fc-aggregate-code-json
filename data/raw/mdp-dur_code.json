@@ -1,13 +1,13 @@
 {
-  "name": "macpro-mdct-hcbs",
+  "name": "mdp-dur",
   "version": "",
-  "description": "HCBS is the CMCS MDCT application for collecting state data related to Home- and Community-Based Services (HCBS) programs and performance. The collected data assists CMCS in monitoring, managing, and better understanding Medicaid and CHIP programs.",
-  "longDescription": "Home & Community Based Services",
-  "status": "Production",
+  "description": "DUR is the CMCS MDP application for collecting state data related to Managed Care Plans' yearly Drug Utilization Review requirements.",
+  "longDescription": "Drug Utilization Review",
+  "status": "Development",
   "permissions": {
     "licenses": [
       {
-        "URL": "https://github.com/Enterprise-CMCS/macpro-mdct-hcbs/blob/main/LICENSE",
+        "URL": "https://github.com/Enterprise-CMCS/mdp-dur/blob/main/LICENSE",
         "name": "CC0-1.0"
       }
     ],
@@ -15,7 +15,7 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/macpro-mdct-hcbs",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/mdp-dur",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "public",
   "homepageURL": "",
@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 10534,
+  "laborHours": 1,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -47,7 +47,7 @@
   "contractNumber": [
     "75FCMC24F0027"
   ],
-  "SBOM": "https://github.com/Enterprise-CMCS/macpro-mdct-hcbs/network/dependencies",
+  "SBOM": "https://github.com/Enterprise-CMCS/mdp-dur/network/dependencies",
   "relatedCode": [],
   "reusedCode": [],
   "partners": [],
@@ -63,7 +63,7 @@
     "email": "brendan.myers@coforma.com",
     "name": "Brendan Myers"
   },
-  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macpro-mdct-hcbs/issues",
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/mdp-dur/issues",
   "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "application",
