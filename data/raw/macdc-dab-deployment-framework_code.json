@@ -1,7 +1,7 @@
 {
   "name": "macdc-dab-deployment-framework",
   "version": "1.0.0",
-  "description": "This repository functions as the centralized infrastructure-as-code framework and reference implementation for Databricks Asset Bundles. It includes standardized job and pipeline definitions, naming and tagging conventions, GitOps-driven deployment examples via GitHub Actions, and team guidance for onboarding new bundles.",
+  "description": "This repository functions as the centralized infrastructure-as-code framework and reference implementation for Declarative Automation Bundles. It includes standardized job and pipeline definitions, naming and tagging conventions, GitOps-driven deployment examples via GitHub Actions, and team guidance for onboarding new bundles.",
   "longDescription": "This repository serves as the central hub for all metadata governance configurations, data contracts, and vocabulary definitions related to the DataConnect project, enabling standardized ingestion, transformation, access control, and compliance enforcement across the platform.",
   "status": "Production",
   "permissions": {

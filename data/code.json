@@ -1019,8 +1019,8 @@
       ],
       "date": {
         "created": "2025-02-20T19:34:25Z",
-        "lastModified": "2025-12-02T15:59:09Z",
-        "metadataLastUpdated": "2026-01-01T00:18:21.241Z"
+        "lastModified": "2026-01-29T16:52:20Z",
+        "metadataLastUpdated": "2026-03-01T00:22:39.472Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -1030,7 +1030,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 8110,
+      "laborHours": 8246,
       "languages": [
         "Python"
       ],
@@ -2154,79 +2154,6 @@
       "version": ""
     },
     {
-      "categories": [
-        "data-analytics"
-      ],
-      "contact": {
-        "email": "amims@mathematica-mpr.com",
-        "name": "Amanda Mims"
-      },
-      "contractNumber": "75FCMC19D0091/75FCMC21F0001",
-      "date": {
-        "created": "2024-03-05T20:29:11Z",
-        "lastModified": "2025-07-15T15:58:48Z",
-        "metaDataLastUpdated": "2025-07-15T16:00:35.472Z"
-      },
-      "description": "",
-      "feedbackMechanisms": [
-        "https://github.com/Enterprise-CMCS/da-school-based-provider/issues"
-      ],
-      "fismaLevel": "Moderate",
-      "group": "CMCS/DSG",
-      "laborHours": 3636,
-      "languages": [
-        "Python"
-      ],
-      "localisation": false,
-      "longDescription": "This repository contains the code to build analytic output for the School-based Providers study using TAF",
-      "maintenance": "contract",
-      "maturityModelTier": 0,
-      "name": "da-school-based-provider",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "N/A",
-            "name": "None"
-          }
-        ],
-        "usageType": "governmentWideReuse"
-      },
-      "platforms": [
-        "other"
-      ],
-      "projectURL": "",
-      "projects": [
-        "N/A"
-      ],
-      "repositoryHost": "github.com/Enterprise-CMCS",
-      "repositoryType": "data",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/da-school-based-provider",
-      "repositoryVisibility": "private",
-      "reuseFrequency": {
-        "forks": 0
-      },
-      "softwareType": "standalone/other",
-      "status": "Development",
-      "subsetInHealthcare": [
-        "Medicaid"
-      ],
-      "systems": [
-        "DataConnect"
-      ],
-      "tags": [
-        "Medicaid",
-        "Medicaid Data"
-      ],
-      "upstream": "",
-      "userInput": false,
-      "userType": [
-        "Government"
-      ],
-      "vcs": "git"
-    },
-    {
       "AIUseCaseID": "0",
       "SBOM": "https://github.com/Enterprise-CMCS/da-seatool-mcog-automated-reporting/network/dependencies",
       "categories": [
@@ -2610,80 +2537,6 @@
       "userType": [],
       "vcs": "git",
       "version": "0.1.0"
-    },
-    {
-      "categories": [
-        "data-analytics"
-      ],
-      "contact": {
-        "email": "amims@mathematica-mpr.com",
-        "name": "Amanda Mims"
-      },
-      "contractNumber": "75FCMC19D0091/75FCMC21F0001",
-      "date": {
-        "created": "2024-12-17T16:27:01Z",
-        "lastModified": "2025-07-15T16:31:50Z",
-        "metaDataLastUpdated": "2025-07-15T16:33:32.986Z"
-      },
-      "description": "",
-      "feedbackMechanisms": [
-        "https://github.com/Enterprise-CMCS/da-taf-provider-study/issues"
-      ],
-      "fismaLevel": "Moderate",
-      "group": "CMCS/DSG",
-      "laborHours": 4534,
-      "languages": [
-        "Jupyter Notebook",
-        "Python"
-      ],
-      "localisation": false,
-      "longDescription": "This repository contains the code to build analytic output for the TAF Providers study",
-      "maintenance": "contract",
-      "maturityModelTier": 0,
-      "name": "da-taf-provider-study",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "N/A",
-            "name": "None"
-          }
-        ],
-        "usageType": "governmentWideReuse"
-      },
-      "platforms": [
-        "other"
-      ],
-      "projectURL": "",
-      "projects": [
-        "N/A"
-      ],
-      "repositoryHost": "github.com/Enterprise-CMCS",
-      "repositoryType": "data",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/da-taf-provider-study",
-      "repositoryVisibility": "private",
-      "reuseFrequency": {
-        "forks": 0
-      },
-      "softwareType": "standalone/other",
-      "status": "Development",
-      "subsetInHealthcare": [
-        "Medicaid"
-      ],
-      "systems": [
-        "DataConnect"
-      ],
-      "tags": [
-        "Medicaid",
-        "Medicaid Data"
-      ],
-      "upstream": "",
-      "userInput": false,
-      "userType": [
-        "Government"
-      ],
-      "vcs": "git"
     },
     {
       "categories": [
@@ -3968,7 +3821,7 @@
         "lastModified": "2026-02-27T18:31:19Z",
         "metadataLastUpdated": "2026-03-01T00:12:24.469Z"
       },
-      "description": "This repository functions as the centralized infrastructure-as-code framework and reference implementation for Databricks Asset Bundles. It includes standardized job and pipeline definitions, naming and tagging conventions, GitOps-driven deployment examples via GitHub Actions, and team guidance for onboarding new bundles.",
+      "description": "This repository functions as the centralized infrastructure-as-code framework and reference implementation for Declarative Automation Bundles. It includes standardized job and pipeline definitions, naming and tagging conventions, GitOps-driven deployment examples via GitHub Actions, and team guidance for onboarding new bundles.",
       "disclaimerText": "",
       "disclaimerURL": "",
       "downloadURL": "",
@@ -4448,6 +4301,90 @@
       "tags": [
         "AWS",
         "Lambda",
+        "DataConnect",
+        "MAC_DC"
+      ],
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git",
+      "version": ""
+    },
+    {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/macdc-public-info-agent/network/dependencies",
+      "categories": [
+        "cloud-management",
+        "data-analytics"
+      ],
+      "contact": {
+        "email": "dataconnect@cmsdataconnect.us",
+        "name": "Zach Holden"
+      },
+      "contractNumber": [
+        "75FCMC21F0108"
+      ],
+      "date": {
+        "created": "2026-03-17T13:09:04Z",
+        "lastModified": "2026-03-19T17:55:52Z",
+        "metadataLastUpdated": "2026-03-19T17:57:58.711Z"
+      },
+      "description": "This repository contains an MVP that provides an AI-powered conversational interface for exploring publicly available Medicaid \u0026 CHIP performance indicator data. It ingests enrollment datasets, policy documents, and monthly snapshots from data.medicaid.gov into a PostgreSQL database and Qdrant vector store, then exposes a LangGraph-orchestrated age",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-public-info-agent/issues",
+      "fismaLevel": "Moderate",
+      "group": "CMCS",
+      "homepageURL": "",
+      "laborHours": 6429,
+      "languages": [
+        "Python",
+        "Makefile",
+        "Mako"
+      ],
+      "localisation": false,
+      "longDescription": "AI-powered conversational interface for exploring publicly available Medicaid \u0026 CHIP performance indicator data. Ingests enrollment datasets, policy documents, and monthly snapshots from data.medicaid.gov into PostgreSQL and Qdrant, then uses a LangGraph-orchestrated agent to answer natural language questions with SQL queries, semantic retrieval, and interactive Plotly visualizations via a Streamlit UI.",
+      "maintenance": "contract",
+      "maturityModelTier": 2,
+      "name": "macdc-public-info-agent",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/macdc-public-info-agent/blob/main/LICENSE",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "other"
+      ],
+      "projects": [
+        "DataConnect"
+      ],
+      "relatedCode": [],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "application",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-public-info-agent",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "standalone/backend",
+      "status": "Production",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [],
+      "tags": [
+        "AWS",
         "DataConnect",
         "MAC_DC"
       ],
@@ -5646,8 +5583,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:44:07Z",
-        "lastModified": "2025-12-05T01:53:24Z",
-        "metadataLastUpdated": "2026-01-01T00:45:07.817Z"
+        "lastModified": "2026-01-05T16:19:25Z",
+        "metadataLastUpdated": "2026-03-01T00:54:59.958Z"
       },
       "description": "Centralized Comments Module for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid program and CHIP.",
       "disclaimerText": "",
@@ -12144,8 +12081,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2023-10-30T15:30:35Z",
-        "lastModified": "2026-01-20T19:11:35Z",
-        "metaDataLastUpdated": "2026-02-01T00:51:28.604Z"
+        "lastModified": "2026-02-27T05:21:59Z",
+        "metaDataLastUpdated": "2026-03-01T00:51:07.231Z"
       },
       "description": "OD Tests for TMSIS",
       "feedbackMechanisms": [
@@ -12153,7 +12090,7 @@
       ],
       "fismaLevel": "Low",
       "group": "CMS",
-      "laborHours": 7029,
+      "laborHours": 7009,
       "languages": [
         "Python",
         "CSS",
