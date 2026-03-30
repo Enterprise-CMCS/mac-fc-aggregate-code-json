@@ -23,18 +23,10 @@
   "reuseFrequency": {
     "forks": 0
   },
-  "platforms": [
-    "web"
-  ],
-  "categories": [
-    "data-visualization"
-  ],
+  "platforms": ["web"],
+  "categories": ["data-visualization"],
   "softwareType": "standalone/web",
-  "languages": [
-    "Python",
-    "Shell",
-    "Dockerfile"
-  ],
+  "languages": ["Python", "Shell", "Dockerfile"],
   "maintenance": "contract",
   "contractNumber": "75FCMC19D0091:75FCMC21F0001",
   "date": {
@@ -42,14 +34,10 @@
     "lastModified": "2025-07-09T18:08:12Z",
     "metaDataLastUpdated": "2025-07-09T18:28:35.034Z"
   },
-  "tags": [
-    "Medicaid",
-    "Medicaid Data",
-    "data-visualization"
-  ],
+  "tags": ["Medicaid", "Medicaid Data", "data-visualization"],
   "contact": {
-    "email": "bhunscher@mathematica-mpr.com",
-    "name": "Brian Hunscher"
+    "email": "rbhasker@index-analytics.com",
+    "name": "Raman Bhasker"
   },
   "feedbackMechanisms": [
     "https://github.com/Enterprise-CMCS/MACScorecard-ETL/issues"
@@ -60,16 +48,9 @@
   "fismaLevel": "Moderate",
   "group": "CMCS/DSG",
   "projects": [],
-  "systems": [
-    "Medicaid.gov",
-    "DKAN"
-  ],
+  "systems": ["Medicaid.gov", "DKAN"],
   "upstream": "",
-  "subsetInHealthcare": [
-    "Medicaid"
-  ],
-  "userType": [
-    "Government"
-  ],
+  "subsetInHealthcare": ["Medicaid"],
+  "userType": ["Government"],
   "maturityModelTier": 0
 }
