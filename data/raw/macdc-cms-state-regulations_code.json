@@ -3,7 +3,6 @@
   "version": "",
   "description": "This repository functions as an AI-driven agent platform that leverages state CMS regulations to power automated Q&A workflows and policy update tracking for compliance operations.",
   "longDescription": "",
-  "status": "",
   "permissions": {
     "licenses": [
       {
@@ -23,7 +22,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 7575,
+  "laborHours": 7699,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -45,8 +44,8 @@
   "partners": [],
   "date": {
     "created": "2026-03-10T14:14:55Z",
-    "lastModified": "2026-03-10T16:15:53Z",
-    "metadataLastUpdated": "2026-03-10T19:59:30.036Z"
+    "lastModified": "2026-03-30T14:10:15Z",
+    "metadataLastUpdated": "2026-04-01T00:59:17.991Z"
   },
   "tags": [],
   "contact": {

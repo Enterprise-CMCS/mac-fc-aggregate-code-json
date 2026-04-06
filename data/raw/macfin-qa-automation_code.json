@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 5096,
+  "laborHours": 9967,
   "reuseFrequency": {
     "forks": 0,
     "clones": 6
@@ -48,7 +48,8 @@
   ],
   "softwareType": "standalone/web",
   "languages": [
-    "Java"
+    "Java",
+    "HTML"
   ],
   "maintenance": "contract",
   "contractNumber": [
@@ -60,8 +61,8 @@
   "partners": [],
   "date": {
     "created": "2025-12-08T16:30:05Z",
-    "lastModified": "2025-12-16T16:47:00Z",
-    "metadataLastUpdated": "2025-12-16T16:49:20.098Z"
+    "lastModified": "2026-03-31T21:22:48Z",
+    "metadataLastUpdated": "2026-04-01T00:18:09.395Z"
   },
   "tags": [
     "QA",

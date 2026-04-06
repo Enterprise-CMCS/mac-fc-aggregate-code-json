@@ -1,85 +1,61 @@
 {
   "name": "da-taf-post-production",
   "description": "",
-  "longDescription": "This project holds post-production QC code used to generate QC materials for a TAF run. It produces a variety of output meant to be reviewed by policy SMEs to QC that the TAF run was analytically successful and identify input data anomalies for further investigation.",
-  "status": "Development",
+  "longDescription": "",
+  "status": "",
   "permissions": {
-    "licenses": [
+    "license": [
       {
-        "name": "None",
-        "URL": "N/A"
+        "name": "",
+        "URL": ""
       }
     ],
-    "usageType": "governmentWideReuse",
+    "usageType": "",
     "exemptionText": ""
   },
-  "organization": "Centers for Medicare & Medicaid Services",
+  "organization": "",
   "repositoryURL": "https://github.com/Enterprise-CMCS/da-taf-post-production",
   "projectURL": "",
-  "repositoryHost": "github.com/Enterprise-CMCS",
-  "repositoryVisibility": "private",
+  "repositoryHost": "github",
+  "repositoryVisibility": "",
   "vcs": "git",
-<<<<<<< code-json-1772326457402
-  "laborHours": 9610,
-=======
-  "laborHours": 9823,
->>>>>>> main
+  "laborHours": 9592,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
-  "platforms": [
-    "other"
-  ],
-  "categories": [
-    "data-analytics"
-  ],
-  "softwareType": "standalone/other",
+  "platforms": [],
+  "categories": [],
+  "softwareType": "",
   "languages": [
     "Python",
     "Jupyter Notebook",
     "SAS"
   ],
-  "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "maintenance": "",
+  "contractNumber": "",
   "date": {
     "created": "2024-09-05T13:18:57Z",
-<<<<<<< code-json-1772326457402
-    "lastModified": "2026-02-09T20:18:36Z",
-    "metaDataLastUpdated": "2026-03-01T00:54:17.401Z"
-=======
-    "lastModified": "2026-01-15T01:59:35Z",
-    "metaDataLastUpdated": "2026-02-01T00:54:51.089Z"
->>>>>>> main
+    "lastModified": "2026-03-05T22:03:38Z",
+    "metaDataLastUpdated": "2026-04-01T00:58:41.703Z"
   },
-  "tags": [
-    "Medicaid",
-    "Medicaid Data",
-    "TAF QC"
-  ],
+  "tags": [],
   "contact": {
-    "email": "sgreiner@mathematica-mpr.com",
-    "name": "Scott Greiner"
+    "email": "",
+    "name": ""
   },
   "feedbackMechanisms": [
     "https://github.com/Enterprise-CMCS/da-taf-post-production/issues"
   ],
   "localisation": false,
-  "repositoryType": "data",
+  "repositoryType": "",
   "userInput": false,
-  "fismaLevel": "Moderate",
-  "group": "CMCS/DSG",
-  "projects": [
-    "N/A"
-  ],
-  "systems": [
-    "DataConnect"
-  ],
+  "fismaLevel": "",
+  "group": "",
+  "projects": [],
+  "systems": [],
   "upstream": "",
-  "subsetInHealthcare": [
-    "Medicaid"
-  ],
-  "userType": [
-    "Government"
-  ],
+  "subsetInHealthcare": [],
+  "userType": [],
   "maturityModelTier": 0
 }

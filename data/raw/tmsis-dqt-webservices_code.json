@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 10710,
+  "laborHours": 10895,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -57,8 +57,8 @@
   "partners": [],
   "date": {
     "created": "2025-01-22T17:52:01Z",
-    "lastModified": "2026-01-29T21:23:40Z",
-    "metadataLastUpdated": "2026-02-01T00:34:29.537Z"
+    "lastModified": "2026-03-31T22:28:17Z",
+    "metadataLastUpdated": "2026-04-01T00:38:36.280Z"
   },
   "tags": [
     "C#",
