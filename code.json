@@ -19,11 +19,25 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "public",
   "vcs": "git",
+  "laborHours": 8972,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [],
+  "categories": [],
   "softwareType": "standalone/backend",
-  "languages": ["YAML"],
+  "languages": [],
   "maintenance": "contract",
   "contractNumber": "47QTCA21D00AC",
-  "tags": ["SHARE IT"],
+  "date": {
+    "created": "2025-08-05T14:00:54Z",
+    "lastModified": "2025-11-01T07:11:05Z",
+    "metaDataLastUpdated": "2026-01-01T00:42:26.397Z"
+  },
+  "tags": [
+    "SHARE IT"
+  ],
   "contact": {
     "email": "cms-macfc@corbalt.com",
     "name": "Corbalt"
@@ -36,10 +50,16 @@
   "userInput": false,
   "fismaLevel": "Moderate",
   "group": "CMCS/DSG",
-  "projects": ["SHARE IT Compliance"],
+  "projects": [
+    "SHARE IT Compliance"
+  ],
   "systems": [],
   "upstream": [],
-  "subsetInHealthcare": ["Medicaid"],
-  "userType": ["Government"],
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
   "maturityModelTier": 2
 }
