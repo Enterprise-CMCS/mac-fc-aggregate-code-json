@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "internal",
   "vcs": "git",
-  "laborHours": 11771,
+  "laborHours": 12087,
   "reuseFrequency": {
     "forks": 790
   },
@@ -47,8 +47,8 @@
   "contractNumber": "47QTCA21D00AC",
   "date": {
     "created": "2023-03-23T16:40:53Z",
-    "lastModified": "2026-03-02T17:18:17Z",
-    "metaDataLastUpdated": "2026-03-02T18:41:54.327Z"
+    "lastModified": "2026-04-02T18:19:07Z",
+    "metaDataLastUpdated": "2026-04-07T18:00:33.192Z"
   },
   "tags": [
     "security",
