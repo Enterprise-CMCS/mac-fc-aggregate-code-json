@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 9470,
+  "laborHours": 9496,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -48,8 +48,8 @@
   "partners": [],
   "date": {
     "created": "2024-10-15T20:11:50Z",
-    "lastModified": "2026-01-30T23:06:55Z",
-    "metadataLastUpdated": "2026-02-01T00:09:03.655Z"
+    "lastModified": "2026-02-12T17:51:56Z",
+    "metadataLastUpdated": "2026-04-01T00:13:33.086Z"
   },
   "tags": [
     "Medicaid",
@@ -57,8 +57,8 @@
     "Medicaid Data Quality"
   ],
   "contact": {
-    "email": "angelica.parker@cms.hhs.gov",
-    "name": "Angelica Parker"
+    "email": "rbhasker@index-analytics.com",
+    "name": "Ganapathi Raman Bhasker"
   },
   "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-dq-atlas-measures/issues",
   "AIUseCaseID": "0",
