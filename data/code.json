@@ -1013,8 +1013,8 @@
         "data-analytics"
       ],
       "contact": {
-        "email": "amims@mathematica-mpr.com",
-        "name": ""
+        "email": "rbhasker@index-analytics.com",
+        "name": "Ganapathi Raman Bhasker"
       },
       "contractNumber": [
         "75FCMC19D0091/75FCMC21F0001"
@@ -2225,88 +2225,6 @@
       "vcs": "git"
     },
     {
-      "AIUseCaseID": "0",
-      "SBOM": "https://github.com/Enterprise-CMCS/da-taf-dq-briefs/network/dependencies",
-      "categories": [
-        "data-analytics"
-      ],
-      "contact": {
-        "email": "rbhasker@index-analytics.com",
-        "name": "Ganapathi Raman Bhasker"
-      },
-      "contractNumber": [
-        "75FCMC19D0091/75FCMC21F0001"
-      ],
-      "date": {
-        "created": "2024-10-16T18:43:21Z",
-        "lastModified": "2026-03-09T13:40:16Z",
-        "metadataLastUpdated": "2026-04-01T00:18:55.733Z"
-      },
-      "description": "",
-      "disclaimerText": "",
-      "disclaimerURL": "",
-      "downloadURL": "",
-      "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-taf-dq-briefs/issues",
-      "fismaLevel": "Moderate",
-      "group": "CMCS/DSG",
-      "homepageURL": "",
-      "laborHours": 4623,
-      "languages": [
-        "Python"
-      ],
-      "localisation": false,
-      "longDescription": "This repository contains the code to build analytic output for TAF Data Quality briefs",
-      "maintenance": "contract",
-      "maturityModelTier": 0,
-      "name": "da-taf-dq-briefs",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "partners": [],
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "N/A",
-            "name": "None"
-          }
-        ],
-        "usageType": "governmentWideReuse"
-      },
-      "platforms": [
-        "other"
-      ],
-      "projects": [
-        "N/A"
-      ],
-      "relatedCode": [],
-      "repositoryHost": "github.com/Enterprise-CMCS",
-      "repositoryType": "data",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/da-taf-dq-briefs",
-      "repositoryVisibility": "private",
-      "reuseFrequency": {
-        "clones": 0,
-        "forks": 0
-      },
-      "reusedCode": [],
-      "softwareType": "standalone/other",
-      "status": "Development",
-      "subsetInHealthcare": [
-        "Medicaid"
-      ],
-      "systems": [
-        "DataConnect"
-      ],
-      "tags": [
-        "Medicaid",
-        "Medicaid Data"
-      ],
-      "userInput": false,
-      "userType": [
-        "Government"
-      ],
-      "vcs": "git",
-      "version": ""
-    },
-    {
       "categories": [
         "data-analytics"
       ],
@@ -2457,8 +2375,8 @@
     {
       "categories": [],
       "contact": {
-        "email": "",
-        "name": ""
+        "email": "rbhasker@index-analytics.com",
+        "name": "Ganapathi Raman Bhasker"
       },
       "contractNumber": "",
       "date": {
@@ -7259,8 +7177,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:50:07Z",
-        "lastModified": "2026-02-27T22:32:25Z",
-        "metadataLastUpdated": "2026-03-01T00:28:28.657Z"
+        "lastModified": "2026-03-31T21:46:05Z",
+        "metadataLastUpdated": "2026-04-01T00:32:52.476Z"
       },
       "description": "Web / UI for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid and CHIP.",
       "disclaimerText": "",
@@ -7270,7 +7188,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 30095,
+      "laborHours": 30187,
       "languages": [
         "JavaScript",
         "Java",
