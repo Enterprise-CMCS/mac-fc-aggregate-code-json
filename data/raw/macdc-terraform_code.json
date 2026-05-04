@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 15116,
+  "laborHours": 15286,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -40,7 +40,8 @@
     "HCL",
     "Python",
     "Go",
-    "Shell"
+    "Shell",
+    "Go Template"
   ],
   "maintenance": "contract",
   "contractNumber": [
@@ -52,8 +53,8 @@
   "partners": [],
   "date": {
     "created": "2022-07-19T20:33:51Z",
-    "lastModified": "2026-03-31T22:13:49Z",
-    "metadataLastUpdated": "2026-04-01T00:30:08.098Z"
+    "lastModified": "2026-04-30T21:54:23Z",
+    "metadataLastUpdated": "2026-05-01T00:39:44.335Z"
   },
   "tags": [
     "AWS",

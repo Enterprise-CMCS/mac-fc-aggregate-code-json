@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 18607,
+  "laborHours": 18951,
   "reuseFrequency": {
     "forks": 0,
     "clones": 6
@@ -61,8 +61,8 @@
   "partners": [],
   "date": {
     "created": "2023-08-28T20:46:47Z",
-    "lastModified": "2026-03-31T20:57:00Z",
-    "metadataLastUpdated": "2026-04-01T00:07:45.539Z"
+    "lastModified": "2026-04-30T23:50:16Z",
+    "metadataLastUpdated": "2026-05-01T00:15:48.154Z"
   },
   "tags": [
     "budget-app",

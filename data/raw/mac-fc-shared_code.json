@@ -2,6 +2,7 @@
   "name": "mac-fc-shared",
   "description": "",
   "longDescription": "This repo manages account-wide resources for the MAC-FC AWS accounts.",
+  "status": "",
   "permissions": {
     "licenses": [
       {
@@ -18,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "internal",
   "vcs": "git",
-  "laborHours": 0,
+  "laborHours": 3072,
   "reuseFrequency": {
     "forks": 0
   },
@@ -30,13 +31,17 @@
     "it-development"
   ],
   "softwareType": "standalone/backend",
-  "languages": [],
+  "languages": [
+    "HCL",
+    "Dockerfile",
+    "Shell"
+  ],
   "maintenance": "contract",
   "contractNumber": "47QTCA21D00AC",
   "date": {
-    "created": "2025-08-19T08:00:00Z",
-    "lastModified": "2025-08-19T08:00:00Z",
-    "metaDataLastUpdated": "2025-08-19T08:00:00Z"
+    "created": "2025-08-19T12:43:45Z",
+    "lastModified": "2026-03-27T15:30:36Z",
+    "metaDataLastUpdated": "2026-04-01T00:43:57.095Z"
   },
   "tags": [
     "mac-fc aws account terraform",

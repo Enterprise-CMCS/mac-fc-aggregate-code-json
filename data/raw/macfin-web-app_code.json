@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 30187,
+  "laborHours": 30304,
   "reuseFrequency": {
     "forks": 0,
     "clones": 6
@@ -46,7 +46,8 @@
     "SCSS",
     "MDX",
     "HTML",
-    "CSS"
+    "CSS",
+    "Shell"
   ],
   "maintenance": "contract",
   "contractNumber": [
@@ -58,8 +59,8 @@
   "partners": [],
   "date": {
     "created": "2023-08-28T20:50:07Z",
-    "lastModified": "2026-03-31T21:46:05Z",
-    "metadataLastUpdated": "2026-04-01T00:32:52.476Z"
+    "lastModified": "2026-04-30T18:19:49Z",
+    "metadataLastUpdated": "2026-05-01T00:43:07.284Z"
   },
   "tags": [
     "budget-app",

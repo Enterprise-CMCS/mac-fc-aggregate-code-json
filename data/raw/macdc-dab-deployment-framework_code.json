@@ -1,7 +1,7 @@
 {
   "name": "macdc-dab-deployment-framework",
   "version": "1.0.0",
-  "description": "This repository functions as the centralized infrastructure-as-code framework and reference implementation for Declarative Automation Bundles. It includes standardized job and pipeline definitions, naming and tagging conventions, GitOps-driven deployment examples via GitHub Actions, and team guidance for onboarding new bundles.",
+  "description": "This repository functions as the centralized infrastructure-as-code framework and reference implementation for Databricks Asset Bundles. It includes standardized job and pipeline definitions, naming and tagging conventions, GitOps-driven deployment examples via GitHub Actions, and team guidance for onboarding new bundles.",
   "longDescription": "This repository serves as the central hub for all metadata governance configurations, data contracts, and vocabulary definitions related to the DataConnect project, enabling standardized ingestion, transformation, access control, and compliance enforcement across the platform.",
   "status": "Production",
   "permissions": {
@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 2107,
+  "laborHours": 2816,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -36,7 +36,10 @@
     "metadata-management"
   ],
   "softwareType": "standalone/backend",
-  "languages": [],
+  "languages": [
+    "Jupyter Notebook",
+    "Python"
+  ],
   "maintenance": "contract",
   "contractNumber": [
     "75FCMC21F0108"
@@ -50,8 +53,8 @@
   "partners": [],
   "date": {
     "created": "2026-02-06T16:53:45Z",
-    "lastModified": "2026-02-27T18:31:19Z",
-    "metadataLastUpdated": "2026-03-01T00:12:24.469Z"
+    "lastModified": "2026-04-30T16:01:27Z",
+    "metadataLastUpdated": "2026-05-01T00:25:46.282Z"
   },
   "tags": [
     "AWS",

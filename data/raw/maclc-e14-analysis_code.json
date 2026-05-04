@@ -1,5 +1,6 @@
 {
   "name": "maclc-e14-analysis",
+  "version": "",
   "description": "Code to support e14 analysis for MACLC Task 5.7",
   "longDescription": "This repository contains Python/PySpark code designed to build analytical tables for evaluating various renewal and disenrollment outcomes following state implementation of strategies related to unwinding, as authorized under section 1902(e)(14)(A) (commonly referred to as e14 waivers). The goal is to assess the effectiveness of these waivers in enhancing beneficiary renewal success.",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-e14-analysis",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 3062,
+  "laborHours": 3064,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -34,11 +39,17 @@
     "Python"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC22F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/maclc-e14-analysis/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-01-23T19:18:31Z",
-    "lastModified": "2025-09-04T13:41:35Z",
-    "metaDataLastUpdated": "2025-10-01T00:20:28.343Z"
+    "lastModified": "2025-11-12T16:00:55Z",
+    "metadataLastUpdated": "2026-03-01T00:28:01.252Z"
   },
   "tags": [
     "Medicaid",
@@ -46,12 +57,11 @@
     "Enrollment and Eligibility"
   ],
   "contact": {
-    "email": "eward@mathematica-mpr.com",
-    "name": "Eva Ward"
+    "email": "bhagen@mathematica-mpr.com",
+    "name": "Brynn Hagen"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/maclc-e14-analysis/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-e14-analysis/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -63,7 +73,6 @@
   "systems": [
     "DataConnect"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

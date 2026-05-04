@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 5159,
+  "laborHours": 5324,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -50,8 +50,8 @@
   "partners": [],
   "date": {
     "created": "2023-01-05T18:41:41Z",
-    "lastModified": "2026-02-26T21:03:36Z",
-    "metadataLastUpdated": "2026-03-01T00:08:49.458Z"
+    "lastModified": "2026-04-30T15:36:05Z",
+    "metadataLastUpdated": "2026-05-01T00:21:27.605Z"
   },
   "tags": [
     "AWS",

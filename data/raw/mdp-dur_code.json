@@ -17,13 +17,13 @@
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/mdp-dur",
   "repositoryHost": "github.com/Enterprise-CMCS",
-  "repositoryVisibility": "public",
+  "repositoryVisibility": "private",
   "homepageURL": "",
   "downloadURL": "",
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 1,
+  "laborHours": 10543,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -37,11 +37,11 @@
   "softwareType": "standalone/web",
   "languages": [
     "TypeScript",
-    "JavaScript",
-    "SCSS",
     "Shell",
+    "JavaScript",
     "HTML",
-    "Smarty"
+    "SCSS",
+    "Go Template"
   ],
   "maintenance": "contract",
   "contractNumber": [
@@ -52,9 +52,9 @@
   "reusedCode": [],
   "partners": [],
   "date": {
-    "created": "2024-05-02T18:31:28Z",
-    "lastModified": "2025-12-31T16:15:08Z",
-    "metadataLastUpdated": "2026-01-01T00:28:36.239Z"
+    "created": "2026-01-20T14:11:02Z",
+    "lastModified": "2026-04-30T19:59:21Z",
+    "metadataLastUpdated": "2026-05-01T00:18:11.463Z"
   },
   "tags": [
     "mdct"

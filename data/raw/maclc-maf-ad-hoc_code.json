@@ -1,5 +1,6 @@
 {
   "name": "maclc-maf-ad-hoc",
+  "version": "",
   "description": "Code to support ad hoc requests for MACLC Task 5.7",
   "longDescription": "This repository houses code used to support analyses related to the MACLC Task 5.7. Generally \"ad hoc\" requests are particularly urgent, likely to only be needed once, and/or answer specific research questions and so don't require a more general product.",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-maf-ad-hoc",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 3113,
+  "laborHours": 3119,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -34,11 +39,17 @@
     "Python"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC22F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/maclc-maf-ad-hoc/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2024-07-12T17:42:07Z",
-    "lastModified": "2025-09-19T14:00:12Z",
-    "metaDataLastUpdated": "2025-10-01T00:22:34.288Z"
+    "lastModified": "2025-11-12T16:03:27Z",
+    "metadataLastUpdated": "2026-03-01T00:30:47.862Z"
   },
   "tags": [
     "Medicaid",
@@ -46,12 +57,11 @@
     "Enrollment and Eligibility"
   ],
   "contact": {
-    "email": "eward@mathematica-mpr.com",
-    "name": "Eva Ward"
+    "email": "bhagen@mathematica-mpr.com",
+    "name": "Brynn Hagen"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/maclc-maf-ad-hoc/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-maf-ad-hoc/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -63,7 +73,6 @@
   "systems": [
     "DataConnect"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],
