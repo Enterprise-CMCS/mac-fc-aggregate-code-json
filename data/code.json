@@ -780,29 +780,33 @@
     },
     {
       "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/bigmac/network/dependencies",
       "categories": [
         "data-analytics",
         "data-collection",
         "data-visualization"
       ],
       "contact": {
-        "email": "bpaige@gswell.com",
+        "email": "benjamin.paige@cms.hhs.gov",
         "name": "Benjamin Paige"
       },
-      "contractNumber": "75FCMC24F0027",
+      "contractNumber": [
+        "75FCMC24F0027"
+      ],
       "date": {
         "created": "2020-08-27T20:20:29Z",
-        "lastModified": "2025-09-13T23:59:40Z",
-        "metaDataLastUpdated": "2025-09-14T02:32:05.913Z"
+        "lastModified": "2026-04-10T20:29:55Z",
+        "metadataLastUpdated": "2026-05-10T03:06:56.777Z"
       },
       "description": "The Kafka streaming platform for CMS",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
       "feedbackMechanism": "https://github.com/Enterprise-CMCS/bigmac/issues",
-      "feedbackMechanisms": [
-        "https://github.com/Enterprise-CMCS/bigmac/issues"
-      ],
       "fismaLevel": "Moderate",
       "group": "MACPRO Platform Team",
-      "laborHours": 8646,
+      "homepageURL": "",
+      "laborHours": 9044,
       "languages": [
         "TypeScript",
         "JavaScript",
@@ -814,6 +818,7 @@
       "maturityModelTier": 3,
       "name": "bigmac",
       "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
       "permissions": {
         "exemptionText": "",
         "licenses": [
@@ -829,10 +834,10 @@
         "linux",
         "other"
       ],
-      "projectURL": "https://turbo-spork-b025ece3.pages.github.io/",
       "projects": [
         "bigmac"
       ],
+      "relatedCode": [],
       "repositoryHost": "github.com/Enterprise-CMCS",
       "repositoryType": "application",
       "repositoryURL": "https://github.com/Enterprise-CMCS/bigmac",
@@ -841,6 +846,7 @@
         "clones": 0,
         "forks": 0
       },
+      "reusedCode": [],
       "softwareType": "standalone/backend",
       "status": "Production",
       "subsetInHealthcare": [
@@ -865,12 +871,12 @@
         "real-time-data",
         "healthcare"
       ],
-      "upstream": "https://github.com/Enterprise-CMCS/bigmac/network/dependencies",
       "userInput": false,
       "userType": [
         "Government"
       ],
-      "vcs": "git"
+      "vcs": "git",
+      "version": ""
     },
     {
       "AIUseCaseID": "0",
@@ -3227,88 +3233,6 @@
         "github-actions-minutes",
         "alerter",
         "code-json-lambda"
-      ],
-      "upstream": [],
-      "userInput": false,
-      "userType": [
-        "Government"
-      ],
-      "vcs": "git"
-    },
-    {
-      "categories": [
-        "application-development",
-        "collaboration",
-        "it-development"
-      ],
-      "contact": {
-        "email": "cms-macfc@corbalt.com",
-        "name": "Corbalt"
-      },
-      "contractNumber": "47QTCA21D00AC",
-      "date": {
-        "created": "2023-03-23T16:40:53Z",
-        "lastModified": "2025-05-29T18:09:46Z",
-        "metaDataLastUpdated": "2025-06-01T00:18:04.619Z"
-      },
-      "description": "The Developer Portal is a standalone web app that allows authorized users to post API specifications",
-      "feedbackMechanisms": [
-        "https://github.com/Enterprise-CMCS/mac-fc-macbis-developer-portal/issues"
-      ],
-      "fismaLevel": "Moderate",
-      "group": "CMCS/DSG",
-      "laborHours": 11521,
-      "languages": [
-        "Go",
-        "TypeScript",
-        "HCL",
-        "Shell",
-        "Dockerfile",
-        "CSS",
-        "HTML",
-        "JavaScript"
-      ],
-      "localisation": false,
-      "longDescription": "The Developer Portal is a standalone web app that allows authorized users to read API specifications and post new and updated specs to the Portal.",
-      "maintenance": "contract",
-      "maturityModelTier": 2,
-      "name": "mac-fc-macbis-developer-portal",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "none",
-            "name": "None"
-          }
-        ],
-        "usageType": "governmentWideReuse"
-      },
-      "platforms": [
-        "web"
-      ],
-      "projectURL": "",
-      "projects": [
-        "MACBIS Developer Portal"
-      ],
-      "repositoryHost": "github.com/CMS-Enterprise",
-      "repositoryType": "website",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/mac-fc-macbis-developer-portal",
-      "repositoryVisibility": "private",
-      "reuseFrequency": {
-        "forks": 790
-      },
-      "softwareType": "standalone/web",
-      "status": "Production",
-      "subsetInHealthcare": [
-        "Medicaid"
-      ],
-      "systems": [
-        "CMS Design System"
-      ],
-      "tags": [
-        "developer-portal",
-        "dev-portal"
       ],
       "upstream": [],
       "userInput": false,
@@ -8357,6 +8281,8 @@
       "version": ""
     },
     {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/maclc-ee-tool/network/dependencies",
       "categories": [
         "data-analytics",
         "data-visualization"
@@ -8365,19 +8291,23 @@
         "email": "kbisson@mathematica-mpr.com",
         "name": "Katie Bisson"
       },
-      "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+      "contractNumber": [
+        "75FCMC19D0091/75FCMC22F0001"
+      ],
       "date": {
         "created": "2024-07-24T19:17:50Z",
-        "lastModified": "2025-09-30T20:04:04Z",
-        "metaDataLastUpdated": "2025-10-01T00:12:06.842Z"
+        "lastModified": "2026-05-11T13:19:57Z",
+        "metadataLastUpdated": "2026-05-12T14:10:49.468Z"
       },
       "description": "Code to support automated generated of the Medicaid and CHIP Eligibility Operations and Enrollment Snapshot for MACLC Task 5.7",
-      "feedbackMechanisms": [
-        "https://github.com/Enterprise-CMCS/maclc-ee-tool/issues"
-      ],
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-ee-tool/issues",
       "fismaLevel": "Moderate",
       "group": "CMCS",
-      "laborHours": 4273,
+      "homepageURL": "",
+      "laborHours": 4432,
       "languages": [
         "Python"
       ],
@@ -8387,6 +8317,7 @@
       "maturityModelTier": 0,
       "name": "maclc-ee-tool",
       "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
       "permissions": {
         "exemptionText": "",
         "licenses": [
@@ -8400,17 +8331,19 @@
       "platforms": [
         "other"
       ],
-      "projectURL": "",
       "projects": [
         "None"
       ],
+      "relatedCode": [],
       "repositoryHost": "github.com/Enterprise-CMCS",
       "repositoryType": "data",
       "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-ee-tool",
       "repositoryVisibility": "private",
       "reuseFrequency": {
+        "clones": 0,
         "forks": 0
       },
+      "reusedCode": [],
       "softwareType": "standalone/other",
       "status": "Development",
       "subsetInHealthcare": [
@@ -8424,12 +8357,12 @@
         "Medicaid Data",
         "Enrollment and Eligibility"
       ],
-      "upstream": "",
       "userInput": false,
       "userType": [
         "Government"
       ],
-      "vcs": "git"
+      "vcs": "git",
+      "version": ""
     },
     {
       "categories": [
@@ -8770,8 +8703,8 @@
       ],
       "date": {
         "created": "2025-06-27T14:42:59Z",
-        "lastModified": "2026-03-25T16:38:58Z",
-        "metadataLastUpdated": "2026-04-01T00:24:09.699Z"
+        "lastModified": "2026-04-29T16:33:45Z",
+        "metadataLastUpdated": "2026-05-01T00:34:18.485Z"
       },
       "description": "Code to support automated generation of data for public reporting related to eligibility operations and public reporting for MACLC Task 5.7",
       "disclaimerText": "",
@@ -8781,7 +8714,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 5961,
+      "laborHours": 5968,
       "languages": [
         "Python",
         "Jupyter Notebook"
@@ -11361,8 +11294,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2023-04-14T12:45:54Z",
-        "lastModified": "2026-03-25T17:23:05Z",
-        "metaDataLastUpdated": "2026-04-01T00:49:27.425Z"
+        "lastModified": "2026-04-30T16:23:18Z",
+        "metaDataLastUpdated": "2026-05-01T01:00:07.655Z"
       },
       "description": "A place for the Infrastructure as code to live for TMSIS project",
       "feedbackMechanisms": [
@@ -11370,15 +11303,15 @@
       ],
       "fismaLevel": "Low",
       "group": "CMS",
-      "laborHours": 12503,
+      "laborHours": 12234,
       "languages": [
         "HCL",
         "Python",
-        "Shell",
+        "Smarty",
         "Dockerfile",
+        "Shell",
         "Go Template",
         "JavaScript",
-        "Smarty",
         "Makefile"
       ],
       "localisation": false,
@@ -12005,8 +11938,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2023-10-30T15:30:35Z",
-        "lastModified": "2026-03-18T01:41:46Z",
-        "metaDataLastUpdated": "2026-04-01T00:55:35.773Z"
+        "lastModified": "2026-04-28T15:04:55Z",
+        "metaDataLastUpdated": "2026-05-01T01:06:34.993Z"
       },
       "description": "OD Tests for TMSIS",
       "feedbackMechanisms": [
@@ -12014,7 +11947,7 @@
       ],
       "fismaLevel": "Low",
       "group": "CMS",
-      "laborHours": 7011,
+      "laborHours": 6938,
       "languages": [
         "Python",
         "CSS",

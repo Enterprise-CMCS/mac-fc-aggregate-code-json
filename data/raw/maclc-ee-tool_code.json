@@ -1,5 +1,6 @@
 {
   "name": "maclc-ee-tool",
+  "version": "",
   "description": "Code to support automated generated of the Medicaid and CHIP Eligibility Operations and Enrollment Snapshot for MACLC Task 5.7",
   "longDescription": "This repository houses code for the Eligibilty and Enrollment (E&E) Tool, which generates the Medicaid and CHIP Enrollment Operations and Eligibility (E&E) Snapshot in the DataConnect environment. ",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-ee-tool",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 4273,
+  "laborHours": 4432,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -35,11 +40,17 @@
     "Python"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC22F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC22F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/maclc-ee-tool/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2024-07-24T19:17:50Z",
-    "lastModified": "2025-09-30T20:04:04Z",
-    "metaDataLastUpdated": "2025-10-01T00:12:06.842Z"
+    "lastModified": "2026-05-11T13:19:57Z",
+    "metadataLastUpdated": "2026-05-12T14:10:49.468Z"
   },
   "tags": [
     "Medicaid",
@@ -50,9 +61,8 @@
     "email": "kbisson@mathematica-mpr.com",
     "name": "Katie Bisson"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/maclc-ee-tool/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-ee-tool/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -64,7 +74,6 @@
   "systems": [
     "DataConnect"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

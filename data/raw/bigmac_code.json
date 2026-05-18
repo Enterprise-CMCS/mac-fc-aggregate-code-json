@@ -1,5 +1,6 @@
 {
   "name": "bigmac",
+  "version": "",
   "description": "The Kafka streaming platform for CMS",
   "longDescription": "Bigmac is an event streaming platform based on Apache Kafka that uses the Serverless Framework and GitHub Actions to deploy a secure and scalable architecture to AWS. It serves as a central hub for any amount of data to be published or read in real time as part of CMS' new data strategy. The platform enables new services and solutions by extracting CMS data from traditional systems and making it available through modern, scalable, and performant Kafka technology. It provides capabilities for data streaming, replay, and recoverability, allowing the replay of every data event from the beginning of time.",
   "status": "Production",
@@ -15,11 +16,14 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/bigmac",
-  "projectURL": "https://turbo-spork-b025ece3.pages.github.io/",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 8646,
+  "laborHours": 9044,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -41,11 +45,17 @@
     "Shell"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC24F0027",
+  "contractNumber": [
+    "75FCMC24F0027"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/bigmac/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2020-08-27T20:20:29Z",
-    "lastModified": "2025-09-13T23:59:40Z",
-    "metaDataLastUpdated": "2025-09-14T02:32:05.913Z"
+    "lastModified": "2026-04-10T20:29:55Z",
+    "metadataLastUpdated": "2026-05-10T03:06:56.777Z"
   },
   "tags": [
     "kafka",
@@ -58,7 +68,7 @@
     "healthcare"
   ],
   "contact": {
-    "email": "bpaige@gswell.com",
+    "email": "benjamin.paige@cms.hhs.gov",
     "name": "Benjamin Paige"
   },
   "feedbackMechanism": "https://github.com/Enterprise-CMCS/bigmac/issues",
@@ -77,7 +87,6 @@
     "AWS Lambda",
     "AWS CloudFormation"
   ],
-  "upstream": "https://github.com/Enterprise-CMCS/bigmac/network/dependencies",
   "subsetInHealthcare": [
     "Policy",
     "Operational",
@@ -87,8 +96,5 @@
   "userType": [
     "Government"
   ],
-  "maturityModelTier": 3,
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/bigmac/issues"
-  ]
+  "maturityModelTier": 3
 }
