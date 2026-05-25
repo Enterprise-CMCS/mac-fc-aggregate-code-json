@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 9044,
+  "laborHours": 9138,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -42,7 +42,9 @@
   "languages": [
     "TypeScript",
     "JavaScript",
-    "Shell"
+    "Shell",
+    "HCL",
+    "Java"
   ],
   "maintenance": "contract",
   "contractNumber": [
@@ -54,8 +56,8 @@
   "partners": [],
   "date": {
     "created": "2020-08-27T20:20:29Z",
-    "lastModified": "2026-04-10T20:29:55Z",
-    "metadataLastUpdated": "2026-05-10T03:06:56.777Z"
+    "lastModified": "2026-05-21T18:38:25Z",
+    "metadataLastUpdated": "2026-05-24T03:07:38.205Z"
   },
   "tags": [
     "kafka",
