@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 9323,
+  "laborHours": 9292,
   "reuseFrequency": {
     "forks": 0
   },
@@ -33,15 +33,14 @@
   "softwareType": "standalone/backend",
   "languages": [
     "Python",
-    "SAS",
-    "Jupyter Notebook"
+    "SAS"
   ],
   "maintenance": "contract",
   "contractNumber": "75FCMC20F0002:75FCMC20F0002",
   "date": {
     "created": "2025-03-17T16:49:53Z",
-    "lastModified": "2026-04-30T14:53:33Z",
-    "metaDataLastUpdated": "2026-05-01T01:10:12.614Z"
+    "lastModified": "2026-05-28T18:17:49Z",
+    "metaDataLastUpdated": "2026-06-01T01:22:30.341Z"
   },
   "tags": [
     "Medicaid",

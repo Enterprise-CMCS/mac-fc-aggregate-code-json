@@ -423,8 +423,8 @@
       "contractNumber": "75FCMC20F0002:75FCMC20F0002",
       "date": {
         "created": "2025-03-17T16:49:53Z",
-        "lastModified": "2026-04-30T14:53:33Z",
-        "metaDataLastUpdated": "2026-05-01T01:10:12.614Z"
+        "lastModified": "2026-05-28T18:17:49Z",
+        "metaDataLastUpdated": "2026-06-01T01:22:30.341Z"
       },
       "description": "The Scorecard aims improve public transparency about the administration and outcomes of the Medicaid and CHIP programs.",
       "feedbackMechanisms": [
@@ -432,11 +432,10 @@
       ],
       "fismaLevel": "Moderate",
       "group": "CMCS/IAPSS",
-      "laborHours": 9323,
+      "laborHours": 9292,
       "languages": [
         "Python",
-        "SAS",
-        "Jupyter Notebook"
+        "SAS"
       ],
       "localisation": false,
       "longDescription": "The Centers for Medicare \u0026 Medicaid Services (CMS) developed the Medicaid and Children’s Health Insurance Program (CHIP) Scorecard to improve public transparency about the administration and outcomes of these programs. States and CMS can use the Medicaid and CHIP (MAC) Scorecard to drive improvements in areas such as state and federal alignment, beneficiary health outcomes, and program administration.",
@@ -1767,8 +1766,8 @@
       "contractNumber": "75FCMC19D0091/75FCMC21F0001",
       "date": {
         "created": "2023-12-13T21:26:46Z",
-        "lastModified": "2026-04-01T00:49:44Z",
-        "metaDataLastUpdated": "2026-05-01T01:00:20.121Z"
+        "lastModified": "2026-05-01T01:00:41Z",
+        "metaDataLastUpdated": "2026-06-01T01:11:29.912Z"
       },
       "description": "",
       "feedbackMechanisms": [
@@ -2876,8 +2875,8 @@
       "contractNumber": "75FCMC19D0091:75FCMC24F0194",
       "date": {
         "created": "2025-04-28T15:07:40Z",
-        "lastModified": "2026-04-30T15:53:04Z",
-        "metaDataLastUpdated": "2026-05-01T00:35:25.601Z"
+        "lastModified": "2026-05-29T14:19:06Z",
+        "metaDataLastUpdated": "2026-06-01T00:41:49.131Z"
       },
       "description": "",
       "feedbackMechanisms": [
@@ -2885,7 +2884,7 @@
       ],
       "fismaLevel": "Moderate",
       "group": "CMCS/DCST",
-      "laborHours": 10184,
+      "laborHours": 10311,
       "languages": [
         "Python"
       ],
@@ -7375,8 +7374,8 @@
       ],
       "date": {
         "created": "2025-02-19T15:50:14Z",
-        "lastModified": "2026-04-01T00:53:52Z",
-        "metadataLastUpdated": "2026-05-01T01:04:37.873Z"
+        "lastModified": "2026-05-01T01:04:59Z",
+        "metadataLastUpdated": "2026-06-01T01:16:13.591Z"
       },
       "description": "CTAC SAS Utilities",
       "disclaimerText": "",
@@ -7458,8 +7457,8 @@
       ],
       "date": {
         "created": "2025-06-03T20:36:51Z",
-        "lastModified": "2026-04-07T13:56:46Z",
-        "metadataLastUpdated": "2026-05-01T00:23:26.154Z"
+        "lastModified": "2026-05-01T00:23:47Z",
+        "metadataLastUpdated": "2026-06-01T00:28:56.486Z"
       },
       "description": "CTAC Ad Hoc Analytics",
       "disclaimerText": "",
@@ -7542,8 +7541,8 @@
       ],
       "date": {
         "created": "2025-10-23T17:47:37Z",
-        "lastModified": "2026-04-22T20:06:32Z",
-        "metadataLastUpdated": "2026-05-01T00:26:05.456Z"
+        "lastModified": "2026-05-22T15:58:12Z",
+        "metadataLastUpdated": "2026-06-01T00:32:11.984Z"
       },
       "description": "CTAC Healthcare Enrollment and Transitions Data Model",
       "disclaimerText": "",
@@ -7553,7 +7552,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 6628,
+      "laborHours": 6635,
       "languages": [
         "Python"
       ],
@@ -7626,8 +7625,8 @@
       ],
       "date": {
         "created": "2024-10-24T14:46:44Z",
-        "lastModified": "2026-04-30T14:22:17Z",
-        "metadataLastUpdated": "2026-05-01T00:32:31.329Z"
+        "lastModified": "2026-05-19T14:52:35Z",
+        "metadataLastUpdated": "2026-06-01T00:39:26.460Z"
       },
       "description": "CTAC Monthly System",
       "disclaimerText": "",
@@ -7637,7 +7636,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 7587,
+      "laborHours": 7704,
       "languages": [
         "Python",
         "Jupyter Notebook"
@@ -7795,8 +7794,8 @@
       ],
       "date": {
         "created": "2025-02-27T22:01:17Z",
-        "lastModified": "2026-03-01T00:53:28Z",
-        "metadataLastUpdated": "2026-05-01T01:08:32.359Z"
+        "lastModified": "2026-05-01T01:08:53Z",
+        "metadataLastUpdated": "2026-06-01T01:21:01.046Z"
       },
       "description": "CTAC Sandbox",
       "disclaimerText": "",
@@ -7880,8 +7879,8 @@
       ],
       "date": {
         "created": "2025-02-26T15:22:01Z",
-        "lastModified": "2026-04-20T20:18:55Z",
-        "metadataLastUpdated": "2026-05-01T00:47:56.277Z"
+        "lastModified": "2026-05-01T00:48:17Z",
+        "metadataLastUpdated": "2026-06-01T00:57:28.798Z"
       },
       "description": "CTAC Shared Programs",
       "disclaimerText": "",
@@ -7964,8 +7963,8 @@
       ],
       "date": {
         "created": "2025-07-30T18:23:22Z",
-        "lastModified": "2026-03-01T00:22:17Z",
-        "metadataLastUpdated": "2026-05-01T00:36:34.723Z"
+        "lastModified": "2026-05-01T00:36:55Z",
+        "metadataLastUpdated": "2026-06-01T00:43:53.553Z"
       },
       "description": "Tabling programs for MACLC Unwinding CTAC",
       "disclaimerText": "",
@@ -8048,8 +8047,8 @@
       ],
       "date": {
         "created": "2025-02-19T15:49:10Z",
-        "lastModified": "2026-04-30T19:44:34Z",
-        "metadataLastUpdated": "2026-05-01T01:09:02.431Z"
+        "lastModified": "2026-05-18T19:42:28Z",
+        "metadataLastUpdated": "2026-06-01T01:21:25.177Z"
       },
       "description": "CTAC Test Data",
       "disclaimerText": "",
@@ -8059,7 +8058,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 10485,
+      "laborHours": 10505,
       "languages": [],
       "localisation": false,
       "longDescription": "Synthetic data files created by GenRocket for testing purposes in the MACLC CTAC project. These files are used to simulate real-world data scenarios without exposing sensitive information.",
@@ -8130,8 +8129,8 @@
       ],
       "date": {
         "created": "2024-10-24T14:45:52Z",
-        "lastModified": "2026-04-24T17:01:02Z",
-        "metadataLastUpdated": "2026-05-01T00:38:11.286Z"
+        "lastModified": "2026-05-28T19:41:39Z",
+        "metadataLastUpdated": "2026-06-01T00:46:17.466Z"
       },
       "description": "CTAC Weekly System",
       "disclaimerText": "",
@@ -8141,7 +8140,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 7906,
+      "laborHours": 7666,
       "languages": [
         "Python"
       ],
@@ -8377,8 +8376,8 @@
       "contractNumber": "75FCMC19D0091/75FCMC23F0001",
       "date": {
         "created": "2025-01-23T14:11:41Z",
-        "lastModified": "2026-04-01T00:10:37Z",
-        "metaDataLastUpdated": "2026-05-01T00:18:11.483Z"
+        "lastModified": "2026-05-01T00:18:32Z",
+        "metaDataLastUpdated": "2026-06-01T00:23:22.198Z"
       },
       "description": "",
       "feedbackMechanisms": [
@@ -8621,8 +8620,8 @@
       ],
       "date": {
         "created": "2025-03-24T20:38:05Z",
-        "lastModified": "2026-04-29T12:45:59Z",
-        "metadataLastUpdated": "2026-05-01T00:18:33.189Z"
+        "lastModified": "2026-05-27T19:41:08Z",
+        "metadataLastUpdated": "2026-06-01T00:23:31.923Z"
       },
       "description": "CTAC MMR",
       "disclaimerText": "",
@@ -8632,7 +8631,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 6408,
+      "laborHours": 6413,
       "languages": [
         "Python"
       ],
@@ -8789,8 +8788,8 @@
       ],
       "date": {
         "created": "2025-09-29T16:21:32Z",
-        "lastModified": "2026-04-29T13:55:04Z",
-        "metadataLastUpdated": "2026-05-01T01:02:55.921Z"
+        "lastModified": "2026-05-01T01:03:17Z",
+        "metadataLastUpdated": "2026-06-01T01:14:31.487Z"
       },
       "description": "Repository for shared Python packages created by and for the MACLC project.",
       "disclaimerText": "",
@@ -9115,8 +9114,8 @@
       ],
       "date": {
         "created": "2024-07-16T14:48:01Z",
-        "lastModified": "2026-04-17T17:32:27Z",
-        "metadataLastUpdated": "2026-05-01T01:08:16.613Z"
+        "lastModified": "2026-05-11T16:21:08Z",
+        "metadataLastUpdated": "2026-06-01T01:20:46.095Z"
       },
       "description": "CTAC TAF DQ Checks",
       "disclaimerText": "",
@@ -9126,7 +9125,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 4096,
+      "laborHours": 4407,
       "languages": [
         "Python"
       ],
@@ -10299,8 +10298,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:39:31Z",
-        "lastModified": "2026-04-10T22:19:23Z",
-        "metadataLastUpdated": "2026-05-01T00:20:21.088Z"
+        "lastModified": "2026-05-05T19:30:47Z",
+        "metadataLastUpdated": "2026-05-11T15:31:41.213Z"
       },
       "description": "The alerter is an application that is passed in alert data.",
       "disclaimerText": "",
@@ -10385,8 +10384,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2025-06-16T20:07:15Z",
-        "lastModified": "2026-03-03T18:44:25Z",
-        "metaDataLastUpdated": "2026-04-01T00:35:23.735Z"
+        "lastModified": "2026-04-23T15:30:29Z",
+        "metaDataLastUpdated": "2026-05-01T00:45:11.580Z"
       },
       "description": "Jupyter notebooks that run SQL queries against the TMSIS Bedrock Knowledge Base.",
       "feedbackMechanisms": [
@@ -10394,10 +10393,10 @@
       ],
       "fismaLevel": "Low",
       "group": "CMS",
-      "laborHours": 6264,
+      "laborHours": 7353,
       "languages": [
-        "HCL",
         "Python",
+        "HCL",
         "Jupyter Notebook",
         "Makefile",
         "Dockerfile",
@@ -10632,8 +10631,8 @@
       ],
       "date": {
         "created": "2022-02-15T14:44:32Z",
-        "lastModified": "2026-04-30T20:24:11Z",
-        "metadataLastUpdated": "2026-05-01T01:00:40.328Z"
+        "lastModified": "2026-05-06T17:25:20Z",
+        "metadataLastUpdated": "2026-05-07T18:21:05.070Z"
       },
       "description": "Operations Dashboard Dataguide supported by Wagtail, includes the web component for authoring, editing, and reviewing dataguide content.",
       "disclaimerText": "",
@@ -10643,7 +10642,7 @@
       "fismaLevel": "Low",
       "group": "CMS",
       "homepageURL": "",
-      "laborHours": 18915,
+      "laborHours": 18918,
       "languages": [
         "JavaScript",
         "Python",
@@ -10873,8 +10872,8 @@
       ],
       "date": {
         "created": "2025-01-28T18:17:30Z",
-        "lastModified": "2026-04-30T16:19:19Z",
-        "metadataLastUpdated": "2026-05-01T00:50:37.631Z"
+        "lastModified": "2026-05-06T02:45:20Z",
+        "metadataLastUpdated": "2026-05-11T15:53:23.997Z"
       },
       "description": "The ETL program processes files from the Mathematica team and updates the Data Quality Tool database with the new data.",
       "disclaimerText": "",
@@ -10884,7 +10883,7 @@
       "fismaLevel": "Medium",
       "group": "CMS",
       "homepageURL": "",
-      "laborHours": 6932,
+      "laborHours": 6935,
       "languages": [
         "C#",
         "HCL",
@@ -11137,8 +11136,8 @@
       ],
       "date": {
         "created": "2025-01-22T17:52:01Z",
-        "lastModified": "2026-04-30T05:39:34Z",
-        "metadataLastUpdated": "2026-05-01T00:48:57.682Z"
+        "lastModified": "2026-05-13T13:46:50Z",
+        "metadataLastUpdated": "2026-05-18T13:22:49.250Z"
       },
       "description": "DQT WebService is a web service that provides access to the Data Quality Tool (DQT) database.",
       "disclaimerText": "",
@@ -11148,7 +11147,7 @@
       "fismaLevel": "Low",
       "group": "CMS",
       "homepageURL": "",
-      "laborHours": 10912,
+      "laborHours": 10915,
       "languages": [
         "C#",
         "HCL",
