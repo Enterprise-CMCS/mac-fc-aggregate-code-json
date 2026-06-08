@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 9914,
+  "laborHours": 9927,
   "reuseFrequency": {
     "forks": 0,
     "clones": 6
@@ -63,8 +63,8 @@
   "partners": [],
   "date": {
     "created": "2023-08-28T20:42:31Z",
-    "lastModified": "2026-04-01T16:02:30Z",
-    "metadataLastUpdated": "2026-05-01T00:54:34.239Z"
+    "lastModified": "2026-06-02T17:37:16Z",
+    "metadataLastUpdated": "2026-06-02T17:39:57.937Z"
   },
   "tags": [
     "allotment",

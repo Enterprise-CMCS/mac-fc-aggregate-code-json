@@ -567,6 +567,84 @@
         "data-visualization"
       ],
       "contact": {
+        "email": "bhunscher@mathematica-mpr.com",
+        "name": "Brian Hunscher"
+      },
+      "contractNumber": "75FCMC19D0091:75FCMC21F0001",
+      "date": {
+        "created": "2023-03-09T19:42:04Z",
+        "lastModified": "2025-07-07T17:49:17Z",
+        "metaDataLastUpdated": "2025-07-07T17:51:07.465Z"
+      },
+      "description": "The Scorecard aims improve public transparency about the administration and outcomes of the Medicaid and CHIP programs",
+      "feedbackMechanisms": [
+        "https://github.com/Enterprise-CMCS/MACScorecard-Frontend/issues"
+      ],
+      "fismaLevel": "Moderate",
+      "group": "CMCS/DSG",
+      "laborHours": 22814,
+      "languages": [
+        "TypeScript",
+        "HTML",
+        "SCSS",
+        "JavaScript",
+        "Shell",
+        "Python"
+      ],
+      "localisation": false,
+      "longDescription": "The Centers for Medicare \u0026 Medicaid Services (CMS) developed the Medicaid and Children’s Health Insurance Program (CHIP) Scorecard to improve public transparency about the administration and outcomes of these programs. States and CMS can use the Medicaid and CHIP (MAC) Scorecard to drive improvements in areas such as state and federal alignment, beneficiary health outcomes, and program administration.",
+      "maintenance": "contract",
+      "maturityModelTier": 0,
+      "name": "MACScorecard-Frontend",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "na",
+            "name": "None"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "web"
+      ],
+      "projectURL": "https://www.medicaid.gov/state-overviews/scorecard/main",
+      "projects": [],
+      "repositoryHost": "github.com/CMS-Enterprise",
+      "repositoryType": "website",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/MACScorecard-Frontend",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "forks": 0
+      },
+      "softwareType": "standalone/web",
+      "status": "Production",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [
+        "Medicaid.gov",
+        "DKAN"
+      ],
+      "tags": [
+        "Medicaid",
+        "Medicaid Data",
+        "data-visualization"
+      ],
+      "upstream": "",
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git"
+    },
+    {
+      "categories": [
+        "data-visualization"
+      ],
+      "contact": {
         "email": "rbhasker@index-analytics.com",
         "name": "Raman Bhasker"
       },
@@ -2532,8 +2610,8 @@
       ],
       "date": {
         "created": "2025-05-08T12:53:36Z",
-        "lastModified": "2026-04-29T12:40:09Z",
-        "metadataLastUpdated": "2026-05-01T00:20:49.122Z"
+        "lastModified": "2026-05-29T13:15:58Z",
+        "metadataLastUpdated": "2026-06-01T00:26:19.176Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -2543,7 +2621,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 4917,
+      "laborHours": 4920,
       "languages": [
         "TypeScript",
         "Gherkin"
@@ -3254,8 +3332,8 @@
       "contractNumber": "47QTCA21D00AC",
       "date": {
         "created": "2023-03-23T16:40:53Z",
-        "lastModified": "2026-04-02T18:19:07Z",
-        "metaDataLastUpdated": "2026-04-07T18:00:33.192Z"
+        "lastModified": "2026-05-29T16:12:00Z",
+        "metaDataLastUpdated": "2026-06-01T00:58:36.564Z"
       },
       "description": "A multi-functional DevSecFinOps (DSFO) observability tool for MACBIS product teams and CMS stakeholders",
       "feedbackMechanisms": [
@@ -3263,7 +3341,7 @@
       ],
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
-      "laborHours": 12087,
+      "laborHours": 12607,
       "languages": [
         "Go",
         "TypeScript",
@@ -3570,8 +3648,8 @@
       "contractNumber": [],
       "date": {
         "created": "2026-03-10T14:14:55Z",
-        "lastModified": "2026-04-30T16:01:00Z",
-        "metadataLastUpdated": "2026-05-01T01:10:47.246Z"
+        "lastModified": "2026-05-29T14:11:54Z",
+        "metadataLastUpdated": "2026-06-01T01:23:07.168Z"
       },
       "description": "This repository functions as an AI-driven agent platform that leverages state CMS regulations to power automated Q\u0026A workflows and policy update tracking for compliance operations.",
       "disclaimerText": "",
@@ -3642,8 +3720,8 @@
       ],
       "date": {
         "created": "2026-02-06T16:53:45Z",
-        "lastModified": "2026-04-30T16:01:27Z",
-        "metadataLastUpdated": "2026-05-01T00:25:46.282Z"
+        "lastModified": "2026-05-29T14:15:23Z",
+        "metadataLastUpdated": "2026-06-01T00:31:07.500Z"
       },
       "description": "This repository functions as the centralized infrastructure-as-code framework and reference implementation for Databricks Asset Bundles. It includes standardized job and pipeline definitions, naming and tagging conventions, GitOps-driven deployment examples via GitHub Actions, and team guidance for onboarding new bundles.",
       "disclaimerText": "",
@@ -3653,7 +3731,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 2816,
+      "laborHours": 2819,
       "languages": [
         "Jupyter Notebook",
         "Python"
@@ -3731,8 +3809,8 @@
       ],
       "date": {
         "created": "2023-01-05T18:41:41Z",
-        "lastModified": "2026-04-30T15:36:05Z",
-        "metadataLastUpdated": "2026-05-01T00:21:27.605Z"
+        "lastModified": "2026-05-29T15:07:51Z",
+        "metadataLastUpdated": "2026-06-01T00:27:00.639Z"
       },
       "description": "This repository contains Databricks-compatible artifacts including notebooks, scripts, and execution modules required for DataConnect's data processing pipeline implementation and analytics workflows.",
       "disclaimerText": "",
@@ -3742,7 +3820,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 5324,
+      "laborHours": 5463,
       "languages": [
         "Python",
         "Shell"
@@ -3815,8 +3893,8 @@
       ],
       "date": {
         "created": "2025-11-06T15:57:58Z",
-        "lastModified": "2026-04-27T20:27:13Z",
-        "metadataLastUpdated": "2026-05-01T00:22:15.891Z"
+        "lastModified": "2026-05-29T15:31:09Z",
+        "metadataLastUpdated": "2026-06-01T00:28:09.321Z"
       },
       "description": "This repository provides the version-controlled foundation for DataConnect’s metadata governance, including IaC templates, data contracts, vocabularies, and documentation that make metadata the control plane for ingestion, transformation, access, and compliance.",
       "disclaimerText": "",
@@ -3900,8 +3978,8 @@
       ],
       "date": {
         "created": "2021-11-15T17:21:09Z",
-        "lastModified": "2026-04-29T17:29:50Z",
-        "metadataLastUpdated": "2026-05-01T00:16:55.767Z"
+        "lastModified": "2026-05-29T14:14:37Z",
+        "metadataLastUpdated": "2026-06-01T00:21:49.991Z"
       },
       "description": "Python Adaptive Library Engineering Toolkit",
       "disclaimerText": "",
@@ -3911,7 +3989,7 @@
       "fismaLevel": "Moderate",
       "group": "DataConnect",
       "homepageURL": "",
-      "laborHours": 11754,
+      "laborHours": 11769,
       "languages": [
         "Python",
         "Shell",
@@ -3984,8 +4062,8 @@
       ],
       "date": {
         "created": "2023-01-26T18:37:29Z",
-        "lastModified": "2026-04-30T18:56:59Z",
-        "metadataLastUpdated": "2026-05-01T00:56:46.383Z"
+        "lastModified": "2026-05-29T17:25:16Z",
+        "metadataLastUpdated": "2026-06-01T01:07:52.795Z"
       },
       "description": "This repository maintains the source code for DataConnect's extract-transform-load operations, including data transformation modules, pipeline definitions, and associated orchestration processes.",
       "disclaimerText": "",
@@ -3995,7 +4073,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 19546,
+      "laborHours": 19728,
       "languages": [
         "Python",
         "HiveQL",
@@ -4070,8 +4148,8 @@
       ],
       "date": {
         "created": "2023-02-15T21:50:19Z",
-        "lastModified": "2026-04-27T14:15:49Z",
-        "metadataLastUpdated": "2026-05-01T01:07:30.192Z"
+        "lastModified": "2026-05-29T18:03:45Z",
+        "metadataLastUpdated": "2026-06-01T01:19:41.886Z"
       },
       "description": "This repository maintains AWS Lambda function implementations for the DataConnect architecture, serving as both source control and deployment staging area for Lambda deployment packages.",
       "disclaimerText": "",
@@ -4154,8 +4232,8 @@
       ],
       "date": {
         "created": "2026-03-17T13:09:04Z",
-        "lastModified": "2026-04-30T16:02:19Z",
-        "metadataLastUpdated": "2026-05-01T00:23:20.384Z"
+        "lastModified": "2026-05-29T14:12:19Z",
+        "metadataLastUpdated": "2026-06-01T00:28:39.255Z"
       },
       "description": "This repository contains an MVP that provides an AI-powered conversational interface for exploring publicly available Medicaid \u0026 CHIP performance indicator data. It ingests enrollment datasets, policy documents, and monthly snapshots from data.medicaid.gov into a PostgreSQL database and Qdrant vector store, then exposes a LangGraph-orchestrated age",
       "disclaimerText": "",
@@ -4165,7 +4243,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 6430,
+      "laborHours": 6478,
       "languages": [
         "Python",
         "Makefile",
@@ -4238,8 +4316,8 @@
       ],
       "date": {
         "created": "2022-07-19T20:33:51Z",
-        "lastModified": "2026-04-30T21:54:23Z",
-        "metadataLastUpdated": "2026-05-01T00:39:44.335Z"
+        "lastModified": "2026-05-29T20:24:22Z",
+        "metadataLastUpdated": "2026-06-01T00:48:05.778Z"
       },
       "description": "This repository functions as the centralized infrastructure-as-code repository containing all Terraform modules, configurations, and deployment specifications for the DataConnect project infrastructure stack.",
       "disclaimerText": "",
@@ -4249,12 +4327,12 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 15286,
+      "laborHours": 15946,
       "languages": [
         "HCL",
         "Python",
-        "Go",
         "Shell",
+        "Go",
         "Go Template"
       ],
       "localisation": false,
@@ -4327,8 +4405,8 @@
       ],
       "date": {
         "created": "2022-04-27T16:28:46Z",
-        "lastModified": "2026-04-30T13:10:56Z",
-        "metadataLastUpdated": "2026-05-01T00:58:18.450Z"
+        "lastModified": "2026-05-29T11:52:00Z",
+        "metadataLastUpdated": "2026-06-01T01:09:09.492Z"
       },
       "description": "This repository contains discrete automation modules that don't align with the macdc-terraform codebase or other specialized repositories. Each directory represents a standalone technical implementation organized for maintainability and clear separation of concerns.",
       "disclaimerText": "",
@@ -4338,7 +4416,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 7939,
+      "laborHours": 8528,
       "languages": [
         "Python",
         "Shell"
@@ -4487,8 +4565,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:43:52Z",
-        "lastModified": "2026-04-01T16:12:53Z",
-        "metadataLastUpdated": "2026-05-01T00:49:26.909Z"
+        "lastModified": "2026-05-01T12:12:13Z",
+        "metadataLastUpdated": "2026-06-01T00:58:44.213Z"
       },
       "description": "CHIP Budget of MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid and CHIP.",
       "disclaimerText": "",
@@ -4582,8 +4660,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:42:13Z",
-        "lastModified": "2026-03-19T14:03:03Z",
-        "metadataLastUpdated": "2026-04-01T00:16:12.699Z"
+        "lastModified": "2026-05-11T15:22:15Z",
+        "metadataLastUpdated": "2026-06-01T00:31:01.759Z"
       },
       "description": "User Admin for MACFin - maintains budet and expenses for States and Federal Govt. for Medicaid program and CHIP",
       "disclaimerText": "",
@@ -4593,7 +4671,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 8877,
+      "laborHours": 8878,
       "languages": [
         "Java",
         "Gherkin",
@@ -4681,8 +4759,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:42:31Z",
-        "lastModified": "2026-04-01T16:02:30Z",
-        "metadataLastUpdated": "2026-05-01T00:54:34.239Z"
+        "lastModified": "2026-06-02T17:37:16Z",
+        "metadataLastUpdated": "2026-06-02T17:39:57.937Z"
       },
       "description": "Allotment Service for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid program and CHIP.",
       "disclaimerText": "",
@@ -4692,7 +4770,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 9914,
+      "laborHours": 9927,
       "languages": [
         "Java",
         "Gherkin",
@@ -5039,8 +5117,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:43:03Z",
-        "lastModified": "2026-04-01T16:09:53Z",
-        "metadataLastUpdated": "2026-05-01T00:39:15.251Z"
+        "lastModified": "2026-05-01T12:11:23Z",
+        "metadataLastUpdated": "2026-06-01T00:46:49.419Z"
       },
       "description": "MACFin maintains budget and expenses for States and Federal Govt. for Medicaid program and Children’s Health Insurance Program (CHIP).",
       "disclaimerText": "",
@@ -5132,8 +5210,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:43:19Z",
-        "lastModified": "2026-04-30T15:00:48Z",
-        "metadataLastUpdated": "2026-05-01T00:29:55.156Z"
+        "lastModified": "2026-06-02T20:02:15Z",
+        "metadataLastUpdated": "2026-06-02T20:07:37.685Z"
       },
       "description": "MACFin maintains budget and expenses for States and Federal Govt. for Medicaid program and Children’s Health Insurance Program (CHIP).",
       "disclaimerText": "",
@@ -5143,7 +5221,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 23182,
+      "laborHours": 23188,
       "languages": [
         "Gherkin",
         "Java",
@@ -5230,8 +5308,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:43:36Z",
-        "lastModified": "2026-04-01T16:06:02Z",
-        "metadataLastUpdated": "2026-05-01T00:56:09.549Z"
+        "lastModified": "2026-06-02T20:02:08Z",
+        "metadataLastUpdated": "2026-06-02T20:06:37.921Z"
       },
       "description": "Calculation Service for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid program and CHIP.",
       "disclaimerText": "",
@@ -5318,8 +5396,8 @@
       ],
       "date": {
         "created": "2024-07-08T17:29:25Z",
-        "lastModified": "2026-04-24T17:38:48Z",
-        "metadataLastUpdated": "2026-05-01T00:59:31.764Z"
+        "lastModified": "2026-06-02T16:37:03Z",
+        "metadataLastUpdated": "2026-06-02T16:40:22.696Z"
       },
       "description": "CMS-21 Children's Health Insurance Program (CHIP) forms capture state reported expenditures for services provided under the state CHIP program.",
       "disclaimerText": "",
@@ -5329,7 +5407,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 14690,
+      "laborHours": 14767,
       "languages": [
         "Gherkin",
         "Java",
@@ -5411,8 +5489,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:44:07Z",
-        "lastModified": "2026-04-01T16:09:29Z",
-        "metadataLastUpdated": "2026-05-01T01:10:38.437Z"
+        "lastModified": "2026-05-01T12:10:39Z",
+        "metadataLastUpdated": "2026-06-01T01:23:11.660Z"
       },
       "description": "Centralized Comments Module for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid program and CHIP.",
       "disclaimerText": "",
@@ -5649,8 +5727,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:44:36Z",
-        "lastModified": "2026-04-21T16:58:58Z",
-        "metadataLastUpdated": "2026-05-01T00:57:49.391Z"
+        "lastModified": "2026-06-03T15:56:18Z",
+        "metadataLastUpdated": "2026-06-03T18:14:56.830Z"
       },
       "description": "MACFin maintains budget and expenses for States and Federal Govt. for Medicaid program and Children’s Health Insurance Program (CHIP).",
       "disclaimerText": "",
@@ -5660,7 +5738,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 8776,
+      "laborHours": 8777,
       "languages": [
         "Java",
         "Gherkin",
@@ -5739,8 +5817,8 @@
       ],
       "date": {
         "created": "2024-07-30T18:17:56Z",
-        "lastModified": "2026-04-01T17:40:59Z",
-        "metadataLastUpdated": "2026-05-01T00:44:30.417Z"
+        "lastModified": "2026-06-03T16:25:30Z",
+        "metadataLastUpdated": "2026-06-03T18:08:50.137Z"
       },
       "description": "Disallowance of Expenditures for MACFin -which maintains budget and expenses for States and Federal Govt. for Medicaid and CHIP.",
       "disclaimerText": "",
@@ -5750,7 +5828,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 5432,
+      "laborHours": 5778,
       "languages": [
         "Java",
         "Gherkin",
@@ -5920,8 +5998,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:45:12Z",
-        "lastModified": "2026-04-30T15:52:29Z",
-        "metadataLastUpdated": "2026-05-01T00:51:33.920Z"
+        "lastModified": "2026-06-04T11:59:42Z",
+        "metadataLastUpdated": "2026-06-04T12:22:11.135Z"
       },
       "description": "Review of Expenditures for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid and CHIP.",
       "disclaimerText": "",
@@ -5931,7 +6009,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 18433,
+      "laborHours": 18700,
       "languages": [
         "Gherkin",
         "Java",
@@ -6286,8 +6364,8 @@
       ],
       "date": {
         "created": "2023-08-07T18:18:35Z",
-        "lastModified": "2026-04-01T16:07:21Z",
-        "metadataLastUpdated": "2026-05-01T00:34:03.658Z"
+        "lastModified": "2026-06-02T20:02:08Z",
+        "metadataLastUpdated": "2026-06-02T20:06:53.836Z"
       },
       "description": "MACFin maintains budget and expenses for States and Federal Govt. This micro-service is for Incurred But Not Reported Survey System (IBNRS).",
       "disclaimerText": "",
@@ -6297,7 +6375,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 7271,
+      "laborHours": 7281,
       "languages": [
         "Java",
         "HTML"
@@ -6653,8 +6731,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:46:47Z",
-        "lastModified": "2026-04-30T23:50:16Z",
-        "metadataLastUpdated": "2026-05-01T00:15:48.154Z"
+        "lastModified": "2026-06-03T21:49:39Z",
+        "metadataLastUpdated": "2026-06-03T22:34:29.969Z"
       },
       "description": "Reporting Service for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid and CHIP.",
       "disclaimerText": "",
@@ -6664,7 +6742,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 18951,
+      "laborHours": 19345,
       "languages": [
         "Java",
         "HTML",
@@ -6746,8 +6824,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:47:02Z",
-        "lastModified": "2026-04-01T16:28:40Z",
-        "metadataLastUpdated": "2026-05-01T00:37:07.336Z"
+        "lastModified": "2026-05-29T15:37:50Z",
+        "metadataLastUpdated": "2026-06-01T00:45:06.171Z"
       },
       "description": "Budget Review for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid and CHIP.",
       "disclaimerText": "",
@@ -7290,8 +7368,8 @@
       ],
       "date": {
         "created": "2025-05-22T15:42:46Z",
-        "lastModified": "2026-04-01T13:08:36Z",
-        "metadataLastUpdated": "2026-05-01T00:52:43.466Z"
+        "lastModified": "2026-05-11T16:15:06Z",
+        "metadataLastUpdated": "2026-06-01T01:02:54.834Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -7301,7 +7379,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/CAHPG",
       "homepageURL": "",
-      "laborHours": 8485,
+      "laborHours": 8497,
       "languages": [
         "SAS",
         "Python"
@@ -8213,8 +8291,8 @@
       ],
       "date": {
         "created": "2025-01-23T19:18:31Z",
-        "lastModified": "2026-04-29T15:33:29Z",
-        "metadataLastUpdated": "2026-05-01T00:42:41.948Z"
+        "lastModified": "2026-05-07T21:04:48Z",
+        "metadataLastUpdated": "2026-06-01T00:51:05.105Z"
       },
       "description": "Code to support e14 analysis for MACLC Task 5.7",
       "disclaimerText": "",
@@ -8454,8 +8532,8 @@
       ],
       "date": {
         "created": "2024-07-12T17:44:13Z",
-        "lastModified": "2026-04-29T14:38:22Z",
-        "metadataLastUpdated": "2026-05-01T00:20:42.172Z"
+        "lastModified": "2026-05-29T17:47:35Z",
+        "metadataLastUpdated": "2026-06-01T00:26:18.484Z"
       },
       "description": "Code to support automated generation of CMCS internal monitoring data products related to eligibility operations and enrollment for MACLC Task 5.7",
       "disclaimerText": "",
@@ -8465,7 +8543,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 9123,
+      "laborHours": 9125,
       "languages": [
         "Python"
       ],
@@ -8872,8 +8950,8 @@
       ],
       "date": {
         "created": "2025-05-08T13:58:55Z",
-        "lastModified": "2026-02-17T21:13:02Z",
-        "metadataLastUpdated": "2026-03-01T00:24:36.199Z"
+        "lastModified": "2026-04-20T13:23:18Z",
+        "metadataLastUpdated": "2026-06-01T00:46:31.450Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -8883,7 +8961,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/CAHPG",
       "homepageURL": "",
-      "laborHours": 5343,
+      "laborHours": 5346,
       "languages": [
         "Python",
         "SAS"
@@ -8953,8 +9031,8 @@
       "contractNumber": "75FCMC19D0091/75FCMC22F0001",
       "date": {
         "created": "2024-07-16T14:46:32Z",
-        "lastModified": "2026-03-04T17:03:29Z",
-        "metaDataLastUpdated": "2026-04-01T00:24:11.690Z"
+        "lastModified": "2026-04-29T13:55:24Z",
+        "metaDataLastUpdated": "2026-06-01T00:41:17.716Z"
       },
       "description": "Code for shared utilities to be used within DataConnect Databricks for MACLC",
       "feedbackMechanisms": [
@@ -9441,8 +9519,8 @@
       ],
       "date": {
         "created": "2023-06-12T16:00:05Z",
-        "lastModified": "2026-01-29T17:58:30Z",
-        "metadataLastUpdated": "2026-02-01T00:17:40.287Z"
+        "lastModified": "2026-05-29T20:58:20Z",
+        "metadataLastUpdated": "2026-06-01T00:37:46.815Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -9452,7 +9530,7 @@
       "fismaLevel": "Moderate",
       "group": "Digital Services Group",
       "homepageURL": "",
-      "laborHours": 32674,
+      "laborHours": 34403,
       "languages": [
         "Java",
         "TypeScript",
@@ -9541,9 +9619,9 @@
         "47QTCA20D000W:75FCMC24F0189"
       ],
       "date": {
-        "created": "2023-06-12T16:00:05Z",
-        "lastModified": "2026-01-29T17:58:30Z",
-        "metadataLastUpdated": "2026-02-01T00:17:40.287Z"
+        "created": "2026-01-20T14:11:02Z",
+        "lastModified": "2026-05-29T20:06:31Z",
+        "metadataLastUpdated": "2026-06-01T00:31:44.170Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -9553,17 +9631,13 @@
       "fismaLevel": "Moderate",
       "group": "Digital Services Group",
       "homepageURL": "",
-      "laborHours": 32674,
+      "laborHours": 12352,
       "languages": [
         "TypeScript",
-        "HTML",
-        "VBA",
-        "JavaScript",
-        "CSS",
-        "SCSS",
         "Shell",
-        "Dockerfile",
-        "ASL"
+        "HTML",
+        "JavaScript",
+        "SCSS"
       ],
       "localisation": true,
       "longDescription": "Mono repo used to host Medicaid Drug Program application, infrastructure, and testing code.",
@@ -9597,7 +9671,7 @@
       "repositoryVisibility": "private",
       "reuseFrequency": {
         "clones": 0,
-        "forks": 1
+        "forks": 0
       },
       "reusedCode": [],
       "softwareType": "standalone/web",
@@ -10041,8 +10115,8 @@
       ],
       "date": {
         "created": "2025-01-30T13:10:09Z",
-        "lastModified": "2026-03-10T18:07:59Z",
-        "metadataLastUpdated": "2026-04-01T00:23:14.333Z"
+        "lastModified": "2026-05-18T13:37:19Z",
+        "metadataLastUpdated": "2026-06-01T00:39:26.139Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -10052,7 +10126,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 6609,
+      "laborHours": 6608,
       "languages": [
         "Python"
       ],
@@ -10125,8 +10199,8 @@
       ],
       "date": {
         "created": "2016-02-13T07:02:20Z",
-        "lastModified": "2026-04-30T16:22:18Z",
-        "metadataLastUpdated": "2026-05-01T00:27:58.361Z"
+        "lastModified": "2026-05-30T02:20:47Z",
+        "metadataLastUpdated": "2026-06-01T00:33:40.383Z"
       },
       "description": "File processing pipeline, web dashboard and core libraries for the Transformed-Medicaid Statistical Information System (T-MSIS)",
       "disclaimerText": "",
@@ -10136,7 +10210,7 @@
       "fismaLevel": "High",
       "group": "CMS",
       "homepageURL": "",
-      "laborHours": 91040,
+      "laborHours": 91060,
       "languages": [
         "HTML",
         "Java",
@@ -10147,8 +10221,8 @@
         "Shell",
         "Scala",
         "Groovy",
-        "Dockerfile",
         "CSS",
+        "Dockerfile",
         "Rich Text Format",
         "Ruby",
         "SCSS",
@@ -10218,8 +10292,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2024-03-18T16:07:55Z",
-        "lastModified": "2026-04-10T22:17:29Z",
-        "metaDataLastUpdated": "2026-05-01T00:22:18.054Z"
+        "lastModified": "2026-05-25T13:35:12Z",
+        "metaDataLastUpdated": "2026-06-01T00:27:43.763Z"
       },
       "description": "Deprecated container scanner.",
       "feedbackMechanisms": [
@@ -10298,8 +10372,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:39:31Z",
-        "lastModified": "2026-05-05T19:30:47Z",
-        "metadataLastUpdated": "2026-05-11T15:31:41.213Z"
+        "lastModified": "2026-05-30T11:32:50Z",
+        "metadataLastUpdated": "2026-06-01T00:25:41.836Z"
       },
       "description": "The alerter is an application that is passed in alert data.",
       "disclaimerText": "",
@@ -10384,8 +10458,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2025-06-16T20:07:15Z",
-        "lastModified": "2026-04-23T15:30:29Z",
-        "metaDataLastUpdated": "2026-05-01T00:45:11.580Z"
+        "lastModified": "2026-05-25T13:37:49Z",
+        "metaDataLastUpdated": "2026-06-01T00:54:11.346Z"
       },
       "description": "Jupyter notebooks that run SQL queries against the TMSIS Bedrock Knowledge Base.",
       "feedbackMechanisms": [
@@ -10790,8 +10864,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2023-05-03T19:49:39Z",
-        "lastModified": "2026-04-13T17:46:44Z",
-        "metaDataLastUpdated": "2026-05-01T01:03:38.741Z"
+        "lastModified": "2026-05-25T13:36:49Z",
+        "metaDataLastUpdated": "2026-06-01T01:15:02.493Z"
       },
       "description": "The Dispatcher component runs in the background continously responding to async events within the TMSIS application.",
       "feedbackMechanisms": [
@@ -11951,8 +12025,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2023-10-30T15:30:35Z",
-        "lastModified": "2026-04-28T15:04:55Z",
-        "metaDataLastUpdated": "2026-05-01T01:06:34.993Z"
+        "lastModified": "2026-05-28T19:18:36Z",
+        "metaDataLastUpdated": "2026-06-01T01:18:18.869Z"
       },
       "description": "OD Tests for TMSIS",
       "feedbackMechanisms": [
@@ -11960,7 +12034,7 @@
       ],
       "fismaLevel": "Low",
       "group": "CMS",
-      "laborHours": 6938,
+      "laborHours": 7000,
       "languages": [
         "Python",
         "CSS",
@@ -12664,8 +12738,8 @@
       ],
       "date": {
         "created": "2025-09-17T17:56:02Z",
-        "lastModified": "2026-04-22T20:00:27Z",
-        "metadataLastUpdated": "2026-05-01T00:34:42.641Z"
+        "lastModified": "2026-05-29T17:20:03Z",
+        "metadataLastUpdated": "2026-06-01T00:41:38.890Z"
       },
       "description": "This repository houses the code which is used to define the population that CMCS will be sending to USCIS's SAVE system for citizenship and immigration status verification. The primary goal in this effort is to define subpopulations that will be excluded from verification.",
       "disclaimerText": "",
@@ -12675,7 +12749,7 @@
       "fismaLevel": "",
       "group": "",
       "homepageURL": "",
-      "laborHours": 8702,
+      "laborHours": 9178,
       "languages": [
         "Jupyter Notebook",
         "Python"
