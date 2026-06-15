@@ -872,8 +872,8 @@
       ],
       "date": {
         "created": "2020-08-27T20:20:29Z",
-        "lastModified": "2026-05-21T18:38:25Z",
-        "metadataLastUpdated": "2026-05-24T03:07:38.205Z"
+        "lastModified": "2026-06-05T17:50:19Z",
+        "metadataLastUpdated": "2026-06-07T03:08:36.779Z"
       },
       "description": "The Kafka streaming platform for CMS",
       "disclaimerText": "",
@@ -883,11 +883,11 @@
       "fismaLevel": "Moderate",
       "group": "MACPRO Platform Team",
       "homepageURL": "",
-      "laborHours": 9138,
+      "laborHours": 9030,
       "languages": [
         "TypeScript",
-        "JavaScript",
         "Shell",
+        "JavaScript",
         "HCL",
         "Java"
       ],
@@ -1106,8 +1106,8 @@
       ],
       "date": {
         "created": "2025-02-20T19:34:25Z",
-        "lastModified": "2026-04-30T18:31:01Z",
-        "metadataLastUpdated": "2026-05-01T00:36:35.372Z"
+        "lastModified": "2026-05-07T19:25:41Z",
+        "metadataLastUpdated": "2026-06-01T00:44:36.413Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -1117,7 +1117,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 8242,
+      "laborHours": 8244,
       "languages": [
         "Python"
       ],
@@ -1437,8 +1437,8 @@
       ],
       "date": {
         "created": "2023-05-31T20:27:55Z",
-        "lastModified": "2026-04-20T17:27:05Z",
-        "metadataLastUpdated": "2026-05-01T01:10:43.224Z"
+        "lastModified": "2026-05-05T23:18:14Z",
+        "metadataLastUpdated": "2026-06-01T01:22:59.602Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -1522,8 +1522,8 @@
       ],
       "date": {
         "created": "2023-07-10T20:21:51Z",
-        "lastModified": "2026-04-23T14:14:24Z",
-        "metadataLastUpdated": "2026-05-01T00:47:34.112Z"
+        "lastModified": "2026-05-05T13:36:15Z",
+        "metadataLastUpdated": "2026-06-01T00:56:35.179Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -1765,8 +1765,8 @@
       ],
       "date": {
         "created": "2024-02-20T16:41:18Z",
-        "lastModified": "2026-04-30T02:04:03Z",
-        "metadataLastUpdated": "2026-05-01T00:26:01.825Z"
+        "lastModified": "2026-05-06T10:20:57Z",
+        "metadataLastUpdated": "2026-06-01T00:31:36.189Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -1776,7 +1776,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 4163,
+      "laborHours": 4162,
       "languages": [
         "Python"
       ],
@@ -1919,8 +1919,8 @@
       ],
       "date": {
         "created": "2023-06-12T02:09:49Z",
-        "lastModified": "2026-04-23T22:48:21Z",
-        "metadataLastUpdated": "2026-05-01T01:06:00.069Z"
+        "lastModified": "2026-05-08T13:45:26Z",
+        "metadataLastUpdated": "2026-06-01T01:18:00.058Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -2002,8 +2002,8 @@
       ],
       "date": {
         "created": "2023-10-04T15:49:51Z",
-        "lastModified": "2026-04-16T19:19:58Z",
-        "metadataLastUpdated": "2026-05-01T00:45:46.427Z"
+        "lastModified": "2026-05-06T00:33:54Z",
+        "metadataLastUpdated": "2026-06-01T00:54:36.860Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -5576,8 +5576,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:44:20Z",
-        "lastModified": "2026-03-31T20:40:52Z",
-        "metadataLastUpdated": "2026-04-01T00:35:36.082Z"
+        "lastModified": "2026-06-03T20:23:32Z",
+        "metadataLastUpdated": "2026-06-03T20:30:47.989Z"
       },
       "description": "Common modules for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid and (CHIP).",
       "disclaimerText": "",
@@ -5587,7 +5587,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 10357,
+      "laborHours": 10429,
       "languages": [
         "Java"
       ],
@@ -9345,6 +9345,87 @@
     },
     {
       "categories": [
+        "email-management"
+      ],
+      "contact": {
+        "email": "macpro_operations@gswell.com",
+        "name": "MACPRO Operations"
+      },
+      "contractNumber": "GS-35F-115GA:75FCMC22F0093",
+      "date": {
+        "created": "2020-08-03T13:54:40Z",
+        "lastModified": "2025-07-11T14:15:28Z",
+        "metaDataLastUpdated": "2025-07-11T14:42:20.907Z"
+      },
+      "description": "An official submission system for email-based state plan amendments (SPAs) and section 1915 waivers.",
+      "feedbackMechanisms": [
+        "https://github.com/Enterprise-CMCS/macpro-onemac/issues"
+      ],
+      "fismaLevel": "Moderate",
+      "group": "CMS/CMCS/DSG/DIS",
+      "laborHours": 22516,
+      "languages": [
+        "JavaScript",
+        "Gherkin",
+        "TypeScript",
+        "SCSS",
+        "HTML",
+        "Python",
+        "Shell",
+        "CSS"
+      ],
+      "localisation": false,
+      "longDescription": "The primary activity of the OneMAC Portal  application is to create an information system to replace the manual process of submitting State Plan Amendments (SPAs) and Policy Waivers via email. The system provides a consolidated submission environment that relates metadata to SPA and Waiver submissions. The system publishes SPA submission events to the internal MACPro BigMAC system.",
+      "maintenance": "contract",
+      "maturityModelTier": 1,
+      "name": "macpro-onemac",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/macpro-onemac/blob/main/LICENSE.md",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "openSource"
+      },
+      "platforms": [
+        "web"
+      ],
+      "projectURL": "",
+      "projects": [
+        "MACPRO"
+      ],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "website",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macpro-onemac",
+      "repositoryVisibility": "public",
+      "reuseFrequency": {
+        "forks": 0
+      },
+      "softwareType": "standalone/web",
+      "status": "Archival",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [],
+      "tags": [
+        "SPA",
+        "Email",
+        "Waivers",
+        "CHIP",
+        "form submission application"
+      ],
+      "upstream": "https://github.com/Enterprise-CMCS/macpro-onemac/network/dependencies",
+      "userInput": true,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git"
+    },
+    {
+      "categories": [
         "compliance-management",
         "healthcare",
         "data-management",
@@ -10621,8 +10702,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2025-01-22T17:53:40Z",
-        "lastModified": "2026-03-25T11:26:40Z",
-        "metaDataLastUpdated": "2026-04-01T00:14:53.814Z"
+        "lastModified": "2026-04-13T22:35:23Z",
+        "metaDataLastUpdated": "2026-06-01T00:29:13.917Z"
       },
       "description": "Project to manage the Databricks environment for the TMSIS application.",
       "feedbackMechanisms": [
@@ -10630,7 +10711,7 @@
       ],
       "fismaLevel": "Low",
       "group": "CMS",
-      "laborHours": 26750,
+      "laborHours": 28196,
       "languages": [
         "Python",
         "HCL",
@@ -10705,8 +10786,8 @@
       ],
       "date": {
         "created": "2022-02-15T14:44:32Z",
-        "lastModified": "2026-05-06T17:25:20Z",
-        "metadataLastUpdated": "2026-05-07T18:21:05.070Z"
+        "lastModified": "2026-05-30T11:31:41Z",
+        "metadataLastUpdated": "2026-06-01T01:11:42.210Z"
       },
       "description": "Operations Dashboard Dataguide supported by Wagtail, includes the web component for authoring, editing, and reviewing dataguide content.",
       "disclaimerText": "",
@@ -10716,7 +10797,7 @@
       "fismaLevel": "Low",
       "group": "CMS",
       "homepageURL": "",
-      "laborHours": 18918,
+      "laborHours": 19008,
       "languages": [
         "JavaScript",
         "Python",
@@ -10790,8 +10871,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2023-10-23T20:56:13Z",
-        "lastModified": "2026-04-24T19:34:29Z",
-        "metaDataLastUpdated": "2026-05-01T00:30:23.532Z"
+        "lastModified": "2026-05-27T21:00:53Z",
+        "metaDataLastUpdated": "2026-06-01T00:36:12.162Z"
       },
       "description": "systems diagrams for TMSIS.",
       "feedbackMechanisms": [
@@ -10946,8 +11027,8 @@
       ],
       "date": {
         "created": "2025-01-28T18:17:30Z",
-        "lastModified": "2026-05-06T02:45:20Z",
-        "metadataLastUpdated": "2026-05-11T15:53:23.997Z"
+        "lastModified": "2026-05-29T16:15:41Z",
+        "metadataLastUpdated": "2026-06-01T01:00:16.788Z"
       },
       "description": "The ETL program processes files from the Mathematica team and updates the Data Quality Tool database with the new data.",
       "disclaimerText": "",
@@ -10957,7 +11038,7 @@
       "fismaLevel": "Medium",
       "group": "CMS",
       "homepageURL": "",
-      "laborHours": 6935,
+      "laborHours": 7050,
       "languages": [
         "C#",
         "HCL",
@@ -11036,8 +11117,8 @@
       ],
       "date": {
         "created": "2025-01-23T15:39:51Z",
-        "lastModified": "2026-04-13T17:49:53Z",
-        "metadataLastUpdated": "2026-05-01T00:46:00.817Z"
+        "lastModified": "2026-05-25T13:37:59Z",
+        "metadataLastUpdated": "2026-06-01T00:55:31.554Z"
       },
       "description": "T-MSIS Data Quality Measures Threshold is used to upload a spreadsheet that represents updates to the T-MSIS data quality measures metadata (called a thresholds file).",
       "disclaimerText": "",
@@ -11117,8 +11198,8 @@
       ],
       "date": {
         "created": "2025-01-22T17:55:34Z",
-        "lastModified": "2026-04-30T16:13:24Z",
-        "metadataLastUpdated": "2026-05-01T01:03:39.106Z"
+        "lastModified": "2026-05-20T22:24:59Z",
+        "metadataLastUpdated": "2026-06-01T01:14:56.257Z"
       },
       "description": "This repository contains frontend for the Data Quality Tool application.",
       "disclaimerText": "",
@@ -11210,8 +11291,8 @@
       ],
       "date": {
         "created": "2025-01-22T17:52:01Z",
-        "lastModified": "2026-05-13T13:46:50Z",
-        "metadataLastUpdated": "2026-05-18T13:22:49.250Z"
+        "lastModified": "2026-05-29T19:07:36Z",
+        "metadataLastUpdated": "2026-06-01T00:57:56.686Z"
       },
       "description": "DQT WebService is a web service that provides access to the Data Quality Tool (DQT) database.",
       "disclaimerText": "",
@@ -11221,7 +11302,7 @@
       "fismaLevel": "Low",
       "group": "CMS",
       "homepageURL": "",
-      "laborHours": 10915,
+      "laborHours": 11139,
       "languages": [
         "C#",
         "HCL",
@@ -11527,8 +11608,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2021-10-18T15:00:32Z",
-        "lastModified": "2026-04-13T20:26:18Z",
-        "metaDataLastUpdated": "2026-05-01T01:03:05.235Z"
+        "lastModified": "2026-05-30T11:58:59Z",
+        "metaDataLastUpdated": "2026-06-01T01:14:42.300Z"
       },
       "description": "IQ Metrics in file processing pipeline implemented by spark",
       "feedbackMechanisms": [
@@ -11536,7 +11617,7 @@
       ],
       "fismaLevel": "Low",
       "group": "CMS",
-      "laborHours": 4581,
+      "laborHours": 4577,
       "languages": [
         "Scala",
         "Java"
@@ -11685,8 +11766,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2017-02-01T19:28:24Z",
-        "lastModified": "2026-04-13T23:08:11Z",
-        "metaDataLastUpdated": "2026-05-01T00:37:27.787Z"
+        "lastModified": "2026-05-25T13:38:28Z",
+        "metaDataLastUpdated": "2026-06-01T00:44:51.232Z"
       },
       "description": "Holds the msis_link_key code from IBM",
       "feedbackMechanisms": [
@@ -11760,8 +11841,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2018-07-20T02:52:16Z",
-        "lastModified": "2026-04-30T19:16:10Z",
-        "metaDataLastUpdated": "2026-05-01T00:26:11.042Z"
+        "lastModified": "2026-05-28T18:58:12Z",
+        "metaDataLastUpdated": "2026-06-01T00:32:27.230Z"
       },
       "description": "Experimental code and handy common snippets for AREMAC, T-MSIS and related projects",
       "feedbackMechanisms": [
@@ -11769,7 +11850,7 @@
       ],
       "fismaLevel": "Low",
       "group": "CMS",
-      "laborHours": 83642,
+      "laborHours": 83688,
       "languages": [
         "JavaScript",
         "Jupyter Notebook",
@@ -11940,8 +12021,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2023-05-03T19:45:18Z",
-        "lastModified": "2026-04-13T23:15:37Z",
-        "metaDataLastUpdated": "2026-05-01T00:36:07.388Z"
+        "lastModified": "2026-05-25T13:39:11Z",
+        "metaDataLastUpdated": "2026-06-01T00:43:28.279Z"
       },
       "description": "The OD component serves the TMSIS dashboard within the TMSIS application.",
       "feedbackMechanisms": [
@@ -12102,8 +12183,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2024-05-09T14:37:56Z",
-        "lastModified": "2026-04-30T15:58:18Z",
-        "metaDataLastUpdated": "2026-05-01T00:35:58.850Z"
+        "lastModified": "2026-05-29T11:53:27Z",
+        "metaDataLastUpdated": "2026-06-01T00:43:08.519Z"
       },
       "description": "A collection of common github actions for pipelines.",
       "feedbackMechanisms": [
@@ -12111,7 +12192,7 @@
       ],
       "fismaLevel": "Low",
       "group": "CMS",
-      "laborHours": 16929,
+      "laborHours": 16928,
       "languages": [
         "TypeScript",
         "JavaScript"
@@ -12178,8 +12259,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2022-06-06T21:56:11Z",
-        "lastModified": "2026-04-13T23:19:52Z",
-        "metaDataLastUpdated": "2026-05-01T01:06:02.823Z"
+        "lastModified": "2026-05-05T19:30:15Z",
+        "metaDataLastUpdated": "2026-06-01T01:17:56.545Z"
       },
       "description": "TMSIS scala code for provider-link-key",
       "feedbackMechanisms": [
@@ -12257,8 +12338,8 @@
       ],
       "date": {
         "created": "2021-02-05T21:49:41Z",
-        "lastModified": "2026-04-30T21:25:41Z",
-        "metadataLastUpdated": "2026-05-01T01:05:15.435Z"
+        "lastModified": "2026-05-22T08:21:57Z",
+        "metadataLastUpdated": "2026-06-01T01:16:42.326Z"
       },
       "description": "Receipt and Control is the system for receiving and processing new T-MSIS files in S3.",
       "disclaimerText": "",
@@ -12339,8 +12420,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2024-05-28T18:10:14Z",
-        "lastModified": "2026-04-13T23:21:11Z",
-        "metaDataLastUpdated": "2026-05-01T00:28:39.951Z"
+        "lastModified": "2026-05-25T13:39:27Z",
+        "metaDataLastUpdated": "2026-06-01T00:34:15.258Z"
       },
       "description": "This repository incorporates the Security Hub GitHub Action to automate the syncing process of Jira tickets with AWS Security Hub.",
       "feedbackMechanisms": [
@@ -12348,7 +12429,7 @@
       ],
       "fismaLevel": "Low",
       "group": "CMS",
-      "laborHours": 1483,
+      "laborHours": 1481,
       "languages": [],
       "localisation": false,
       "longDescription": "This repository incorporates the Security Hub GitHub Action to automate the syncing process of Jira tickets with AWS Security Hub.",
@@ -12412,8 +12493,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2024-09-10T16:18:57Z",
-        "lastModified": "2026-04-01T01:16:15Z",
-        "metaDataLastUpdated": "2026-05-01T00:36:55.354Z"
+        "lastModified": "2026-05-29T15:44:09Z",
+        "metaDataLastUpdated": "2026-06-01T00:44:54.308Z"
       },
       "description": "This repository contain scripts that integrates with AWS Security Hub and Jira.",
       "feedbackMechanisms": [
@@ -12489,8 +12570,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2024-02-22T18:51:14Z",
-        "lastModified": "2026-04-29T19:21:03Z",
-        "metaDataLastUpdated": "2026-05-01T00:21:05.748Z"
+        "lastModified": "2026-05-25T13:39:42Z",
+        "metaDataLastUpdated": "2026-06-01T00:26:39.635Z"
       },
       "description": "The MACBIS Shared repository holds code and configuration shared between the DataConnect project and the T-MSIS project.",
       "feedbackMechanisms": [
@@ -12578,8 +12659,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2024-05-07T16:23:38Z",
-        "lastModified": "2026-04-30T20:23:57Z",
-        "metaDataLastUpdated": "2026-05-01T00:48:59.916Z"
+        "lastModified": "2026-05-13T21:54:39Z",
+        "metaDataLastUpdated": "2026-06-01T00:58:07.136Z"
       },
       "description": "A tests for file processing in TMSIS.",
       "feedbackMechanisms": [
@@ -12587,7 +12668,7 @@
       ],
       "fismaLevel": "Low",
       "group": "CMS",
-      "laborHours": 10139,
+      "laborHours": 10243,
       "languages": [
         "Python",
         "HCL",
@@ -12657,8 +12738,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2023-10-23T20:56:51Z",
-        "lastModified": "2026-04-17T15:28:33Z",
-        "metaDataLastUpdated": "2026-05-01T00:18:14.523Z"
+        "lastModified": "2026-05-07T18:32:27Z",
+        "metaDataLastUpdated": "2026-06-01T00:23:09.610Z"
       },
       "description": "A collection of terraform modules for TMSIS.",
       "feedbackMechanisms": [
@@ -12666,7 +12747,7 @@
       ],
       "fismaLevel": "Low",
       "group": "CMS",
-      "laborHours": 5175,
+      "laborHours": 5184,
       "languages": [
         "HCL",
         "Python",

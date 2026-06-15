@@ -1,0 +1,81 @@
+{
+  "name": "macpro-onemac",
+  "description": "An official submission system for email-based state plan amendments (SPAs) and section 1915 waivers.",
+  "longDescription": "The primary activity of the OneMAC Portal  application is to create an information system to replace the manual process of submitting State Plan Amendments (SPAs) and Policy Waivers via email. The system provides a consolidated submission environment that relates metadata to SPA and Waiver submissions. The system publishes SPA submission events to the internal MACPro BigMAC system.",
+  "status": "Archival",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "CC0-1.0",
+        "URL": "https://github.com/Enterprise-CMCS/macpro-onemac/blob/main/LICENSE.md"
+      }
+    ],
+    "usageType": "openSource",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macpro-onemac",
+  "projectURL": "",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "public",
+  "vcs": "git",
+  "laborHours": 22516,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "web"
+  ],
+  "categories": [
+    "email-management"
+  ],
+  "softwareType": "standalone/web",
+  "languages": [
+    "JavaScript",
+    "Gherkin",
+    "TypeScript",
+    "SCSS",
+    "HTML",
+    "Python",
+    "Shell",
+    "CSS"
+  ],
+  "maintenance": "contract",
+  "contractNumber": "GS-35F-115GA:75FCMC22F0093",
+  "date": {
+    "created": "2020-08-03T13:54:40Z",
+    "lastModified": "2025-07-11T14:15:28Z",
+    "metaDataLastUpdated": "2025-07-11T14:42:20.907Z"
+  },
+  "tags": [
+    "SPA",
+    "Email",
+    "Waivers",
+    "CHIP",
+    "form submission application"
+  ],
+  "contact": {
+    "email": "macpro_operations@gswell.com",
+    "name": "MACPRO Operations"
+  },
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/macpro-onemac/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "website",
+  "userInput": true,
+  "fismaLevel": "Moderate",
+  "group": "CMS/CMCS/DSG/DIS",
+  "projects": [
+    "MACPRO"
+  ],
+  "systems": [],
+  "upstream": "https://github.com/Enterprise-CMCS/macpro-onemac/network/dependencies",
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 1
+}

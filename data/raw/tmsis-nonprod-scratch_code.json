@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 83642,
+  "laborHours": 83688,
   "reuseFrequency": {
     "forks": 0
   },
@@ -59,8 +59,8 @@
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
     "created": "2018-07-20T02:52:16Z",
-    "lastModified": "2026-04-30T19:16:10Z",
-    "metaDataLastUpdated": "2026-05-01T00:26:11.042Z"
+    "lastModified": "2026-05-28T18:58:12Z",
+    "metaDataLastUpdated": "2026-06-01T00:32:27.230Z"
   },
   "tags": [
     "JavaScript",
