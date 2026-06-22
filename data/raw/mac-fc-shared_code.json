@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "internal",
   "vcs": "git",
-  "laborHours": 3072,
+  "laborHours": 3075,
   "reuseFrequency": {
     "forks": 0
   },
@@ -40,8 +40,8 @@
   "contractNumber": "47QTCA21D00AC",
   "date": {
     "created": "2025-08-19T12:43:45Z",
-    "lastModified": "2026-03-27T15:30:36Z",
-    "metaDataLastUpdated": "2026-04-01T00:43:57.095Z"
+    "lastModified": "2026-05-06T16:16:08Z",
+    "metaDataLastUpdated": "2026-06-01T01:04:39.242Z"
   },
   "tags": [
     "mac-fc aws account terraform",

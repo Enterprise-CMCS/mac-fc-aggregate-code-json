@@ -3252,8 +3252,8 @@
       "contractNumber": "47QTCA21D00AC",
       "date": {
         "created": "2021-08-11T14:17:29Z",
-        "lastModified": "2025-07-31T18:10:49Z",
-        "metaDataLastUpdated": "2025-08-01T00:43:57.694Z"
+        "lastModified": "2026-05-18T15:30:21Z",
+        "metaDataLastUpdated": "2026-06-01T01:21:27.473Z"
       },
       "description": "",
       "feedbackMechanisms": [
@@ -3261,7 +3261,7 @@
       ],
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
-      "laborHours": 6517,
+      "laborHours": 6427,
       "languages": [
         "Go",
         "HCL",
@@ -3491,8 +3491,8 @@
       "contractNumber": "47QTCA21D00AC",
       "date": {
         "created": "2025-08-19T12:43:45Z",
-        "lastModified": "2026-03-27T15:30:36Z",
-        "metaDataLastUpdated": "2026-04-01T00:43:57.095Z"
+        "lastModified": "2026-05-06T16:16:08Z",
+        "metaDataLastUpdated": "2026-06-01T01:04:39.242Z"
       },
       "description": "",
       "feedbackMechanisms": [
@@ -3500,7 +3500,7 @@
       ],
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
-      "laborHours": 3072,
+      "laborHours": 3075,
       "languages": [
         "HCL",
         "Dockerfile",
