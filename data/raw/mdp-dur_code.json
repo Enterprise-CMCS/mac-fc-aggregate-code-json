@@ -28,11 +28,7 @@
     "forks": 0,
     "clones": 0
   },
-  "platforms": [
-    "windows",
-    "mac",
-    "linux"
-  ],
+  "platforms": ["windows", "mac", "linux"],
   "categories": [
     "budgeting",
     "business-intelligence",
@@ -41,17 +37,9 @@
     "data-collection"
   ],
   "softwareType": "standalone/web",
-  "languages": [
-    "TypeScript",
-    "Shell",
-    "HTML",
-    "JavaScript",
-    "SCSS"
-  ],
+  "languages": ["TypeScript", "Shell", "HTML", "JavaScript", "SCSS"],
   "maintenance": "internal",
-  "contractNumber": [
-    "47QTCA20D000W:75FCMC24F0189"
-  ],
+  "contractNumber": ["47QTCA20D000W:75FCMC24F0189"],
   "SBOM": "https://github.com/Enterprise-CMCS/mdp-dur/network/dependencies",
   "relatedCode": [],
   "reusedCode": [],
@@ -61,10 +49,7 @@
     "lastModified": "2026-05-29T20:06:31Z",
     "metadataLastUpdated": "2026-06-01T00:31:44.170Z"
   },
-  "tags": [
-    "react",
-    "nosql"
-  ],
+  "tags": ["react", "nosql"],
   "contact": {
     "email": "stephanie.hauf@cms.hhs.gov",
     "name": "Stephanie Hauf"
@@ -76,17 +61,9 @@
   "userInput": true,
   "fismaLevel": "Moderate",
   "group": "Digital Services Group",
-  "projects": [
-    "Medicaid Drug Program"
-  ],
-  "systems": [
-    "Medicaid Drug Program"
-  ],
-  "subsetInHealthcare": [
-    "Medicaid"
-  ],
-  "userType": [
-    "Government"
-  ],
+  "projects": ["Medicaid Drug Program"],
+  "systems": ["Medicaid Drug Program"],
+  "subsetInHealthcare": ["Medicaid"],
+  "userType": ["Government"],
   "maturityModelTier": 0
 }

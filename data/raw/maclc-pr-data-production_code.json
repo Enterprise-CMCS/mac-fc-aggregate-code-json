@@ -1,8 +1,8 @@
 {
-  "name": "maclc-maf-ad-hoc",
+  "name": "maclc-public-MAF-data-production",
   "version": "",
-  "description": "Code to support ad hoc requests for MACLC Task 5.7",
-  "longDescription": "This repository houses code used to support analyses related to the MACLC Task 5.7. Generally \"ad hoc\" requests are particularly urgent, likely to only be needed once, and/or answer specific research questions and so don't require a more general product.",
+  "description": "Code to support automated generation of data for public reporting related to eligibility operations and public reporting for MACLC Task 5.7",
+  "longDescription": "This repository houses code for generation of data using performance indicator (PI) and eligiblity processing (EP) data in the DataConnect environment.",
   "status": "Development",
   "permissions": {
     "licenses": [
@@ -15,7 +15,7 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-maf-ad-hoc",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-public-MAF-data-production",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
   "homepageURL": "",
@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 3116,
+  "laborHours": 5946,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -36,20 +36,21 @@
   ],
   "softwareType": "standalone/other",
   "languages": [
-    "Python"
+    "Python",
+    "Jupyter Notebook"
   ],
   "maintenance": "contract",
   "contractNumber": [
     "75FCMC19D0091/75FCMC22F0001"
   ],
-  "SBOM": "https://github.com/Enterprise-CMCS/maclc-maf-ad-hoc/network/dependencies",
+  "SBOM": "https://github.com/Enterprise-CMCS/maclc-public-MAF-data-production/network/dependencies",
   "relatedCode": [],
   "reusedCode": [],
   "partners": [],
   "date": {
-    "created": "2024-07-12T17:42:07Z",
-    "lastModified": "2026-05-07T21:14:51Z",
-    "metadataLastUpdated": "2026-06-01T00:54:00.838Z"
+    "created": "2025-06-27T14:42:59Z",
+    "lastModified": "2026-05-28T18:07:16Z",
+    "metadataLastUpdated": "2026-06-01T00:41:16.979Z"
   },
   "tags": [
     "Medicaid",
@@ -57,10 +58,10 @@
     "Enrollment and Eligibility"
   ],
   "contact": {
-    "email": "bhagen@mathematica-mpr.com",
-    "name": "Brynn Hagen"
+    "email": "kbisson@mathematica-mpr.com",
+    "name": "Katie Bisson"
   },
-  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-maf-ad-hoc/issues",
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-public-MAF-data-production/issues",
   "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",

@@ -1684,8 +1684,8 @@
       "contractNumber": "75FCMC19D0091:75FCMC21F0001",
       "date": {
         "created": "2023-06-29T16:45:01Z",
-        "lastModified": "2026-04-29T13:26:30Z",
-        "metaDataLastUpdated": "2026-05-01T00:48:55.829Z"
+        "lastModified": "2026-05-01T00:49:16Z",
+        "metaDataLastUpdated": "2026-06-01T00:58:06.895Z"
       },
       "description": "This repository will contain an archive of code and methodology documentation used to respond to DataConnect support desk analytic requests. The purpose of this repository is to promote open sharing of prior request methods to enhance productivity on answering future requests.",
       "feedbackMechanisms": [
@@ -6088,8 +6088,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:45:27Z",
-        "lastModified": "2026-04-13T13:59:07Z",
-        "metadataLastUpdated": "2026-05-01T00:53:56.442Z"
+        "lastModified": "2026-05-28T17:50:07Z",
+        "metadataLastUpdated": "2026-06-01T01:04:21.128Z"
       },
       "description": "File Service for MACFin which maintains budget and expenses for States \u0026 Fed Govt. for Medicaid and CHIP. ",
       "disclaimerText": "",
@@ -6099,7 +6099,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 5058,
+      "laborHours": 5060,
       "languages": [
         "Java",
         "PLpgSQL"
@@ -7690,6 +7690,88 @@
     },
     {
       "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/maclc-ctac-weekly/network/dependencies",
+      "categories": [
+        "data-analytics"
+      ],
+      "contact": {
+        "email": "dthayer@mathematica-mpr.com",
+        "name": "Daniel Thayer"
+      },
+      "contractNumber": [
+        "75FCMC19D0091/75FCMC22F0001"
+      ],
+      "date": {
+        "created": "2026-06-11T16:57:36Z",
+        "lastModified": "2026-06-22T10:52:28Z",
+        "metadataLastUpdated": "2026-06-22T11:14:10.256Z"
+      },
+      "description": "CTAC Data Preparation Code",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-ctac-data-prep/issues",
+      "fismaLevel": "Moderate",
+      "group": "CMCS/DSG",
+      "homepageURL": "",
+      "laborHours": 1135,
+      "languages": [],
+      "localisation": false,
+      "longDescription": "Contains system code for CTAC raw data ingestion and record linkage processes.",
+      "maintenance": "contract",
+      "maturityModelTier": 0,
+      "name": "maclc-ctac-data-prep",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "none",
+            "name": "None"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "other"
+      ],
+      "projects": [
+        "MACLC",
+        "CTAC"
+      ],
+      "relatedCode": [],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "data",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-ctac-data-prep",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "standalone/other",
+      "status": "Development",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [
+        "DataConnect",
+        "CCW VRDC"
+      ],
+      "tags": [
+        "Medicaid",
+        "Medicaid Data"
+      ],
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git",
+      "version": ""
+    },
+    {
+      "AIUseCaseID": "0",
       "SBOM": "https://github.com/Enterprise-CMCS/maclc-ctac-monthly/network/dependencies",
       "categories": [
         "data-analytics"
@@ -8615,8 +8697,8 @@
       ],
       "date": {
         "created": "2024-07-12T17:42:07Z",
-        "lastModified": "2026-04-29T14:47:19Z",
-        "metadataLastUpdated": "2026-05-01T00:45:24.200Z"
+        "lastModified": "2026-05-07T21:14:51Z",
+        "metadataLastUpdated": "2026-06-01T00:54:00.838Z"
       },
       "description": "Code to support ad hoc requests for MACLC Task 5.7",
       "disclaimerText": "",
@@ -8782,8 +8864,8 @@
       ],
       "date": {
         "created": "2025-06-27T14:42:59Z",
-        "lastModified": "2026-04-29T16:33:45Z",
-        "metadataLastUpdated": "2026-05-01T00:34:18.485Z"
+        "lastModified": "2026-05-28T18:07:16Z",
+        "metadataLastUpdated": "2026-06-01T00:41:16.979Z"
       },
       "description": "Code to support automated generation of data for public reporting related to eligibility operations and public reporting for MACLC Task 5.7",
       "disclaimerText": "",
@@ -8793,7 +8875,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 5968,
+      "laborHours": 5946,
       "languages": [
         "Python",
         "Jupyter Notebook"
