@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 10243,
+  "laborHours": 20730,
   "reuseFrequency": {
     "forks": 0
   },
@@ -42,8 +42,8 @@
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
     "created": "2024-05-07T16:23:38Z",
-    "lastModified": "2026-05-13T21:54:39Z",
-    "metaDataLastUpdated": "2026-06-01T00:58:07.136Z"
+    "lastModified": "2026-06-30T19:53:17Z",
+    "metaDataLastUpdated": "2026-07-01T00:56:35.309Z"
   },
   "tags": [
     "Python",

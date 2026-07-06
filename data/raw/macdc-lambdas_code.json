@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 4777,
+  "laborHours": 7529,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -38,6 +38,8 @@
   "softwareType": "standalone/backend",
   "languages": [
     "Python",
+    "Makefile",
+    "Dockerfile",
     "Shell"
   ],
   "maintenance": "contract",
@@ -50,8 +52,8 @@
   "partners": [],
   "date": {
     "created": "2023-02-15T21:50:19Z",
-    "lastModified": "2026-05-29T18:03:45Z",
-    "metadataLastUpdated": "2026-06-01T01:19:41.886Z"
+    "lastModified": "2026-06-29T12:38:54Z",
+    "metadataLastUpdated": "2026-07-01T01:16:21.503Z"
   },
   "tags": [
     "AWS",

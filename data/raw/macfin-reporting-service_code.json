@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 19345,
+  "laborHours": 19841,
   "reuseFrequency": {
     "forks": 0,
     "clones": 6
@@ -45,8 +45,8 @@
   "softwareType": "standalone/web",
   "languages": [
     "Java",
-    "HTML",
     "PLpgSQL",
+    "HTML",
     "Gherkin",
     "CSS",
     "Python"
@@ -61,8 +61,8 @@
   "partners": [],
   "date": {
     "created": "2023-08-28T20:46:47Z",
-    "lastModified": "2026-06-03T21:49:39Z",
-    "metadataLastUpdated": "2026-06-03T22:34:29.969Z"
+    "lastModified": "2026-06-29T13:30:16Z",
+    "metadataLastUpdated": "2026-07-01T00:55:02.753Z"
   },
   "tags": [
     "budget-app",
