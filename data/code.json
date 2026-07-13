@@ -3252,8 +3252,8 @@
       "contractNumber": "47QTCA21D00AC",
       "date": {
         "created": "2021-08-11T14:17:29Z",
-        "lastModified": "2026-05-18T15:30:21Z",
-        "metaDataLastUpdated": "2026-06-01T01:21:27.473Z"
+        "lastModified": "2026-06-26T13:07:21Z",
+        "metaDataLastUpdated": "2026-07-01T01:18:01.019Z"
       },
       "description": "",
       "feedbackMechanisms": [
@@ -3261,7 +3261,7 @@
       ],
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
-      "laborHours": 6427,
+      "laborHours": 6433,
       "languages": [
         "Go",
         "HCL",
@@ -3332,8 +3332,8 @@
       "contractNumber": "47QTCA21D00AC",
       "date": {
         "created": "2023-03-23T16:40:53Z",
-        "lastModified": "2026-05-29T16:12:00Z",
-        "metaDataLastUpdated": "2026-06-01T00:58:36.564Z"
+        "lastModified": "2026-06-26T21:38:31Z",
+        "metaDataLastUpdated": "2026-07-01T00:56:55.376Z"
       },
       "description": "A multi-functional DevSecFinOps (DSFO) observability tool for MACBIS product teams and CMS stakeholders",
       "feedbackMechanisms": [
@@ -3341,7 +3341,7 @@
       ],
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
-      "laborHours": 12607,
+      "laborHours": 12981,
       "languages": [
         "Go",
         "TypeScript",
@@ -3792,90 +3792,6 @@
       ],
       "vcs": "git",
       "version": "1.0.0"
-    },
-    {
-      "AIUseCaseID": "0",
-      "SBOM": "https://github.com/Enterprise-CMCS/macdc-databricks-notebooks/network/dependencies",
-      "categories": [
-        "cloud-management",
-        "data-analytics"
-      ],
-      "contact": {
-        "email": "dataconnect@cmsdataconnect.us",
-        "name": "Zach Holden"
-      },
-      "contractNumber": [
-        "75FCMC21F0108"
-      ],
-      "date": {
-        "created": "2023-01-05T18:41:41Z",
-        "lastModified": "2026-06-29T19:47:28Z",
-        "metadataLastUpdated": "2026-07-01T00:28:18.722Z"
-      },
-      "description": "This repository contains Databricks-compatible artifacts including notebooks, scripts, and execution modules required for DataConnect's data processing pipeline implementation and analytics workflows.",
-      "disclaimerText": "",
-      "disclaimerURL": "",
-      "downloadURL": "",
-      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-databricks-notebooks/issues",
-      "fismaLevel": "Moderate",
-      "group": "CMCS",
-      "homepageURL": "",
-      "laborHours": 5612,
-      "languages": [
-        "Python",
-        "Shell"
-      ],
-      "localisation": false,
-      "longDescription": "This repository is for DataConnect's internal use to house Notebooks and other code that we need to run in Databricks.",
-      "maintenance": "contract",
-      "maturityModelTier": 2,
-      "name": "macdc-databricks-notebooks",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "partners": [],
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "https://github.com/Enterprise-CMCS/macdc-databricks-notebooks/blob/main/LICENSE",
-            "name": "CC0-1.0"
-          }
-        ],
-        "usageType": "governmentWideReuse"
-      },
-      "platforms": [
-        "other"
-      ],
-      "projects": [
-        "DataConnect"
-      ],
-      "relatedCode": [],
-      "repositoryHost": "github.com/Enterprise-CMCS",
-      "repositoryType": "application",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-databricks-notebooks",
-      "repositoryVisibility": "private",
-      "reuseFrequency": {
-        "clones": 0,
-        "forks": 0
-      },
-      "reusedCode": [],
-      "softwareType": "standalone/backend",
-      "status": "Production",
-      "subsetInHealthcare": [
-        "Medicaid"
-      ],
-      "systems": [],
-      "tags": [
-        "AWS",
-        "Lambda",
-        "DataConnect",
-        "MAC_DC"
-      ],
-      "userInput": false,
-      "userType": [
-        "Government"
-      ],
-      "vcs": "git",
-      "version": ""
     },
     {
       "AIUseCaseID": "0",
@@ -5212,8 +5128,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:43:19Z",
-        "lastModified": "2026-06-02T20:02:15Z",
-        "metadataLastUpdated": "2026-06-02T20:07:37.685Z"
+        "lastModified": "2026-06-29T17:52:05Z",
+        "metadataLastUpdated": "2026-07-01T00:36:31.421Z"
       },
       "description": "MACFin maintains budget and expenses for States and Federal Govt. for Medicaid program and Children’s Health Insurance Program (CHIP).",
       "disclaimerText": "",
@@ -5223,7 +5139,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 23188,
+      "laborHours": 23207,
       "languages": [
         "Gherkin",
         "Java",
@@ -5382,99 +5298,6 @@
     },
     {
       "AIUseCaseID": "0",
-      "SBOM": "https://github.com/Enterprise-CMCS/macfin-chip-expenditure-21-submission-service/network/dependencies",
-      "categories": [
-        "accounting",
-        "budgeting",
-        "financial management",
-        "financial systems"
-      ],
-      "contact": {
-        "email": "MACFinHelpDesk@cms.hhs.gov",
-        "name": "MACFin HelpDesk"
-      },
-      "contractNumber": [
-        "GS-35F-303GA"
-      ],
-      "date": {
-        "created": "2024-07-08T17:29:25Z",
-        "lastModified": "2026-06-26T14:27:19Z",
-        "metadataLastUpdated": "2026-07-01T01:08:01.961Z"
-      },
-      "description": "CMS-21 Children's Health Insurance Program (CHIP) forms capture state reported expenditures for services provided under the state CHIP program.",
-      "disclaimerText": "",
-      "disclaimerURL": "",
-      "downloadURL": "",
-      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macfin-chip-expenditure-21-submission-service/issues",
-      "fismaLevel": "Moderate",
-      "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
-      "homepageURL": "",
-      "laborHours": 14808,
-      "languages": [
-        "Gherkin",
-        "Java",
-        "HTML",
-        "PLpgSQL"
-      ],
-      "localisation": false,
-      "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
-      "maintenance": "contract",
-      "maturityModelTier": 3,
-      "name": "macfin-chip-expenditure-21-submission-service",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "partners": [],
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "https://github.com/Enterprise-CMCS/macfin-chip-expenditure-21-submission-service/blob/develop/LICENSE",
-            "name": "None"
-          }
-        ],
-        "usageType": "governmentWideReuse"
-      },
-      "platforms": [
-        "web",
-        "windows",
-        "linux"
-      ],
-      "projects": [
-        "MACFin"
-      ],
-      "relatedCode": [],
-      "repositoryHost": "github.com/CMS-Enterprise",
-      "repositoryType": "APIs",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/macfin-chip-expenditure-21-submission-service",
-      "repositoryVisibility": "private",
-      "reuseFrequency": {
-        "clones": 25,
-        "forks": 0
-      },
-      "reusedCode": [],
-      "softwareType": "standalone/web",
-      "status": "Development",
-      "subsetInHealthcare": [
-        "Medicaid"
-      ],
-      "systems": "",
-      "tags": [
-        "budget",
-        "chip",
-        "expenditure",
-        "finance-management",
-        "financial",
-        "financial-data",
-        "medical"
-      ],
-      "userInput": true,
-      "userType": [
-        "Government"
-      ],
-      "vcs": "git",
-      "version": ""
-    },
-    {
-      "AIUseCaseID": "0",
       "SBOM": "https://github.com/Enterprise-CMCS/macfin-comment-service/network/dependencies",
       "categories": [
         "comments",
@@ -5578,8 +5401,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:44:20Z",
-        "lastModified": "2026-06-03T20:23:32Z",
-        "metadataLastUpdated": "2026-06-03T20:30:47.989Z"
+        "lastModified": "2026-06-30T16:12:54Z",
+        "metadataLastUpdated": "2026-07-01T00:53:06.669Z"
       },
       "description": "Common modules for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid and (CHIP).",
       "disclaimerText": "",
@@ -5589,7 +5412,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 10429,
+      "laborHours": 10565,
       "languages": [
         "Java"
       ],
@@ -7367,8 +7190,8 @@
       ],
       "date": {
         "created": "2025-05-22T15:42:46Z",
-        "lastModified": "2026-05-11T16:15:06Z",
-        "metadataLastUpdated": "2026-06-01T01:02:54.834Z"
+        "lastModified": "2026-06-30T20:02:54Z",
+        "metadataLastUpdated": "2026-07-01T01:00:42.609Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -7378,7 +7201,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/CAHPG",
       "homepageURL": "",
-      "laborHours": 8497,
+      "laborHours": 8572,
       "languages": [
         "SAS",
         "Python"
@@ -8613,8 +8436,8 @@
       ],
       "date": {
         "created": "2024-07-12T17:44:13Z",
-        "lastModified": "2026-05-29T17:47:35Z",
-        "metadataLastUpdated": "2026-06-01T00:26:18.484Z"
+        "lastModified": "2026-06-26T18:32:30Z",
+        "metadataLastUpdated": "2026-07-01T00:27:54.413Z"
       },
       "description": "Code to support automated generation of CMCS internal monitoring data products related to eligibility operations and enrollment for MACLC Task 5.7",
       "disclaimerText": "",
@@ -9112,8 +8935,8 @@
       "contractNumber": "75FCMC19D0091/75FCMC22F0001",
       "date": {
         "created": "2024-07-16T14:46:32Z",
-        "lastModified": "2026-04-29T13:55:24Z",
-        "metaDataLastUpdated": "2026-06-01T00:41:17.716Z"
+        "lastModified": "2026-06-05T13:09:41Z",
+        "metaDataLastUpdated": "2026-07-01T00:40:50.535Z"
       },
       "description": "Code for shared utilities to be used within DataConnect Databricks for MACLC",
       "feedbackMechanisms": [
@@ -10174,92 +9997,6 @@
         "Government"
       ],
       "vcs": "git"
-    },
-    {
-      "AIUseCaseID": "0",
-      "SBOM": "https://github.com/Enterprise-CMCS/pi-dashboard-pipeline/network/dependencies",
-      "categories": [
-        "data-analytics",
-        "data-visualization"
-      ],
-      "contact": {
-        "email": "rbhasker@index-analytics.com",
-        "name": "Ganapathi Raman Bhasker"
-      },
-      "contractNumber": [
-        "75FCMC19D0091:75FCMC21F0001"
-      ],
-      "date": {
-        "created": "2024-10-15T20:16:11Z",
-        "lastModified": "2026-03-01T21:40:34Z",
-        "metadataLastUpdated": "2026-04-01T00:43:35.980Z"
-      },
-      "description": "",
-      "disclaimerText": "",
-      "disclaimerURL": "",
-      "downloadURL": "",
-      "feedbackMechanism": "https://github.com/Enterprise-CMCS/pi-dashboard-pipeline/issues",
-      "fismaLevel": "Moderate",
-      "group": "CMCS/DSG",
-      "homepageURL": "",
-      "laborHours": 2082,
-      "languages": [
-        "Python"
-      ],
-      "localisation": false,
-      "longDescription": "This repository contains the code for the data pipeline that produces the data for the Performance Indicators Dashboard. This pipeline runs in the CMCS DataConnect Databricks environment. The output data is consumed by DataConnect QuickSight for use in the dashboard.  See CMS Enterprise Confluence for more information about this dashboard, https://confluenceent.cms.gov/pages/viewpage.action?spaceKey=DATC\u0026title=Performance+Indicator+%28PI%29+Dashboard.",
-      "maintenance": "contract",
-      "maturityModelTier": 0,
-      "name": "pi-dashboard-pipeline",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "partners": [],
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "none",
-            "name": "None"
-          }
-        ],
-        "usageType": "governmentWideReuse"
-      },
-      "platforms": [
-        "other"
-      ],
-      "projects": [
-        "none"
-      ],
-      "relatedCode": [],
-      "repositoryHost": "github.com/CMS-Enterprise",
-      "repositoryType": "data",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/pi-dashboard-pipeline",
-      "repositoryVisibility": "private",
-      "reuseFrequency": {
-        "clones": 0,
-        "forks": 0
-      },
-      "reusedCode": [],
-      "softwareType": "standalone/other",
-      "status": "Development",
-      "subsetInHealthcare": [
-        "Medicaid"
-      ],
-      "systems": [
-        "DataConnect"
-      ],
-      "tags": [
-        "Medicaid",
-        "Medicaid Data",
-        "Performance Indicators",
-        "QuickSight",
-        "CHIP"
-      ],
-      "userInput": false,
-      "userType": [
-        "Government"
-      ],
-      "vcs": "git",
-      "version": ""
     },
     {
       "AIUseCaseID": "0",
@@ -11763,89 +11500,6 @@
       },
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
-        "created": "2023-04-06T16:46:55Z",
-        "lastModified": "2026-05-20T15:57:43Z",
-        "metaDataLastUpdated": "2026-06-01T01:16:41.267Z"
-      },
-      "description": "Jenkins Job Definitions and Scripts",
-      "feedbackMechanisms": [
-        "https://github.com/Enterprise-CMCS/tmsis-jenkins/issues"
-      ],
-      "fismaLevel": "High",
-      "group": "CMS",
-      "laborHours": 5893,
-      "languages": [
-        "Python",
-        "Groovy",
-        "Shell",
-        "HCL",
-        "Dockerfile"
-      ],
-      "localisation": false,
-      "longDescription": "Jenkins Job Definitions and Scripts for TMSIS",
-      "maintenance": "contract",
-      "maturityModelTier": 2,
-      "name": "tmsis-jenkins",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "https://github.com/Enterprise-CMCS/tmsis-jenkins/blob/main/README.md",
-            "name": "None"
-          }
-        ],
-        "usageType": "governmentWideReuse"
-      },
-      "platforms": [
-        "mac",
-        "linux",
-        "other"
-      ],
-      "projectURL": "",
-      "projects": [
-        "TMSIS"
-      ],
-      "repositoryHost": "github.com/CMS-Enterprise",
-      "repositoryType": "tools",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-jenkins",
-      "repositoryVisibility": "private",
-      "reuseFrequency": {
-        "forks": 0
-      },
-      "softwareType": "standalone/backend",
-      "status": "Production",
-      "subsetInHealthcare": [
-        "Operational",
-        "Medicaid"
-      ],
-      "systems": [],
-      "tags": [
-        "Python",
-        "Groovy",
-        "Terraform",
-        "Bash",
-        "Jenkins",
-        "TMSIS",
-        "CMS"
-      ],
-      "upstream": "",
-      "userInput": false,
-      "userType": [
-        "Government"
-      ],
-      "vcs": "git"
-    },
-    {
-      "categories": [
-        "cloud-management"
-      ],
-      "contact": {
-        "email": "cms_IT_service_desk@cms.hhs.gov",
-        "name": ""
-      },
-      "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
-      "date": {
         "created": "2017-02-01T19:28:24Z",
         "lastModified": "2026-05-25T13:38:28Z",
         "metaDataLastUpdated": "2026-06-01T00:44:51.232Z"
@@ -12187,8 +11841,8 @@
       "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
       "date": {
         "created": "2023-10-30T15:30:35Z",
-        "lastModified": "2026-05-28T19:18:36Z",
-        "metaDataLastUpdated": "2026-06-01T01:18:18.869Z"
+        "lastModified": "2026-06-30T13:19:12Z",
+        "metaDataLastUpdated": "2026-07-01T01:15:23.532Z"
       },
       "description": "OD Tests for TMSIS",
       "feedbackMechanisms": [
@@ -12196,7 +11850,7 @@
       ],
       "fismaLevel": "Low",
       "group": "CMS",
-      "laborHours": 7000,
+      "laborHours": 7102,
       "languages": [
         "Python",
         "CSS",
