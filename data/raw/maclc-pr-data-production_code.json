@@ -1,5 +1,5 @@
 {
-  "name": "maclc-public-MAF-data-production",
+  "name": "maclc-pr-data-production",
   "version": "",
   "description": "Code to support automated generation of data for public reporting related to eligibility operations and public reporting for MACLC Task 5.7",
   "longDescription": "This repository houses code for generation of data using performance indicator (PI) and eligiblity processing (EP) data in the DataConnect environment.",
@@ -15,7 +15,7 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-public-MAF-data-production",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-pr-data-production",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
   "homepageURL": "",
@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 5946,
+  "laborHours": 5740,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -49,8 +49,8 @@
   "partners": [],
   "date": {
     "created": "2025-06-27T14:42:59Z",
-    "lastModified": "2026-05-28T18:07:16Z",
-    "metadataLastUpdated": "2026-06-01T00:41:16.979Z"
+    "lastModified": "2026-06-30T17:19:04Z",
+    "metadataLastUpdated": "2026-07-01T00:40:58.191Z"
   },
   "tags": [
     "Medicaid",

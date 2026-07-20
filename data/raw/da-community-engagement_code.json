@@ -1,0 +1,46 @@
+{
+  "name": "Community Engagement Data Mart",
+  "version": "1",
+  "description": "Code for the construction of the community engagement data mart used for community engagement reporting in CMCS.",
+  "status": "Beta",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "https://github.com/Enterprise-CMCS/da-community-engagement"
+      }
+    ],
+    "usageType": [
+      "governmentWideReuse"
+    ]
+  },
+  "organization": "CMCS",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/da-community-engagement",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 1,
+  "reuseFrequency": {
+    "forks": 1,
+    "clones": 1
+  },
+  "languages": [
+    "python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": [
+    "CONT-2026-72138"
+  ],
+  "SBOM": "None",
+  "date": {
+    "created": "2026-07-06T00:00:00-07:00"
+  },
+  "tags": [
+    "community engagement"
+  ],
+  "contact": {
+    "email": "mmccamman@index-analytics.com",
+    "name": "Michael McCamman"
+  },
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-community-engagement/issues",
+  "AIUseCaseID": "0"
+}
