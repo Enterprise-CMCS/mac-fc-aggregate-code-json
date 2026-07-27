@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 9030,
+  "laborHours": 7922,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -56,8 +56,8 @@
   "partners": [],
   "date": {
     "created": "2020-08-27T20:20:29Z",
-    "lastModified": "2026-06-05T17:50:19Z",
-    "metadataLastUpdated": "2026-06-07T03:08:36.779Z"
+    "lastModified": "2026-06-23T15:24:33Z",
+    "metadataLastUpdated": "2026-07-19T03:04:44.659Z"
   },
   "tags": [
     "kafka",

@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "internal",
   "vcs": "git",
-  "laborHours": 6142,
+  "laborHours": 4919,
   "reuseFrequency": {
     "forks": 790
   },
@@ -33,8 +33,8 @@
   "softwareType": "standalone/backend",
   "languages": [
     "TypeScript",
-    "Go",
     "HCL",
+    "Go",
     "Shell",
     "JavaScript",
     "CSS",
@@ -44,8 +44,8 @@
   "contractNumber": "47QTCA21D00AC",
   "date": {
     "created": "2024-11-14T16:38:52Z",
-    "lastModified": "2025-07-30T17:05:06Z",
-    "metaDataLastUpdated": "2025-08-01T00:26:23.168Z"
+    "lastModified": "2026-06-29T16:40:43Z",
+    "metaDataLastUpdated": "2026-07-01T00:54:40.364Z"
   },
   "tags": [
     "teams",
