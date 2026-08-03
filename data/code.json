@@ -53,6 +53,85 @@
     },
     {
       "categories": [
+        "data-visualization"
+      ],
+      "contact": {
+        "email": "bhunscher@mathematica-mpr.com",
+        "name": "Brian Hunscher"
+      },
+      "contractNumber": "75FCMC19D0091:75FCMC21F0001",
+      "date": {
+        "created": "2026-05-06T18:40:50Z",
+        "lastModified": "2026-07-28T20:26:04Z",
+        "metaDataLastUpdated": "2026-08-01T00:37:43.126Z"
+      },
+      "description": "",
+      "feedbackMechanisms": [
+        "https://github.com/Enterprise-CMCS/MACScorecard-Frontend/issues"
+      ],
+      "fismaLevel": "Moderate",
+      "group": "CMCS/DSG",
+      "laborHours": 23326,
+      "languages": [
+        "TypeScript",
+        "HTML",
+        "SCSS",
+        "JavaScript",
+        "Shell",
+        "CSS",
+        "Python"
+      ],
+      "localisation": false,
+      "longDescription": "The Centers for Medicare \u0026 Medicaid Services (CMS) developed the Medicaid and Children’s Health Insurance Program (CHIP) Scorecard to improve public transparency about the administration and outcomes of these programs. States and CMS can use the Medicaid and CHIP (MAC) Scorecard to drive improvements in areas such as state and federal alignment, beneficiary health outcomes, and program administration.",
+      "maintenance": "contract",
+      "maturityModelTier": 0,
+      "name": "MAC-CoreSet-DataDashboard-Frontend",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "na",
+            "name": "None"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "web"
+      ],
+      "projectURL": "https://www.medicaid.gov/state-overviews/scorecard/main",
+      "projects": [],
+      "repositoryHost": "github.com/CMS-Enterprise",
+      "repositoryType": "website",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/MAC-CoreSet-DataDashboard-Frontend",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "forks": 0
+      },
+      "softwareType": "standalone/web",
+      "status": "Production",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [
+        "Medicaid.gov",
+        "DKAN"
+      ],
+      "tags": [
+        "Medicaid",
+        "Medicaid Data",
+        "data-visualization"
+      ],
+      "upstream": "",
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git"
+    },
+    {
+      "categories": [
         "accounting",
         "budgeting",
         "website-builder",
@@ -469,8 +548,8 @@
       "contractNumber": "75FCMC20F0002:75FCMC20F0002",
       "date": {
         "created": "2025-03-17T16:49:53Z",
-        "lastModified": "2026-06-30T18:16:11Z",
-        "metaDataLastUpdated": "2026-07-01T01:18:51.995Z"
+        "lastModified": "2026-07-29T15:19:03Z",
+        "metaDataLastUpdated": "2026-08-01T00:53:06.651Z"
       },
       "description": "The Scorecard aims improve public transparency about the administration and outcomes of the Medicaid and CHIP programs.",
       "feedbackMechanisms": [
@@ -478,7 +557,7 @@
       ],
       "fismaLevel": "Moderate",
       "group": "CMCS/IAPSS",
-      "laborHours": 9302,
+      "laborHours": 9299,
       "languages": [
         "Python",
         "SAS"
@@ -583,84 +662,6 @@
       "repositoryHost": "github.com/CMS-Enterprise",
       "repositoryType": "website",
       "repositoryURL": "https://github.com/Enterprise-CMCS/MACScorecard-ETL",
-      "repositoryVisibility": "private",
-      "reuseFrequency": {
-        "forks": 0
-      },
-      "softwareType": "standalone/web",
-      "status": "Production",
-      "subsetInHealthcare": [
-        "Medicaid"
-      ],
-      "systems": [
-        "Medicaid.gov",
-        "DKAN"
-      ],
-      "tags": [
-        "Medicaid",
-        "Medicaid Data",
-        "data-visualization"
-      ],
-      "upstream": "",
-      "userInput": false,
-      "userType": [
-        "Government"
-      ],
-      "vcs": "git"
-    },
-    {
-      "categories": [
-        "data-visualization"
-      ],
-      "contact": {
-        "email": "bhunscher@mathematica-mpr.com",
-        "name": "Brian Hunscher"
-      },
-      "contractNumber": "75FCMC19D0091:75FCMC21F0001",
-      "date": {
-        "created": "2023-03-09T19:42:04Z",
-        "lastModified": "2025-07-07T17:49:17Z",
-        "metaDataLastUpdated": "2025-07-07T17:51:07.465Z"
-      },
-      "description": "The Scorecard aims improve public transparency about the administration and outcomes of the Medicaid and CHIP programs",
-      "feedbackMechanisms": [
-        "https://github.com/Enterprise-CMCS/MACScorecard-Frontend/issues"
-      ],
-      "fismaLevel": "Moderate",
-      "group": "CMCS/DSG",
-      "laborHours": 22814,
-      "languages": [
-        "TypeScript",
-        "HTML",
-        "SCSS",
-        "JavaScript",
-        "Shell",
-        "Python"
-      ],
-      "localisation": false,
-      "longDescription": "The Centers for Medicare \u0026 Medicaid Services (CMS) developed the Medicaid and Children’s Health Insurance Program (CHIP) Scorecard to improve public transparency about the administration and outcomes of these programs. States and CMS can use the Medicaid and CHIP (MAC) Scorecard to drive improvements in areas such as state and federal alignment, beneficiary health outcomes, and program administration.",
-      "maintenance": "contract",
-      "maturityModelTier": 0,
-      "name": "MACScorecard-Frontend",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "na",
-            "name": "None"
-          }
-        ],
-        "usageType": "governmentWideReuse"
-      },
-      "platforms": [
-        "web"
-      ],
-      "projectURL": "https://www.medicaid.gov/state-overviews/scorecard/main",
-      "projects": [],
-      "repositoryHost": "github.com/CMS-Enterprise",
-      "repositoryType": "website",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/MACScorecard-Frontend",
       "repositoryVisibility": "private",
       "reuseFrequency": {
         "forks": 0
@@ -1891,8 +1892,8 @@
       "contractNumber": "75FCMC19D0091/75FCMC21F0001",
       "date": {
         "created": "2023-12-13T21:26:46Z",
-        "lastModified": "2026-06-01T01:11:50Z",
-        "metaDataLastUpdated": "2026-07-01T01:08:15.748Z"
+        "lastModified": "2026-07-01T01:08:38Z",
+        "metaDataLastUpdated": "2026-08-01T00:46:53.119Z"
       },
       "description": "",
       "feedbackMechanisms": [
@@ -3000,8 +3001,8 @@
       "contractNumber": "75FCMC19D0091:75FCMC24F0194",
       "date": {
         "created": "2025-04-28T15:07:40Z",
-        "lastModified": "2026-06-23T15:31:31Z",
-        "metaDataLastUpdated": "2026-07-01T00:41:46.982Z"
+        "lastModified": "2026-07-28T14:30:06Z",
+        "metaDataLastUpdated": "2026-08-01T00:29:43.060Z"
       },
       "description": "",
       "feedbackMechanisms": [
@@ -3009,9 +3010,10 @@
       ],
       "fismaLevel": "Moderate",
       "group": "CMCS/DCST",
-      "laborHours": 10342,
+      "laborHours": 10593,
       "languages": [
-        "Python"
+        "Python",
+        "Jupyter Notebook"
       ],
       "localisation": false,
       "longDescription": "The LTSS Measures repository contains code for producing the user and exenditure counts for the LTSS Analytics and Reporting project.",
@@ -3058,78 +3060,6 @@
         " LTSS Users and Expenditures"
       ],
       "upstream": "",
-      "userInput": false,
-      "userType": [
-        "Government"
-      ],
-      "vcs": "git"
-    },
-    {
-      "categories": [
-        "application-development",
-        "data-collection",
-        "it-development"
-      ],
-      "contact": {
-        "email": "cms-macfc@corbalt.com",
-        "name": "Corbalt"
-      },
-      "contractNumber": "47QTCA21D00AC",
-      "date": {
-        "created": "",
-        "lastModified": "",
-        "metaDataLastUpdated": ""
-      },
-      "description": "This repo contains code related to DSO metrics reporting.",
-      "feedbackMechanisms": [
-        "https://github.com/Enterprise-CMCS/mac-fc-dso-metrics/issues"
-      ],
-      "fismaLevel": "Moderate",
-      "group": "CMCS/DSG",
-      "laborHours": 0,
-      "languages": [
-        "JavaScript"
-      ],
-      "localisation": false,
-      "longDescription": "This repo contains code related to DSO metrics reporting. It is part of the MAC-FC project, which aims to enhance the visibility of security metrics within the MACBIS organization.",
-      "maintenance": "contract",
-      "maturityModelTier": 2,
-      "name": "mac-fc-dso-metrics",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "none",
-            "name": "None"
-          }
-        ],
-        "usageType": "governmentWideReuse"
-      },
-      "platforms": [
-        "linux"
-      ],
-      "projectURL": "",
-      "projects": [
-        "DSO Metrics Reporting Service"
-      ],
-      "repositoryHost": "github.com/CMS-Enterprise",
-      "repositoryType": "tools",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/mac-fc-dso-metrics",
-      "repositoryVisibility": "internal",
-      "reuseFrequency": {
-        "forks": 0
-      },
-      "softwareType": "standalone/backend",
-      "status": "Production",
-      "subsetInHealthcare": [
-        "Medicaid"
-      ],
-      "tags": [
-        "dso-metrics",
-        "dora-metrics"
-      ],
-      "upstream": [],
       "userInput": false,
       "userType": [
         "Government"
@@ -6777,8 +6707,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:46:47Z",
-        "lastModified": "2026-06-29T13:30:16Z",
-        "metadataLastUpdated": "2026-07-01T00:55:02.753Z"
+        "lastModified": "2026-07-31T17:14:26Z",
+        "metadataLastUpdated": "2026-08-01T00:38:32.383Z"
       },
       "description": "Reporting Service for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid and CHIP.",
       "disclaimerText": "",
@@ -6788,11 +6718,11 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 19841,
+      "laborHours": 20334,
       "languages": [
         "Java",
-        "PLpgSQL",
         "HTML",
+        "PLpgSQL",
         "Gherkin",
         "CSS",
         "Python"
@@ -7498,8 +7428,8 @@
       ],
       "date": {
         "created": "2025-02-19T15:50:14Z",
-        "lastModified": "2026-06-01T01:16:34Z",
-        "metadataLastUpdated": "2026-07-01T01:13:01.607Z"
+        "lastModified": "2026-07-01T01:13:23Z",
+        "metadataLastUpdated": "2026-08-01T00:49:21.011Z"
       },
       "description": "CTAC SAS Utilities",
       "disclaimerText": "",
@@ -7665,8 +7595,8 @@
       ],
       "date": {
         "created": "2025-10-23T17:47:37Z",
-        "lastModified": "2026-06-23T16:43:29Z",
-        "metadataLastUpdated": "2026-07-01T00:33:04.375Z"
+        "lastModified": "2026-07-27T14:02:29Z",
+        "metadataLastUpdated": "2026-08-01T00:24:16.211Z"
       },
       "description": "CTAC Healthcare Enrollment and Transitions Data Model",
       "disclaimerText": "",
@@ -7676,7 +7606,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 7052,
+      "laborHours": 7175,
       "languages": [
         "Python"
       ],
@@ -7749,8 +7679,8 @@
       ],
       "date": {
         "created": "2026-06-11T16:57:36Z",
-        "lastModified": "2026-06-22T11:14:32Z",
-        "metadataLastUpdated": "2026-07-01T00:33:20.115Z"
+        "lastModified": "2026-07-03T00:51:42Z",
+        "metadataLastUpdated": "2026-08-01T00:24:19.976Z"
       },
       "description": "CTAC Data Preparation Code",
       "disclaimerText": "",
@@ -7760,8 +7690,10 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 1128,
-      "languages": [],
+      "laborHours": 2616,
+      "languages": [
+        "Python"
+      ],
       "localisation": false,
       "longDescription": "Contains system code for CTAC raw data ingestion and record linkage processes.",
       "maintenance": "contract",
@@ -7831,8 +7763,8 @@
       ],
       "date": {
         "created": "2024-10-24T14:46:44Z",
-        "lastModified": "2026-06-16T19:02:12Z",
-        "metadataLastUpdated": "2026-07-01T00:39:38.283Z"
+        "lastModified": "2026-07-23T16:59:20Z",
+        "metadataLastUpdated": "2026-08-01T00:28:13.545Z"
       },
       "description": "CTAC Monthly System",
       "disclaimerText": "",
@@ -7842,7 +7774,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 7704,
+      "laborHours": 7743,
       "languages": [
         "Python",
         "Jupyter Notebook"
@@ -8000,8 +7932,8 @@
       ],
       "date": {
         "created": "2025-02-27T22:01:17Z",
-        "lastModified": "2026-06-01T01:21:23Z",
-        "metadataLastUpdated": "2026-07-01T01:17:03.958Z"
+        "lastModified": "2026-07-01T01:17:24Z",
+        "metadataLastUpdated": "2026-08-01T00:52:21.661Z"
       },
       "description": "CTAC Sandbox",
       "disclaimerText": "",
@@ -8085,8 +8017,8 @@
       ],
       "date": {
         "created": "2025-02-26T15:22:01Z",
-        "lastModified": "2026-06-01T00:57:50Z",
-        "metadataLastUpdated": "2026-07-01T00:56:02.484Z"
+        "lastModified": "2026-07-21T15:58:16Z",
+        "metadataLastUpdated": "2026-08-01T00:38:35.838Z"
       },
       "description": "CTAC Shared Programs",
       "disclaimerText": "",
@@ -8096,7 +8028,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 3702,
+      "laborHours": 4406,
       "languages": [
         "Python"
       ],
@@ -8169,8 +8101,8 @@
       ],
       "date": {
         "created": "2025-07-30T18:23:22Z",
-        "lastModified": "2026-06-01T00:44:14Z",
-        "metadataLastUpdated": "2026-07-01T00:43:24.604Z"
+        "lastModified": "2026-07-01T00:43:45Z",
+        "metadataLastUpdated": "2026-08-01T00:31:00.529Z"
       },
       "description": "Tabling programs for MACLC Unwinding CTAC",
       "disclaimerText": "",
@@ -8253,8 +8185,8 @@
       ],
       "date": {
         "created": "2025-02-19T15:49:10Z",
-        "lastModified": "2026-06-30T22:56:40Z",
-        "metadataLastUpdated": "2026-07-01T01:18:08.011Z"
+        "lastModified": "2026-07-23T21:24:53Z",
+        "metadataLastUpdated": "2026-08-01T00:52:29.479Z"
       },
       "description": "CTAC Test Data",
       "disclaimerText": "",
@@ -8264,7 +8196,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 10488,
+      "laborHours": 10539,
       "languages": [],
       "localisation": false,
       "longDescription": "Synthetic data files created by GenRocket for testing purposes in the MACLC CTAC project. These files are used to simulate real-world data scenarios without exposing sensitive information.",
@@ -8335,8 +8267,8 @@
       ],
       "date": {
         "created": "2024-10-24T14:45:52Z",
-        "lastModified": "2026-06-29T14:38:24Z",
-        "metadataLastUpdated": "2026-07-01T00:45:27.941Z"
+        "lastModified": "2026-07-24T19:55:44Z",
+        "metadataLastUpdated": "2026-08-01T00:33:13.079Z"
       },
       "description": "CTAC Weekly System",
       "disclaimerText": "",
@@ -8346,7 +8278,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 7879,
+      "laborHours": 7911,
       "languages": [
         "Python"
       ],
@@ -8823,7 +8755,7 @@
     },
     {
       "AIUseCaseID": "0",
-      "SBOM": "https://github.com/Enterprise-CMCS/maclc-public-MAF-data-production/network/dependencies",
+      "SBOM": "https://github.com/Enterprise-CMCS/maclc-pr-data-production/network/dependencies",
       "categories": [
         "data-analytics"
       ],
@@ -8836,18 +8768,18 @@
       ],
       "date": {
         "created": "2025-06-27T14:42:59Z",
-        "lastModified": "2026-06-30T17:19:04Z",
-        "metadataLastUpdated": "2026-07-01T00:40:58.191Z"
+        "lastModified": "2026-07-20T16:32:29Z",
+        "metadataLastUpdated": "2026-07-22T16:18:04.555Z"
       },
       "description": "Code to support automated generation of data for public reporting related to eligibility operations and public reporting for MACLC Task 5.7",
       "disclaimerText": "",
       "disclaimerURL": "",
       "downloadURL": "",
-      "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-public-MAF-data-production/issues",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-pr-data-production/issues",
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 5740,
+      "laborHours": 5741,
       "languages": [
         "Python",
         "Jupyter Notebook"
@@ -8920,8 +8852,8 @@
       ],
       "date": {
         "created": "2025-09-29T16:21:32Z",
-        "lastModified": "2026-06-18T19:53:12Z",
-        "metadataLastUpdated": "2026-07-01T01:11:02.003Z"
+        "lastModified": "2026-07-31T20:11:19Z",
+        "metadataLastUpdated": "2026-08-01T00:48:34.119Z"
       },
       "description": "Repository for shared Python packages created by and for the MACLC project.",
       "disclaimerText": "",
@@ -8931,7 +8863,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 4779,
+      "laborHours": 4836,
       "languages": [
         "Python"
       ],
@@ -9326,8 +9258,8 @@
       ],
       "date": {
         "created": "2024-07-16T14:48:01Z",
-        "lastModified": "2026-06-01T01:21:07Z",
-        "metadataLastUpdated": "2026-07-01T01:17:12.723Z"
+        "lastModified": "2026-07-01T01:17:35Z",
+        "metadataLastUpdated": "2026-08-01T00:52:01.518Z"
       },
       "description": "CTAC TAF DQ Checks",
       "disclaimerText": "",
@@ -10414,8 +10346,8 @@
       ],
       "date": {
         "created": "2016-02-13T07:02:20Z",
-        "lastModified": "2026-06-30T20:32:00Z",
-        "metadataLastUpdated": "2026-07-01T00:35:22.573Z"
+        "lastModified": "2026-07-31T19:30:25Z",
+        "metadataLastUpdated": "2026-08-01T00:26:48.808Z"
       },
       "description": "File processing pipeline, web dashboard and core libraries for the Transformed-Medicaid Statistical Information System (T-MSIS)",
       "disclaimerText": "",
@@ -10425,7 +10357,7 @@
       "fismaLevel": "High",
       "group": "CMS",
       "homepageURL": "",
-      "laborHours": 91069,
+      "laborHours": 91087,
       "languages": [
         "HTML",
         "Java",

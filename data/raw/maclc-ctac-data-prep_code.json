@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 1128,
+  "laborHours": 2616,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -35,7 +35,9 @@
     "data-analytics"
   ],
   "softwareType": "standalone/other",
-  "languages": [],
+  "languages": [
+    "Python"
+  ],
   "maintenance": "contract",
   "contractNumber": [
     "75FCMC19D0091/75FCMC22F0001"
@@ -46,8 +48,8 @@
   "partners": [],
   "date": {
     "created": "2026-06-11T16:57:36Z",
-    "lastModified": "2026-06-22T11:14:32Z",
-    "metadataLastUpdated": "2026-07-01T00:33:20.115Z"
+    "lastModified": "2026-07-03T00:51:42Z",
+    "metadataLastUpdated": "2026-08-01T00:24:19.976Z"
   },
   "tags": [
     "Medicaid",

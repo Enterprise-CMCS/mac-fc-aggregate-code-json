@@ -1,6 +1,6 @@
 {
-  "name": "MACScorecard-Frontend",
-  "description": "The Scorecard aims improve public transparency about the administration and outcomes of the Medicaid and CHIP programs",
+  "name": "MAC-CoreSet-DataDashboard-Frontend",
+  "description": "",
   "longDescription": "The Centers for Medicare & Medicaid Services (CMS) developed the Medicaid and Children’s Health Insurance Program (CHIP) Scorecard to improve public transparency about the administration and outcomes of these programs. States and CMS can use the Medicaid and CHIP (MAC) Scorecard to drive improvements in areas such as state and federal alignment, beneficiary health outcomes, and program administration.",
   "status": "Production",
   "permissions": {
@@ -14,12 +14,12 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/MACScorecard-Frontend",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/MAC-CoreSet-DataDashboard-Frontend",
   "projectURL": "https://www.medicaid.gov/state-overviews/scorecard/main",
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 22814,
+  "laborHours": 23326,
   "reuseFrequency": {
     "forks": 0
   },
@@ -36,14 +36,15 @@
     "SCSS",
     "JavaScript",
     "Shell",
+    "CSS",
     "Python"
   ],
   "maintenance": "contract",
   "contractNumber": "75FCMC19D0091:75FCMC21F0001",
   "date": {
-    "created": "2023-03-09T19:42:04Z",
-    "lastModified": "2025-07-07T17:49:17Z",
-    "metaDataLastUpdated": "2025-07-07T17:51:07.465Z"
+    "created": "2026-05-06T18:40:50Z",
+    "lastModified": "2026-07-28T20:26:04Z",
+    "metaDataLastUpdated": "2026-08-01T00:37:43.126Z"
   },
   "tags": [
     "Medicaid",

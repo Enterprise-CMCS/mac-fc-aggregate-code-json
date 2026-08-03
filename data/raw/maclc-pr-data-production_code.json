@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 5740,
+  "laborHours": 5741,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -43,14 +43,14 @@
   "contractNumber": [
     "75FCMC19D0091/75FCMC22F0001"
   ],
-  "SBOM": "https://github.com/Enterprise-CMCS/maclc-public-MAF-data-production/network/dependencies",
+  "SBOM": "https://github.com/Enterprise-CMCS/maclc-pr-data-production/network/dependencies",
   "relatedCode": [],
   "reusedCode": [],
   "partners": [],
   "date": {
     "created": "2025-06-27T14:42:59Z",
-    "lastModified": "2026-06-30T17:19:04Z",
-    "metadataLastUpdated": "2026-07-01T00:40:58.191Z"
+    "lastModified": "2026-07-20T16:32:29Z",
+    "metadataLastUpdated": "2026-07-22T16:18:04.555Z"
   },
   "tags": [
     "Medicaid",
@@ -61,7 +61,7 @@
     "email": "kbisson@mathematica-mpr.com",
     "name": "Katie Bisson"
   },
-  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-public-MAF-data-production/issues",
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-pr-data-production/issues",
   "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
