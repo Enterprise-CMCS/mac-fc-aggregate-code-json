@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 2914,
+  "laborHours": 2838,
   "reuseFrequency": {
     "forks": 0
   },
@@ -39,8 +39,8 @@
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
     "created": "2022-06-06T21:56:11Z",
-    "lastModified": "2026-05-05T19:30:15Z",
-    "metaDataLastUpdated": "2026-06-01T01:17:56.545Z"
+    "lastModified": "2026-07-20T14:55:26Z",
+    "metaDataLastUpdated": "2026-08-01T00:50:20.532Z"
   },
   "tags": [
     "Scala",

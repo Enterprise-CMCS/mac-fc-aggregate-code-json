@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 13562,
+  "laborHours": 16405,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -43,8 +43,8 @@
   "softwareType": "standalone/web",
   "languages": [
     "TypeScript",
-    "Shell",
     "HTML",
+    "Shell",
     "JavaScript",
     "SCSS"
   ],
@@ -58,8 +58,8 @@
   "partners": [],
   "date": {
     "created": "2026-01-20T14:11:02Z",
-    "lastModified": "2026-06-30T15:09:15Z",
-    "metadataLastUpdated": "2026-07-01T00:33:12.857Z"
+    "lastModified": "2026-07-30T13:28:28Z",
+    "metadataLastUpdated": "2026-08-01T00:24:23.029Z"
   },
   "tags": [
     "react",

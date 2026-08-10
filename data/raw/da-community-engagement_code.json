@@ -1,7 +1,8 @@
 {
-  "name": "Community Engagement Data Mart",
+  "name": "da-community-engagement",
   "version": "1",
   "description": "Code for the construction of the community engagement data mart used for community engagement reporting in CMCS.",
+  "longDescription": "",
   "status": "Beta",
   "permissions": {
     "licenses": [
@@ -16,23 +17,37 @@
   },
   "organization": "CMCS",
   "repositoryURL": "https://github.com/Enterprise-CMCS/da-community-engagement",
+  "repositoryHost": "github",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 1,
+  "laborHours": 5215,
   "reuseFrequency": {
-    "forks": 1,
+    "forks": 0,
     "clones": 1
   },
+  "platforms": [],
+  "categories": [],
+  "softwareType": "",
   "languages": [
-    "python"
+    "Jupyter Notebook",
+    "Python"
   ],
   "maintenance": "contract",
   "contractNumber": [
     "CONT-2026-72138"
   ],
   "SBOM": "None",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
-    "created": "2026-07-06T00:00:00-07:00"
+    "created": "2026-04-16T12:33:09Z",
+    "lastModified": "2026-07-22T17:08:02Z",
+    "metadataLastUpdated": "2026-08-01T00:36:03.163Z"
   },
   "tags": [
     "community engagement"
@@ -42,5 +57,15 @@
     "name": "Michael McCamman"
   },
   "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-community-engagement/issues",
-  "AIUseCaseID": "0"
+  "AIUseCaseID": "0",
+  "localisation": false,
+  "repositoryType": "",
+  "userInput": false,
+  "fismaLevel": "",
+  "group": "",
+  "projects": [],
+  "systems": [],
+  "subsetInHealthcare": [],
+  "userType": [],
+  "maturityModelTier": 0
 }

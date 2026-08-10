@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 26099,
+  "laborHours": 26095,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -46,6 +46,7 @@
     "JavaScript",
     "Dockerfile",
     "PowerShell",
+    "Shell",
     "Batchfile"
   ],
   "maintenance": "contract",
@@ -58,8 +59,8 @@
   "partners": [],
   "date": {
     "created": "2025-01-22T17:55:34Z",
-    "lastModified": "2026-05-20T22:24:59Z",
-    "metadataLastUpdated": "2026-06-01T01:14:56.257Z"
+    "lastModified": "2026-07-28T15:24:32Z",
+    "metadataLastUpdated": "2026-08-01T00:48:44.830Z"
   },
   "tags": [
     "Basic",

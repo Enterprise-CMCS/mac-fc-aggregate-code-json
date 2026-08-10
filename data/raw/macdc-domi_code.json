@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 2285,
+  "laborHours": 3153,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -36,7 +36,9 @@
     "metadata-management"
   ],
   "softwareType": "standalone/backend",
-  "languages": [],
+  "languages": [
+    "Python"
+  ],
   "maintenance": "contract",
   "contractNumber": [
     "75FCMC21F0108"
@@ -50,8 +52,8 @@
   "partners": [],
   "date": {
     "created": "2025-11-06T15:57:58Z",
-    "lastModified": "2026-06-29T17:05:56Z",
-    "metadataLastUpdated": "2026-07-01T00:29:39.818Z"
+    "lastModified": "2026-07-29T14:18:02Z",
+    "metadataLastUpdated": "2026-08-01T00:22:10.814Z"
   },
   "tags": [
     "AWS",
