@@ -5582,8 +5582,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:44:20Z",
-        "lastModified": "2026-06-30T16:12:54Z",
-        "metadataLastUpdated": "2026-07-01T00:53:06.669Z"
+        "lastModified": "2026-07-28T15:16:10Z",
+        "metadataLastUpdated": "2026-08-01T00:37:11.034Z"
       },
       "description": "Common modules for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid and (CHIP).",
       "disclaimerText": "",
@@ -5593,7 +5593,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 10565,
+      "laborHours": 10581,
       "languages": [
         "Java"
       ],
@@ -6094,8 +6094,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:45:27Z",
-        "lastModified": "2026-06-24T17:16:33Z",
-        "metadataLastUpdated": "2026-07-01T01:02:21.625Z"
+        "lastModified": "2026-07-16T17:06:27Z",
+        "metadataLastUpdated": "2026-08-01T00:43:10.305Z"
       },
       "description": "File Service for MACFin which maintains budget and expenses for States \u0026 Fed Govt. for Medicaid and CHIP. ",
       "disclaimerText": "",
@@ -6105,7 +6105,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 5084,
+      "laborHours": 5077,
       "languages": [
         "Java",
         "PLpgSQL"
@@ -6457,8 +6457,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:46:10Z",
-        "lastModified": "2026-01-20T16:44:26Z",
-        "metadataLastUpdated": "2026-07-01T00:33:13.196Z"
+        "lastModified": "2026-07-02T19:03:44Z",
+        "metadataLastUpdated": "2026-08-01T00:24:33.636Z"
       },
       "description": "Fetch MBES data into MACFin which maintains budget and expenses for States and Fed. for Medicaid program and CHIP.",
       "disclaimerText": "",
@@ -6468,7 +6468,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 7391,
+      "laborHours": 7390,
       "languages": [
         "Java",
         "PLpgSQL"
@@ -7371,8 +7371,8 @@
       ],
       "date": {
         "created": "2025-05-22T15:42:46Z",
-        "lastModified": "2026-06-30T20:02:54Z",
-        "metadataLastUpdated": "2026-07-01T01:00:42.609Z"
+        "lastModified": "2026-07-24T12:58:46Z",
+        "metadataLastUpdated": "2026-08-01T00:41:37.654Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -7382,7 +7382,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/CAHPG",
       "homepageURL": "",
-      "laborHours": 8572,
+      "laborHours": 8611,
       "languages": [
         "SAS",
         "Python"
@@ -7538,8 +7538,8 @@
       ],
       "date": {
         "created": "2025-06-03T20:36:51Z",
-        "lastModified": "2026-05-01T00:23:47Z",
-        "metadataLastUpdated": "2026-06-01T00:28:56.486Z"
+        "lastModified": "2026-07-31T19:44:25Z",
+        "metadataLastUpdated": "2026-08-01T00:22:20.212Z"
       },
       "description": "CTAC Ad Hoc Analytics",
       "disclaimerText": "",
@@ -7549,7 +7549,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 7725,
+      "laborHours": 8513,
       "languages": [
         "Python"
       ],
@@ -8628,8 +8628,8 @@
       ],
       "date": {
         "created": "2024-07-12T17:42:07Z",
-        "lastModified": "2026-06-26T19:34:02Z",
-        "metadataLastUpdated": "2026-07-01T00:53:08.681Z"
+        "lastModified": "2026-07-31T14:19:49Z",
+        "metadataLastUpdated": "2026-08-01T00:36:29.197Z"
       },
       "description": "Code to support ad hoc requests for MACLC Task 5.7",
       "disclaimerText": "",
@@ -8639,7 +8639,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 3159,
+      "laborHours": 3356,
       "languages": [
         "Python"
       ],
@@ -9122,8 +9122,8 @@
       ],
       "date": {
         "created": "2026-07-14T15:33:01Z",
-        "lastModified": "2026-07-20T20:10:41Z",
-        "metadataLastUpdated": "2026-07-20T20:12:11.058Z"
+        "lastModified": "2026-07-22T14:59:37Z",
+        "metadataLastUpdated": "2026-08-01T00:28:25.629Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -9133,7 +9133,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/CAHPG",
       "homepageURL": "",
-      "laborHours": 1028,
+      "laborHours": 1100,
       "languages": [],
       "localisation": false,
       "longDescription": "This repository contains the code to produce the MCOG SPA support output for monitoring and reporting",
@@ -9936,81 +9936,6 @@
         "testing"
       ],
       "upstream": "none",
-      "userInput": false,
-      "userType": [
-        "Government"
-      ],
-      "vcs": "git"
-    },
-    {
-      "categories": [
-        "test-management"
-      ],
-      "contact": {
-        "email": "stephanie.hauf@cms.hhs.gov",
-        "name": "Stephanie Hauf"
-      },
-      "contractNumber": "47QTCA20D000W:75FCMC24F0189",
-      "date": {
-        "created": "2023-06-12T16:04:52Z",
-        "lastModified": "2025-09-23T14:59:34Z",
-        "metaDataLastUpdated": "2025-10-01T00:04:21.826Z"
-      },
-      "description": "",
-      "feedbackMechanisms": [
-        "https://github.com/Enterprise-CMCS/mdp-rc-validation/issues"
-      ],
-      "fismaLevel": "Moderate",
-      "group": "Digital Services Group",
-      "laborHours": 5952,
-      "languages": [
-        "Jupyter Notebook",
-        "Shell",
-        "Python"
-      ],
-      "localisation": false,
-      "longDescription": "The main goal of this repo is to validate the outputs of the RC and BPD process and evaluate the data quality of the inputs using sqlmesh",
-      "maintenance": "internal",
-      "maturityModelTier": 0,
-      "name": "mdp-rc-validation",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "n/a",
-            "name": "None"
-          }
-        ],
-        "usageType": "governmentWideReuse"
-      },
-      "platforms": [
-        "mac",
-        "linux"
-      ],
-      "projectURL": "portal.cms.gov",
-      "projects": [
-        "Medicaid Drug Program"
-      ],
-      "repositoryHost": "github.com/Enterprise-CMCS",
-      "repositoryType": "tools",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/mdp-rc-validation",
-      "repositoryVisibility": "private",
-      "reuseFrequency": {
-        "clones": 0,
-        "forks": 0
-      },
-      "softwareType": "standalone/other",
-      "status": "Ideation",
-      "subsetInHealthcare": [
-        "Medicaid"
-      ],
-      "systems": [],
-      "tags": [
-        "sql",
-        "sqlmesh"
-      ],
-      "upstream": "",
       "userInput": false,
       "userType": [
         "Government"

@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 1028,
+  "laborHours": 1100,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -46,8 +46,8 @@
   "partners": [],
   "date": {
     "created": "2026-07-14T15:33:01Z",
-    "lastModified": "2026-07-20T20:10:41Z",
-    "metadataLastUpdated": "2026-07-20T20:12:11.058Z"
+    "lastModified": "2026-07-22T14:59:37Z",
+    "metadataLastUpdated": "2026-08-01T00:28:25.629Z"
   },
   "tags": [
     "Medicaid",
