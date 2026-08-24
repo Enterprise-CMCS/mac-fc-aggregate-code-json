@@ -1,0 +1,70 @@
+{
+  "name": "maclc-ep-portal",
+  "version": "",
+  "description": "This repository houses code used to support MACLC Task 4 with Eligibility Processing (EP) Data Portal update testing.",
+  "longDescription": "",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": [
+      "governmentWideReuse"
+    ]
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-ep-portal",
+  "repositoryHost": "github",
+  "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
+  "vcs": "git",
+  "laborHours": 1000,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [],
+  "categories": [],
+  "softwareType": "",
+  "languages": [],
+  "maintenance": "contract",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC22F0001"
+  ],
+  "SBOM": "None",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
+  "date": {
+    "created": "2026-07-29T18:25:21Z",
+    "lastModified": "2026-08-17T22:32:08Z",
+    "metadataLastUpdated": "2026-08-18T19:03:33.621Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "Eligibility Processing"
+  ],
+  "contact": {
+    "email": "bhagen@mathematica-mpr.com",
+    "name": "Brynn Hagen"
+  },
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-ep-portal/issues",
+  "AIUseCaseID": "0",
+  "localisation": false,
+  "repositoryType": "",
+  "userInput": false,
+  "fismaLevel": "",
+  "group": "",
+  "projects": [],
+  "systems": [],
+  "subsetInHealthcare": [],
+  "userType": [],
+  "maturityModelTier": 0
+}
