@@ -1260,8 +1260,8 @@
       "contractNumber": "75FCMC19D0091/75FCMC21F0001",
       "date": {
         "created": "2025-03-25T18:22:00Z",
-        "lastModified": "2026-04-13T03:58:15Z",
-        "metaDataLastUpdated": "2026-05-01T00:44:50.684Z"
+        "lastModified": "2026-07-28T16:55:18Z",
+        "metaDataLastUpdated": "2026-08-01T00:36:54.626Z"
       },
       "description": "",
       "feedbackMechanisms": [
@@ -1269,7 +1269,7 @@
       ],
       "fismaLevel": "Moderate",
       "group": "CMCS",
-      "laborHours": 3618,
+      "laborHours": 3639,
       "languages": [
         "C#"
       ],
@@ -1333,6 +1333,94 @@
         "Government"
       ],
       "vcs": "git"
+    },
+    {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/da-dq-atlas-etl/network/dependencies",
+      "categories": [
+        "data-analytics",
+        "data-visualization"
+      ],
+      "contact": {
+        "email": "rbhasker@index-analytics.com",
+        "name": "Ganapathi Raman Bhasker"
+      },
+      "contractNumber": [
+        "75FCMC22A0018:75FCMC26F0028"
+      ],
+      "date": {
+        "created": "2025-10-14T12:46:42Z",
+        "lastModified": "2026-08-25T19:06:41Z",
+        "metadataLastUpdated": "2026-08-25T19:08:16.832Z"
+      },
+      "description": "",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-dq-atlas-etl/issues",
+      "fismaLevel": "Moderate",
+      "group": "CMCS",
+      "homepageURL": "",
+      "laborHours": 4430,
+      "languages": [
+        "Python",
+        "Jupyter Notebook"
+      ],
+      "localisation": false,
+      "longDescription": "DQ Atlas is an interactive web tool for exploring the quality and usability of the Transformed Medicaid Statistical Information System (T-MSIS) Analytic Files (TAF). This portion of the project uses C# code to generate 508 compliant PDFs - input files as json and output as pdf. Requires .NET and iText 7 library.",
+      "maintenance": "contract",
+      "maturityModelTier": 0,
+      "name": "da-dq-atlas-etl",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "none",
+            "name": "None"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "web"
+      ],
+      "projects": [
+        "DQ Atlas"
+      ],
+      "relatedCode": [],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "website",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/da-dq-atlas-etl",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "standalone/web",
+      "status": "Development",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [
+        "Medicaid.gov",
+        "DataConnect",
+        "DKAN"
+      ],
+      "tags": [
+        "Medicaid",
+        "Medicaid Data",
+        "Data Quality",
+        "DQ Atlas"
+      ],
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git",
+      "version": ""
     },
     {
       "AIUseCaseID": "0",
@@ -8924,8 +9012,8 @@
       ],
       "date": {
         "created": "2025-06-27T14:42:59Z",
-        "lastModified": "2026-07-20T16:32:29Z",
-        "metadataLastUpdated": "2026-07-22T16:18:04.555Z"
+        "lastModified": "2026-07-29T21:27:17Z",
+        "metadataLastUpdated": "2026-08-01T00:29:19.327Z"
       },
       "description": "Code to support automated generation of data for public reporting related to eligibility operations and public reporting for MACLC Task 5.7",
       "disclaimerText": "",
@@ -8935,7 +9023,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 5741,
+      "laborHours": 5733,
       "languages": [
         "Python",
         "Jupyter Notebook"

@@ -1,5 +1,6 @@
 {
-  "name": "da-dq-atlas-backgroundmethods",
+  "name": "da-dq-atlas-etl",
+  "version": "",
   "description": "",
   "longDescription": "DQ Atlas is an interactive web tool for exploring the quality and usability of the Transformed Medicaid Statistical Information System (T-MSIS) Analytic Files (TAF). This portion of the project uses C# code to generate 508 compliant PDFs - input files as json and output as pdf. Requires .NET and iText 7 library.",
   "status": "Development",
@@ -14,14 +15,18 @@
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/da-dq-atlas-backgroundmethods",
-  "projectURL": "https://www.medicaid.gov/dq-atlas",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/da-dq-atlas-etl",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 3639,
+  "laborHours": 4430,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "web"
@@ -32,36 +37,34 @@
   ],
   "softwareType": "standalone/web",
   "languages": [
-    "C#"
+    "Python",
+    "Jupyter Notebook"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "contractNumber": [
+    "75FCMC22A0018:75FCMC26F0028"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/da-dq-atlas-etl/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
-    "created": "2025-03-25T18:22:00Z",
-    "lastModified": "2026-07-28T16:55:18Z",
-    "metaDataLastUpdated": "2026-08-01T00:36:54.626Z"
+    "created": "2025-10-14T12:46:42Z",
+    "lastModified": "2026-08-25T19:06:41Z",
+    "metadataLastUpdated": "2026-08-25T19:08:16.832Z"
   },
   "tags": [
     "Medicaid",
     "Medicaid Data",
     "Data Quality",
-    "DQ Atlas",
-    "T-MSIS",
-    "TAF",
-    "Managed Care Plans",
-    "Claim Files",
-    "Enrollment",
-    "Expenditures",
-    "Payments",
-    "Service Use"
+    "DQ Atlas"
   ],
   "contact": {
     "email": "rbhasker@index-analytics.com",
     "name": "Ganapathi Raman Bhasker"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/da-dq-atlas-backgroundmethods/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-dq-atlas-etl/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "website",
   "userInput": false,
@@ -75,7 +78,6 @@
     "DataConnect",
     "DKAN"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],
