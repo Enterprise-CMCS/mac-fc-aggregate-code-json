@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 9760,
+  "laborHours": 10469,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -55,8 +55,8 @@
   "partners": [],
   "date": {
     "created": "2022-04-27T16:28:46Z",
-    "lastModified": "2026-07-31T14:47:41Z",
-    "metadataLastUpdated": "2026-08-01T00:45:25.951Z"
+    "lastModified": "2026-08-31T14:45:18Z",
+    "metadataLastUpdated": "2026-09-01T00:50:15.594Z"
   },
   "tags": [
     "dataconnect"

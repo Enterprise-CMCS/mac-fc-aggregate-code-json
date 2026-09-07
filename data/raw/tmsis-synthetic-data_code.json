@@ -1,20 +1,20 @@
 {
-  "name": "macdc-cms-state-regulations",
+  "name": "tmsis-synthetic-data",
   "version": "",
-  "description": "This repository functions as an AI-driven agent platform that leverages state CMS regulations to power automated Q&A workflows and policy update tracking for compliance operations.",
-  "longDescription": "",
+  "description": "TMSIS Synthetic Data Generation",
+  "longDescription": "This script generates synthetic data for the TMSIS (Transmittal Medicaid Statistical Information System) database",
   "permissions": {
-    "licenses": [
+    "license": [
       {
         "name": "",
         "URL": ""
       }
     ],
-    "usageType": [],
+    "usageType": "",
     "exemptionText": ""
   },
   "organization": "",
-  "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-synthetic-data",
   "repositoryHost": "github",
   "repositoryVisibility": "private",
   "homepageURL": "",
@@ -22,7 +22,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 10234,
+  "laborHours": 1688,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -31,28 +31,25 @@
   "categories": [],
   "softwareType": "",
   "languages": [
-    "Python",
-    "Makefile",
-    "Shell",
-    "Mako"
+    "Python"
   ],
   "maintenance": "",
   "contractNumber": [],
-  "SBOM": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations/network/dependencies",
+  "SBOM": "https://github.com/Enterprise-CMCS/tmsis-synthetic-data/network/dependencies",
   "relatedCode": [],
   "reusedCode": [],
   "partners": [],
   "date": {
-    "created": "2026-03-10T14:14:55Z",
-    "lastModified": "2026-08-31T16:02:35Z",
-    "metadataLastUpdated": "2026-09-01T01:03:51.901Z"
+    "created": "2025-11-26T13:35:41Z",
+    "lastModified": "2026-08-31T20:27:00Z",
+    "metadataLastUpdated": "2026-08-31T20:49:34.321Z"
   },
   "tags": [],
   "contact": {
     "email": "",
     "name": ""
   },
-  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations/issues",
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/tmsis-synthetic-data/issues",
   "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "",

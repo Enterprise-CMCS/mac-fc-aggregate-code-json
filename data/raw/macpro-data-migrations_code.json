@@ -1,0 +1,81 @@
+{
+  "name": "macpro-data-migrations",
+  "description": "An internal data migration project, aim to host ETL code associated with migrating MACPRO systems into MAC Suite OneMAC SMART application.",
+  "longDescription": "macpro-data-migrations hosts deterministic Python ETL and migration support assets for moving legacy MACPRO data into the MAC Suite OneMAC SMART Salesforce application. The active smart-data-migration project transforms SEA Tool CSV exports and OneMAC JSON exports into SMART load files, performs reference lookups, validates mapping contracts, and produces run-scoped audit artifacts for QA, UAT, and operational migration work.",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "CC0-1.0",
+        "URL": "https://creativecommons.org/publicdomain/zero/1.0/legalcode"
+      }
+    ],
+    "usageType": "openSource",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macpro-data-migrations",
+  "projectURL": "https://github.com/Enterprise-CMCS/macpro-data-migrations",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "vcs": "git",
+  "platforms": [
+    "linux",
+    "macOS",
+    "windows"
+  ],
+  "categories": [
+    "data-management",
+    "data-analytics",
+    "it-development"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [
+    "Python",
+    "YAML",
+    "JSON",
+    "Markdown"
+  ],
+  "date": {
+    "created": "2026-05-04T10:25:27-04:00",
+    "lastModified": "2026-09-04T11:05:21-05:00",
+    "metaDataLastUpdated": "2026-09-04T17:46:30Z"
+  },
+  "tags": [
+    "cms",
+    "healthcare",
+    "medicaid",
+    "macpro",
+    "onemac",
+    "smart",
+    "sea-tool",
+    "etl",
+    "data-migration",
+    "spa"
+  ],
+  "feedbackMechanisms": [
+    "https://github.com/Enterprise-CMCS/macpro-data-migrations/issues"
+  ],
+  "localisation": false,
+  "repositoryType": "application",
+  "userInput": true,
+  "group": "Enterprise CMCS",
+  "projects": [
+    "MAC Suite",
+    "OneMAC",
+    "SMART"
+  ],
+  "systems": [
+    "SEA Tool",
+    "OneMAC",
+    "SMART Salesforce"
+  ],
+  "upstream": "https://github.com/Enterprise-CMCS/macpro-data-migrations/network/dependencies",
+  "subsetInHealthcare": [
+    "Operational",
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ]
+}
+

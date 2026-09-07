@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 10878,
+  "laborHours": 10968,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -37,7 +37,8 @@
   "softwareType": "standalone/other",
   "languages": [
     "Python",
-    "SAS"
+    "SAS",
+    "Jupyter Notebook"
   ],
   "maintenance": "contract",
   "contractNumber": [
@@ -49,8 +50,8 @@
   "partners": [],
   "date": {
     "created": "2023-07-10T20:21:51Z",
-    "lastModified": "2026-06-11T04:30:15Z",
-    "metadataLastUpdated": "2026-07-01T00:54:58.699Z"
+    "lastModified": "2026-08-31T02:30:14Z",
+    "metadataLastUpdated": "2026-09-01T00:37:42.524Z"
   },
   "tags": [
     "Medicaid",

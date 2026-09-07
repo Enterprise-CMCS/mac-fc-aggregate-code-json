@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 11770,
+  "laborHours": 11790,
   "reuseFrequency": {
     "forks": 0,
     "clones": 151
@@ -52,8 +52,8 @@
   "partners": [],
   "date": {
     "created": "2021-11-15T17:21:09Z",
-    "lastModified": "2026-07-31T18:58:19Z",
-    "metadataLastUpdated": "2026-08-01T00:18:16.709Z"
+    "lastModified": "2026-08-31T16:34:35Z",
+    "metadataLastUpdated": "2026-09-01T00:04:10.035Z"
   },
   "tags": [
     "dqe"

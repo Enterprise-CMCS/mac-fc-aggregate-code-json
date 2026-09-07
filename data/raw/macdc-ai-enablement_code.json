@@ -1,7 +1,7 @@
 {
   "name": "macdc-ai-enablement",
   "version": "",
-  "description": "",
+  "description": "This repository contains AI enablement tooling, configurations, and resources for the MAC-DC DataConnect platform.",
   "longDescription": "",
   "permissions": {
     "licenses": [
@@ -21,7 +21,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 1898,
+  "laborHours": 2709,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -38,8 +38,8 @@
   "partners": [],
   "date": {
     "created": "2026-08-18T13:00:42Z",
-    "lastModified": "2026-08-21T03:43:05Z",
-    "metadataLastUpdated": "2026-08-21T19:51:02.661Z"
+    "lastModified": "2026-08-31T16:33:55Z",
+    "metadataLastUpdated": "2026-09-01T00:33:40.857Z"
   },
   "tags": [],
   "contact": {

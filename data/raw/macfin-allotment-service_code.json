@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 9949,
+  "laborHours": 9957,
   "reuseFrequency": {
     "forks": 0,
     "clones": 6
@@ -49,9 +49,9 @@
   "softwareType": "standalone/web",
   "languages": [
     "Java",
+    "PLpgSQL",
     "Gherkin",
-    "HTML",
-    "PLpgSQL"
+    "HTML"
   ],
   "maintenance": "contract",
   "contractNumber": [
@@ -63,8 +63,8 @@
   "partners": [],
   "date": {
     "created": "2023-08-28T20:42:31Z",
-    "lastModified": "2026-07-16T21:12:41Z",
-    "metadataLastUpdated": "2026-08-01T00:43:32.461Z"
+    "lastModified": "2026-08-29T00:19:44Z",
+    "metadataLastUpdated": "2026-09-01T00:46:36.091Z"
   },
   "tags": [
     "allotment",

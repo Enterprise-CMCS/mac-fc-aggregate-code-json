@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 19049,
+  "laborHours": 19146,
   "reuseFrequency": {
     "forks": 0,
     "clones": 25
@@ -45,8 +45,8 @@
   "languages": [
     "Gherkin",
     "Java",
-    "HTML",
-    "PLpgSQL"
+    "PLpgSQL",
+    "HTML"
   ],
   "maintenance": "contract",
   "contractNumber": [
@@ -58,8 +58,8 @@
   "partners": [],
   "date": {
     "created": "2023-08-28T20:45:12Z",
-    "lastModified": "2026-07-30T23:26:19Z",
-    "metadataLastUpdated": "2026-08-01T00:41:11.564Z"
+    "lastModified": "2026-08-31T21:10:42Z",
+    "metadataLastUpdated": "2026-09-01T00:42:25.761Z"
   },
   "tags": [
     "expenditure",

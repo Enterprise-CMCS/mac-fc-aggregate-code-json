@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 91087,
+  "laborHours": 91107,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -47,8 +47,8 @@
     "Shell",
     "Scala",
     "Groovy",
-    "CSS",
     "Dockerfile",
+    "CSS",
     "Rich Text Format",
     "Ruby",
     "SCSS",
@@ -64,8 +64,8 @@
   "partners": [],
   "date": {
     "created": "2016-02-13T07:02:20Z",
-    "lastModified": "2026-07-31T19:30:25Z",
-    "metadataLastUpdated": "2026-08-01T00:26:48.808Z"
+    "lastModified": "2026-08-31T20:53:13Z",
+    "metadataLastUpdated": "2026-09-01T00:15:54.564Z"
   },
   "tags": [
     "tmsis"

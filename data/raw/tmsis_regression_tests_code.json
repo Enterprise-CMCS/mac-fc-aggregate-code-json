@@ -1,81 +1,63 @@
 {
   "name": "tmsis_regression_tests",
   "description": "Regression Testing Framework for the T-MSIS Project",
-  "longDescription": "This repository contains regression tests for TMSIS. It is used to ensure that the TMSIS system works correctly and efficiently after changes or updates.",
-  "status": "Production",
+  "longDescription": "",
+  "status": "",
   "permissions": {
-    "licenses": [
+    "license": [
       {
-        "name": "None",
-        "URL": "https://github.com/Enterprise-CMCS/tmsis_regresison_tests/blob/main/README.md"
+        "name": "",
+        "URL": ""
       }
     ],
-    "usageType": "governmentWideReuse",
+    "usageType": "",
     "exemptionText": ""
   },
-  "organization": "Centers for Medicare & Medicaid Services",
+  "organization": "",
   "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis_regression_tests",
   "projectURL": "",
-  "repositoryHost": "github.com/CMS-Enterprise",
-  "repositoryVisibility": "private",
+  "repositoryHost": "github",
+  "repositoryVisibility": "",
   "vcs": "git",
-  "laborHours": 12310,
+  "laborHours": 9835,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
-  "platforms": [
-    "mac",
-    "linux",
-    "other"
-  ],
-  "categories": [
-    "cloud-management"
-  ],
-  "softwareType": "standalone/backend",
+  "platforms": [],
+  "categories": [],
+  "softwareType": "",
   "languages": [
     "Python",
     "HTML",
-    "Java",
-    "JavaScript"
+    "Groovy",
+    "Shell",
+    "Dockerfile"
   ],
-  "maintenance": "contract",
-  "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
+  "maintenance": "",
+  "contractNumber": "",
   "date": {
     "created": "2018-04-04T23:32:47Z",
-    "lastModified": "2025-07-15T19:28:33Z",
-    "metaDataLastUpdated": "2025-08-01T00:14:52.391Z"
+    "lastModified": "2026-08-31T19:43:19Z",
+    "metaDataLastUpdated": "2026-08-31T20:09:46.152Z"
   },
-  "tags": [
-    "Python",
-    "HTML",
-    "Java",
-    "JavaScript",
-    "TMSIS",
-    "CMS"
-  ],
+  "tags": [],
   "contact": {
-    "email": "cms_IT_service_desk@cms.hhs.gov",
+    "email": "",
     "name": ""
   },
   "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/tmsis_regresison_tests/issues"
+    "https://github.com/Enterprise-CMCS/tmsis_regression_tests/issues"
   ],
   "localisation": false,
-  "repositoryType": "tools",
+  "repositoryType": "",
   "userInput": false,
-  "fismaLevel": "Low",
-  "group": "CMS",
-  "projects": [
-    "TMSIS"
-  ],
+  "fismaLevel": "",
+  "group": "",
+  "projects": [],
   "systems": [],
   "upstream": "",
-  "subsetInHealthcare": [
-    "Operational",
-    "Medicaid"
-  ],
-  "userType": [
-    "Government"
-  ],
-  "maturityModelTier": 3
+  "subsetInHealthcare": [],
+  "userType": [],
+  "maturityModelTier": 0
 }
