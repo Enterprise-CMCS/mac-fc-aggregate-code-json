@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 16405,
+  "laborHours": 16838,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -58,8 +58,8 @@
   "partners": [],
   "date": {
     "created": "2026-01-20T14:11:02Z",
-    "lastModified": "2026-07-30T13:28:28Z",
-    "metadataLastUpdated": "2026-08-01T00:24:23.029Z"
+    "lastModified": "2026-08-31T21:03:30Z",
+    "metadataLastUpdated": "2026-09-01T00:13:41.555Z"
   },
   "tags": [
     "react",

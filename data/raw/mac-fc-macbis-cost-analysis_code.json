@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 6461,
+  "laborHours": 6502,
   "reuseFrequency": {
     "forks": 790
   },
@@ -41,8 +41,8 @@
   "contractNumber": "47QTCA21D00AC",
   "date": {
     "created": "2021-08-11T14:17:29Z",
-    "lastModified": "2026-08-05T15:00:04Z",
-    "metaDataLastUpdated": "2026-08-05T15:32:33.695Z"
+    "lastModified": "2026-08-31T21:35:20Z",
+    "metaDataLastUpdated": "2026-09-01T01:02:43.996Z"
   },
   "tags": [
     "cost-analysis",

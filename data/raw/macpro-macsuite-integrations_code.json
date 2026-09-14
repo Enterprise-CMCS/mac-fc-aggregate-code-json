@@ -1,0 +1,49 @@
+{
+  "name": "macpro-macsuite-integrations",
+  "description": "This GitHub repository hosts the CMS/CMCS MuleSoft 4 MacPro MacSuite MCReview Salesforce integrations.",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": [
+      "governmentWideReuse"
+    ]
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macpro-macsuite-integrations",
+  "repositoryVisibility": "public",
+  "vcs": "git",
+  "laborHours": 0,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "languages": [
+    "Shell",
+    "Mule XML DSL",
+    "Java",
+    "DataWeave"
+  ],
+  "maintenance": "contract",
+  "contractNumber": [
+    "75FCMC24F0027"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/macpro-macsuite-integrations/network/dependencies",
+  "date": {
+    "created": "2026-07-23T00:00:00-04:00"
+  },
+  "tags": [
+    "mule",
+    "mcreview",
+    "macsuite"
+  ],
+  "contact": {
+    "email": "nathan.odonnnell3@cms.hhs.gov",
+    "name": "Nathan Odonnell"
+  },
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macpro-macsuite-integrations/issues",
+  "AIUseCaseID": "0"
+}
