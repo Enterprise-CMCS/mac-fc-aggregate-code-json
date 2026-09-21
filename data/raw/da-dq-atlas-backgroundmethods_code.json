@@ -1,5 +1,6 @@
 {
   "name": "da-dq-atlas-backgroundmethods",
+  "version": "",
   "description": "",
   "longDescription": "DQ Atlas is an interactive web tool for exploring the quality and usability of the Transformed Medicaid Statistical Information System (T-MSIS) Analytic Files (TAF). This portion of the project uses C# code to generate 508 compliant PDFs - input files as json and output as pdf. Requires .NET and iText 7 library.",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/da-dq-atlas-backgroundmethods",
-  "projectURL": "https://www.medicaid.gov/dq-atlas",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 3639,
+  "laborHours": 3633,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "web"
@@ -35,11 +40,17 @@
     "C#"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC21F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/da-dq-atlas-backgroundmethods/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-03-25T18:22:00Z",
-    "lastModified": "2026-07-28T16:55:18Z",
-    "metaDataLastUpdated": "2026-08-01T00:36:54.626Z"
+    "lastModified": "2026-09-17T17:38:23Z",
+    "metadataLastUpdated": "2026-09-18T13:57:59.652Z"
   },
   "tags": [
     "Medicaid",
@@ -59,9 +70,8 @@
     "email": "rbhasker@index-analytics.com",
     "name": "Ganapathi Raman Bhasker"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/da-dq-atlas-backgroundmethods/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-dq-atlas-backgroundmethods/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "website",
   "userInput": false,
@@ -75,7 +85,6 @@
     "DataConnect",
     "DKAN"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

@@ -1,0 +1,46 @@
+
+{
+  "name": "SPAssistant Frontend",
+  "description": "SPAssistant allows users to analyze Medicaid State Plan by providing responses with citation to where exactly the answer is coming from. Users can also see the knowledge graph of different layers of abstraction for explainable result.",
+  "status": "Beta",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "https://github.com/Enterprise-CMCS/macpro-spassistant-frontend"
+      }
+    ],
+    "usageType": [
+      "governmentWideReuse"
+    ]
+  },
+  "organization": "CMS",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macpro-spassistant-frontend",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 5824,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "languages": [
+    "Python"
+  ],
+  "maintenance": "internal",
+  "contractNumber": [
+    "75FCMC25FJ103"
+  ],
+  "SBOM": "None",
+  "date": {
+    "created": "2026-05-29T00:00:00-04:00"
+  },
+  "tags": [
+    "AI",
+    "Medicaid State Plan"
+  ],
+  "contact": {
+    "email": "cchan@pistevodecision.com",
+    "name": "Cupid Chan"
+  },
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macpro-spassistant-frontend/issues",
+  "AIUseCaseID": "0"
+}

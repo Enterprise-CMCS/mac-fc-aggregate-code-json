@@ -1,16 +1,17 @@
 {
   "name": "macdc-ai-enablement",
-  "version": "",
+  "agency": "CMS",
+  "version": "0.0.0",
   "description": "This repository contains AI enablement tooling, configurations, and resources for the MAC-DC DataConnect platform.",
   "longDescription": "",
   "permissions": {
     "licenses": [
       {
         "name": "CC0-1.0",
-        "URL": ""
+        "URL": "https://github.com/Enterprise-CMCS/macdc-ai-enablement/blob/main/LICENSE"
       }
     ],
-    "usageType": [],
+    "usageType": "governmentWideReuse",
     "exemptionText": ""
   },
   "organization": "Centers for Medicare & Medicaid Services",
@@ -21,39 +22,59 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 2709,
+  "laborHours": 8666,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
   },
-  "platforms": [],
-  "categories": [],
-  "languages": [
-    "Shell"
+  "platforms": [
+    "other"
   ],
-  "contractNumber": [],
+  "categories": [
+    "security-compliance",
+    "data-analytics"
+  ],
+  "languages": [
+    "Python",
+    "Shell",
+    "Makefile"
+  ],
+  "maintenance": "contract",
+  "contractNumber": [
+    "75FCMC21F0108"
+  ],
   "SBOM": "https://github.com/Enterprise-CMCS/macdc-ai-enablement/network/dependencies",
   "relatedCode": [],
   "reusedCode": [],
   "partners": [],
   "date": {
     "created": "2026-08-18T13:00:42Z",
-    "lastModified": "2026-08-31T16:33:55Z",
-    "metadataLastUpdated": "2026-09-01T00:33:40.857Z"
+    "lastModified": "2026-09-16T13:31:31Z",
+    "metadataLastUpdated": "2026-09-16T17:10:27.190Z"
   },
-  "tags": [],
+  "tags": [
+    "AWS",
+    "DataConnect",
+    "MAC_DC"
+  ],
   "contact": {
-    "email": "",
-    "name": ""
+    "email": "dataconnect@cmsdataconnect.us",
+    "name": "Zach Holden"
   },
   "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-ai-enablement/issues",
   "AIUseCaseID": "0",
   "localisation": false,
   "userInput": false,
   "group": "",
-  "projects": [],
+  "projects": [
+    "DataConnect"
+  ],
   "systems": [],
-  "subsetInHealthcare": [],
-  "userType": [],
-  "maturityModelTier": 0
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 1
 }

@@ -1,5 +1,6 @@
 {
   "name": "dq-atlas-backend",
+  "version": "",
   "description": "",
   "longDescription": "DQ Atlas is an interactive web tool for exploring the quality and usability of the Transformed Medicaid Statistical Information System (T-MSIS) Analytic Files (TAF). This portion of the project was generated using Python and Flask framework. Includes core module containing application logic, apis module containing REST API code, SQL scripts, testing and non-code assets.",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/dq-atlas-backend",
-  "projectURL": "https://www.medicaid.gov/dq-atlas",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 7347,
+  "laborHours": 7590,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "web"
@@ -33,15 +38,22 @@
   "softwareType": "standalone/web",
   "languages": [
     "Python",
+    "HCL",
     "Shell",
     "JavaScript"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC21F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/dq-atlas-backend/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2023-07-11T17:59:54Z",
-    "lastModified": "2026-04-13T03:57:10Z",
-    "metaDataLastUpdated": "2026-05-01T00:55:59.353Z"
+    "lastModified": "2026-09-17T17:39:41Z",
+    "metadataLastUpdated": "2026-09-18T14:20:08.919Z"
   },
   "tags": [
     "Medicaid",
@@ -61,9 +73,8 @@
     "email": "rbhasker@index-analytics.com",
     "name": "Ganapathi Raman Bhasker"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/dq-atlas-backend/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/dq-atlas-backend/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "website",
   "userInput": false,
@@ -77,7 +88,6 @@
     "DataConnect",
     "DKAN"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

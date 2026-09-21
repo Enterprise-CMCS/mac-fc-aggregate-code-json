@@ -1,5 +1,6 @@
 {
   "name": "da-taf-dd-sttm",
+  "version": "",
   "description": "",
   "longDescription": "This repo generates a metadata output file used by some downstream TAF ingestors, containing information on source and output variable mappings within TAF. This process also serves as a tertiary QC of TAF Data Dictionary changes",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/da-taf-dd-sttm",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
   "laborHours": 2469,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -34,11 +39,17 @@
     "Python"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC21F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/da-taf-dd-sttm/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-03-26T19:37:10Z",
-    "lastModified": "2026-02-09T21:32:38Z",
-    "metaDataLastUpdated": "2026-04-01T00:08:02.095Z"
+    "lastModified": "2026-09-17T17:46:36Z",
+    "metadataLastUpdated": "2026-09-18T14:20:44.961Z"
   },
   "tags": [
     "Medicaid",
@@ -50,9 +61,8 @@
     "email": "angelica.parker@cms.hhs.gov",
     "name": "Angelica Parker"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/da-taf-dd-sttm/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-taf-dd-sttm/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -62,7 +72,6 @@
     "N/A"
   ],
   "systems": [],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

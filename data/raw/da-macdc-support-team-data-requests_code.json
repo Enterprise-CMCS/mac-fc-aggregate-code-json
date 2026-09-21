@@ -1,5 +1,6 @@
 {
   "name": "da-macdc-support-team-data-requests",
+  "version": "",
   "description": "This repository will contain an archive of code and methodology documentation used to respond to DataConnect support desk analytic requests. The purpose of this repository is to promote open sharing of prior request methods to enhance productivity on answering future requests.",
   "longDescription": "Repository containing supporting materials (code, technical specifications) for DataConnect Support Team data request tickets.",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/da-macdc-support-team-data-requests",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 12362,
+  "laborHours": 12361,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -37,11 +42,17 @@
     "Python"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091:75FCMC21F0001",
+  "contractNumber": [
+    "75FCMC19D0091:75FCMC21F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/da-macdc-support-team-data-requests/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2023-06-29T16:45:01Z",
-    "lastModified": "2026-06-24T19:07:11Z",
-    "metaDataLastUpdated": "2026-08-01T00:39:26.818Z"
+    "lastModified": "2026-09-17T17:39:03Z",
+    "metadataLastUpdated": "2026-09-18T14:20:34.211Z"
   },
   "tags": [
     "Medicaid",
@@ -52,9 +63,8 @@
     "email": "rbhasker@index-analytics.com",
     "name": "Ganapathi Raman Bhasker"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/da-macdc-support-team-data-requests/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-macdc-support-team-data-requests/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -66,7 +76,6 @@
   "systems": [
     "DataConnect"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

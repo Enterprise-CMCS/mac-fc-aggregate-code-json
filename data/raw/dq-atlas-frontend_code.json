@@ -1,5 +1,6 @@
 {
   "name": "dq-atlas-frontend",
+  "version": "",
   "description": "",
   "longDescription": "DQ Atlas is an interactive web tool for exploring the quality and usability of the Transformed Medicaid Statistical Information System (T-MSIS) Analytic Files (TAF). This portion of the project was generated using Angular 8.0.3 is part of a larger project including an aws backend and an internal charting library. Testing includes unit tests, API testing, E2E, and visual regression testing. Application Performance Monitoring is also included through New Relic.",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/dq-atlas-frontend",
-  "projectURL": "https://www.medicaid.gov/dq-atlas",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 12991,
+  "laborHours": 13291,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "web"
@@ -39,11 +44,17 @@
     "Shell"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC21F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/dq-atlas-frontend/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2023-07-11T17:59:00Z",
-    "lastModified": "2026-07-27T15:39:03Z",
-    "metaDataLastUpdated": "2026-08-01T00:18:58.489Z"
+    "lastModified": "2026-09-17T17:40:55Z",
+    "metadataLastUpdated": "2026-09-18T14:20:25.199Z"
   },
   "tags": [
     "Medicaid",
@@ -63,9 +74,8 @@
     "email": "rbhasker@index-analytics.com",
     "name": "Ganapathi Raman Bhasker"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/dq-atlas-frontend/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/dq-atlas-frontend/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "website",
   "userInput": false,
@@ -79,7 +89,6 @@
     "DataConnect",
     "DKAN"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

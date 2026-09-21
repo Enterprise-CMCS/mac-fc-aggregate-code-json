@@ -1,14 +1,15 @@
 {
   "name": "macdc-dab-deployment-framework",
+  "agency": "CMS",
   "version": "1.0.0",
   "description": "This repository functions as the centralized infrastructure-as-code framework and reference implementation for Databricks Asset Bundles. It includes standardized job and pipeline definitions, naming and tagging conventions, GitOps-driven deployment examples via GitHub Actions, and team guidance for onboarding new bundles.",
-  "longDescription": "This repository serves as the central hub for all metadata governance configurations, data contracts, and vocabulary definitions related to the DataConnect project, enabling standardized ingestion, transformation, access control, and compliance enforcement across the platform.",
+  "longDescription": "This repository provides templates and working examples for managing Databricks workloads as code with Declarative Automation Bundles. It includes notebook and Python job projects, YAML-based resource definitions, Python wheel packaging, development, validation, and production deployment targets, plus guidance for GitHub Actions, service-principal authentication, naming, tagging, and repeatable deployments across Databricks workspaces.",
   "status": "Production",
   "permissions": {
     "licenses": [
       {
         "name": "CC0-1.0",
-        "URL": "https://github.com/Enterprise-CMCS/macdc-domi/blob/main/LICENSE"
+        "URL": "https://github.com/Enterprise-CMCS/macdc-dab-deployment-framework/blob/main/LICENSE"
       }
     ],
     "usageType": "governmentWideReuse",
@@ -44,7 +45,7 @@
   "contractNumber": [
     "75FCMC21F0108"
   ],
-  "SBOM": "https://github.com/Enterprise-CMCS/macdc-domi/network/dependencies",
+  "SBOM": "https://github.com/Enterprise-CMCS/macdc-dab-deployment-framework/network/dependencies",
   "relatedCode": [
     "https://github.com/Enterprise-CMCS/macdc-terraform",
     "https://github.com/Enterprise-CMCS/macdc-data-contracts"
@@ -53,8 +54,8 @@
   "partners": [],
   "date": {
     "created": "2026-02-06T16:53:45Z",
-    "lastModified": "2026-08-31T16:05:04Z",
-    "metadataLastUpdated": "2026-09-01T00:13:28.539Z"
+    "lastModified": "2026-09-15T12:29:38Z",
+    "metadataLastUpdated": "2026-09-16T17:48:26.324Z"
   },
   "tags": [
     "AWS",
@@ -67,7 +68,7 @@
     "email": "dataconnect@cmsdataconnect.us",
     "name": "Zach Holden"
   },
-  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-domi/issues",
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-dab-deployment-framework/issues",
   "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "application",

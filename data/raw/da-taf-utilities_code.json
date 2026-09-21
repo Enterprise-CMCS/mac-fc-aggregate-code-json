@@ -1,5 +1,6 @@
 {
   "name": "da-taf-utilities",
+  "version": "",
   "description": "",
   "longDescription": "This repository functions as a central and organized location for storing and maintaining TAF operational production utilities",
   "status": "Development",
@@ -15,13 +16,17 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/da-taf-utilities",
-  "projectURL": "",
   "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 8836,
+  "laborHours": 8903,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [
     "other"
@@ -34,11 +39,17 @@
     "Python"
   ],
   "maintenance": "contract",
-  "contractNumber": "75FCMC19D0091/75FCMC21F0001",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC21F0001"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/da-taf-utilities/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2024-10-10T12:14:30Z",
-    "lastModified": "2025-11-03T18:05:40Z",
-    "metaDataLastUpdated": "2026-01-01T00:11:39.209Z"
+    "lastModified": "2026-09-17T17:45:44Z",
+    "metadataLastUpdated": "2026-09-18T14:20:19.029Z"
   },
   "tags": [
     "Medicaid",
@@ -48,9 +59,8 @@
     "email": "rbhasker@index-analytics.com",
     "name": "Ganapathi Raman Bhasker"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/da-taf-utilities/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-taf-utilities/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
@@ -62,7 +72,6 @@
   "systems": [
     "DataConnect"
   ],
-  "upstream": "",
   "subsetInHealthcare": [
     "Medicaid"
   ],

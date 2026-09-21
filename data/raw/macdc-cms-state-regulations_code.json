@@ -1,19 +1,20 @@
 {
   "name": "macdc-cms-state-regulations",
-  "version": "",
+  "agency": "CMS",
+  "version": "0.0.0",
   "description": "This repository functions as an AI-driven agent platform that leverages state CMS regulations to power automated Q&A workflows and policy update tracking for compliance operations.",
-  "longDescription": "",
+  "longDescription": "This is a POC and not intended for production use. The repository is designed to facilitate the development of AI agents that can interpret and apply state-specific CMS regulations, enabling organizations to streamline their compliance processes. It includes tools for automated question answering, policy change detection, and regulatory impact analysis.",
   "permissions": {
     "licenses": [
       {
-        "name": "",
-        "URL": ""
+        "name": "CC0-1.0",
+        "URL": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations/blob/main/LICENSE"
       }
     ],
-    "usageType": [],
+    "usageType": "governmentWideReuse",
     "exemptionText": ""
   },
-  "organization": "",
+  "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations",
   "repositoryHost": "github",
   "repositoryVisibility": "private",
@@ -27,8 +28,13 @@
     "forks": 0,
     "clones": 0
   },
-  "platforms": [],
-  "categories": [],
+  "platforms": [
+    "other"
+  ],
+  "categories": [
+    "security-compliance",
+    "data-analytics"
+  ],
   "softwareType": "",
   "languages": [
     "Python",
@@ -36,21 +42,27 @@
     "Shell",
     "Mako"
   ],
-  "maintenance": "",
-  "contractNumber": [],
+  "maintenance": "contract",
+  "contractNumber": [
+    "75FCMC21F0108"
+  ],
   "SBOM": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations/network/dependencies",
   "relatedCode": [],
   "reusedCode": [],
   "partners": [],
   "date": {
     "created": "2026-03-10T14:14:55Z",
-    "lastModified": "2026-08-31T16:02:35Z",
-    "metadataLastUpdated": "2026-09-01T01:03:51.901Z"
+    "lastModified": "2026-09-09T14:40:14Z",
+    "metadataLastUpdated": "2026-09-16T17:37:23.073Z"
   },
-  "tags": [],
+  "tags": [
+    "AWS",
+    "DataConnect",
+    "MAC_DC"
+  ],
   "contact": {
-    "email": "",
-    "name": ""
+    "email": "dataconnect@cmsdataconnect.us",
+    "name": "Zach Holden"
   },
   "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations/issues",
   "AIUseCaseID": "0",
@@ -59,9 +71,15 @@
   "userInput": false,
   "fismaLevel": "",
   "group": "",
-  "projects": [],
+  "projects": [
+    "DataConnect"
+  ],
   "systems": [],
-  "subsetInHealthcare": [],
-  "userType": [],
-  "maturityModelTier": 0
+  "subsetInHealthcare": [
+    "Medicaid"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 1
 }

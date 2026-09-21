@@ -1,5 +1,6 @@
 {
   "name": "da-taf-post-production",
+  "version": "",
   "description": "",
   "longDescription": "",
   "status": "",
@@ -15,11 +16,14 @@
   },
   "organization": "",
   "repositoryURL": "https://github.com/Enterprise-CMCS/da-taf-post-production",
-  "projectURL": "",
   "repositoryHost": "github",
-  "repositoryVisibility": "",
+  "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 9592,
+  "laborHours": 9677,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -33,20 +37,23 @@
     "SAS"
   ],
   "maintenance": "",
-  "contractNumber": "",
+  "contractNumber": [],
+  "SBOM": "https://github.com/Enterprise-CMCS/da-taf-post-production/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2024-09-05T13:18:57Z",
-    "lastModified": "2026-03-05T22:03:38Z",
-    "metaDataLastUpdated": "2026-04-01T00:58:41.703Z"
+    "lastModified": "2026-09-17T17:49:36Z",
+    "metadataLastUpdated": "2026-09-18T14:20:45.490Z"
   },
   "tags": [],
   "contact": {
     "email": "rbhasker@index-analytics.com",
     "name": "Ganapathi Raman Bhasker"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/da-taf-post-production/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-taf-post-production/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "",
   "userInput": false,
@@ -54,7 +61,6 @@
   "group": "",
   "projects": [],
   "systems": [],
-  "upstream": "",
   "subsetInHealthcare": [],
   "userType": [],
   "maturityModelTier": 0
