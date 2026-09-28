@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "internal",
   "vcs": "git",
-  "laborHours": 3292,
+  "laborHours": 4492,
   "reuseFrequency": {
     "forks": 0
   },
@@ -32,6 +32,7 @@
   ],
   "softwareType": "standalone/backend",
   "languages": [
+    "Go",
     "HCL",
     "Python",
     "Dockerfile",
@@ -41,8 +42,8 @@
   "contractNumber": "47QTCA21D00AC",
   "date": {
     "created": "2025-08-19T12:43:45Z",
-    "lastModified": "2026-07-23T14:43:26Z",
-    "metaDataLastUpdated": "2026-08-01T00:43:15.148Z"
+    "lastModified": "2026-08-31T18:07:48Z",
+    "metaDataLastUpdated": "2026-09-01T00:45:57.055Z"
   },
   "tags": [
     "mac-fc aws account terraform",
