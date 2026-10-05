@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 5930,
+  "laborHours": 12870,
   "reuseFrequency": {
     "forks": 0
   },
@@ -33,6 +33,8 @@
   ],
   "softwareType": "standalone/backend",
   "languages": [
+    "Java",
+    "Thrift",
     "Python",
     "Groovy",
     "Shell",
@@ -42,8 +44,8 @@
   "contractNumber": "47QTCA19D00KH: 75FCMC22F0123",
   "date": {
     "created": "2023-04-06T16:46:55Z",
-    "lastModified": "2026-08-31T18:04:41Z",
-    "metaDataLastUpdated": "2026-09-01T00:58:05.724Z"
+    "lastModified": "2026-09-24T14:14:49Z",
+    "metaDataLastUpdated": "2026-10-01T00:59:52.333Z"
   },
   "tags": [
     "Python",

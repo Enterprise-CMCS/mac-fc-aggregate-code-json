@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 39055,
+  "laborHours": 41773,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -43,9 +43,9 @@
     "Scala",
     "Jupyter Notebook",
     "Shell",
+    "Makefile",
     "Java",
-    "Dockerfile",
-    "Makefile"
+    "Dockerfile"
   ],
   "maintenance": "contract",
   "contractNumber": [
@@ -57,8 +57,8 @@
   "partners": [],
   "date": {
     "created": "2025-01-22T17:53:40Z",
-    "lastModified": "2026-08-27T20:36:55Z",
-    "metadataLastUpdated": "2026-09-01T00:11:31.066Z"
+    "lastModified": "2026-09-30T21:12:54Z",
+    "metadataLastUpdated": "2026-10-01T00:12:04.202Z"
   },
   "tags": [
     "Terraform",

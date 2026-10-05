@@ -1,0 +1,86 @@
+{
+  "name": "Waiver Management System",
+  "description": "Jakarta EE and Facelets migration of the CMS Waiver Management System onto JBoss EAP 8.1.",
+  "longDescription": "This repository is the JBoss EAP 8.1 migration of the CMS Waiver Management System. It provides the web application CMS and state staff use to initiate, amend, and renew Medicaid 1915(b) and 1915(c) waivers and to support CMS-372 reporting. The code is maintained for government-wide reuse inside CMS.",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "https://github.com/Enterprise-CMCS/macpro-wms-jboss8.1"
+      }
+    ],
+    "usageType": [
+      "governmentWideReuse"
+    ],
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macpro-wms-jboss8.1",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 0,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "platforms": [
+    "web"
+  ],
+  "categories": [
+    "data-collection",
+    "business-process-management"
+  ],
+  "softwareType": "standalone/web",
+  "languages": [
+    "Java"
+  ],
+  "maintenance": "contract",
+  "contractNumber": [
+    "GS-35F-115GA:75FCMC22F0093"
+  ],
+  "SBOM": "None",
+  "relatedCode": [
+    {
+      "name": "macpro-wms",
+      "URL": "https://github.com/Enterprise-CMCS/macpro-wms",
+      "isGovernmentRepo": true
+    }
+  ],
+  "date": {
+    "created": "2026-07-02T00:00:00-04:00",
+    "lastModified": "2026-09-28T00:00:00-04:00",
+    "metadataLastUpdated": "2026-09-28T00:00:00-04:00"
+  },
+  "tags": [
+    "waiver-management",
+    "medicaid",
+    "cms",
+    "macbis",
+    "jakarta-ee",
+    "jboss"
+  ],
+  "contact": {
+    "email": "angel.frett@cms.hhs.gov",
+    "name": "Angel Frett"
+  },
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macpro-wms-jboss8.1/issues",
+  "AIUseCaseID": "0",
+  "localisation": false,
+  "repositoryType": "application",
+  "userInput": true,
+  "fismaLevel": "moderate",
+  "group": "CMS/CMCS",
+  "projects": [
+    "WMS"
+  ],
+  "systems": [],
+  "subsetInHealthcare": [
+    "medicaid",
+    "operational"
+  ],
+  "userType": [
+    "government"
+  ],
+  "maturityModelTier": 2
+}

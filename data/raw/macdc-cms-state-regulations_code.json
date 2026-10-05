@@ -1,6 +1,5 @@
 {
   "name": "macdc-cms-state-regulations",
-  "agency": "CMS",
   "version": "0.0.0",
   "description": "This repository functions as an AI-driven agent platform that leverages state CMS regulations to power automated Q&A workflows and policy update tracking for compliance operations.",
   "longDescription": "This is a POC and not intended for production use. The repository is designed to facilitate the development of AI agents that can interpret and apply state-specific CMS regulations, enabling organizations to streamline their compliance processes. It includes tools for automated question answering, policy change detection, and regulatory impact analysis.",
@@ -23,7 +22,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 10234,
+  "laborHours": 10248,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -52,8 +51,8 @@
   "partners": [],
   "date": {
     "created": "2026-03-10T14:14:55Z",
-    "lastModified": "2026-09-09T14:40:14Z",
-    "metadataLastUpdated": "2026-09-16T17:37:23.073Z"
+    "lastModified": "2026-09-30T13:23:17Z",
+    "metadataLastUpdated": "2026-10-01T01:06:24.507Z"
   },
   "tags": [
     "AWS",

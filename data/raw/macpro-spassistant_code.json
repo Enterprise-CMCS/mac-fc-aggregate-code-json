@@ -1,6 +1,8 @@
 {
-  "name": "SPAssistant",
+  "name": "macpro-spassistant",
+  "version": "",
   "description": "SPAssistant allows users to analyze Medicaid State Plan by providing responses with citation to where exactly the answer is coming from. Users can also see the knowledge graph of different layers of abstraction for explainable result.",
+  "longDescription": "",
   "status": "Beta",
   "permissions": {
     "licenses": [
@@ -15,22 +17,38 @@
   },
   "organization": "CMS",
   "repositoryURL": "https://github.com/Enterprise-CMCS/macpro-spassistant",
+  "repositoryHost": "github",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 7897,
+  "laborHours": 9686,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
+  "platforms": [ "web" ],
+  "categories": [ "knowledge-management" ],
+  "softwareType": "standalone/web",
   "languages": [
-    "Python"
+    "Python",
+    "Shell",
+    "Dockerfile"
   ],
   "maintenance": "internal",
   "contractNumber": [
     "75FCMC25FJ103"
   ],
   "SBOM": "None",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
-    "created": "2026-05-18T00:00:00-04:00"
+    "created": "2026-05-18T15:20:57Z",
+    "lastModified": "2026-09-30T20:09:26Z",
+    "metadataLastUpdated": "2026-10-01T00:02:34.356Z"
   },
   "tags": [
     "AI",
@@ -41,5 +59,15 @@
     "name": "Cupid Chan"
   },
   "feedbackMechanism": "https://github.com/Enterprise-CMCS/macpro-spassistant/issues",
-  "AIUseCaseID": "0"
+  "AIUseCaseID": "0",
+  "localisation": false,
+  "repositoryType": "website",
+  "userInput": true,
+  "fismaLevel": "low",
+  "group": "CMCS",
+  "projects": [ "spassistant" ],
+  "systems": [],
+  "subsetInHealthcare": [ "policy" ],
+  "userType": [ "government" ],
+  "maturityModelTier": 0
 }
