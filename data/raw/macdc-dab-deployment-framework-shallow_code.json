@@ -1,0 +1,89 @@
+{
+  "name": "macdc-dab-deployment-framework",
+  "version": "1.0.0",
+  "description": "This repository functions as the centralized infrastructure-as-code framework and reference implementation for Databricks Asset Bundles. It includes standardized job and pipeline definitions, naming and tagging conventions, GitOps-driven deployment examples via GitHub Actions, and team guidance for onboarding new bundles.",
+  "longDescription": "This repository provides templates and working examples for managing Databricks workloads as code with Declarative Automation Bundles. It includes notebook and Python job projects, YAML-based resource definitions, Python wheel packaging, development, validation, and production deployment targets, plus guidance for GitHub Actions, service-principal authentication, naming, tagging, and repeatable deployments across Databricks workspaces.",
+  "status": "Production",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "CC0-1.0",
+        "URL": "https://github.com/Enterprise-CMCS/macdc-dab-deployment-framework/blob/main/LICENSE"
+      }
+    ],
+    "usageType": "governmentWideReuse",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-dab-deployment-framework",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
+  "vcs": "git",
+  "laborHours": 2826,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [
+    "AWS"
+  ],
+  "categories": [
+    "data-governance",
+    "metadata-management"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [
+    "Jupyter Notebook",
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": [
+    "75FCMC21F0108"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/macdc-dab-deployment-framework/network/dependencies",
+  "relatedCode": [
+    "https://github.com/Enterprise-CMCS/macdc-terraform",
+    "https://github.com/Enterprise-CMCS/macdc-data-contracts"
+  ],
+  "reusedCode": [],
+  "partners": [],
+  "date": {
+    "created": "2026-02-06T16:53:45Z",
+    "lastModified": "2026-09-30T16:06:56Z",
+    "metadataLastUpdated": "2026-10-01T00:13:44.934Z"
+  },
+  "tags": [
+    "AWS",
+    "DataConnect",
+    "MAC_DC",
+    "metadata-governance",
+    "data-contracts"
+  ],
+  "contact": {
+    "email": "dataconnect@cmsdataconnect.us",
+    "name": "Zach Holden"
+  },
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-dab-deployment-framework/issues",
+  "AIUseCaseID": "0",
+  "localisation": false,
+  "repositoryType": "application",
+  "userInput": false,
+  "fismaLevel": "Moderate",
+  "group": "CMCS",
+  "projects": [
+    "DataConnect"
+  ],
+  "systems": [],
+  "subsetInHealthcare": [
+    "Medicaid",
+    "CHIP"
+  ],
+  "userType": [
+    "Government"
+  ],
+  "maturityModelTier": 2
+}

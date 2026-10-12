@@ -169,84 +169,6 @@
       "categories": [
         "accounting",
         "budgeting",
-        "website-builder",
-        "it-development"
-      ],
-      "contact": {
-        "email": "MACFinHelpDesk@cms.hhs.gov",
-        "name": "MACFin HelpDesk"
-      },
-      "contractNumber": "GS-35F-303GA",
-      "date": {
-        "created": "2025-05-20T00:00:00-04:00",
-        "lastModified": "2025-05-20T00:00:00-04:00",
-        "metaDataLastUpdated": "2025-05-20T00:00:00-04:00"
-      },
-      "description": "MACFin StoryBook for Web Development.",
-      "feedbackMechanisms": [
-        "Emails"
-      ],
-      "fismaLevel": "Moderate",
-      "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
-      "laborHours": 1000,
-      "languages": [
-        "javascript"
-      ],
-      "localisation": false,
-      "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
-      "maintenance": "contract",
-      "maturityModelTier": 3,
-      "name": "MACFin",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "https://github.com/Enterprise-CMCS/macfin-storybook-pages/blob/develop/LICENSE",
-            "name": "None"
-          }
-        ],
-        "usageType": "governmentWideReuse"
-      },
-      "platforms": [
-        "web",
-        "windows",
-        "linux"
-      ],
-      "projectURL": "https://portal.cms.gov/portal/",
-      "projects": [
-        "MACFin"
-      ],
-      "repositoryHost": "github.com/CMS-Enterprise",
-      "repositoryType": "APIs",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/macfin-storybook-pages",
-      "repositoryVisibility": "private",
-      "reuseFrequency": {
-        "clones": 6,
-        "forks": 0
-      },
-      "softwareType": "standalone/web",
-      "status": "In Production",
-      "subsetInHealthcare": [
-        "Medicaid"
-      ],
-      "systems": "",
-      "tags": [
-        "#macfin",
-        "#javascript",
-        "#library"
-      ],
-      "upstream": "",
-      "userInput": true,
-      "userType": [
-        "Government"
-      ],
-      "vcs": "git"
-    },
-    {
-      "categories": [
-        "accounting",
-        "budgeting",
         "enterprise-project-management",
         "it-management",
         "it-security",
@@ -319,6 +241,84 @@
         "#expenditure",
         "#operations",
         "#kubernetes-management"
+      ],
+      "upstream": "",
+      "userInput": true,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git"
+    },
+    {
+      "categories": [
+        "accounting",
+        "budgeting",
+        "website-builder",
+        "it-development"
+      ],
+      "contact": {
+        "email": "MACFinHelpDesk@cms.hhs.gov",
+        "name": "MACFin HelpDesk"
+      },
+      "contractNumber": "GS-35F-303GA",
+      "date": {
+        "created": "2025-05-20T00:00:00-04:00",
+        "lastModified": "2025-05-20T00:00:00-04:00",
+        "metaDataLastUpdated": "2025-05-20T00:00:00-04:00"
+      },
+      "description": "MACFin StoryBook for Web Development.",
+      "feedbackMechanisms": [
+        "Emails"
+      ],
+      "fismaLevel": "Moderate",
+      "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
+      "laborHours": 1000,
+      "languages": [
+        "javascript"
+      ],
+      "localisation": false,
+      "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
+      "maintenance": "contract",
+      "maturityModelTier": 3,
+      "name": "MACFin",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/macfin-storybook-pages/blob/develop/LICENSE",
+            "name": "None"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "web",
+        "windows",
+        "linux"
+      ],
+      "projectURL": "https://portal.cms.gov/portal/",
+      "projects": [
+        "MACFin"
+      ],
+      "repositoryHost": "github.com/CMS-Enterprise",
+      "repositoryType": "APIs",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macfin-storybook-pages",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 6,
+        "forks": 0
+      },
+      "softwareType": "standalone/web",
+      "status": "In Production",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": "",
+      "tags": [
+        "#macfin",
+        "#javascript",
+        "#library"
       ],
       "upstream": "",
       "userInput": true,
@@ -1213,8 +1213,8 @@
       ],
       "date": {
         "created": "2025-10-06T16:54:35Z",
-        "lastModified": "2026-09-17T18:08:40Z",
-        "metadataLastUpdated": "2026-09-18T14:21:37.257Z"
+        "lastModified": "2026-09-18T14:38:20Z",
+        "metadataLastUpdated": "2026-10-01T00:16:13.087Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -1295,8 +1295,8 @@
       ],
       "date": {
         "created": "2025-02-20T19:34:25Z",
-        "lastModified": "2026-09-17T18:07:49Z",
-        "metadataLastUpdated": "2026-09-18T14:21:00.381Z"
+        "lastModified": "2026-09-18T14:37:58Z",
+        "metadataLastUpdated": "2026-10-01T00:26:37.238Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -1453,8 +1453,8 @@
       ],
       "date": {
         "created": "2025-03-25T18:22:00Z",
-        "lastModified": "2026-09-17T17:38:23Z",
-        "metadataLastUpdated": "2026-09-18T13:57:59.652Z"
+        "lastModified": "2026-09-18T14:34:55Z",
+        "metadataLastUpdated": "2026-10-01T00:36:40.649Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -1464,7 +1464,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 3633,
+      "laborHours": 3638,
       "languages": [
         "C#"
       ],
@@ -1548,8 +1548,8 @@
       ],
       "date": {
         "created": "2025-10-14T12:46:42Z",
-        "lastModified": "2026-09-02T14:32:29Z",
-        "metadataLastUpdated": "2026-09-09T15:25:52.537Z"
+        "lastModified": "2026-09-09T15:28:36Z",
+        "metadataLastUpdated": "2026-10-01T00:05:17.874Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -1635,8 +1635,8 @@
       ],
       "date": {
         "created": "2024-10-15T20:11:50Z",
-        "lastModified": "2026-02-12T17:51:56Z",
-        "metadataLastUpdated": "2026-04-01T00:13:33.086Z"
+        "lastModified": "2026-08-25T20:58:18Z",
+        "metadataLastUpdated": "2026-10-01T00:10:22.185Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -1646,7 +1646,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 9496,
+      "laborHours": 9501,
       "languages": [
         "Python"
       ],
@@ -1795,8 +1795,8 @@
       ],
       "date": {
         "created": "2023-05-31T20:27:55Z",
-        "lastModified": "2026-09-17T18:07:05Z",
-        "metadataLastUpdated": "2026-09-18T14:21:01.630Z"
+        "lastModified": "2026-09-18T14:38:12Z",
+        "metadataLastUpdated": "2026-10-01T01:06:30.274Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -1880,8 +1880,8 @@
       ],
       "date": {
         "created": "2023-07-10T20:21:51Z",
-        "lastModified": "2026-09-17T18:04:29Z",
-        "metadataLastUpdated": "2026-09-18T14:21:00.391Z"
+        "lastModified": "2026-09-18T14:37:44Z",
+        "metadataLastUpdated": "2026-10-01T00:39:40.575Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -1964,8 +1964,8 @@
       ],
       "date": {
         "created": "2025-12-22T17:40:36Z",
-        "lastModified": "2026-09-17T18:03:05Z",
-        "metadataLastUpdated": "2026-09-18T14:21:07.797Z"
+        "lastModified": "2026-09-18T14:36:33Z",
+        "metadataLastUpdated": "2026-10-01T00:02:20.000Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -2034,6 +2034,69 @@
     },
     {
       "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/da-kms/network/dependencies",
+      "categories": [],
+      "contact": {
+        "email": "",
+        "name": ""
+      },
+      "contractNumber": [],
+      "date": {
+        "created": "2026-10-06T15:42:39Z",
+        "lastModified": "2026-10-08T20:25:33Z",
+        "metadataLastUpdated": "2026-10-08T20:28:11.368Z"
+      },
+      "description": "",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-kms/issues",
+      "fismaLevel": "",
+      "group": "",
+      "homepageURL": "",
+      "laborHours": 850,
+      "languages": [],
+      "localisation": false,
+      "longDescription": "",
+      "maintenance": "",
+      "maturityModelTier": 0,
+      "name": "da-kms",
+      "organization": "",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "",
+            "name": ""
+          }
+        ],
+        "usageType": []
+      },
+      "platforms": [],
+      "projects": [],
+      "relatedCode": [],
+      "repositoryHost": "github",
+      "repositoryType": "",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/da-kms",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "",
+      "status": "",
+      "subsetInHealthcare": [],
+      "systems": [],
+      "tags": [],
+      "userInput": false,
+      "userType": [],
+      "vcs": "git",
+      "version": ""
+    },
+    {
+      "AIUseCaseID": "0",
       "SBOM": "https://github.com/Enterprise-CMCS/da-macdc-support-team-data-requests/network/dependencies",
       "categories": [
         "data-analytics"
@@ -2047,8 +2110,8 @@
       ],
       "date": {
         "created": "2023-06-29T16:45:01Z",
-        "lastModified": "2026-09-17T17:39:03Z",
-        "metadataLastUpdated": "2026-09-18T14:20:34.211Z"
+        "lastModified": "2026-09-18T14:34:14Z",
+        "metadataLastUpdated": "2026-10-01T00:41:23.199Z"
       },
       "description": "This repository will contain an archive of code and methodology documentation used to respond to DataConnect support desk analytic requests. The purpose of this repository is to promote open sharing of prior request methods to enhance productivity on answering future requests.",
       "disclaimerText": "",
@@ -2058,7 +2121,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 12361,
+      "laborHours": 12362,
       "languages": [
         "HTML",
         "SAS",
@@ -2129,8 +2192,8 @@
       "contractNumber": [],
       "date": {
         "created": "2026-09-02T16:38:41Z",
-        "lastModified": "2026-09-17T17:51:13Z",
-        "metadataLastUpdated": "2026-09-18T15:19:02.748Z"
+        "lastModified": "2026-09-18T16:17:33Z",
+        "metadataLastUpdated": "2026-10-01T00:25:51.307Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -2140,7 +2203,7 @@
       "fismaLevel": "",
       "group": "",
       "homepageURL": "",
-      "laborHours": 566,
+      "laborHours": 957,
       "languages": [],
       "localisation": false,
       "longDescription": "",
@@ -2196,8 +2259,8 @@
       ],
       "date": {
         "created": "2024-02-20T16:41:18Z",
-        "lastModified": "2026-09-17T18:02:24Z",
-        "metadataLastUpdated": "2026-09-18T14:20:57.653Z"
+        "lastModified": "2026-09-18T14:38:25Z",
+        "metadataLastUpdated": "2026-10-01T00:14:11.480Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -2350,8 +2413,8 @@
       ],
       "date": {
         "created": "2023-06-12T02:09:49Z",
-        "lastModified": "2026-09-17T18:09:43Z",
-        "metadataLastUpdated": "2026-09-18T14:20:52.925Z"
+        "lastModified": "2026-09-18T14:38:15Z",
+        "metadataLastUpdated": "2026-10-01T01:00:53.610Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -2433,8 +2496,8 @@
       ],
       "date": {
         "created": "2023-10-04T15:49:51Z",
-        "lastModified": "2026-09-17T17:59:02Z",
-        "metadataLastUpdated": "2026-09-18T14:21:14.017Z"
+        "lastModified": "2026-09-18T14:38:07Z",
+        "metadataLastUpdated": "2026-10-01T00:37:14.655Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -2517,8 +2580,8 @@
       ],
       "date": {
         "created": "2023-10-04T15:41:51Z",
-        "lastModified": "2026-09-17T17:58:09Z",
-        "metadataLastUpdated": "2026-09-18T14:21:13.376Z"
+        "lastModified": "2026-09-18T14:37:49Z",
+        "metadataLastUpdated": "2026-10-01T00:50:51.598Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -2733,8 +2796,8 @@
       ],
       "date": {
         "created": "2025-03-26T19:37:10Z",
-        "lastModified": "2026-09-17T17:46:36Z",
-        "metadataLastUpdated": "2026-09-18T14:20:44.961Z"
+        "lastModified": "2026-09-18T14:37:53Z",
+        "metadataLastUpdated": "2026-10-01T00:03:14.986Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -2744,7 +2807,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 2469,
+      "laborHours": 2478,
       "languages": [
         "Python"
       ],
@@ -2811,8 +2874,8 @@
       "contractNumber": "75FCMC19D0091/75FCMC21F0001",
       "date": {
         "created": "2024-03-21T12:46:12Z",
-        "lastModified": "2026-04-17T17:33:29Z",
-        "metaDataLastUpdated": "2026-05-01T00:17:54.872Z"
+        "lastModified": "2026-05-01T00:18:15Z",
+        "metaDataLastUpdated": "2026-10-01T00:05:15.391Z"
       },
       "description": "",
       "feedbackMechanisms": [
@@ -2959,8 +3022,8 @@
       "contractNumber": [],
       "date": {
         "created": "2024-09-05T13:18:57Z",
-        "lastModified": "2026-09-17T17:49:36Z",
-        "metadataLastUpdated": "2026-09-18T14:20:45.490Z"
+        "lastModified": "2026-09-18T14:37:30Z",
+        "metadataLastUpdated": "2026-10-01T01:05:50.057Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -2970,7 +3033,7 @@
       "fismaLevel": "",
       "group": "",
       "homepageURL": "",
-      "laborHours": 9677,
+      "laborHours": 9678,
       "languages": [
         "Python",
         "Jupyter Notebook",
@@ -3030,8 +3093,8 @@
       ],
       "date": {
         "created": "2024-10-10T12:14:30Z",
-        "lastModified": "2026-09-17T17:45:44Z",
-        "metadataLastUpdated": "2026-09-18T14:20:19.029Z"
+        "lastModified": "2026-09-18T14:37:40Z",
+        "metadataLastUpdated": "2026-10-01T00:16:05.227Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -3041,7 +3104,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 8903,
+      "laborHours": 8905,
       "languages": [
         "Python"
       ],
@@ -3116,8 +3179,8 @@
       ],
       "date": {
         "created": "2025-05-08T12:53:36Z",
-        "lastModified": "2026-08-31T19:31:28Z",
-        "metadataLastUpdated": "2026-09-01T00:08:54.140Z"
+        "lastModified": "2026-09-30T16:07:36Z",
+        "metadataLastUpdated": "2026-10-01T00:08:41.817Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -3127,10 +3190,11 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 5712,
+      "laborHours": 5726,
       "languages": [
         "TypeScript",
-        "Gherkin"
+        "Gherkin",
+        "JavaScript"
       ],
       "localisation": false,
       "longDescription": "The Demonstration Evaluation and Management Oversight System (DEMOS) supports the administration of the demonstration program under Medicaid Section 1115 of the Social Security Act (also known as ‘1115 waivers’). The system collects and produces data and descriptive information about Section 1115 applications submitted by states, and supports CMS’ review and approval of the applications, as well as monitoring and evaluation of approved demonstrations and budget neutrality.",
@@ -3201,8 +3265,8 @@
       ],
       "date": {
         "created": "2023-07-11T17:59:54Z",
-        "lastModified": "2026-09-17T17:39:41Z",
-        "metadataLastUpdated": "2026-09-18T14:20:08.919Z"
+        "lastModified": "2026-09-18T14:34:48Z",
+        "metadataLastUpdated": "2026-10-01T00:49:33.440Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -3212,7 +3276,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 7590,
+      "laborHours": 7592,
       "languages": [
         "Python",
         "HCL",
@@ -3299,8 +3363,8 @@
       ],
       "date": {
         "created": "2023-07-11T17:59:00Z",
-        "lastModified": "2026-09-17T17:40:55Z",
-        "metadataLastUpdated": "2026-09-18T14:20:25.199Z"
+        "lastModified": "2026-09-29T15:05:04Z",
+        "metadataLastUpdated": "2026-10-01T00:04:33.075Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -3310,7 +3374,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 13291,
+      "laborHours": 13617,
       "languages": [
         "TypeScript",
         "SCSS",
@@ -4174,6 +4238,169 @@
     },
     {
       "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/macdc-ai-enablement/network/dependencies",
+      "categories": [
+        "security-compliance",
+        "data-analytics"
+      ],
+      "contact": {
+        "email": "dataconnect@cmsdataconnect.us",
+        "name": "Zach Holden"
+      },
+      "contractNumber": [
+        "75FCMC21F0108"
+      ],
+      "date": {
+        "created": "2026-08-18T13:00:42Z",
+        "lastModified": "2026-09-30T13:05:10Z",
+        "metadataLastUpdated": "2026-10-01T00:35:00.360Z"
+      },
+      "description": "This repository contains AI enablement tooling, configurations, and resources for the MAC-DC DataConnect platform.",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-ai-enablement/issues",
+      "group": "",
+      "homepageURL": "",
+      "laborHours": 9515,
+      "languages": [
+        "Python",
+        "Shell",
+        "Makefile"
+      ],
+      "localisation": false,
+      "longDescription": "",
+      "maintenance": "contract",
+      "maturityModelTier": 1,
+      "name": "macdc-ai-enablement",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/macdc-ai-enablement/blob/main/LICENSE",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "other"
+      ],
+      "projects": [
+        "DataConnect"
+      ],
+      "relatedCode": [],
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-ai-enablement",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [],
+      "tags": [
+        "AWS",
+        "DataConnect",
+        "MAC_DC"
+      ],
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git",
+      "version": "0.0.0"
+    },
+    {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations/network/dependencies",
+      "categories": [
+        "security-compliance",
+        "data-analytics"
+      ],
+      "contact": {
+        "email": "dataconnect@cmsdataconnect.us",
+        "name": "Zach Holden"
+      },
+      "contractNumber": [
+        "75FCMC21F0108"
+      ],
+      "date": {
+        "created": "2026-03-10T14:14:55Z",
+        "lastModified": "2026-09-30T13:23:17Z",
+        "metadataLastUpdated": "2026-10-01T01:06:24.507Z"
+      },
+      "description": "This repository functions as an AI-driven agent platform that leverages state CMS regulations to power automated Q\u0026A workflows and policy update tracking for compliance operations.",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations/issues",
+      "fismaLevel": "",
+      "group": "",
+      "homepageURL": "",
+      "laborHours": 10248,
+      "languages": [
+        "Python",
+        "Makefile",
+        "Shell",
+        "Mako"
+      ],
+      "localisation": false,
+      "longDescription": "This is a POC and not intended for production use. The repository is designed to facilitate the development of AI agents that can interpret and apply state-specific CMS regulations, enabling organizations to streamline their compliance processes. It includes tools for automated question answering, policy change detection, and regulatory impact analysis.",
+      "maintenance": "contract",
+      "maturityModelTier": 1,
+      "name": "macdc-cms-state-regulations",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations/blob/main/LICENSE",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "other"
+      ],
+      "projects": [
+        "DataConnect"
+      ],
+      "relatedCode": [],
+      "repositoryHost": "github",
+      "repositoryType": "",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [],
+      "tags": [
+        "AWS",
+        "DataConnect",
+        "MAC_DC"
+      ],
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git",
+      "version": "0.0.0"
+    },
+    {
+      "AIUseCaseID": "0",
       "SBOM": "https://github.com/Enterprise-CMCS/macdc-cms-state-regulations/network/dependencies",
       "categories": [
         "security-compliance",
@@ -4347,6 +4574,95 @@
     },
     {
       "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/macdc-dab-deployment-framework/network/dependencies",
+      "categories": [
+        "data-governance",
+        "metadata-management"
+      ],
+      "contact": {
+        "email": "dataconnect@cmsdataconnect.us",
+        "name": "Zach Holden"
+      },
+      "contractNumber": [
+        "75FCMC21F0108"
+      ],
+      "date": {
+        "created": "2026-02-06T16:53:45Z",
+        "lastModified": "2026-09-30T16:06:56Z",
+        "metadataLastUpdated": "2026-10-01T00:13:44.934Z"
+      },
+      "description": "This repository functions as the centralized infrastructure-as-code framework and reference implementation for Databricks Asset Bundles. It includes standardized job and pipeline definitions, naming and tagging conventions, GitOps-driven deployment examples via GitHub Actions, and team guidance for onboarding new bundles.",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-dab-deployment-framework/issues",
+      "fismaLevel": "Moderate",
+      "group": "CMCS",
+      "homepageURL": "",
+      "laborHours": 2826,
+      "languages": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "localisation": false,
+      "longDescription": "This repository provides templates and working examples for managing Databricks workloads as code with Declarative Automation Bundles. It includes notebook and Python job projects, YAML-based resource definitions, Python wheel packaging, development, validation, and production deployment targets, plus guidance for GitHub Actions, service-principal authentication, naming, tagging, and repeatable deployments across Databricks workspaces.",
+      "maintenance": "contract",
+      "maturityModelTier": 2,
+      "name": "macdc-dab-deployment-framework",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/macdc-dab-deployment-framework/blob/main/LICENSE",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "AWS"
+      ],
+      "projects": [
+        "DataConnect"
+      ],
+      "relatedCode": [
+        "https://github.com/Enterprise-CMCS/macdc-terraform",
+        "https://github.com/Enterprise-CMCS/macdc-data-contracts"
+      ],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "application",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-dab-deployment-framework",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "standalone/backend",
+      "status": "Production",
+      "subsetInHealthcare": [
+        "Medicaid",
+        "CHIP"
+      ],
+      "systems": [],
+      "tags": [
+        "AWS",
+        "DataConnect",
+        "MAC_DC",
+        "metadata-governance",
+        "data-contracts"
+      ],
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git",
+      "version": "1.0.0"
+    },
+    {
+      "AIUseCaseID": "0",
       "SBOM": "https://github.com/Enterprise-CMCS/macdc-databricks-notebooks/network/dependencies",
       "categories": [
         "cloud-management",
@@ -4428,6 +4744,178 @@
       ],
       "vcs": "git",
       "version": ""
+    },
+    {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/macdc-databricks-notebooks/network/dependencies",
+      "categories": [
+        "cloud-management",
+        "data-analytics"
+      ],
+      "contact": {
+        "email": "dataconnect@cmsdataconnect.us",
+        "name": "Zach Holden"
+      },
+      "contractNumber": [
+        "75FCMC21F0108"
+      ],
+      "date": {
+        "created": "2023-01-05T18:41:41Z",
+        "lastModified": "2026-09-28T12:59:23Z",
+        "metadataLastUpdated": "2026-10-01T00:09:40.932Z"
+      },
+      "description": "This repository contains Databricks-compatible artifacts including notebooks, scripts, and execution modules required for DataConnect's data processing pipeline implementation and analytics workflows.",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-databricks-notebooks/issues",
+      "fismaLevel": "Moderate",
+      "group": "CMCS",
+      "homepageURL": "",
+      "laborHours": 5914,
+      "languages": [
+        "Python",
+        "Shell"
+      ],
+      "localisation": false,
+      "longDescription": "This repository is for DataConnect's internal use to house Notebooks and other code that we need to run in Databricks.",
+      "maintenance": "contract",
+      "maturityModelTier": 2,
+      "name": "macdc-databricks-notebooks",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/macdc-databricks-notebooks/blob/main/LICENSE",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "other"
+      ],
+      "projects": [
+        "DataConnect"
+      ],
+      "relatedCode": [],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "application",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-databricks-notebooks",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "standalone/backend",
+      "status": "Production",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [],
+      "tags": [
+        "AWS",
+        "Lambda",
+        "DataConnect",
+        "MAC_DC"
+      ],
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git",
+      "version": ""
+    },
+    {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/macdc-domi/network/dependencies",
+      "categories": [
+        "data-governance",
+        "metadata-management"
+      ],
+      "contact": {
+        "email": "dataconnect@cmsdataconnect.us",
+        "name": "Zach Holden"
+      },
+      "contractNumber": [
+        "75FCMC21F0108"
+      ],
+      "date": {
+        "created": "2025-11-06T15:57:58Z",
+        "lastModified": "2026-09-30T16:07:04Z",
+        "metadataLastUpdated": "2026-10-01T00:10:40.408Z"
+      },
+      "description": "This repository provides the version-controlled foundation for DataConnect’s metadata governance, including IaC templates, data contracts, vocabularies, and documentation that make metadata the control plane for ingestion, transformation, access, and compliance.",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-domi/issues",
+      "fismaLevel": "Moderate",
+      "group": "CMCS",
+      "homepageURL": "",
+      "laborHours": 5972,
+      "languages": [
+        "Python"
+      ],
+      "localisation": false,
+      "longDescription": "This repository serves as the central hub for all metadata governance configurations, data contracts, and vocabulary definitions related to the DataConnect project, enabling standardized ingestion, transformation, access control, and compliance enforcement across the platform.",
+      "maintenance": "contract",
+      "maturityModelTier": 2,
+      "name": "macdc-domi",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/macdc-domi/blob/main/LICENSE",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "AWS"
+      ],
+      "projects": [
+        "DataConnect"
+      ],
+      "relatedCode": [
+        "https://github.com/Enterprise-CMCS/macdc-terraform",
+        "https://github.com/Enterprise-CMCS/macdc-data-contracts"
+      ],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "application",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-domi",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "standalone/backend",
+      "status": "Production",
+      "subsetInHealthcare": [
+        "Medicaid",
+        "CHIP"
+      ],
+      "systems": [],
+      "tags": [
+        "AWS",
+        "DataConnect",
+        "MAC_DC",
+        "metadata-governance",
+        "data-contracts"
+      ],
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git",
+      "version": "1.0.0"
     },
     {
       "AIUseCaseID": "0",
@@ -4688,6 +5176,92 @@
     },
     {
       "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/macdc-etl/network/dependencies",
+      "categories": [
+        "cloud-management",
+        "data-analytics"
+      ],
+      "contact": {
+        "email": "dataconnect@cmsdataconnect.us",
+        "name": "Zach Holden"
+      },
+      "contractNumber": [
+        "75FCMC21F0108"
+      ],
+      "date": {
+        "created": "2023-01-26T18:37:29Z",
+        "lastModified": "2026-09-30T16:13:52Z",
+        "metadataLastUpdated": "2026-10-01T00:50:39.406Z"
+      },
+      "description": "This repository maintains the source code for DataConnect's extract-transform-load operations, including data transformation modules, pipeline definitions, and associated orchestration processes.",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-etl/issues",
+      "fismaLevel": "Moderate",
+      "group": "CMCS",
+      "homepageURL": "",
+      "laborHours": 20292,
+      "languages": [
+        "Python",
+        "HiveQL",
+        "Makefile",
+        "Shell"
+      ],
+      "localisation": false,
+      "longDescription": "This repository is where DataConnect is putting all of its ETL code and processes.",
+      "maintenance": "contract",
+      "maturityModelTier": 2,
+      "name": "macdc-etl",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/macdc-etl/blob/main/LICENSE",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "other"
+      ],
+      "projects": [
+        "DataConnect"
+      ],
+      "relatedCode": [],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "application",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-etl",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "standalone/backend",
+      "status": "Production",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [],
+      "tags": [
+        "AWS",
+        "Lambda",
+        "DataConnect",
+        "MAC_DC"
+      ],
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git",
+      "version": ""
+    },
+    {
+      "AIUseCaseID": "0",
       "SBOM": "https://github.com/Enterprise-CMCS/macdc-lambdas/network/dependencies",
       "categories": [
         "cloud-management",
@@ -4762,6 +5336,176 @@
       "tags": [
         "AWS",
         "Lambda",
+        "DataConnect",
+        "MAC_DC"
+      ],
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git",
+      "version": ""
+    },
+    {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/macdc-lambdas/network/dependencies",
+      "categories": [
+        "cloud-management",
+        "data-analytics"
+      ],
+      "contact": {
+        "email": "dataconnect@cmsdataconnect.us",
+        "name": "Zach Holden"
+      },
+      "contractNumber": [
+        "75FCMC21F0108"
+      ],
+      "date": {
+        "created": "2023-02-15T21:50:19Z",
+        "lastModified": "2026-09-28T13:23:49Z",
+        "metadataLastUpdated": "2026-10-01T01:03:05.089Z"
+      },
+      "description": "This repository maintains AWS Lambda function implementations for the DataConnect architecture, serving as both source control and deployment staging area for Lambda deployment packages.",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-lambdas/issues",
+      "fismaLevel": "Moderate",
+      "group": "CMCS",
+      "homepageURL": "",
+      "laborHours": 7681,
+      "languages": [
+        "Python",
+        "Makefile",
+        "Dockerfile",
+        "Shell"
+      ],
+      "localisation": false,
+      "longDescription": "This repo is the home of all of the DataConnect project's Lambda functions and acts as a staging ground for lambda packages to be placed in an S3 bucket for deployment via Terraform configurations in the macdc-terraform repo.",
+      "maintenance": "contract",
+      "maturityModelTier": 2,
+      "name": "macdc-lambdas",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/macdc-lambdas/blob/main/LICENSE",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "other"
+      ],
+      "projects": [
+        "DataConnect"
+      ],
+      "relatedCode": [],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "application",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-lambdas",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "standalone/backend",
+      "status": "Production",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [],
+      "tags": [
+        "AWS",
+        "Lambda",
+        "DataConnect",
+        "MAC_DC"
+      ],
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git",
+      "version": ""
+    },
+    {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/macdc-public-info-agent/network/dependencies",
+      "categories": [
+        "cloud-management",
+        "data-analytics"
+      ],
+      "contact": {
+        "email": "dataconnect@cmsdataconnect.us",
+        "name": "Zach Holden"
+      },
+      "contractNumber": [
+        "75FCMC21F0108"
+      ],
+      "date": {
+        "created": "2026-03-17T13:09:04Z",
+        "lastModified": "2026-09-30T12:54:36Z",
+        "metadataLastUpdated": "2026-10-01T00:11:02.511Z"
+      },
+      "description": "This repository contains an MVP that provides an AI-powered conversational interface for exploring publicly available Medicaid \u0026 CHIP performance indicator data. It ingests enrollment datasets, policy documents, and monthly snapshots from data.medicaid.gov into a PostgreSQL database and Qdrant vector store, then exposes a LangGraph-orchestrated age",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-public-info-agent/issues",
+      "fismaLevel": "Moderate",
+      "group": "CMCS",
+      "homepageURL": "",
+      "laborHours": 7298,
+      "languages": [
+        "Python",
+        "Makefile",
+        "Mako"
+      ],
+      "localisation": false,
+      "longDescription": "AI-powered conversational interface for exploring publicly available Medicaid \u0026 CHIP performance indicator data. Ingests enrollment datasets, policy documents, and monthly snapshots from data.medicaid.gov into PostgreSQL and Qdrant, then uses a LangGraph-orchestrated agent to answer natural language questions with SQL queries, semantic retrieval, and interactive Plotly visualizations via a Streamlit UI.",
+      "maintenance": "contract",
+      "maturityModelTier": 2,
+      "name": "macdc-public-info-agent",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/macdc-public-info-agent/blob/main/LICENSE",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "other"
+      ],
+      "projects": [
+        "DataConnect"
+      ],
+      "relatedCode": [],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "application",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-public-info-agent",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "standalone/backend",
+      "status": "Production",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [],
+      "tags": [
+        "AWS",
         "DataConnect",
         "MAC_DC"
       ],
@@ -4934,6 +5678,178 @@
         "AWS",
         "DataConnect",
         "MAC_DC"
+      ],
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git",
+      "version": ""
+    },
+    {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/macdc-terraform/network/dependencies",
+      "categories": [
+        "cloud-management",
+        "data-analytics"
+      ],
+      "contact": {
+        "email": "dataconnect@cmsdataconnect.us",
+        "name": "Zach Holden"
+      },
+      "contractNumber": [
+        "75FCMC21F0108"
+      ],
+      "date": {
+        "created": "2022-07-19T20:33:51Z",
+        "lastModified": "2026-09-30T16:07:00Z",
+        "metadataLastUpdated": "2026-10-01T00:30:35.305Z"
+      },
+      "description": "This repository functions as the centralized infrastructure-as-code repository containing all Terraform modules, configurations, and deployment specifications for the DataConnect project infrastructure stack.",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-terraform/issues",
+      "fismaLevel": "Moderate",
+      "group": "CMCS",
+      "homepageURL": "",
+      "laborHours": 16990,
+      "languages": [
+        "HCL",
+        "Python",
+        "Shell",
+        "Go",
+        "Go Template"
+      ],
+      "localisation": false,
+      "longDescription": "This repository serves as the central hub for all Terraform configurations related to the DataConnect project.",
+      "maintenance": "contract",
+      "maturityModelTier": 2,
+      "name": "macdc-terraform",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/macdc-terraform/blob/main/LICENSE",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "other"
+      ],
+      "projects": [
+        "DataConnect"
+      ],
+      "relatedCode": [],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "application",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-terraform",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "standalone/backend",
+      "status": "Production",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [],
+      "tags": [
+        "AWS",
+        "DataConnect",
+        "MAC_DC"
+      ],
+      "userInput": false,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git",
+      "version": ""
+    },
+    {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/macdc-tools-automation/network/dependencies",
+      "categories": [
+        "it-development",
+        "it-management",
+        "it-security",
+        "it-service-management",
+        "it-asset-management"
+      ],
+      "contact": {
+        "email": "dataconnect@cmsdataconnect.us",
+        "name": "Zach Holden"
+      },
+      "contractNumber": [
+        "75FCMC21F0108"
+      ],
+      "date": {
+        "created": "2022-04-27T16:28:46Z",
+        "lastModified": "2026-09-29T14:55:37Z",
+        "metadataLastUpdated": "2026-10-01T00:51:47.023Z"
+      },
+      "description": "This repository contains discrete automation modules that don't align with the macdc-terraform codebase or other specialized repositories. Each directory represents a standalone technical implementation organized for maintainability and clear separation of concerns.",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-tools-automation/issues",
+      "fismaLevel": "Moderate",
+      "group": "CMCS",
+      "homepageURL": "",
+      "laborHours": 10675,
+      "languages": [
+        "Python",
+        "Shell"
+      ],
+      "localisation": false,
+      "longDescription": "The root level of the repo should only have global config files (like .flake8 and .gitignore) and folders that each have a single purpose. The folders should be for somewhat small automation projects that don't belong in the macdc-terraform repo and don't belong in any other specific repo. CI, linting, unit tests and other automation applying to the things in this repo should be applied to each single purpose folder individually and not this repo as a whole. The reason for these folders being single purpose is portability. If you feel it's warranted, when any of these small automation projects outgrow this repo they could easily be migrated to their own dedicated repo.",
+      "maintenance": "contract",
+      "maturityModelTier": 2,
+      "name": "macdc-tools-automation",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/macdc-tools-automation/blob/main/LICENSE",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "windows",
+        "mac",
+        "linux"
+      ],
+      "projects": [
+        "DataConnect"
+      ],
+      "relatedCode": [],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "tools",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macdc-tools-automation",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "standalone/backend",
+      "status": "Production",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": [],
+      "tags": [
+        "dataconnect"
       ],
       "userInput": false,
       "userType": [
@@ -5216,8 +6132,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:42:13Z",
-        "lastModified": "2026-08-31T22:54:43Z",
-        "metadataLastUpdated": "2026-09-01T00:13:38.928Z"
+        "lastModified": "2026-09-28T18:15:46Z",
+        "metadataLastUpdated": "2026-10-01T00:14:14.464Z"
       },
       "description": "User Admin for MACFin - maintains budet and expenses for States and Federal Govt. for Medicaid program and CHIP",
       "disclaimerText": "",
@@ -5227,7 +6143,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 8882,
+      "laborHours": 8886,
       "languages": [
         "Java",
         "Gherkin",
@@ -5766,8 +6682,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:43:19Z",
-        "lastModified": "2026-08-12T15:06:15Z",
-        "metadataLastUpdated": "2026-09-01T00:18:25.355Z"
+        "lastModified": "2026-09-30T18:53:57Z",
+        "metadataLastUpdated": "2026-10-01T00:18:48.268Z"
       },
       "description": "MACFin maintains budget and expenses for States and Federal Govt. for Medicaid program and Children’s Health Insurance Program (CHIP).",
       "disclaimerText": "",
@@ -5777,12 +6693,12 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 23222,
+      "laborHours": 23229,
       "languages": [
         "Gherkin",
         "Java",
-        "HTML",
-        "PLpgSQL"
+        "PLpgSQL",
+        "HTML"
       ],
       "localisation": false,
       "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
@@ -6132,8 +7048,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:44:20Z",
-        "lastModified": "2026-08-31T19:03:48Z",
-        "metadataLastUpdated": "2026-09-01T00:36:00.769Z"
+        "lastModified": "2026-09-30T16:08:07Z",
+        "metadataLastUpdated": "2026-10-01T00:36:56.832Z"
       },
       "description": "Common modules for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid and (CHIP).",
       "disclaimerText": "",
@@ -6143,7 +7059,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 10614,
+      "laborHours": 10688,
       "languages": [
         "Java"
       ],
@@ -7818,6 +8734,8 @@
       "version": ""
     },
     {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/macfin-workflow-service/network/dependencies",
       "categories": [
         "it-security",
         "it-service-management",
@@ -7835,19 +8753,23 @@
         "email": "MACFinHelpDesk@cms.hhs.gov",
         "name": "MACFin HelpDesk"
       },
-      "contractNumber": "GS-35F-303GA",
+      "contractNumber": [
+        "GS-35F-303GA"
+      ],
       "date": {
         "created": "2023-08-28T20:50:24Z",
-        "lastModified": "2025-08-11T01:23:37Z",
-        "metaDataLastUpdated": "2025-09-01T00:35:42.445Z"
+        "lastModified": "2026-09-28T15:18:55Z",
+        "metadataLastUpdated": "2026-10-01T00:55:00.425Z"
       },
       "description": "Emails Service for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid and CHIP.",
-      "feedbackMechanisms": [
-        "Emails"
-      ],
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macfin-workflow-service/issues",
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
-      "laborHours": 5516,
+      "homepageURL": "",
+      "laborHours": 5521,
       "languages": [
         "Java"
       ],
@@ -7857,6 +8779,7 @@
       "maturityModelTier": 3,
       "name": "macfin-workflow-service",
       "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
       "permissions": {
         "exemptionText": "",
         "licenses": [
@@ -7872,10 +8795,10 @@
         "windows",
         "linux"
       ],
-      "projectURL": "https://portal.cms.gov/portal/",
       "projects": [
         "MACFin"
       ],
+      "relatedCode": [],
       "repositoryHost": "github.com/CMS-Enterprise",
       "repositoryType": "APIs",
       "repositoryURL": "https://github.com/Enterprise-CMCS/macfin-workflow-service",
@@ -7884,6 +8807,7 @@
         "clones": 6,
         "forks": 0
       },
+      "reusedCode": [],
       "softwareType": "standalone/web",
       "status": "Production",
       "subsetInHealthcare": [
@@ -7900,12 +8824,12 @@
         "federal-government",
         "workflow"
       ],
-      "upstream": "",
       "userInput": true,
       "userType": [
         "Government"
       ],
-      "vcs": "git"
+      "vcs": "git",
+      "version": ""
     },
     {
       "AIUseCaseID": "0",
@@ -9904,6 +10828,51 @@
     },
     {
       "AIUseCaseID": "0",
+      "SBOM": "None",
+      "contact": {
+        "email": "bschneedecker@mathematica-mpr.com",
+        "name": "Benjamin Schneedecker"
+      },
+      "contractNumber": [
+        "75FCMC19D0091/75FCMC23F0001"
+      ],
+      "date": {
+        "created": "2026-10-06T00:00:00-04:00"
+      },
+      "description": "Automation scripts and utilities to support state engagement workstreams under MACLC",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-state-engagement/issues",
+      "laborHours": 0,
+      "languages": [
+        "Python"
+      ],
+      "maintenance": "contract",
+      "name": "maclc-state-engagement",
+      "organization": "CMCS/CAHPG",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "None",
+            "name": "None"
+          }
+        ],
+        "usageType": [
+          "governmentWideReuse"
+        ]
+      },
+      "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-state-engagement",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "forks": 0
+      },
+      "status": "Development",
+      "tags": [
+        "Medicaid",
+        "Eligibility and Enrollment"
+      ],
+      "vcs": "git"
+    },
+    {
+      "AIUseCaseID": "0",
       "SBOM": "https://github.com/Enterprise-CMCS/maclc-taf-dq-checks/network/dependencies",
       "categories": [
         "data-analytics"
@@ -11191,8 +12160,8 @@
       ],
       "date": {
         "created": "2024-10-15T20:16:11Z",
-        "lastModified": "2026-09-17T17:55:41Z",
-        "metadataLastUpdated": "2026-09-18T14:21:17.131Z"
+        "lastModified": "2026-09-18T14:37:35Z",
+        "metadataLastUpdated": "2026-10-01T00:47:47.049Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -11277,8 +12246,8 @@
       ],
       "date": {
         "created": "2025-01-30T13:10:09Z",
-        "lastModified": "2026-09-17T17:53:52Z",
-        "metadataLastUpdated": "2026-09-18T14:21:06.832Z"
+        "lastModified": "2026-09-24T16:58:56Z",
+        "metadataLastUpdated": "2026-10-01T00:22:21.424Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -11288,7 +12257,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 6603,
+      "laborHours": 6653,
       "languages": [
         "Python"
       ],
