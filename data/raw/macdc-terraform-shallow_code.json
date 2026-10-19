@@ -62,8 +62,8 @@
     "MAC_DC"
   ],
   "contact": {
-    "email": "dataconnect@cmsdataconnect.us",
-    "name": "Zach Holden"
+    "email": "user-093@example.com",
+    "name": "user-467"
   },
   "feedbackMechanism": "https://github.com/Enterprise-CMCS/macdc-terraform/issues",
   "AIUseCaseID": "0",

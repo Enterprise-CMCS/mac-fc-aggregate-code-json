@@ -2663,8 +2663,8 @@
       ],
       "date": {
         "created": "2025-08-14T16:51:37Z",
-        "lastModified": "2026-03-05T18:17:16Z",
-        "metadataLastUpdated": "2026-04-01T00:30:32.047Z"
+        "lastModified": "2026-04-16T19:44:39Z",
+        "metadataLastUpdated": "2026-10-01T00:30:57.587Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -2674,7 +2674,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 1562,
+      "laborHours": 1564,
       "languages": [
         "Python"
       ],
@@ -3620,8 +3620,8 @@
       "contractNumber": "47QTCA21D00AC",
       "date": {
         "created": "2025-01-30T21:07:21Z",
-        "lastModified": "2026-04-28T17:06:46Z",
-        "metaDataLastUpdated": "2026-05-01T00:33:34.100Z"
+        "lastModified": "2026-09-29T14:30:37Z",
+        "metaDataLastUpdated": "2026-10-01T00:23:05.440Z"
       },
       "description": "",
       "feedbackMechanisms": [
@@ -3629,7 +3629,7 @@
       ],
       "fismaLevel": "Moderate",
       "group": "DSG/Enterprise-CMCS/MACBIS",
-      "laborHours": 4278,
+      "laborHours": 4589,
       "languages": [
         "Dockerfile"
       ],
@@ -3770,8 +3770,8 @@
       "contractNumber": "47QTCA21D00AC",
       "date": {
         "created": "2021-08-11T14:17:29Z",
-        "lastModified": "2026-08-31T21:35:20Z",
-        "metaDataLastUpdated": "2026-09-01T01:02:43.996Z"
+        "lastModified": "2026-09-30T01:51:17Z",
+        "metaDataLastUpdated": "2026-10-01T01:04:55.518Z"
       },
       "description": "",
       "feedbackMechanisms": [
@@ -3779,12 +3779,11 @@
       ],
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
-      "laborHours": 6502,
+      "laborHours": 6371,
       "languages": [
         "Go",
         "HCL",
-        "Shell",
-        "Dockerfile"
+        "Shell"
       ],
       "localisation": false,
       "longDescription": "This repo contains tools that process and analyze cost data for the MACBIS program. The data drives the Cost Analysis Dashboard (CAD) and the GitHub Actions Minutes dashboard.",
@@ -3850,8 +3849,8 @@
       "contractNumber": "47QTCA21D00AC",
       "date": {
         "created": "2023-03-23T16:40:53Z",
-        "lastModified": "2026-08-26T23:45:39Z",
-        "metaDataLastUpdated": "2026-09-01T00:39:57.815Z"
+        "lastModified": "2026-09-28T20:44:38Z",
+        "metaDataLastUpdated": "2026-10-01T00:41:43.148Z"
       },
       "description": "A multi-functional DevSecFinOps (DSFO) observability tool for MACBIS product teams and CMS stakeholders",
       "feedbackMechanisms": [
@@ -3859,7 +3858,7 @@
       ],
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
-      "laborHours": 13275,
+      "laborHours": 13510,
       "languages": [
         "Go",
         "TypeScript",
@@ -4009,8 +4008,8 @@
       "contractNumber": "47QTCA21D00AC",
       "date": {
         "created": "2025-08-19T12:43:45Z",
-        "lastModified": "2026-08-31T18:07:48Z",
-        "metaDataLastUpdated": "2026-09-01T00:45:57.055Z"
+        "lastModified": "2026-09-23T15:01:40Z",
+        "metaDataLastUpdated": "2026-10-01T00:48:01.713Z"
       },
       "description": "",
       "feedbackMechanisms": [
@@ -4018,7 +4017,7 @@
       ],
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
-      "laborHours": 4492,
+      "laborHours": 4509,
       "languages": [
         "Go",
         "HCL",
@@ -5694,8 +5693,8 @@
         "data-analytics"
       ],
       "contact": {
-        "email": "dataconnect@cmsdataconnect.us",
-        "name": "Zach Holden"
+        "email": "user-093@example.com",
+        "name": "user-467"
       },
       "contractNumber": [
         "75FCMC21F0108"
@@ -5783,8 +5782,8 @@
         "it-asset-management"
       ],
       "contact": {
-        "email": "dataconnect@cmsdataconnect.us",
-        "name": "Zach Holden"
+        "email": "user-093@example.com",
+        "name": "user-467"
       },
       "contractNumber": [
         "75FCMC21F0108"
@@ -7199,8 +7198,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:44:36Z",
-        "lastModified": "2026-08-03T12:00:40Z",
-        "metadataLastUpdated": "2026-09-01T00:49:58.485Z"
+        "lastModified": "2026-09-24T19:28:29Z",
+        "metadataLastUpdated": "2026-10-01T00:52:06.861Z"
       },
       "description": "MACFin maintains budget and expenses for States and Federal Govt. for Medicaid program and Children’s Health Insurance Program (CHIP).",
       "disclaimerText": "",
@@ -7210,7 +7209,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 8841,
+      "laborHours": 8926,
       "languages": [
         "Java",
         "Gherkin",
@@ -7289,8 +7288,8 @@
       ],
       "date": {
         "created": "2024-07-30T18:17:56Z",
-        "lastModified": "2026-08-03T12:02:31Z",
-        "metadataLastUpdated": "2026-09-01T00:34:58.419Z"
+        "lastModified": "2026-09-16T15:38:04Z",
+        "metadataLastUpdated": "2026-10-01T00:36:13.658Z"
       },
       "description": "Disallowance of Expenditures for MACFin -which maintains budget and expenses for States and Federal Govt. for Medicaid and CHIP.",
       "disclaimerText": "",
@@ -7300,7 +7299,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 5804,
+      "laborHours": 5812,
       "languages": [
         "Java",
         "Gherkin",
@@ -9854,8 +9853,8 @@
       ],
       "date": {
         "created": "2025-01-23T19:18:31Z",
-        "lastModified": "2026-08-09T19:38:23Z",
-        "metadataLastUpdated": "2026-09-01T00:32:15.879Z"
+        "lastModified": "2026-09-16T16:21:53Z",
+        "metadataLastUpdated": "2026-10-01T00:33:38.040Z"
       },
       "description": "Code to support e14 analysis for MACLC Task 5.7",
       "disclaimerText": "",
@@ -10091,8 +10090,8 @@
       ],
       "date": {
         "created": "2024-07-12T17:44:13Z",
-        "lastModified": "2026-08-28T18:46:41Z",
-        "metadataLastUpdated": "2026-09-01T00:08:39.677Z"
+        "lastModified": "2026-09-25T18:34:34Z",
+        "metadataLastUpdated": "2026-10-01T00:08:59.383Z"
       },
       "description": "Code to support automated generation of CMCS internal monitoring data products related to eligibility operations and enrollment for MACLC Task 5.7",
       "disclaimerText": "",
@@ -10102,7 +10101,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 9137,
+      "laborHours": 9144,
       "languages": [
         "Python"
       ],
@@ -10511,7 +10510,7 @@
       "date": {
         "created": "2025-05-08T13:58:55Z",
         "lastModified": "2026-07-17T19:14:56Z",
-        "metadataLastUpdated": "2026-08-01T00:33:16.690Z"
+        "metadataLastUpdated": "2026-09-01T00:27:53.980Z"
       },
       "description": "",
       "disclaimerText": "",

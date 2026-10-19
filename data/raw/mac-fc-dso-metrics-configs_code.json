@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/CMS-Enterprise",
   "repositoryVisibility": "private",
   "vcs": "git",
-  "laborHours": 4278,
+  "laborHours": 4589,
   "reuseFrequency": {
     "forks": 0,
     "clones": 5
@@ -40,8 +40,8 @@
   "contractNumber": "47QTCA21D00AC",
   "date": {
     "created": "2025-01-30T21:07:21Z",
-    "lastModified": "2026-04-28T17:06:46Z",
-    "metaDataLastUpdated": "2026-05-01T00:33:34.100Z"
+    "lastModified": "2026-09-29T14:30:37Z",
+    "metaDataLastUpdated": "2026-10-01T00:23:05.440Z"
   },
   "tags": [
     "mac-fc-dso-metrics",
