@@ -1,5 +1,6 @@
 {
   "name": "ckc",
+  "version": "",
   "description": "Connecting Kids to Coverage",
   "longDescription": "",
   "status": "Development",
@@ -16,44 +17,46 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/ckc",
-  "projectURL": "",
   "repositoryHost": "github",
   "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 920,
+  "laborHours": 3778,
   "reuseFrequency": {
-    "forks": 0
+    "forks": 0,
+    "clones": 0
   },
   "platforms": [],
   "categories": [],
   "softwareType": "",
-  "languages": [],
+  "languages": [
+    "Python"
+  ],
   "maintenance": "contract",
   "contractNumber": [
     "75FCMC19D0091/75FCMC25FJ084"
   ],
+  "SBOM": "https://github.com/Enterprise-CMCS/ckc/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2025-09-08T14:38:47Z",
-    "lastModified": "2025-09-18T15:38:54Z",
-    "metaDataLastUpdated": "2025-10-01T00:36:15.050Z"
+    "lastModified": "2026-09-18T20:17:01Z",
+    "metadataLastUpdated": "2026-10-01T01:00:18.722Z"
   },
   "tags": [
-    "Medicaid",
-    "Medicaid Data",
-    "Children's Health",
-    "CHIP",
-    "Grants",
-    "Enrollment",
-    "Performance Dashboard",
-    "Progress Reports"
+    "code-repository-for-connecting-kids-to-coverage"
   ],
   "contact": {
     "email": "eward@mathematica-mpr.com",
     "name": "Eva Ward"
   },
-  "feedbackMechanisms": [
-    "https://github.com/Enterprise-CMCS/ckc/issues"
-  ],
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/ckc/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "",
   "userInput": false,
@@ -61,10 +64,7 @@
   "group": "",
   "projects": [],
   "systems": [],
-  "upstream": "",
   "subsetInHealthcare": [],
   "userType": [],
-  "maturityModelTier": 0,
-  "feedbackMechanism": "https://github.com/Enterprise-CMCS/ckc/issues",
-  "AIUseCaseID": "0"
+  "maturityModelTier": 0
 }

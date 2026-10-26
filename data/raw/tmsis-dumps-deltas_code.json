@@ -1,0 +1,78 @@
+{
+  "name": "tmsis-dumps-deltas",
+  "version": "",
+  "description": "Extract and generate T-MSIS delta files for downstream data users.",
+  "longDescription": "T-MSIS Database Dumps Deltas - Extract and generate T-MSIS Deltas files to share T-MSIS Medicaid states data submitted and processed monthly with downstream data users.",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "https://github.com/Enterprise-CMCS/tmsis-dumps-deltas/blob/main/README.md"
+      }
+    ],
+    "usageType": [
+      "governmentWideReuse"
+    ],
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-dumps-deltas",
+  "repositoryHost": "github.com/Enterprise-CMCS",
+  "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
+  "vcs": "git",
+  "laborHours": 1262,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [],
+  "categories": [
+    "cloud-management"
+  ],
+  "softwareType": "standalone/backend",
+  "languages": [],
+  "maintenance": "contract",
+  "contractNumber": [
+    "47QTCA19D00KH: 75FCMC22F0123"
+  ],
+  "SBOM": "https://github.com/Enterprise-CMCS/tmsis-dumps-deltas/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
+  "date": {
+    "created": "2026-09-29T17:04:17Z",
+    "lastModified": "2026-10-20T16:54:42Z",
+    "metadataLastUpdated": "2026-10-20T16:59:31.553Z"
+  },
+  "tags": [
+    "tmsis"
+  ],
+  "contact": {
+    "email": "cms_IT_service_desk@cms.hhs.gov",
+    "name": ""
+  },
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/tmsis-dumps-deltas/issues",
+  "AIUseCaseID": "0",
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "moderate",
+  "group": "CMS",
+  "projects": [
+    "TMSIS"
+  ],
+  "systems": [],
+  "subsetInHealthcare": [
+    "operational",
+    "medicaid"
+  ],
+  "userType": [
+    "government"
+  ],
+  "maturityModelTier": 0
+}

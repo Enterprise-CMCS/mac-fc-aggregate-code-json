@@ -9,6 +9,168 @@
       "categories": [
         "accounting",
         "budgeting",
+        "website-builder",
+        "it-development"
+      ],
+      "contact": {
+        "email": "MACFinHelpDesk@cms.hhs.gov",
+        "name": "MACFin HelpDesk"
+      },
+      "contractNumber": "GS-35F-303GA",
+      "date": {
+        "created": "2025-05-20T00:00:00-04:00",
+        "lastModified": "2025-05-20T00:00:00-04:00",
+        "metaDataLastUpdated": "2025-05-20T00:00:00-04:00"
+      },
+      "description": "MACFin StoryBook for Web Development.",
+      "feedbackMechanisms": [
+        "Emails"
+      ],
+      "fismaLevel": "Moderate",
+      "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
+      "laborHours": 1000,
+      "languages": [
+        "javascript"
+      ],
+      "localisation": false,
+      "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
+      "maintenance": "contract",
+      "maturityModelTier": 3,
+      "name": "MACFin",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/macfin-storybook-pages/blob/develop/LICENSE",
+            "name": "None"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "web",
+        "windows",
+        "linux"
+      ],
+      "projectURL": "https://portal.cms.gov/portal/",
+      "projects": [
+        "MACFin"
+      ],
+      "repositoryHost": "github.com/CMS-Enterprise",
+      "repositoryType": "APIs",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macfin-storybook-pages",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 6,
+        "forks": 0
+      },
+      "softwareType": "standalone/web",
+      "status": "In Production",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": "",
+      "tags": [
+        "#macfin",
+        "#javascript",
+        "#library"
+      ],
+      "upstream": "",
+      "userInput": true,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git"
+    },
+    {
+      "categories": [
+        "accounting",
+        "budgeting",
+        "enterprise-project-management",
+        "it-management",
+        "it-security",
+        "network-management",
+        "cloud-management"
+      ],
+      "contact": {
+        "email": "MACFinHelpDesk@cms.hhs.gov",
+        "name": "MACFin HelpDesk"
+      },
+      "contractNumber": "GS-35F-303GA",
+      "date": {
+        "created": "2025-05-20T00:00:00-04:00",
+        "lastModified": "2025-05-20T00:00:00-04:00",
+        "metaDataLastUpdated": "2025-05-20T00:00:00-04:00"
+      },
+      "description": "MACFin Operations Management.",
+      "feedbackMechanisms": [
+        "Emails"
+      ],
+      "fismaLevel": "Moderate",
+      "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
+      "laborHours": 1000,
+      "languages": [
+        "script",
+        "yaml"
+      ],
+      "localisation": false,
+      "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
+      "maintenance": "contract",
+      "maturityModelTier": 3,
+      "name": "MACFin",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/macfin-dev-sec-ops/blob/develop/LICENSE",
+            "name": "None"
+          }
+        ],
+        "usageType": "governmentWideReuse"
+      },
+      "platforms": [
+        "web",
+        "windows",
+        "linux"
+      ],
+      "projectURL": "https://portal.cms.gov/portal/",
+      "projects": [
+        "MACFin"
+      ],
+      "repositoryHost": "github.com/CMS-Enterprise",
+      "repositoryType": "Scri",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macfin-dev-sec-ops",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 25,
+        "forks": 0
+      },
+      "softwareType": "configurationFiles",
+      "status": "Production",
+      "subsetInHealthcare": [
+        "Medicaid"
+      ],
+      "systems": "",
+      "tags": [
+        "#macfin",
+        "#budgeting",
+        "#expenditure",
+        "#operations",
+        "#kubernetes-management"
+      ],
+      "upstream": "",
+      "userInput": true,
+      "userType": [
+        "Government"
+      ],
+      "vcs": "git"
+    },
+    {
+      "categories": [
+        "accounting",
+        "budgeting",
         "data-collection",
         "data-visualization"
       ],
@@ -79,84 +241,6 @@
         "#financial-management",
         "#financial-systems",
         "#financial-management-software"
-      ],
-      "upstream": "",
-      "userInput": true,
-      "userType": [
-        "Government"
-      ],
-      "vcs": "git"
-    },
-    {
-      "categories": [
-        "accounting",
-        "budgeting",
-        "website-builder",
-        "it-development"
-      ],
-      "contact": {
-        "email": "MACFinHelpDesk@cms.hhs.gov",
-        "name": "MACFin HelpDesk"
-      },
-      "contractNumber": "GS-35F-303GA",
-      "date": {
-        "created": "2025-05-20T00:00:00-04:00",
-        "lastModified": "2025-05-20T00:00:00-04:00",
-        "metaDataLastUpdated": "2025-05-20T00:00:00-04:00"
-      },
-      "description": "MACFin StoryBook for Web Development.",
-      "feedbackMechanisms": [
-        "Emails"
-      ],
-      "fismaLevel": "Moderate",
-      "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
-      "laborHours": 1000,
-      "languages": [
-        "javascript"
-      ],
-      "localisation": false,
-      "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
-      "maintenance": "contract",
-      "maturityModelTier": 3,
-      "name": "MACFin",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "https://github.com/Enterprise-CMCS/macfin-storybook-pages/blob/develop/LICENSE",
-            "name": "None"
-          }
-        ],
-        "usageType": "governmentWideReuse"
-      },
-      "platforms": [
-        "web",
-        "windows",
-        "linux"
-      ],
-      "projectURL": "https://portal.cms.gov/portal/",
-      "projects": [
-        "MACFin"
-      ],
-      "repositoryHost": "github.com/CMS-Enterprise",
-      "repositoryType": "APIs",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/macfin-storybook-pages",
-      "repositoryVisibility": "private",
-      "reuseFrequency": {
-        "clones": 6,
-        "forks": 0
-      },
-      "softwareType": "standalone/web",
-      "status": "In Production",
-      "subsetInHealthcare": [
-        "Medicaid"
-      ],
-      "systems": "",
-      "tags": [
-        "#macfin",
-        "#javascript",
-        "#library"
       ],
       "upstream": "",
       "userInput": true,
@@ -329,90 +413,6 @@
     },
     {
       "categories": [
-        "accounting",
-        "budgeting",
-        "enterprise-project-management",
-        "it-management",
-        "it-security",
-        "network-management",
-        "cloud-management"
-      ],
-      "contact": {
-        "email": "MACFinHelpDesk@cms.hhs.gov",
-        "name": "MACFin HelpDesk"
-      },
-      "contractNumber": "GS-35F-303GA",
-      "date": {
-        "created": "2025-05-20T00:00:00-04:00",
-        "lastModified": "2025-05-20T00:00:00-04:00",
-        "metaDataLastUpdated": "2025-05-20T00:00:00-04:00"
-      },
-      "description": "MACFin Operations Management.",
-      "feedbackMechanisms": [
-        "Emails"
-      ],
-      "fismaLevel": "Moderate",
-      "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
-      "laborHours": 1000,
-      "languages": [
-        "script",
-        "yaml"
-      ],
-      "localisation": false,
-      "longDescription": "The Medicaid and CHIP Financial (MACFin) system is continuing its evolution as the modernized solution for CMS and States to improve the accuracy of over $900 billion in annual state-reported budget and expenditure data, and is essential for Federal and state administration of the Medicaid program and Children’s Health Insurance Program (CHIP).  It empowers Federal and state administration to evolve efficiently with ongoing programmatic and technological changes.  MACFin has improved the technology, functionality, and efficiency of the existing financial processes, thus providing a consolidated solution to Medicaid and CHIP financial administration and oversight.  MACFin is iteratively assuming responsibilities and business functions previously provided by the existing Medicaid and CHIP Budget and Expenditure (MBES/CBES) system, has integrated the Incurred But Not Reported Survey (IBNRS) system and processes, and is integrating and automating financial management processes external to MBES/CBES and IBNRS.",
-      "maintenance": "contract",
-      "maturityModelTier": 3,
-      "name": "MACFin",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "https://github.com/Enterprise-CMCS/macfin-dev-sec-ops/blob/develop/LICENSE",
-            "name": "None"
-          }
-        ],
-        "usageType": "governmentWideReuse"
-      },
-      "platforms": [
-        "web",
-        "windows",
-        "linux"
-      ],
-      "projectURL": "https://portal.cms.gov/portal/",
-      "projects": [
-        "MACFin"
-      ],
-      "repositoryHost": "github.com/CMS-Enterprise",
-      "repositoryType": "Scri",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/macfin-dev-sec-ops",
-      "repositoryVisibility": "private",
-      "reuseFrequency": {
-        "clones": 25,
-        "forks": 0
-      },
-      "softwareType": "configurationFiles",
-      "status": "Production",
-      "subsetInHealthcare": [
-        "Medicaid"
-      ],
-      "systems": "",
-      "tags": [
-        "#macfin",
-        "#budgeting",
-        "#expenditure",
-        "#operations",
-        "#kubernetes-management"
-      ],
-      "upstream": "",
-      "userInput": true,
-      "userType": [
-        "Government"
-      ],
-      "vcs": "git"
-    },
-    {
-      "categories": [
         "data-processing",
         "data-visualization"
       ],
@@ -488,6 +488,8 @@
       "vcs": "git"
     },
     {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/MACScorecard-ETL/network/dependencies",
       "categories": [
         "data-visualization"
       ],
@@ -495,19 +497,23 @@
         "email": "rbhasker@index-analytics.com",
         "name": "Raman Bhasker"
       },
-      "contractNumber": "75FCMC19D0091:75FCMC21F0001",
+      "contractNumber": [
+        "75FCMC19D0091:75FCMC21F0001"
+      ],
       "date": {
         "created": "2023-03-09T19:42:24Z",
-        "lastModified": "2025-07-09T18:08:12Z",
-        "metaDataLastUpdated": "2025-07-09T18:28:35.034Z"
+        "lastModified": "2026-09-17T17:41:51Z",
+        "metadataLastUpdated": "2026-10-01T00:50:01.198Z"
       },
       "description": "The Scorecard aims improve public transparency about the administration and outcomes of the Medicaid and CHIP programs",
-      "feedbackMechanisms": [
-        "https://github.com/Enterprise-CMCS/MACScorecard-ETL/issues"
-      ],
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/MACScorecard-ETL/issues",
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
-      "laborHours": 32245,
+      "homepageURL": "",
+      "laborHours": 26697,
       "languages": [
         "Python",
         "Shell",
@@ -519,6 +525,7 @@
       "maturityModelTier": 0,
       "name": "MACScorecard-ETL",
       "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
       "permissions": {
         "exemptionText": "",
         "licenses": [
@@ -532,15 +539,17 @@
       "platforms": [
         "web"
       ],
-      "projectURL": "https://www.medicaid.gov/state-overviews/scorecard/main",
       "projects": [],
+      "relatedCode": [],
       "repositoryHost": "github.com/CMS-Enterprise",
       "repositoryType": "website",
       "repositoryURL": "https://github.com/Enterprise-CMCS/MACScorecard-ETL",
       "repositoryVisibility": "private",
       "reuseFrequency": {
+        "clones": 0,
         "forks": 0
       },
+      "reusedCode": [],
       "softwareType": "standalone/web",
       "status": "Production",
       "subsetInHealthcare": [
@@ -551,18 +560,20 @@
         "DKAN"
       ],
       "tags": [
-        "Medicaid",
-        "Medicaid Data",
-        "data-visualization"
+        "data-visualization",
+        "medicaid",
+        "medicaid-data"
       ],
-      "upstream": "",
       "userInput": false,
       "userType": [
         "Government"
       ],
-      "vcs": "git"
+      "vcs": "git",
+      "version": ""
     },
     {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/MACScorecard-Frontend/network/dependencies",
       "categories": [
         "data-visualization"
       ],
@@ -570,25 +581,31 @@
         "email": "rbhasker@index-analytics.com",
         "name": "Raman Bhasker"
       },
-      "contractNumber": "75FCMC19D0091:75FCMC21F0001",
+      "contractNumber": [
+        "75FCMC19D0091:75FCMC21F0001"
+      ],
       "date": {
         "created": "2023-03-09T19:42:04Z",
-        "lastModified": "2025-07-07T17:49:17Z",
-        "metaDataLastUpdated": "2025-07-07T17:51:07.465Z"
+        "lastModified": "2026-09-30T18:17:58Z",
+        "metadataLastUpdated": "2026-10-01T00:30:13.080Z"
       },
       "description": "The Scorecard aims improve public transparency about the administration and outcomes of the Medicaid and CHIP programs",
-      "feedbackMechanisms": [
-        "https://github.com/Enterprise-CMCS/MACScorecard-Frontend/issues"
-      ],
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/MACScorecard-Frontend/issues",
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
-      "laborHours": 22814,
+      "homepageURL": "",
+      "laborHours": 24999,
       "languages": [
         "TypeScript",
         "HTML",
         "SCSS",
         "JavaScript",
+        "HCL",
         "Shell",
+        "CSS",
         "Python"
       ],
       "localisation": false,
@@ -597,6 +614,7 @@
       "maturityModelTier": 0,
       "name": "MACScorecard-Frontend",
       "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
       "permissions": {
         "exemptionText": "",
         "licenses": [
@@ -610,15 +628,17 @@
       "platforms": [
         "web"
       ],
-      "projectURL": "https://www.medicaid.gov/state-overviews/scorecard/main",
       "projects": [],
+      "relatedCode": [],
       "repositoryHost": "github.com/CMS-Enterprise",
       "repositoryType": "website",
       "repositoryURL": "https://github.com/Enterprise-CMCS/MACScorecard-Frontend",
       "repositoryVisibility": "private",
       "reuseFrequency": {
+        "clones": 0,
         "forks": 0
       },
+      "reusedCode": [],
       "softwareType": "standalone/web",
       "status": "Production",
       "subsetInHealthcare": [
@@ -629,16 +649,16 @@
         "DKAN"
       ],
       "tags": [
-        "Medicaid",
-        "Medicaid Data",
-        "data-visualization"
+        "data-visualization",
+        "medicaid",
+        "medicaid-data"
       ],
-      "upstream": "",
       "userInput": false,
       "userType": [
         "Government"
       ],
-      "vcs": "git"
+      "vcs": "git",
+      "version": ""
     },
     {
       "categories": [
@@ -870,91 +890,6 @@
         "GS-35F-115GA:75FCMC22F0093"
       ],
       "date": {
-        "created": "2021-01-11T00:00:00-05:00",
-        "lastModified": "2026-07-14T00:00:00-05:00",
-        "metadataLastUpdated": "2026-09-28T00:00:00-04:00"
-      },
-      "description": "Web-based CMS system that tracks Medicaid waiver program data and supports 1915(c), 1915(b), and CMS-372 waiver actions.",
-      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macpro-wms/issues",
-      "fismaLevel": "moderate",
-      "group": "CMS/CMCS",
-      "laborHours": 0,
-      "languages": [
-        "Java"
-      ],
-      "localisation": false,
-      "longDescription": "This repository is the CMS Waiver Management System used in production. It is the web application CMS and state staff use to initiate, amend, and renew Medicaid 1915(b) and 1915(c) waivers and to support CMS-372 reporting. The code is maintained for government-wide reuse inside CMS.",
-      "maintenance": "contract",
-      "maturityModelTier": 2,
-      "name": "Waiver Management System",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "https://github.com/Enterprise-CMCS/macpro-wms",
-            "name": "None"
-          }
-        ],
-        "usageType": [
-          "governmentWideReuse"
-        ]
-      },
-      "platforms": [
-        "web"
-      ],
-      "projects": [
-        "WMS"
-      ],
-      "relatedCode": [
-        {
-          "URL": "https://github.com/Enterprise-CMCS/macpro-wms-jboss8.1",
-          "isGovernmentRepo": true,
-          "name": "macpro-wms-jboss8.1"
-        }
-      ],
-      "repositoryHost": "github.com/Enterprise-CMCS",
-      "repositoryType": "application",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/macpro-wms",
-      "repositoryVisibility": "private",
-      "reuseFrequency": {
-        "forks": 0
-      },
-      "softwareType": "standalone/web",
-      "status": "Production",
-      "subsetInHealthcare": [
-        "medicaid",
-        "operational"
-      ],
-      "systems": [],
-      "tags": [
-        "waiver-management",
-        "medicaid",
-        "cms",
-        "macbis",
-        "jboss"
-      ],
-      "userInput": true,
-      "userType": [
-        "government"
-      ],
-      "vcs": "git"
-    },
-    {
-      "AIUseCaseID": "0",
-      "SBOM": "None",
-      "categories": [
-        "data-collection",
-        "business-process-management"
-      ],
-      "contact": {
-        "email": "angel.frett@cms.hhs.gov",
-        "name": "Angel Frett"
-      },
-      "contractNumber": [
-        "GS-35F-115GA:75FCMC22F0093"
-      ],
-      "date": {
         "created": "2026-07-02T00:00:00-04:00",
         "lastModified": "2026-09-28T00:00:00-04:00",
         "metadataLastUpdated": "2026-09-28T00:00:00-04:00"
@@ -1018,6 +953,91 @@
         "cms",
         "macbis",
         "jakarta-ee",
+        "jboss"
+      ],
+      "userInput": true,
+      "userType": [
+        "government"
+      ],
+      "vcs": "git"
+    },
+    {
+      "AIUseCaseID": "0",
+      "SBOM": "None",
+      "categories": [
+        "data-collection",
+        "business-process-management"
+      ],
+      "contact": {
+        "email": "angel.frett@cms.hhs.gov",
+        "name": "Angel Frett"
+      },
+      "contractNumber": [
+        "GS-35F-115GA:75FCMC22F0093"
+      ],
+      "date": {
+        "created": "2021-01-11T00:00:00-05:00",
+        "lastModified": "2026-07-14T00:00:00-05:00",
+        "metadataLastUpdated": "2026-09-28T00:00:00-04:00"
+      },
+      "description": "Web-based CMS system that tracks Medicaid waiver program data and supports 1915(c), 1915(b), and CMS-372 waiver actions.",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/macpro-wms/issues",
+      "fismaLevel": "moderate",
+      "group": "CMS/CMCS",
+      "laborHours": 0,
+      "languages": [
+        "Java"
+      ],
+      "localisation": false,
+      "longDescription": "This repository is the CMS Waiver Management System used in production. It is the web application CMS and state staff use to initiate, amend, and renew Medicaid 1915(b) and 1915(c) waivers and to support CMS-372 reporting. The code is maintained for government-wide reuse inside CMS.",
+      "maintenance": "contract",
+      "maturityModelTier": 2,
+      "name": "Waiver Management System",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/macpro-wms",
+            "name": "None"
+          }
+        ],
+        "usageType": [
+          "governmentWideReuse"
+        ]
+      },
+      "platforms": [
+        "web"
+      ],
+      "projects": [
+        "WMS"
+      ],
+      "relatedCode": [
+        {
+          "URL": "https://github.com/Enterprise-CMCS/macpro-wms-jboss8.1",
+          "isGovernmentRepo": true,
+          "name": "macpro-wms-jboss8.1"
+        }
+      ],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "application",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/macpro-wms",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "forks": 0
+      },
+      "softwareType": "standalone/web",
+      "status": "Production",
+      "subsetInHealthcare": [
+        "medicaid",
+        "operational"
+      ],
+      "systems": [],
+      "tags": [
+        "waiver-management",
+        "medicaid",
+        "cms",
+        "macbis",
         "jboss"
       ],
       "userInput": true,
@@ -1130,6 +1150,7 @@
     },
     {
       "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/ckc/network/dependencies",
       "categories": [],
       "contact": {
         "email": "eward@mathematica-mpr.com",
@@ -1140,24 +1161,28 @@
       ],
       "date": {
         "created": "2025-09-08T14:38:47Z",
-        "lastModified": "2025-09-18T15:38:54Z",
-        "metaDataLastUpdated": "2025-10-01T00:36:15.050Z"
+        "lastModified": "2026-09-18T20:17:01Z",
+        "metadataLastUpdated": "2026-10-01T01:00:18.722Z"
       },
       "description": "Connecting Kids to Coverage",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
       "feedbackMechanism": "https://github.com/Enterprise-CMCS/ckc/issues",
-      "feedbackMechanisms": [
-        "https://github.com/Enterprise-CMCS/ckc/issues"
-      ],
       "fismaLevel": "",
       "group": "",
-      "laborHours": 920,
-      "languages": [],
+      "homepageURL": "",
+      "laborHours": 3778,
+      "languages": [
+        "Python"
+      ],
       "localisation": false,
       "longDescription": "",
       "maintenance": "contract",
       "maturityModelTier": 0,
       "name": "ckc",
       "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
       "permissions": {
         "licenses": [
           {
@@ -1170,33 +1195,28 @@
         ]
       },
       "platforms": [],
-      "projectURL": "",
       "projects": [],
+      "relatedCode": [],
       "repositoryHost": "github",
       "repositoryType": "",
       "repositoryURL": "https://github.com/Enterprise-CMCS/ckc",
       "repositoryVisibility": "private",
       "reuseFrequency": {
+        "clones": 0,
         "forks": 0
       },
+      "reusedCode": [],
       "softwareType": "",
       "status": "Development",
       "subsetInHealthcare": [],
       "systems": [],
       "tags": [
-        "Medicaid",
-        "Medicaid Data",
-        "Children's Health",
-        "CHIP",
-        "Grants",
-        "Enrollment",
-        "Performance Dashboard",
-        "Progress Reports"
+        "code-repository-for-connecting-kids-to-coverage"
       ],
-      "upstream": "",
       "userInput": false,
       "userType": [],
-      "vcs": "git"
+      "vcs": "git",
+      "version": ""
     },
     {
       "AIUseCaseID": "0",
@@ -5607,8 +5627,8 @@
         "data-analytics"
       ],
       "contact": {
-        "email": "dataconnect@cmsdataconnect.us",
-        "name": "Zach Holden"
+        "email": "user-093@example.com",
+        "name": "user-467"
       },
       "contractNumber": [
         "75FCMC21F0108"
@@ -5693,8 +5713,8 @@
         "data-analytics"
       ],
       "contact": {
-        "email": "user-093@example.com",
-        "name": "user-467"
+        "email": "dataconnect@cmsdataconnect.us",
+        "name": "Zach Holden"
       },
       "contractNumber": [
         "75FCMC21F0108"
@@ -5782,8 +5802,8 @@
         "it-asset-management"
       ],
       "contact": {
-        "email": "user-093@example.com",
-        "name": "user-467"
+        "email": "dataconnect@cmsdataconnect.us",
+        "name": "Zach Holden"
       },
       "contractNumber": [
         "75FCMC21F0108"
@@ -5868,8 +5888,8 @@
         "it-asset-management"
       ],
       "contact": {
-        "email": "dataconnect@cmsdataconnect.us",
-        "name": "Zach Holden"
+        "email": "user-093@example.com",
+        "name": "user-467"
       },
       "contractNumber": [
         "75FCMC21F0108"
@@ -6867,8 +6887,8 @@
       ],
       "date": {
         "created": "2024-07-08T17:29:25Z",
-        "lastModified": "2026-08-31T22:55:52Z",
-        "metadataLastUpdated": "2026-09-01T00:51:38.389Z"
+        "lastModified": "2026-09-30T18:45:56Z",
+        "metadataLastUpdated": "2026-10-01T00:53:38.727Z"
       },
       "description": "CMS-21 Children's Health Insurance Program (CHIP) forms capture state reported expenditures for services provided under the state CHIP program.",
       "disclaimerText": "",
@@ -6878,7 +6898,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 22034,
+      "laborHours": 22050,
       "languages": [
         "Gherkin",
         "Java",
@@ -8658,8 +8678,8 @@
       ],
       "date": {
         "created": "2023-08-28T20:50:07Z",
-        "lastModified": "2026-08-31T20:57:05Z",
-        "metadataLastUpdated": "2026-09-01T00:32:32.952Z"
+        "lastModified": "2026-09-30T19:47:03Z",
+        "metadataLastUpdated": "2026-10-01T00:34:35.881Z"
       },
       "description": "Web / UI for MACFin which maintains budget and expenses for States and Federal Govt. for Medicaid and CHIP.",
       "disclaimerText": "",
@@ -8669,7 +8689,7 @@
       "fismaLevel": "Moderate",
       "group": "DHHS / CMS / OA / CMCS / DSG / DBES",
       "homepageURL": "",
-      "laborHours": 30740,
+      "laborHours": 30874,
       "languages": [
         "JavaScript",
         "Java",
@@ -10341,8 +10361,8 @@
       ],
       "date": {
         "created": "2025-06-27T14:42:59Z",
-        "lastModified": "2026-08-28T16:06:59Z",
-        "metadataLastUpdated": "2026-09-01T00:22:35.472Z"
+        "lastModified": "2026-09-29T20:53:15Z",
+        "metadataLastUpdated": "2026-10-01T00:23:45.093Z"
       },
       "description": "Code to support automated generation of data for public reporting related to eligibility operations and public reporting for MACLC Task 5.7",
       "disclaimerText": "",
@@ -10352,7 +10372,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 5735,
+      "laborHours": 5569,
       "languages": [
         "Python",
         "Jupyter Notebook"
@@ -13442,6 +13462,151 @@
       "userType": [
         "Government"
       ],
+      "vcs": "git",
+      "version": ""
+    },
+    {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/tmsis-dumps-deltas/network/dependencies",
+      "categories": [
+        "cloud-management"
+      ],
+      "contact": {
+        "email": "cms_IT_service_desk@cms.hhs.gov",
+        "name": ""
+      },
+      "contractNumber": [
+        "47QTCA19D00KH: 75FCMC22F0123"
+      ],
+      "date": {
+        "created": "2026-09-29T17:04:17Z",
+        "lastModified": "2026-10-20T16:54:42Z",
+        "metadataLastUpdated": "2026-10-20T16:59:31.553Z"
+      },
+      "description": "Extract and generate T-MSIS delta files for downstream data users.",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/tmsis-dumps-deltas/issues",
+      "fismaLevel": "moderate",
+      "group": "CMS",
+      "homepageURL": "",
+      "laborHours": 1262,
+      "languages": [],
+      "localisation": false,
+      "longDescription": "T-MSIS Database Dumps Deltas - Extract and generate T-MSIS Deltas files to share T-MSIS Medicaid states data submitted and processed monthly with downstream data users.",
+      "maintenance": "contract",
+      "maturityModelTier": 0,
+      "name": "tmsis-dumps-deltas",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "https://github.com/Enterprise-CMCS/tmsis-dumps-deltas/blob/main/README.md",
+            "name": "None"
+          }
+        ],
+        "usageType": [
+          "governmentWideReuse"
+        ]
+      },
+      "platforms": [],
+      "projects": [
+        "TMSIS"
+      ],
+      "relatedCode": [],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "data",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-dumps-deltas",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "standalone/backend",
+      "status": "Development",
+      "subsetInHealthcare": [
+        "operational",
+        "medicaid"
+      ],
+      "systems": [],
+      "tags": [
+        "tmsis"
+      ],
+      "userInput": false,
+      "userType": [
+        "government"
+      ],
+      "vcs": "git",
+      "version": ""
+    },
+    {
+      "AIUseCaseID": "0",
+      "SBOM": "https://github.com/Enterprise-CMCS/tmsis-eft/network/dependencies",
+      "categories": [],
+      "contact": {
+        "email": "cms_IT_service_desk@cms.hhs.gov",
+        "name": ""
+      },
+      "contractNumber": [
+        "47QTCA19D00KH: 75FCMC22F0123"
+      ],
+      "date": {
+        "created": "2026-10-22T14:24:49Z",
+        "lastModified": "2026-10-22T21:27:10Z",
+        "metadataLastUpdated": "2026-10-23T15:21:38.133Z"
+      },
+      "description": "Secure transfer of T-MSIS data files between authorized systems and data users.",
+      "disclaimerText": "",
+      "disclaimerURL": "",
+      "downloadURL": "",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/tmsis-eft/issues",
+      "fismaLevel": "moderate",
+      "group": "CMS",
+      "homepageURL": "",
+      "laborHours": 1262,
+      "languages": [],
+      "localisation": false,
+      "longDescription": "T-MSIS Electronic File Transfer (EFT) supports the secure transfer of T-MSIS data files between authorized systems and data users, with supporting deployment and platform automation.",
+      "maintenance": "contract",
+      "maturityModelTier": 0,
+      "name": "tmsis-eft",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "partners": [],
+      "permissions": {
+        "exemptionText": "",
+        "licenses": [
+          {
+            "URL": "",
+            "name": "CC0-1.0"
+          }
+        ],
+        "usageType": []
+      },
+      "platforms": [],
+      "projects": [
+        "TMSIS"
+      ],
+      "relatedCode": [],
+      "repositoryHost": "github.com/Enterprise-CMCS",
+      "repositoryType": "application",
+      "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-eft",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "clones": 0,
+        "forks": 0
+      },
+      "reusedCode": [],
+      "softwareType": "standalone/backend",
+      "status": "Development",
+      "subsetInHealthcare": [],
+      "systems": [],
+      "tags": [],
+      "userInput": false,
+      "userType": [],
       "vcs": "git",
       "version": ""
     },
