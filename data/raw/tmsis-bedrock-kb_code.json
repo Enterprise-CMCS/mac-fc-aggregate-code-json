@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 7571,
+  "laborHours": 9944,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -41,6 +41,8 @@
     "Python",
     "HCL",
     "Jupyter Notebook",
+    "TypeScript",
+    "JavaScript",
     "Makefile",
     "Dockerfile",
     "Shell"
@@ -55,8 +57,8 @@
   "partners": [],
   "date": {
     "created": "2025-06-16T20:07:15Z",
-    "lastModified": "2026-09-22T14:43:48Z",
-    "metadataLastUpdated": "2026-10-01T00:36:38.889Z"
+    "lastModified": "2026-10-16T13:57:37Z",
+    "metadataLastUpdated": "2026-11-01T00:22:25.266Z"
   },
   "tags": [
     "Python",

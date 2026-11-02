@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 7261,
+  "laborHours": 7266,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -41,8 +41,8 @@
     "C#",
     "HCL",
     "Python",
-    "Makefile",
     "Dockerfile",
+    "Makefile",
     "PowerShell",
     "Shell"
   ],
@@ -56,8 +56,8 @@
   "partners": [],
   "date": {
     "created": "2025-01-28T18:17:30Z",
-    "lastModified": "2026-09-16T18:11:48Z",
-    "metadataLastUpdated": "2026-10-01T00:43:11.603Z"
+    "lastModified": "2026-10-08T21:58:25Z",
+    "metadataLastUpdated": "2026-11-01T00:26:37.614Z"
   },
   "tags": [
     "C#",

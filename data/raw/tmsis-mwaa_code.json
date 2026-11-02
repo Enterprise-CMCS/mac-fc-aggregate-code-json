@@ -3,6 +3,7 @@
   "version": "",
   "description": "Project for Airflow MWAA POC",
   "longDescription": "",
+  "status": "",
   "permissions": {
     "licenses": [
       {
@@ -15,19 +16,21 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-mwaa",
+  "repositoryHost": "github.com/Enterprise-CMCS",
   "repositoryVisibility": "private",
   "homepageURL": "",
   "downloadURL": "",
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 9641,
+  "laborHours": 10410,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
   },
   "platforms": [],
   "categories": [],
+  "softwareType": "",
   "languages": [
     "Python",
     "HCL",
@@ -35,6 +38,7 @@
     "Makefile",
     "PowerShell"
   ],
+  "maintenance": "",
   "contractNumber": [],
   "SBOM": "https://github.com/Enterprise-CMCS/tmsis-mwaa/network/dependencies",
   "relatedCode": [],
@@ -42,8 +46,8 @@
   "partners": [],
   "date": {
     "created": "2025-05-22T15:50:32Z",
-    "lastModified": "2026-09-28T19:34:19Z",
-    "metadataLastUpdated": "2026-10-01T00:50:30.818Z"
+    "lastModified": "2026-10-29T00:58:48Z",
+    "metadataLastUpdated": "2026-11-01T00:32:33.641Z"
   },
   "tags": [],
   "contact": {
@@ -53,7 +57,9 @@
   "feedbackMechanism": "https://github.com/Enterprise-CMCS/tmsis-mwaa/issues",
   "AIUseCaseID": "0",
   "localisation": false,
+  "repositoryType": "",
   "userInput": false,
+  "fismaLevel": "",
   "group": "",
   "projects": [],
   "systems": [],

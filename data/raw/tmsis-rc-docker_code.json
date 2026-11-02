@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 7703,
+  "laborHours": 7583,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -41,8 +41,8 @@
     "Python",
     "Java",
     "HCL",
-    "Shell",
-    "Dockerfile"
+    "Dockerfile",
+    "Shell"
   ],
   "maintenance": "contract",
   "contractNumber": [
@@ -54,8 +54,8 @@
   "partners": [],
   "date": {
     "created": "2021-02-05T21:49:41Z",
-    "lastModified": "2026-09-23T17:27:56Z",
-    "metadataLastUpdated": "2026-10-01T00:59:41.670Z"
+    "lastModified": "2026-10-28T16:32:38Z",
+    "metadataLastUpdated": "2026-11-01T00:35:39.627Z"
   },
   "tags": [
     "tmsis"

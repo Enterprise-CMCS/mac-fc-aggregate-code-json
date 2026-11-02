@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 1262,
+  "laborHours": 1908,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -31,7 +31,9 @@
   "platforms": [],
   "categories": [],
   "softwareType": "standalone/backend",
-  "languages": [],
+  "languages": [
+    "HCL"
+  ],
   "maintenance": "contract",
   "contractNumber": [
     "47QTCA19D00KH: 75FCMC22F0123"
@@ -42,8 +44,8 @@
   "partners": [],
   "date": {
     "created": "2026-10-22T14:24:49Z",
-    "lastModified": "2026-10-22T21:27:10Z",
-    "metadataLastUpdated": "2026-10-23T15:21:38.133Z"
+    "lastModified": "2026-10-30T16:37:54Z",
+    "metadataLastUpdated": "2026-11-01T00:41:41.421Z"
   },
   "tags": [],
   "contact": {

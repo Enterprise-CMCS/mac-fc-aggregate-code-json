@@ -25,7 +25,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 1262,
+  "laborHours": 1958,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -35,7 +35,10 @@
     "cloud-management"
   ],
   "softwareType": "standalone/backend",
-  "languages": [],
+  "languages": [
+    "HCL",
+    "Shell"
+  ],
   "maintenance": "contract",
   "contractNumber": [
     "47QTCA19D00KH: 75FCMC22F0123"
@@ -46,8 +49,8 @@
   "partners": [],
   "date": {
     "created": "2026-09-29T17:04:17Z",
-    "lastModified": "2026-10-20T16:54:42Z",
-    "metadataLastUpdated": "2026-10-20T16:59:31.553Z"
+    "lastModified": "2026-10-29T15:58:23Z",
+    "metadataLastUpdated": "2026-11-01T00:09:17.861Z"
   },
   "tags": [
     "tmsis"

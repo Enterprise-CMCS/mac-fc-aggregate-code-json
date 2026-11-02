@@ -3,15 +3,22 @@
   "version": "",
   "description": "TMSIS Synthetic Data Generation",
   "longDescription": "This script generates synthetic data for the TMSIS (Transmittal Medicaid Statistical Information System) database",
+  "status": "",
   "permissions": {
+    "licenses": [
+      {
+        "name": "CC0-1.0",
+        "URL": ""
+      }
+    ],
+    "usageType": "",
+    "exemptionText": "",
     "license": [
       {
         "name": "",
         "URL": ""
       }
-    ],
-    "usageType": "",
-    "exemptionText": ""
+    ]
   },
   "organization": "",
   "repositoryURL": "https://github.com/Enterprise-CMCS/tmsis-synthetic-data",
@@ -22,7 +29,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 1688,
+  "laborHours": 2322,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -41,8 +48,8 @@
   "partners": [],
   "date": {
     "created": "2025-11-26T13:35:41Z",
-    "lastModified": "2026-08-31T20:27:00Z",
-    "metadataLastUpdated": "2026-08-31T20:49:34.321Z"
+    "lastModified": "2026-10-30T16:09:58Z",
+    "metadataLastUpdated": "2026-11-01T00:05:48.733Z"
   },
   "tags": [],
   "contact": {

@@ -1,0 +1,73 @@
+{
+  "name": "sdg-public-dashboard",
+  "version": "",
+  "description": "This repo is used to build the public facing 1115 demonstration data dashboard.",
+  "longDescription": "",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "none"
+      }
+    ],
+    "usageType": [
+      "governmentWideReuse"
+    ]
+  },
+  "organization": "CMS/CMCS/SDG",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/sdg-public-dashboard",
+  "repositoryHost": "github",
+  "repositoryVisibility": "private",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
+  "vcs": "git",
+  "laborHours": 957,
+  "reuseFrequency": {
+    "forks": 0,
+    "clones": 0
+  },
+  "platforms": [],
+  "categories": [],
+  "softwareType": "",
+  "languages": [],
+  "maintenance": "contract",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC24F0198"
+  ],
+  "SBOM": "none",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
+  "date": {
+    "created": "2026-10-27T13:11:51Z",
+    "lastModified": "2026-10-27T21:02:33Z",
+    "metadataLastUpdated": "2026-11-01T00:03:53.440Z"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "1115 Demonstrations",
+    "Monitoring Report",
+    "Data Processing",
+    "Data Dashboard"
+  ],
+  "contact": {
+    "email": "ojohnson@mathematica-mpr.com",
+    "name": "Oliver Johnson"
+  },
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/sdg-public-dashboard/issues",
+  "AIUseCaseID": "0",
+  "localisation": false,
+  "repositoryType": "",
+  "userInput": false,
+  "fismaLevel": "",
+  "group": "",
+  "projects": [],
+  "systems": [],
+  "subsetInHealthcare": [],
+  "userType": [],
+  "maturityModelTier": 0
+}
