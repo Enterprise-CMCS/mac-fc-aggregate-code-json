@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 24999,
+  "laborHours": 25208,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -39,11 +39,11 @@
     "TypeScript",
     "HTML",
     "SCSS",
-    "JavaScript",
     "HCL",
+    "Python",
+    "JavaScript",
     "Shell",
-    "CSS",
-    "Python"
+    "CSS"
   ],
   "maintenance": "contract",
   "contractNumber": [
@@ -55,8 +55,8 @@
   "partners": [],
   "date": {
     "created": "2023-03-09T19:42:04Z",
-    "lastModified": "2026-09-30T18:17:58Z",
-    "metadataLastUpdated": "2026-10-01T00:30:13.080Z"
+    "lastModified": "2026-10-30T21:41:23Z",
+    "metadataLastUpdated": "2026-11-01T00:19:24.238Z"
   },
   "tags": [
     "data-visualization",

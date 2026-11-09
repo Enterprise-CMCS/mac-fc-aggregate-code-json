@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 957,
+  "laborHours": 4263,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -31,7 +31,9 @@
   "platforms": [],
   "categories": [],
   "softwareType": "",
-  "languages": [],
+  "languages": [
+    "Python"
+  ],
   "maintenance": "",
   "contractNumber": [],
   "SBOM": "https://github.com/Enterprise-CMCS/da-mes/network/dependencies",
@@ -40,8 +42,8 @@
   "partners": [],
   "date": {
     "created": "2026-09-02T16:38:41Z",
-    "lastModified": "2026-09-18T16:17:33Z",
-    "metadataLastUpdated": "2026-10-01T00:25:51.307Z"
+    "lastModified": "2026-10-30T14:04:46Z",
+    "metadataLastUpdated": "2026-11-01T00:16:22.183Z"
   },
   "tags": [],
   "contact": {

@@ -48,8 +48,8 @@
   "partners": [],
   "date": {
     "created": "2025-03-26T19:37:10Z",
-    "lastModified": "2026-09-18T14:37:53Z",
-    "metadataLastUpdated": "2026-10-01T00:03:14.986Z"
+    "lastModified": "2026-10-30T14:05:10Z",
+    "metadataLastUpdated": "2026-11-01T00:02:40.375Z"
   },
   "tags": [
     "Medicaid",
@@ -58,8 +58,8 @@
     "TAF"
   ],
   "contact": {
-    "email": "angelica.parker@cms.hhs.gov",
-    "name": "Angelica Parker"
+    "email": "rbhasker@index-analytics.com",
+    "name": "Ganapathi Raman Bhasker"
   },
   "feedbackMechanism": "https://github.com/Enterprise-CMCS/da-taf-dd-sttm/issues",
   "AIUseCaseID": "0",
