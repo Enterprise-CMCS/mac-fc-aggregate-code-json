@@ -3872,8 +3872,8 @@
       "contractNumber": "47QTCA21D00AC",
       "date": {
         "created": "2023-03-23T16:40:53Z",
-        "lastModified": "2026-09-28T20:44:38Z",
-        "metaDataLastUpdated": "2026-10-01T00:41:43.148Z"
+        "lastModified": "2026-10-30T19:19:08Z",
+        "metaDataLastUpdated": "2026-11-01T00:25:06.323Z"
       },
       "description": "A multi-functional DevSecFinOps (DSFO) observability tool for MACBIS product teams and CMS stakeholders",
       "feedbackMechanisms": [
@@ -3881,7 +3881,7 @@
       ],
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
-      "laborHours": 13510,
+      "laborHours": 14011,
       "languages": [
         "Go",
         "TypeScript",
@@ -8940,6 +8940,55 @@
     },
     {
       "AIUseCaseID": "0",
+      "SBOM": "None",
+      "contact": {
+        "email": "bhagen@mathematica-mpr.com",
+        "name": "Brynn Hagen"
+      },
+      "contractNumber": [
+        "75FCMC19D0091/75FCMC22F0001"
+      ],
+      "date": {
+        "created": "2026-10-26T00:00:00-04:00",
+        "lastModified": "2026-10-28T00:00:00-04:00",
+        "metadataLastUpdated": "2026-10-30T00:00:00-04:00"
+      },
+      "description": "This repository houses code for the Baseline Monitoring Deck, which generates the Baseline Monitoring Deck in the DataConnect environment.",
+      "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-c-e-monitoring/issues",
+      "laborHours": 0,
+      "languages": [
+        "Python"
+      ],
+      "maintenance": "contract",
+      "name": "maclc-c-e-monitoring",
+      "organization": "Centers for Medicare \u0026 Medicaid Services",
+      "permissions": {
+        "licenses": [
+          {
+            "URL": "None",
+            "name": "None"
+          }
+        ],
+        "usageType": [
+          "governmentWideReuse"
+        ]
+      },
+      "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-c-e-monitoring",
+      "repositoryVisibility": "private",
+      "reuseFrequency": {
+        "forks": 0
+      },
+      "status": "Development",
+      "tags": [
+        "Medicaid",
+        "Medicaid Data",
+        "Enrollment and Eligibility",
+        "Community Engagement"
+      ],
+      "vcs": "git"
+    },
+    {
+      "AIUseCaseID": "0",
       "SBOM": "https://github.com/Enterprise-CMCS/maclc-ccw-sas-utils/network/dependencies",
       "categories": [
         "data-analytics"
@@ -9961,8 +10010,8 @@
       ],
       "date": {
         "created": "2024-07-24T19:17:50Z",
-        "lastModified": "2026-08-27T16:35:19Z",
-        "metadataLastUpdated": "2026-09-01T00:18:19.150Z"
+        "lastModified": "2026-10-29T19:17:51Z",
+        "metadataLastUpdated": "2026-11-01T00:11:32.801Z"
       },
       "description": "Code to support automated generated of the Medicaid and CHIP Eligibility Operations and Enrollment Snapshot for MACLC Task 5.7",
       "disclaimerText": "",
@@ -9972,7 +10021,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 4679,
+      "laborHours": 4916,
       "languages": [
         "Python"
       ],

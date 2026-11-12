@@ -1,0 +1,49 @@
+{
+  "name": "maclc-c-e-monitoring",
+  "description": "This repository houses code for the Baseline Monitoring Deck, which generates the Baseline Monitoring Deck in the DataConnect environment.",
+  "status": "Development",
+  "permissions": {
+    "licenses": [
+      {
+        "name": "None",
+        "URL": "None"
+      }
+    ],
+    "usageType": [
+      "governmentWideReuse"
+    ]
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/Enterprise-CMCS/maclc-c-e-monitoring",
+  "repositoryVisibility": "private",
+  "vcs": "git",
+  "laborHours": 0,
+  "reuseFrequency": {
+    "forks": 0
+  },
+  "languages": [
+    "Python"
+  ],
+  "maintenance": "contract",
+  "contractNumber": [
+    "75FCMC19D0091/75FCMC22F0001"
+  ],
+  "SBOM": "None",
+  "date": {
+    "created": "2026-10-26T00:00:00-04:00",
+    "lastModified": "2026-10-28T00:00:00-04:00",
+    "metadataLastUpdated": "2026-10-30T00:00:00-04:00"
+  },
+  "tags": [
+    "Medicaid",
+    "Medicaid Data",
+    "Enrollment and Eligibility",
+    "Community Engagement"
+  ],
+  "contact": {
+    "email": "bhagen@mathematica-mpr.com",
+    "name": "Brynn Hagen"
+  },
+  "feedbackMechanism": "https://github.com/Enterprise-CMCS/maclc-c-e-monitoring/issues",
+  "AIUseCaseID": "0"
+}
