@@ -9085,8 +9085,8 @@
       ],
       "date": {
         "created": "2025-06-03T20:36:51Z",
-        "lastModified": "2026-09-22T15:27:28Z",
-        "metadataLastUpdated": "2026-10-01T00:11:53.165Z"
+        "lastModified": "2026-10-20T16:45:30Z",
+        "metadataLastUpdated": "2026-11-01T00:07:27.172Z"
       },
       "description": "CTAC Ad Hoc Analytics",
       "disclaimerText": "",
@@ -9096,7 +9096,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS/DSG",
       "homepageURL": "",
-      "laborHours": 9105,
+      "laborHours": 9324,
       "languages": [
         "Python",
         "R"
