@@ -10163,8 +10163,8 @@
       ],
       "date": {
         "created": "2024-07-12T17:44:13Z",
-        "lastModified": "2026-09-25T18:34:34Z",
-        "metadataLastUpdated": "2026-10-01T00:08:59.383Z"
+        "lastModified": "2026-10-30T19:34:30Z",
+        "metadataLastUpdated": "2026-11-01T00:05:57.332Z"
       },
       "description": "Code to support automated generation of CMCS internal monitoring data products related to eligibility operations and enrollment for MACLC Task 5.7",
       "disclaimerText": "",
@@ -10174,7 +10174,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 9144,
+      "laborHours": 9145,
       "languages": [
         "Python"
       ],
