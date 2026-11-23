@@ -1,6 +1,6 @@
 {
   "name": "bigmac",
-  "version": "",
+  "version": "2026.1.16",
   "description": "The Kafka streaming platform for CMS",
   "longDescription": "Bigmac is an event streaming platform based on Apache Kafka that uses the Serverless Framework and GitHub Actions to deploy a secure and scalable architecture to AWS. It serves as a central hub for any amount of data to be published or read in real time as part of CMS' new data strategy. The platform enables new services and solutions by extracting CMS data from traditional systems and making it available through modern, scalable, and performant Kafka technology. It provides capabilities for data streaming, replay, and recoverability, allowing the replay of every data event from the beginning of time.",
   "status": "Production",
@@ -23,7 +23,7 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 7935,
+  "laborHours": 9092,
   "reuseFrequency": {
     "forks": 0,
     "clones": 0
@@ -56,8 +56,8 @@
   "partners": [],
   "date": {
     "created": "2020-08-27T20:20:29Z",
-    "lastModified": "2026-08-05T02:03:02Z",
-    "metadataLastUpdated": "2026-08-16T02:29:26.213Z"
+    "lastModified": "2026-11-11T22:31:28Z",
+    "metadataLastUpdated": "2026-11-15T02:09:09.640Z"
   },
   "tags": [
     "kafka",

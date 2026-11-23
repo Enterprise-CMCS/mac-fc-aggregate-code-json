@@ -1063,8 +1063,8 @@
       ],
       "date": {
         "created": "2020-08-27T20:20:29Z",
-        "lastModified": "2026-08-05T02:03:02Z",
-        "metadataLastUpdated": "2026-08-16T02:29:26.213Z"
+        "lastModified": "2026-11-11T22:31:28Z",
+        "metadataLastUpdated": "2026-11-15T02:09:09.640Z"
       },
       "description": "The Kafka streaming platform for CMS",
       "disclaimerText": "",
@@ -1074,7 +1074,7 @@
       "fismaLevel": "Moderate",
       "group": "MACPRO Platform Team",
       "homepageURL": "",
-      "laborHours": 7935,
+      "laborHours": 9092,
       "languages": [
         "TypeScript",
         "Shell",
@@ -1146,7 +1146,7 @@
         "Government"
       ],
       "vcs": "git",
-      "version": ""
+      "version": "2026.1.16"
     },
     {
       "AIUseCaseID": "0",
@@ -1161,8 +1161,8 @@
       ],
       "date": {
         "created": "2025-09-08T14:38:47Z",
-        "lastModified": "2026-09-18T20:17:01Z",
-        "metadataLastUpdated": "2026-10-01T01:00:18.722Z"
+        "lastModified": "2026-10-26T20:13:34Z",
+        "metadataLastUpdated": "2026-11-01T00:35:47.394Z"
       },
       "description": "Connecting Kids to Coverage",
       "disclaimerText": "",
@@ -1172,7 +1172,7 @@
       "fismaLevel": "",
       "group": "",
       "homepageURL": "",
-      "laborHours": 3778,
+      "laborHours": 3857,
       "languages": [
         "Python"
       ],
@@ -1900,8 +1900,8 @@
       ],
       "date": {
         "created": "2023-07-10T20:21:51Z",
-        "lastModified": "2026-10-30T14:04:26Z",
-        "metadataLastUpdated": "2026-11-01T00:24:07.057Z"
+        "lastModified": "2026-11-03T15:36:31Z",
+        "metadataLastUpdated": "2026-11-19T17:50:52.891Z"
       },
       "description": "",
       "disclaimerText": "",
@@ -4099,87 +4099,6 @@
       "vcs": "git"
     },
     {
-      "categories": [
-        "budgeting",
-        "it-security"
-      ],
-      "contact": {
-        "email": "cms-macfc@corbalt.com",
-        "name": "Corbalt"
-      },
-      "contractNumber": "47QTCA21D00AC",
-      "date": {
-        "created": "2024-11-14T16:38:52Z",
-        "lastModified": "2026-07-20T16:53:57Z",
-        "metaDataLastUpdated": "2026-09-01T00:37:10.452Z"
-      },
-      "description": "An API with endpoints for current MACBIS teams, accounts, users, and roles",
-      "feedbackMechanisms": [
-        "https://github.com/Enterprise-CMCS/mac-fc-teams-api/issues"
-      ],
-      "fismaLevel": "Moderate",
-      "group": "CMCS/DSG",
-      "laborHours": 4922,
-      "languages": [
-        "TypeScript",
-        "HCL",
-        "Go",
-        "Shell",
-        "JavaScript",
-        "CSS",
-        "HTML"
-      ],
-      "localisation": false,
-      "longDescription": "An API that is used by MAC-FC applications to manage and retrieve information about teams, accounts, users, and roles within the MACBIS system. It is a centralized service for accessing and manipulating team-related data.",
-      "maintenance": "contract",
-      "maturityModelTier": 2,
-      "name": "mac-fc-teams-api",
-      "organization": "Centers for Medicare \u0026 Medicaid Services",
-      "permissions": {
-        "exemptionText": "",
-        "licenses": [
-          {
-            "URL": "none",
-            "name": "None"
-          }
-        ],
-        "usageType": "governmentWideReuse"
-      },
-      "platforms": [
-        "linux"
-      ],
-      "projectURL": "",
-      "projects": [
-        "Teams API"
-      ],
-      "repositoryHost": "github.com/CMS-Enterprise",
-      "repositoryType": "tools",
-      "repositoryURL": "https://github.com/Enterprise-CMCS/mac-fc-teams-api",
-      "repositoryVisibility": "internal",
-      "reuseFrequency": {
-        "forks": 790
-      },
-      "softwareType": "standalone/backend",
-      "status": "Production",
-      "subsetInHealthcare": [
-        "Medicaid"
-      ],
-      "systems": [
-        "CMS Design System"
-      ],
-      "tags": [
-        "teams",
-        "users",
-        "accounts"
-      ],
-      "upstream": [],
-      "userInput": false,
-      "userType": [
-        "Government"
-      ],
-      "vcs": "git"
-    },
-    {
       "AIUseCaseID": "0",
       "SBOM": "https://github.com/Enterprise-CMCS/macdc-ai-enablement/network/dependencies",
       "categories": [
@@ -4353,8 +4272,8 @@
       ],
       "date": {
         "created": "2026-03-10T14:14:55Z",
-        "lastModified": "2026-09-30T13:23:17Z",
-        "metadataLastUpdated": "2026-10-01T01:06:24.507Z"
+        "lastModified": "2026-10-23T18:09:51Z",
+        "metadataLastUpdated": "2026-11-01T00:40:10.131Z"
       },
       "description": "This repository functions as an AI-driven agent platform that leverages state CMS regulations to power automated Q\u0026A workflows and policy update tracking for compliance operations.",
       "disclaimerText": "",
@@ -4364,7 +4283,7 @@
       "fismaLevel": "",
       "group": "",
       "homepageURL": "",
-      "laborHours": 10248,
+      "laborHours": 10250,
       "languages": [
         "Python",
         "Makefile",
@@ -4437,8 +4356,8 @@
       ],
       "date": {
         "created": "2026-03-10T14:14:55Z",
-        "lastModified": "2026-10-23T18:09:51Z",
-        "metadataLastUpdated": "2026-11-01T00:40:10.131Z"
+        "lastModified": "2026-09-30T13:23:17Z",
+        "metadataLastUpdated": "2026-10-01T01:06:24.507Z"
       },
       "description": "This repository functions as an AI-driven agent platform that leverages state CMS regulations to power automated Q\u0026A workflows and policy update tracking for compliance operations.",
       "disclaimerText": "",
@@ -4448,7 +4367,7 @@
       "fismaLevel": "",
       "group": "",
       "homepageURL": "",
-      "laborHours": 10250,
+      "laborHours": 10248,
       "languages": [
         "Python",
         "Makefile",
@@ -10414,8 +10333,8 @@
       ],
       "date": {
         "created": "2025-06-27T14:42:59Z",
-        "lastModified": "2026-09-29T20:53:15Z",
-        "metadataLastUpdated": "2026-10-01T00:23:45.093Z"
+        "lastModified": "2026-10-28T15:29:10Z",
+        "metadataLastUpdated": "2026-11-01T00:14:24.108Z"
       },
       "description": "Code to support automated generation of data for public reporting related to eligibility operations and public reporting for MACLC Task 5.7",
       "disclaimerText": "",
@@ -10425,7 +10344,7 @@
       "fismaLevel": "Moderate",
       "group": "CMCS",
       "homepageURL": "",
-      "laborHours": 5569,
+      "laborHours": 5567,
       "languages": [
         "Python",
         "Jupyter Notebook"
